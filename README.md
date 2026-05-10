@@ -1,30 +1,30 @@
 # Antibiotics Guide
 
-A quick reference tool for antimicrobial dosing and coverage.
+A quick reference for antimicrobial dosing and coverage. Built as a clean,
+searchable view of a clinical Notion database.
 
-## Features
+## What it does
 
-- Search antibiotics by name
-- Filter by category, indication, and coverage
-- Expandable cards with detailed dosing information
-- Responsive design (desktop, tablet, mobile)
-
-## Tech Stack
-
-- React
-- Vite
-- CSS
-
-## Run Locally
-```bash
-npm install
-npm run dev
-```
+- Search by brand name (e.g. *Cubicin*) or generic name (e.g. *Daptomycin*)
+- Filter by category (Carbapenem, Cephalosporin, …), indication (UTI,
+  HAP, Meningitis, …), or coverage (MSSA, MRSA, ESBL organisms, …)
+- Compact cards show adult / pediatric / renal / hepatic dosing, pregnancy
+  and breastfeeding notes, mechanism, drug interactions, side effects, and
+  what to monitor
+- Click any card → "View full monograph" for the complete clinical write-up
+- Hover over any abbreviation tag (CAP, FN, MSSA, …) to see the full
+  English term
 
 ## Status
 
-🚧 Work in progress — data is for testing only, not for clinical use.
+Work in progress — data is for educational reference only, not for
+clinical decision-making.
 
 ## Author
 
 Evelyn Chang
+
+---
+
+For setup, architecture, and the Notion sync workflow, see
+[`spec.md`](./spec.md).
