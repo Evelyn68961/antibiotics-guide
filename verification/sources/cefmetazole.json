@@ -1,0 +1,21 @@
+{
+  "drug": "cefmetazole",
+  "fetched": "2026-10-05T06:39:08.354Z",
+  "dailymed": null,
+  "smpc": null,
+  "lactmed": null,
+  "taiwan_insert": {
+    "source": "TFDA 藥品仿單查詢平台",
+    "title": "喜達隆注射劑（西華美達諾）〝信東〞 CETAZONE INJECTION (CEFMETAZOLE) \"S.T.\", 衛署藥製字第035182號 (信東生技)",
+    "version": "Online structured insert (no revision date shown); history insert PDF 印刷版次3 dated 104-10-23 (2015-10-23); carton labels 106-10-27 / 110-03-18",
+    "url": "https://mcp.fda.gov.tw/im_detail_1/%E8%A1%9B%E7%BD%B2%E8%97%A5%E8%A3%BD%E5%AD%97%E7%AC%AC035182%E8%99%9F",
+    "text_file": "verification/sources/cefmetazole-taiwan-insert-cetazone.txt",
+    "hospital_code": "CET03",
+    "note": "License derived from NHI code AC35182277 on hospital page. Insert has NO renal dose table, no contraindication/pregnancy/lactation sections (目前尚無資訊). Dose: adult 1-2 g/day in 2 divided doses IV/IV infusion; severe up to 4 g/day; children 25-100 mg/kg/day in 2-4 doses, up to 150 mg/kg/day."
+  },
+  "absence_notes": {
+    "dailymed": "No SPL in DailyMed (spls.json?drug_name=cefmetazole total 0). Only US product Zefazone (Pharmacia & Upjohn, NDA050637 approved 1989-12-11; NDA050683) is Discontinued per Drugs@FDA (api.fda.gov drugsfda). No current FDA label.",
+    "smpc": "Not marketed in UK; eMC search \"cefmetazole\" returns no results.",
+    "lactmed": "No LactMed record (esearch cefmetazole[title] AND lactmed[book] count 0; not in local archive)."
+  }
+}

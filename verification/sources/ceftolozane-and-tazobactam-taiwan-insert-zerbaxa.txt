@@ -1,0 +1,980 @@
+Source: TFDA 藥品仿單查詢平台 (mcp.fda.gov.tw), 諾倍適乾粉注射劑 Zerbaxa for Injection 1.5 g vial, 衛部藥輸字第027087號, 美商默沙東藥廠股份有限公司台灣分公司 (MSD Taiwan); manufacturer Steri-Pharma LLC (USA). License number derived from FJUH NHI code BC27087210.
+URL: https://mcp.fda.gov.tw/im_detail_1/%E8%A1%9B%E9%83%A8%E8%97%A5%E8%BC%B8%E5%AD%97%E7%AC%AC027087%E8%99%9F (PDF: https://mcp.fda.gov.tw/insert/pdfcasefile/i_455030c1-46d0-4eb4-8b58-92493c5ed054)
+Insert version: 20191022_QRD_Zerbaxa_Chi_NP_TFDA_LEAD_clean (uploaded 2019-11-06; doc no. 7625A-TWN-2019-021097, CCDS-MK7625A-IV-112018). Only insert listed. Fetched 2026-10-05.
+
+                             諾倍適乾粉注射劑
+                            ZERBAXA for Injection
+                         (ceftolozane and tazobactam)
+
+
+衛部藥輸字第 027087號                                              7625A-TWN-2019-021097
+本品限由醫師使用                                                    CCDS-MK7625A-IV-112018
+
+
+1    適應症與用途
+治療18歲(含)以上成人，患有對ceftolozane與tazobactam具感受性的致病菌所引起的以下感染症[參見臨床藥理
+學(12.4)]:
+1.1 複雜性腹內感染，需與metronidazole併用。
+1.2 複雜性泌尿道感染，包括腎盂腎炎。
+1.3 院內感染性肺炎，包括呼吸器相關肺炎。
+1.4 用途
+為避免引發抗藥性菌種，以及維持ZERBAXA與其他抗菌藥物的有效性，只有在治療已證實或強烈懷疑為敏感性
+菌種所引起的感染症時，才可使用ZERBAXA。當有培養結果及敏感性方面的資訊時，應依據這些資訊來選擇或
+調整抗菌療法。如果沒有這類資訊，當地的流行病學與敏感性態樣或有助於經驗療法的選擇。
+
+2      劑量與用法
+2.1 建議劑量
+對18歲(含)以上且腎功能正常或輕度腎功能不全的病人，使用ZERBAXA注射劑治療cUTI時的建議劑量為每8小時
+一次，以1小時的時間靜脈輸注1.5克(ceftolozane 1克與tazobactam 0.5克) ，治療院內感染性肺炎時則為3克
+(ceftolozane 2克與tazobactam 1克)。治療期間應視感染的嚴重度與部位，以及病人的臨床與細菌學進展狀況而
+定(如表1所示)。
+
+              表1：對肌酸酐廓清率(CrCl)大於50毫升/分鐘的病人注射投予ZERBAXA的劑量
+                                                輸注時間
+               感染症                劑量    投藥頻率          持續治療時間
+                                                 (小時)
+ 複雜性腹內感染*                        1.5 克 每 8 小時一次    1   4-14 天
+ 複雜性泌尿道感染，包括腎盂腎炎                 1.5 克 每 8 小時一次    1     7天
+ 院內感染性肺炎，包括呼吸器相關肺炎                3克   每 8 小時一次    1   8-14 天
+*與 metronidazole (每 8 小時靜脈輸注 500 毫克)併用
+
+2.2 腎功能不全的病人
+對肌酸酐廓清率為50毫升/分鐘(含)以下的病人，必須調整劑量。依腎功能調整劑量的方式列於表2。對腎功能變
+動不定的病人，應至少每天監測一次CrCl，並據以調整ZERBAXA的劑量[參見特殊族群之使用(8.6)與臨床藥理學
+(12.3)]。
+
+                     表2：對腎功能不全的病人使用ZERBAXA時的建議劑量
+CrCl 估計值(毫升/分鐘)*        複雜性泌尿道感染，包括腎盂腎炎†         院內感染性肺炎，包括呼吸器相關肺炎†
+30 至 50                每 8 小時靜脈輸注 750 毫克(500 毫克 每 8 小時靜脈輸注 1.5 克(1 克與 0.5 克)
+                       與 250 毫克)
+ 15 至 29               每 8 小時靜脈輸注 375 毫克(250 毫克 每 8 小時靜脈輸注 750 毫克(500 毫克與
+                       與 125 毫克)                250 毫克)
+ 接受血液透析(HD)治療的         先投予單劑 750 毫克(500 毫克與 250 先投予單劑 2.25 克(1.5 克與 0.75 克)的起
+ 末期腎病(ESRD)病人          毫克)的負荷劑量，然後在剩餘的治療 始劑量，然後在剩餘的治療期間每 8 小時
+                       期間每 8 小時投予 150 毫克(100 毫克 投予 450 毫克(300 毫克與 150 毫克)的維
+                       與 50 毫克)的維持劑量(在接受血液透 持劑量(在接受血液透析治療的日子，應於
+                       析治療的日子，應於透析治療結束後盡 透析治療結束後盡快投予此劑量)
+                       快投予此劑量)
+* 利用Cockcroft-Gault公式估算而得的CrCl
+† 所有的 ZERBAXA 劑量都是以 1 小時的時間靜脈輸注。
+2.3 製備溶液
+ZERBAXA不含抑菌性防腐劑。製備輸注溶液時一定要遵循無菌技術。
+
+各劑量之配製：
+在每支ZERBAXA小瓶中加入10毫升的無菌注射用水或0.9%氯化鈉注射液，並輕輕搖動，使藥物溶解。最終藥量
+約為加入小瓶11.4毫升。
+注意：此調製後之溶液非供直接注射使用。
+
+配製所需要的劑量時，應依表3的指示自調製小瓶中抽取適當的藥量。將抽取的藥量加入裝有100毫升0.9%氯化
+鈉注射液或5%葡萄糖注射液的輸注袋中。
+
+                                    表3：各劑量之配製
+    ZERBAXA (ceftolozane與tazobactam)的劑量 自調製小瓶中抽取的藥量
+    3克(2克與1克)                           兩支各11.4毫升的小瓶(兩支小瓶的全部內容物)
+    2.25克(1.5克與0.75克)                   從一支小瓶中抽取11.4毫升(全部內容物)，再從
+                                        第二支小瓶中抽取5.7毫升
+    1.5克(1克與0.5克)                       11.4毫升(全部內容物)
+    750毫克(500毫克與250毫克)                  5.7毫升
+    450毫克(300毫克與150毫克)                  3.5毫升
+    375毫克(250毫克與125毫克)                  2.9毫升
+    150毫克(100毫克與50毫克)                   1.2毫升
+
+使用前應先目視檢查藥物中是否有微粒異物或變色的現象。ZERBAXA輸注液應為澄清無色溶液至澄清淡黃色溶
+液。在此範圍內的顏色差異並不會影響本品的效力。
+
+2.4 相容性
+ZERBAXA與其他藥物的相容性尚未確立。ZERBAXA不可與其他藥物混合使用，或是直接加入含有其他藥物的
+溶液中。
+
+2.5 調製後之溶液的貯存
+以無菌注射用水或0.9%氯化鈉注射液調製後的ZERBAXA溶液在轉移至適當的輸注袋中稀釋之前或可保存1小
+時。
+
+以0.9%氯化鈉或5%葡萄糖稀釋此溶液之後，ZERBAXA在室溫下存放時可維持穩定24小時，在2至8°C (36至46°F)
+的溫度下冷藏存放時可維持穩定7天。
+調製後的ZERBAXA溶液或稀釋後的ZERBAXA輸注液都不可冷凍。
+
+3     劑型與含量規格
+ZERBAXA 1.5克(ceftolozane與tazobactam)為白色至黃色可供調製用之無菌注射用粉劑，單劑小瓶裝；每小瓶
+含有ceftolozane 1克(相當於1.147克ceftolozane sulfate)及tazobactam 0.5克(相當於0.537克tazobactam
+sodium)。要投予1.5克以上的劑量時，應使用2支ZERBAXA小瓶。
+
+
+4   禁忌
+ZERBAXA禁用於已知對ZERBAXA之成分(ceftolozane與tazobactam)、piperacillin/tazobactam、或其他β內醯
+胺類藥物會產生嚴重過敏反應的病人。
+
+5    警語及注意事項
+5.1 對基準點肌酸酐廓清率為30至≤50毫升/分鐘的病人，療效會降低
+在一項第 3 期 cIAI 試驗的子群分析中，基準點肌酸酐廓清率(CrCl)為 30 至≤50 毫升/分鐘之病人中的臨床治癒
+率要低於 CrCl≥50 毫升/分鐘的病人(表 4)。在 ZERBAXA 加 metronidazole 組中，臨床治癒率降低的情形要比
+meropenem 組更為明顯。在 cUTI 試驗中也發現類似的趨勢。對腎功能變化不定的病人，應至少每天監測一
+次 CrCl，並據以調整 ZERBAXA 的劑量[參見劑量與用法(2.2)]。
+              表4：第3期cIAI試驗中的臨床治癒率，依基準點腎功能分列(MITT族群)
+       基準點腎功能               ZERBAXA加
+                                               Meropenem
+                            metronidazole
+                                                 n/N (%)
+                              n/N (%)
+       正常/輕度不全
+                                312/366 (85.2)   355/404 (87.9)
+       (CrCl >50毫升/分鐘)
+       中度不全
+                                 11/23 (47.8)     9/13 (69.2)
+       (CrCl 30至≤50毫升/分鐘)
+
+5.2 過敏反應
+在接受β內醯胺類抗菌藥物治療的病人中，曾有發生嚴重且偶爾具致命性之過敏(全身過敏性)反應的報告。
+
+在開始使用ZERBAXA治療之前，應仔細詢問先前是否曾對其他cephalosporin類藥物、penicillin類藥物或其他
+β內醯胺類藥物發生過敏反應。如果要對已知對cephalosporin、penicillin或其他β內醯胺類藥物過敏的病人投
+予本藥，一定要小心，因為其間的交叉敏感性已經確立。如果對ZERBAXA發生全身過敏性反應，應停藥並施
+以適當的治療。
+
+5.3 Clostridium difficile相關腹瀉
+幾乎所有的全身性抗菌藥物(包括ZERBAXA)都曾有發生Clostridium difficile相關腹瀉(CDAD)的報告，嚴重程
+度可由輕度腹瀉乃至致命性結腸炎。使用抗菌藥物治療會改變結腸中的正常菌落，並可能促使C. difficile過度
+生長。
+
+C. difficile會生成毒素A與B，繼而促發CDAD。對所有於使用抗菌藥物後出現腹瀉現象的病人，都必須考慮是
+否發生CDAD。必須仔細瞭解病人的病史，因為曾有在投予抗菌藥物後經過2個月以上才發生CDAD的報告。
+
+如果確定發生CDAD，在可能的情況下，應停用非直接針對C. difficile的抗菌藥物。應視情況控制體液及電解
+質含量、補充蛋白質、監視針對C. difficile的抗菌治療效果、並視臨床需要進行外科評估。
+
+5.4 引發抗藥性菌種
+在未證實或未強烈懷疑為細菌性感染的情況下，處方ZERBAXA不太可能為病人帶來效益，並有引發抗藥性菌
+種的風險。
+
+6   不良反應
+下列嚴重反應在警語及注意事項段落中有更為詳盡的說明：
+  • 過敏反應[參見警語及注意事項(5.2)]
+  • Clostridium difficile相關腹瀉[參見警語及注意事項(5.3)]
+
+6.1 臨床試驗的經驗
+由於臨床試驗的進行條件差異極大，因此，在一種藥物之臨床試驗中所觀察到的不良反應發生率不可直接和另
+一種藥物之臨床試驗中的發生率進行比較，也可能無法反映實務中所觀察到的發生率。
+
+複雜性腹內感染與複雜性泌尿道感染，包括腎盂腎炎
+在cIAI與cUTI的第3期對照藥物對照性臨床試驗中，曾針對ZERBAXA進行評估，其中共有1015位病人使用
+ZERBAXA治療(每8小時1.5克，並視情況依據腎功能進行調整)，並有1032位病人使用對照藥物(在cUTI試驗中
+為levofloxacin每日750毫克，在cIAI試驗中為meropenem每8小時1克)治療，時間最長達14天。在各個治療組
+與適應症中，接受治療之病人的平均年齡為48至50歲(範圍：18至92歲)。在兩種適應症中皆有約25%之受試者
+的年齡為65歲(含)以上。在cUTI試驗中所收錄的病人大部份(75%)為女性，cIAI試驗所收錄的病人則大部份
+(58%)為男性。這兩項試驗中的病人大部份(>70%)都是在東歐收錄的白人。
+
+在接受ZERBAXA治療的病人中，最常見的不良反應(在各項適應症中的發生率達5% (含)以上)為噁心、腹瀉、
+頭痛及發燒。表5列出了在第3期cIAI與cUTI臨床試驗中，接受ZERBAXA治療之病人中的發生率為1% (含)以上
+的不良反應。
+
+表 5：在第 3 期 cIAI 與 cUTI 臨床試驗中，接受 ZERBAXA 治療之病人中的發生率為 1% (含)以上的不良反應
+                          複雜性腹內感染       複雜性泌尿道感染，包括腎盂腎炎
+                    ZERBAXA*  Meropenem  ZERBAXA*  Levofloxacin
+      選用名詞
+                     (N=482)   (N=497)    (N=533)    (N=535)
+                       n (%)    n (%)      n (%)      n (%)
+     噁心              38 (7.9)  29 (5.8)   15 (2.8)    9 (1.7)
+     頭痛              12 (2.5)   9 (1.8)   31 (5.8)   26 (4.9)
+     腹瀉              30 (6.2)   25 (5)    10 (1.9)   23 (4.3)
+     發燒         27 (5.6)     20 (4)    9 (1.7)  5 (0.9)
+     便秘          9 (1.9)     6 (1.2)  21 (3.9) 17 (3.2)
+     失眠         17 (3.5)    11 (2.2)   7 (1.3) 14 (2.6)
+     嘔吐         16 (3.3)     20 (4)    6 (1.1)  6 (1.1)
+     低血鉀        16 (3.3)     10 (2)    4 (0.8)  2 (0.4)
+     ALT升高       7 (1.5)      5 (1)    9 (1.7)  5 (0.9)
+     AST升高        5 (1)      3 (0.6)   9 (1.7)  5 (0.9)
+     貧血          7 (1.5)      5 (1)    2 (0.4)  5 (0.9)
+     血小板增多       9 (1.9)      5 (1)    2 (0.4)  2 (0.4)
+     腹痛          6 (1.2)     2 (0.4)   4 (0.8)  2 (0.4)
+     焦慮          9 (1.9)     7 (1.4)   1 (0.2)  4 (0.7)
+     暈眩          4 (0.8)      5 (1)    6 (1.1)  1 (0.2)
+     低血壓         8 (1.7)     4 (0.8)   2 (0.4)  1 (0.2)
+     心房纖維顫動      6 (1.2)     3 (0.6)   1 (0.2)     0
+     皮疹          8 (1.7)     7 (1.4)   5 (0.9)  2 (0.4)
+  * ZERBAXA注射劑的劑量為每8小時靜脈輸注1.5克，並視情況依據腎功能進行調整。在
+  cIAI試驗中，ZERBAXA是與metronidazole合併投予。
+
+在接受ZERBAXA治療的病人中，因不良事件而停止治療的發生率為2.0% (20/1015)，在接受對照藥物治療的
+病人中則為1.9% (20/1032)。有5/1015位(0.5%)接受ZERBAXA治療的受試者因腎功能不全(包括腎功能不全、
+腎衰竭和急性腎衰竭)而停止治療，在對照藥物治療組中則無此類病例。
+
+死亡率升高
+在cIAI試驗(第2期與第3期)中，接受ZERBAXA治療的病人有2.5% (14/564)死亡，接受meropenem治療的病人
+則有1.5% (8/536)死亡。死亡的原因不盡相同，包括感染惡化及/或出現併發症、手術和原來疾病。
+
+在第3期cIAI與cUTI臨床試驗中較不常見的不良反應
+在接受ZERBAXA治療的受試者中也曾有發生下列特定不良反應的報告，但發生率低於1%：
+  心臟疾患：心搏過速、心絞痛
+  胃腸道疾患：胃炎、腹脹、消化不良、脹氣、麻痺性腸阻塞
+  全身性疾患與投藥部位症狀：輸注部位反應
+  感染與寄生蟲侵染：念珠菌病包含口咽部及外陰陰道部、黴菌性泌尿道感染
+  檢查發現：血清丙麩胺轉肽酶(GGT)升高、血清鹼性磷酸酶升高、Coombs試驗陽性
+  代謝與營養疾患：高血糖、低血鎂、低磷酸鹽血症
+  神經系統疾患：缺血性中風
+  腎臟與泌尿系統：腎功能不全、腎衰竭
+  呼吸道、胸腔與縱膈疾患：呼吸困難
+  皮膚與皮下組織疾患：蕁麻疹
+  血管疾患：靜脈血栓
+
+院內感染性肺炎，包括呼吸器相關肺炎
+在一項院內感染性肺炎的第 3 期對照藥物對照性臨床試驗中，曾針對 ZERBAXA 進行評估，其中共有 361 位
+病人使用 ZERBAXA 治療(每 8 小時 3 克，並視情況依據腎功能進行調整)，並有 359 位病人使用對照藥物
+(meropenem 每 8 小時 1 克)治療，時間最長達 14 天。在各個治療組中，接受治療之病人的平均年齡為 60 歲(範
+圍：18 至 98 歲)。約有 44%之受試者的年齡為 65 歲(含)以上。這項試驗所收錄的病人則大部份(71%)為男性。
+在隨機分組時，所有受試者都在使用機械式呼吸器，並有 92%住在加護病房(ICU)。APACHE II 評分中位數為
+17。表 6 列出了在一項院內感染性肺炎的第 3 期臨床試驗中，接受 ZERBAXA 治療之病人中的發生率為 2% (含)
+以上的不良反應。
+
+  表6：在一項院內感染性肺炎的第3期臨床試驗中，接受ZERBAXA治療之病人中的發生率為2%
+           (含)以上的不良反應，依系統器官類別及選用名詞分列
+                                 院內感染性肺炎，包括呼吸器相關肺炎
+         選用名詞                 ZERBAXA*            Meropenem
+                               N=361               N=359
+                                   n (%)                 n (%)
+胃腸道疾患
+腹瀉                                23 (6.4)              25 (7.0)
+嘔吐                                12 (3.3)              10 (2.8)
+感染與寄生蟲侵染
+困難梭菌結腸炎                           8 (2.2)               1 (0.3)
+檢查發現
+ALT 升高                            21 (5.8)              14 (3.9)
+AST 升高                            19 (5.3)              14 (3.9)
+轉胺酶升高                             11 (3.0)              10 (2.8)
+* ZERBAXA 注射劑的劑量為每 8 小時靜脈輸注 3 克，並視情況依據腎功能進行調整。
+
+有 1.1% (4/361)接受 ZERBAXA 治療的病人及 1.4% (5/359)接受 meropenem 治療的病人因治療相關不良事件
+而停止治療。
+
+在院內感染性肺炎第 3 期臨床試驗中的較不常見的不良反應
+在接受 ZERBAXA 治療的受試者中也曾有發生下列特定不良反應的報告，但發生率低於 2%：
+感染與寄生蟲侵染：困難梭菌感染
+檢查發現：肝功能檢驗異常、血中鹼性磷酸酶升高、丙麩胺酸轉移酶升高、梭菌試驗陽性、Coombs 直接試驗
+陽性。
+
+實驗室檢驗值
+在使用ZERBAXA治療期間，可能會發生Coombs直接試驗呈陽性反應的現象。在cUTI與cIAI的臨床試驗中，
+接受ZERBAXA治療的病人因血清轉換而使直接Coombs試驗呈陽性反應的發生率為0.2%，在接受對照藥物治
+療的病人中則為0%。在院內感染性肺炎的臨床試驗中，接受ZERBAXA治療的病人因血清轉換而使直接
+Coombs試驗呈陽性反應的發生率為31.2%，在接受meropenem治療的病人中則為3.6%。在臨床研究的任何
+治療組中，直接Coombs試驗呈陽性反應的病人都未出現任何溶血跡象。
+
+8   特殊族群之使用
+8.1 懷孕
+妊娠用藥分級B。
+目前並無適當且控制良好之ceftolozane或tazobactam用於懷孕婦女的試驗。由於動物生殖研究並不一定能預
+測人類的反應，因此，只有在潛在效益超越可能風險的情況下，才可於懷孕期間使用ZERBAXA。
+
+在對鼷鼠和大鼠分別投予劑量最高達2000與1000毫克/公斤/日的胚胎胎兒發育研究中，並未顯示會對胎兒造成
+傷害之證據。這些劑量所達到的平均血中暴露量(AUC)約為人類最高建議劑量(8小時2克)下所達到之平均每日
+人體ceftolozane暴露量的3.5倍(鼷鼠)與2倍(大鼠)。目前並不確知ceftolozane是否會通過動物的胎盤。
+
+一項於懷孕與哺乳期間(自懷孕第6天至哺乳第20天)靜脈注射ceftolozane的大鼠出生前後研究發現，在大於或
+等於300毫克/公斤/日的母體劑量下，出生後60天之雄性仔鼠的聽覺驚嚇反應有降低的現象。大鼠在NOAEL劑
+量(100毫克/公斤/日)下所達到的血中暴露量(AUC) 要低於人類最高建議劑量(每8小時2克)下所達到的平均每
+日人體ceftolozane暴露量。
+
+一項大鼠胚胎胎兒研究顯示，靜脈注射劑量高達3000毫克/公斤/日的tazobactam(以體表面積為比較基礎，約
+相當於每8小時1克之人類建議劑量的10倍)會產生母體毒性(攝食量及體重增加幅度降低)，但不會引發胎兒毒
+性。大鼠的試驗顯示tazobactam會通過胎盤。胎兒體內的濃度要低於或等於母體血中濃度的10%。
+
+在一項大鼠出生前後研究中，於懷孕末期與哺乳期間(自懷孕第17天至哺乳第21天)每天兩次以腹膜內注射方式
+投予tazobactam之後發現，在1280毫克/公斤/日的tazobactam劑量下(以體表面積為比較基礎，約相當於每8
+小時1克之人類最高建議劑量的4倍)，懷孕末期的母體攝食量與體重增加幅度會降低，死胎數也明顯較多。在
+F1代仔鼠的發育、功能、學習能力或生育力方面，並未發現任何影響，但在投予320與1280毫克/公斤/日
+tazobactam的母鼠所產下的F1代仔鼠中，產後21天的出生後體重有明顯減輕的現象。在所有的tazobactam劑
+量下，F2代胎兒皆正常。F1代體重減輕方面的NOAEL劑量估計為40毫克/公斤/日(以體表面積為比較基礎，低
+於每8小時1克的人類最高建議劑量)。
+
+8.3 授乳母親
+目前並不確知ceftolozane或tazobactam是否會分泌進入人類的乳汁。由於許多藥物都會分泌進入人類的乳
+汁，因此，對授乳婦女投予ZERBAXA時應謹慎。
+
+8.4 兒童之使用
+本品用於兒童病人的安全性及有效性尚未確立。
+
+8.5 老年人之使用
+在第3期cIAI與cUTI臨床試驗使用ZERBAXA治療的1015位病人中，有250位(24.6%)為65歲(含)以上的病人，
+包括113位(11.1%) 75歲(含)以上的病人。在兩種適應症的試驗中，兩個治療組中的老年受試者(65歲(含)以上)
+都有不良事件發生率較高的現象。在cIAI試驗中，老年病人(65歲(含)以上)的ZERBAXA加metromidazole組的
+治癒率為69/100 (69%)，在對照藥物組中則為70/85 (82.4%)。在cUTI試驗的老年族群中並未觀察到這種結果。
+
+ZERBAXA主要是經由腎臟排出體外，因此，腎功能不全的病人發生ZERBAXA相關不良反應的風險可能會較
+高。由於老年病人較容易併有腎功能降低的問題，因此，選擇劑量時應謹慎，監測腎功能或許也有幫助。應依
+據腎功能調整老年病人的劑量[參見劑量與用法(2.2)及臨床藥理學(12.3)]。
+
+8.6 腎功能不全的病人
+對中度(CrCl 30至50毫升/分鐘)或重度(CrCl 15至29毫升/分鐘)腎功能不全的病人及接受血液透析治療的ESRD
+病人，必須調整劑量[參見劑量與用法(2.2)、警語及注意事項(5.1)及臨床藥理學(12.3)]。
+
+10   過量
+如果用藥過量，應停用 ZERBAXA，並施以一般的支持性治療。ZERBAXA 可透過血液透析移除。透析可移除
+約 66%的 ceftolozane、56%的 tazobactam、以及 51%的 tazobactam 代謝物 M1。目前並無任何利用血液透
+析來治療用藥過量方面的資料。
+
+11    性狀說明
+ZERBAXA (ceftolozane and tazobactam)係由cephalosporin類抗菌藥物ceftolozane sulfate及β-內醯胺酶抑制劑
+tazobactam sodium所組成的靜脈輸注用複方抗菌藥物。
+
+Ceftolozane sulfate為半合成的β-內醯胺類抗菌藥物。Ceftolozane sulfate的化學名為1H-Pyrazolium,
+5-amino-4-[[[(2-aminoethyl)amino]carbonyl]amino]-2-[[(6R,7R)-7-[[(2Z)-2-(5-amino-1,2,
+4-thiadiazol-3-yl)-2-[(1-carboxy-1-methylethoxy)imino]acetyl]amino]-2-carboxy-8-oxo-5-thia-1-
+azabicyclo[4.2.0]oct-2-en-3-yl]methyl]-1-methyl-,sulfate (1:1)。其分子式為C23H31N12O8S2+•HSO4-，分子量為
+764.77。
+圖 1：Ceftolozane sulfate 的化學結構
+
+
+
+
+Tazobactam sodium為penicillin主核之衍生物，且為penicillanic acid的硫化物。其化學名為sodium
+(2S,3S,5R)-3-methyl-7-oxo-3-(1H-1,2,3-triazol-1-ylmethyl)-4-thia-1-azabicyclo[3.2.0]
+heptane-2-carboxylate-4,4-dioxide。其化學式為C10H11N4NaO5S，分子量為322.3。
+圖 2：Tazobactam sodium 的化學結構
+
+
+
+
+ZERBAXA 1.5克(ceftolozane與tazobactam)為白色至黃色的可供調製用之無菌注射用粉劑，每小瓶含有
+ceftolozane 1克(相當於1.147克ceftolozane sulfate)及tazobactam 0.5克(相當於0.537克tazobactam sodium)，單
+劑玻璃小瓶裝。本品含有做為安定劑的氯化鈉(487毫克/小瓶)，以及做為賦形劑的檸檬酸(21毫克/小瓶)與左旋精
+胺酸(約600毫克/小瓶)。
+
+12    臨床藥理學
+12.1 作用機制
+Ceftolozane/tazobactam是一種抗菌藥物[參見臨床藥理學(12.4)]。
+
+12.2 藥效學
+類似其他β內醯胺類抗菌藥物，動物模型感染研究顯示，ceftolozane的血中濃度超過其感染細菌最低抑菌濃度
+(MIC)的時間是最佳的療效指標。在體外及體內非臨床模型研究中，超過閾值濃度的時間已確定是最能預測
+tazobactam療效的參數。針對cIAI、cUTI與院內感染性肺炎所進行之療效與安全性臨床試驗中的暴露量-反應分
+析為ZERBAXA的建議劑量提供了佐證。
+
+心臟電氣生理學
+在一項隨機分組並以陽性藥物及安慰劑進行對照的交叉完整QTc研究中，曾對51位健康受試者投予單劑治療劑量
+的ZERBAXA 1.5克(ceftolozane 1克與tazobactam 0.5克)及超治療劑量的ZERBAXA 4.5克(ceftolozane 3克與
+tazobactam 1.5克)。ZERBAXA對心跳速率、心電圖形態、PR、QRS或QT皆未造成任何明顯的影響。因此，
+ZERBAXA並不會影響心臟再極化的作用。
+
+12.3 藥物動力學
+對腎功能正常的健康成人多次(每8小時一次)以1小時靜脈輸注的方式投予ZERBAXA 1.5克(ceftolozane 1克與
+tazobactam 0.5克) 或3克(ceftolozane 2克與tazobactam 1克)之後，ZERBAXA (ceftolozane與tazobactam)的平
+均藥物動力學參數摘列於表7。單次投藥與多次投藥後的ceftolozane與tazobactam的藥物動力學參數大致相同。
+Ceftolozane與tazobactam的Cmax與AUC會隨劑量成正比升高。Ceftolozane或tazobactam的排除半衰期(t1/2)都
+不受劑量影響。
+
+          表7：對健康成人多次(每8小時一次)以1小時靜脈輸注的方式投予ZERBAXA 1.5克
+          (ceftolozane 1克與tazobactam 0.5克) 或3克(ceftolozane 2克與tazobactam 1克)之後，
+            ZERBAXA (ceftolozane與tazobactam)的平均(CV%)穩定狀態血中藥物動力學參數
+
+                         ZERBAXA 1.5 克(ceftolozane 1 克與         ZERBAXA 3 克(ceftolozane 2 克
+                                  tazobactam 0.5 克)                     與 tazobactam 1 克)
+        PK 參數
+                           Ceftolozane        Tazobactam        Ceftolozane         Tazobactam
+                              (n=10)             (n=10)             (n=7)               (n=7)
+ Cmax (mcg/mL)               74.4 (14)           18.0 (8)         112 (13)            25.8 (15)
+ tmax (h)†               1.07 (1.00, 1.10)  1.01 (1.00, 1.10)   1.0 (1.0, 1.0)      1.0 (0.5, 1.0)
+ AUC0-8,ss (mcg•h/mL)‡       182 (15)           25.0 (15)         300 (9.8)           40.5 (13)
+ t½ (h)                      3.12 (22)          1.03 (19)          2.8 (14)            1.0 (18)
+  † 中位數(最小值，最大值)
+  ‡ 間隔8小時投藥1次後的穩定狀態AUC。穩定狀態下之每日AUC的計算方式為將AUC
+                                                                    0-8,ss值乘以3 (例如，
+    在ceftolozane 1克與tazobactam 0.5克的療法中，ceftolozane為546 mcg•h/mL，tazobactam為75
+    mcg•h/mL)
+
+在每 8 小時一次接受 1 小時靜脈輸注 ZERBAXA 1.5 克(ceftolozane 1 克與 tazobactam 0.5 克)治療之 cIAI 與 cUTI
+病人或接受 1 小時靜脈輸注 ZERBAXA 3 克(ceftolozane 2 克與 tazobactam 1 克)治療之院內感染性肺炎病人中
+的 ZERBAXA 平均穩定狀態族群藥物動力學參數摘列於表 8。
+
+        表8：對CrCl高於50毫升/分鐘的病人多次(每8小時一次)以1小時靜脈輸注的方式投予ZERBAXA
+           1.5克(ceftolozane 1克與tazobactam 0.5克)或3克(ceftolozane 2克與tazobactam 1克)之後，
+             ZERBAXA (ceftolozane與tazobactam)的平均(CV%)穩定狀態血中族群藥物動力學參數
+                               cIAI 與 cUTI 病人                     院內感染性肺炎病人
+                     ZERBAXA 1.5 克(ceftolozane 1 克與        ZERBAXA 3 克(ceftolozane 2 克與
+     PK 參數                    tazobactam 0.5 克)                    tazobactam 1 克)
+                      Ceftolozane          Tazobactam      Ceftolozane         Tazobactam
+                        (n=317)              (n=244)         (n=247)             (n=247)
+ Cmax (mcg/mL)         65.7 (41)             17.8 (51)       105 (44)            26.4 (49)
+AUC0-8,ss
+                  186 (40)        35.8 (160)      392 (60)        73.3 (104)
+(mcg•h/mL)
+t½ (h)            2.7 (32)         1.8 (83)        3.9 (50)        3.2 (61)
+
+分佈
+Ceftolozane與tazobactam和人類血漿蛋白的結合率分別約為16%至21%與30%。對健康成年男性(n=51)單次靜
+脈輸注ZERBAXA 1.5克(ceftolozane 1克與tazobactam 0.5克)之後，ZERBAXA的平均(CV%)穩定狀態分佈體積
+ceftolozane為13.5升(21%)，tazobactam則為18.2升(25%)，和細胞外液的體積大致相當。
+
+對使用呼吸器且確定或疑似罹患肺炎的病人(N=22)每8小時一次以1小時靜脈輸注的方式投予ZERBAXA 3克
+(ceftolozane 2克與tazobactam 1克)或依腎功能調整的劑量之後，在8小時的投藥間期中，肺臟上皮內襯液體中的
+ceftolozane與tazobactam濃度分別都高於8 mcg/mL與1 mcg/mL。Ceftolozane與tazobactam的平均肺臟上皮/游
+離血漿AUC比率分別約為50%與62%，並且和投予ZERBAXA 1.5克(ceftolozane 1克與tazobactam 0.5克)之健康
+受試者中的檢測結果(分別約為61%與63%)大致相當。
+
+排除
+Ceftolozane藉由腎臟排泄從體內排除，半衰期約為3小時。Tazobactam藉由腎臟排泄及代謝排除，半衰期約為1
+小時。
+
+代謝
+Ceftolozane非CYP酵素的受質，主要會以未改變之母藥的形式排入尿液，因此似乎並不會經過任何明顯程度的
+代謝。Tazobactam的β內醯胺環會被水解，繼而形成不具藥理活性的tazobactam代謝物M1。
+
+排泄
+Ceftolozane, tazobactam與tazobactam代謝物M1都會經由腎臟排出體外。對健康男性成人靜脈輸注單劑
+ZERBAXA 1.5克(ceftolozane 1克與tazobactam 0.5克)之後，有超過95%的ceftolozane會以未改變之母藥的形式
+排入尿液。有超過80%的tazobactam會以母成分的形式排出體外，其餘則會以tazobactam M1代謝物的形式排出
+體外。投予單劑ZERBAXA之後，ceftolozane的腎臟廓清率(3.41-6.69升/小時)和血漿CL (4.10至6.73升/小時)大
+致相當，並且和未結合部份的腎絲球體過濾率大致相當，這表示ceftolozane乃是透過腎絲球體過濾作用經由腎臟
+排出體外。Tazobactam為OAT1及OAT3運輸蛋白的受質，已顯示probenecid，OAT1/3抑制劑，可抑制其排除。
+
+特殊族群
+腎功能不全病人
+ZERBAXA與tazobactam代謝物M1都會經由腎臟排出體外。
+
+和腎功能正常的健康受試者相比較，在輕度、中度和重度腎功能不全的病人中，ceftolozane的劑量標準化幾何平
+均AUC分別會升高達1.26倍、2.5倍及5倍。對應的tazobactam劑量標準化幾何平均AUC則會升高約1.3倍、2倍
+及4倍。為維持與腎功能正常者相當的全身暴露量，必須調整劑量[參見劑量與用法(2.2)]。
+
+在接受HD治療的ESRD病人中，所投予的ZERBAXA劑量約有三分之二會被HD移除。對罹患cIAI或cUTI並接受
+HD治療之ESRD病人的建議劑量為先投予單劑ZERBAXA 750毫克(ceftolozane 500毫克與tazobactam 250毫克)
+的負荷劑量，然後在剩餘的治療階段中每8小時投予ZERBAXA 150毫克(ceftolozane 100毫克與tazobactam 50
+毫克)的維持劑量。對罹患院內感染性肺炎並接受HD治療之ESRD病人的建議劑量為先投予單劑ZERBAXA 2.25
+克(ceftolozane 1.5克與tazobactam 0.75克)的起始劑量，然後在剩餘的治療階段中每8小時投予ZERBAXA 450
+毫克(ceftolozane 300毫克與tazobactam 150毫克)的維持劑量。在接受HD治療的日子，應於HD治療結束後儘快
+投藥[參見劑量與用法(2.2)]。
+
+腎臟廓清率升高
+對CrCl高於或等於180毫升/分鐘的重症病人(N=10)單次1小時靜脈輸注ZERBAXA 3克(ceftolozane 2克與
+tazobactam 1克)之後，ceftolozane與tazobactam的平均終端半衰期值分別為2.6小時與1.5小時。在70%的8小時
+間期中，游離血漿ceftolozane濃度都高於8 mcg/mL；在60%的8小時間期中，游離tazobactam濃度都高於1
+mcg/mL。對腎臟廓清率升高的院內感染性肺炎病人，並不建議調整ZERBAXA的劑量[參見臨床研究]。
+
+肝功能不全病人
+由於ZERBAXA並不會進行肝臟代謝，因此，ZERBAXA的全身廓清率預期並不會因肝功能不全而受到影響。
+
+對肝功能不全的病人，並不建議調整ZERBAXA的劑量。
+老年病人
+在一項針對ZERBAXA所進行的族群藥物動力學分析中，在暴露量方面並未發現任何與年齡有關的臨床相關差
+異。
+
+不建議單純依據年齡來調整ZERBAXA的劑量。
+老年病人應依照其腎功能狀況來調整劑量。
+
+兒童病人
+用於兒童病人的安全性及有效性尚未確立。
+
+性別
+在一項針對ZERBAXA所進行的族群藥物動力學分析中，在ceftolozane與tazobactam的AUC方面皆未發現任何具
+臨床關聯性的差異。
+
+不建議依據性別調整劑量。
+
+種族
+在一項針對ZERBAXA所進行的族群藥物動力學分析中，在ZERBAXA的AUC方面，高加索人與其他種族之間並
+無任何具臨床關聯性的差異。
+
+不建議依據種族調整劑量。
+
+藥物交互作用
+在一項針對16位健康受試者所進行的臨床研究中，在ceftolozane與tazobactam之間並未發現任何藥物-藥物交互
+作用。體外及體內試驗的資料顯示，在治療濃度下，ZERBAXA不太可能會引發與CYPs及運輸蛋白有關的臨床相
+關藥物-藥物交互作用。
+
+藥物代謝酵素
+體內試驗的資料顯示，ZERBAXA並非CYPs的作用受質。因此，不太可能會發生因其他藥物對CYPs產生抑制或
+誘導作用所引起的臨床相關藥物-藥物交互作用。
+
+體外研究顯示，在治療血中濃度下，ceftolozane、tazobactam與tazobactam的M1代謝物並不會抑制CYP1A2、
+CYP2B6、CYP2C8、CYP2C9、CYP2C19、CYP2D6或CYP3A4的作用，也不會誘導CYP1A2、CYP2B6或CYP3A4
+的作用。以人類初代肝細胞所進行的體外誘導研究顯示，在超治療血中濃度下，ceftolozane、tazobactam與
+tazobactam代謝物M1會降低人類初代肝細胞中之CYP1A2與CYP2B6的酵素活性及mRNA含量，以及CYP3A4
+的mRNA含量。在超治療血中濃度下，tazobactam代謝物M1也會降低CYP3A4的活性。曾進行過一項臨床藥物-
+藥物交互作用研究，結果顯示，ZERBAXA應該不會引發與CYP1A2及CYP3A4受到抑制有關的藥物交互作用。
+
+膜運輸蛋白
+體外試驗顯示，在治療血中濃度下，ceftolozane與tazobactam並非P-gp或BCRP的作用受質，而tazobactam也
+不是OCT2的作用受質。
+
+Tazobactam已知是OAT1及OAT3的作用受質。將tazobactam與OAT1/OAT3抑制劑probenecid合併投予已證實
+會使tazobactam的半衰期延長71%。將ZERBAXA與會抑制OAT1及/或OAT3的藥物合併投予可能會升高
+tazobactam的血中濃度。
+
+體外試驗的資料顯示，在治療血中濃度下，ceftolozane並不會抑制P-gp、BCRP、OATP1B1、OATP1B3、OCT1、
+OCT2、MRP、BSEP、OAT1、OAT3、MATE1或MATE2-K的作用。
+
+體外試驗的資料顯示，在治療血中濃度下，tazobactam或tazobactam代謝物M1都不會抑制P-gp、BCRP、
+OATP1B1、OATP1B3、OCT1、OCT2或BSEP運輸蛋白的作用。體外試驗顯示，tazobactam會抑制人類OAT1
+及OAT3運輸蛋白的作用，其IC50值分別為118與147 mcg/mL。曾進行過一項臨床藥物-藥物交互作用研究，結果
+顯示，ZERBAXA應該不會引發與OAT1/OAT3受到抑制有關的臨床相關藥物交互作用。
+
+12.4 微生物學
+作用機制
+Ceftolozane屬於cephalosporin類的抗菌藥物。Ceftolozane的殺菌作用乃是透過與penicillin結合蛋白(PBPs)結合，
+使細胞壁生合成作用受到抑制的結果。Ceftolozane是P. aeruginosa之PBPs (如PBP1b、PBP1c與PBP3)與E. coli
+之PBPs (如PBP3)的抑制劑。
+
+Tazobactam sodium對penicillin結合蛋白的親和力較低，因此，僅有微弱的臨床相關體外抗菌活性。Tazobactam
+是某些β內醯胺酶(如某些penicillinases與cephalosporinases)的不可逆抑制劑，並可與某些染色體及質體媒介的
+細菌β內醯胺酶形成共價結合。
+
+在2017 Ceftolozane/Tazobactam敏感性評估計劃(PACTS)監視研究中，自所有美國醫院來源所收集到的3937株
+Enterobacteriaceae分離菌株的整體ceftolozane/tazobactam敏感性為95.6%，對廣效性β內醯胺酶(ESBL)、具非
+carbapenem抗藥性的Enterobacteriaceae分離菌株，ceftolozane/tazobactam的敏感性為93.5%。自美國醫院所
+收集到的910株P. aeruginosa分離菌株的整體ceftolozane/tazobactam敏感性為97.7%。以
+ceftolozane/tazobactam測試對ceftazidime、meropenem或piperacillin/tazobactam不具敏感性的分離菌株時，
+ceftolozane/tazobactam 的敏感性分別為87.2%、91.3%與89.5%。
+
+抗藥性
+β內醯胺抗藥性的發生機制可能包括β內醯胺酶的生成、透過基因轉移或改變藥物目標作用位置的方式修飾PBPs、
+藥物排出幫浦的調升、以及外膜孔蛋白的減少。
+
+臨床分離菌株可能會生成多種β內醯胺酶、表現不同程度的β內醯胺酶、或是出現胺基酸序列變異，也可能會出現
+目前尚未確認的其他抗藥性機制。
+
+應依據培養結果與敏感性資訊，以及當地的流行病學來選擇或調整抗菌療法。
+
+在ZERBAXA的臨床試驗中，過度生成染色體AmpC、外膜孔蛋白(OprD)減少、或藥物排出幫浦(MexXY、MexAB)
+調增的P. aeruginosa分離菌株對ZERBAXA也具有敏感性。在PDC序列與ceftolozane/tazobactam 敏感性之間並
+未發現任何關聯性。
+
+ZERBAXA對某些產生廣效性β內醯胺酶(ESBLs)及其他屬於下列類型之β內醯胺酶的Enterobacteriaceae仍具有
+體外抗菌活性，包括TEM、SHV、CTX-M與OXA。ZERBAXA對會生成絲胺酸carbapenemases [K. pneumoniae
+carbapenemase (KPC)]及金屬β內醯胺酶的細菌並不具抗菌活性。
+
+在ZERBAXA的臨床試驗中，有些生成β內醯胺酶的Enterobacteriaceae分離菌株對ZERBAXA仍具敏感性(最低抑
+菌濃度≤2 mcg/mL)。這些分離菌株係生成一種或多種屬於下列酵素類型的β內醯胺酶：CTX-M、OXA、TEM或
+SHV。
+
+對ZERBAXA不具敏感性(最低抑菌濃度>2 mcg/mL)的Enterobacteriaceae分離菌株也會生成這些β內醯胺酶。這
+些分離菌株係生成一種或多種屬於下列酵素類型的β內醯胺酶：CTX-M、OXA、TEM或SHV。
+
+對其他cephalosporin類藥物具抗藥性的分離菌株可能對ZERBAXA仍具敏感性，但也可能會發生交叉抗藥性。
+
+與其他抗菌藥物的交互作用
+體外協同作用研究顯示，ZERBAXA和其他抗菌藥物(如meropenem、amikacin、aztreonam、levofloxacin、
+tigecycline、rifampin、linezolid、daptomycin、vancomycin與metronidazole)之間並無任何拮抗作用。
+
+抗菌活性
+ZERBAXA已證實在體外試驗及臨床感染症中皆可有效對抗下列細菌[參見適應症與用途(1)]。
+
+複雜性腹內感染
+革蘭氏陰性菌：
+Enterobacter cloacae
+Escherichia coli
+Klebsiella oxytoca
+Klebsiella pneumoniae
+Proteus mirabilis
+Pseudomonas aeruginosa
+
+革蘭氏陽性菌：
+Streptococcus anginosus
+Streptococcus constellatus
+Streptococcus salivarius
+
+厭氧菌：
+Bacteroides fragilis
+
+複雜性泌尿道感染，包括腎盂腎炎
+革蘭氏陰性菌：
+Escherichia coli
+Klebsiella pneumoniae
+Proteus mirabilis
+Pseudomonas aeruginosa
+
+院內感染性肺炎，包括呼吸器相關肺炎
+革蘭氏陰性菌：
+Enterobacter cloacae
+Escherichia coli
+Haemophilus influenzae
+Klebsiella (Enterobacter) aerogenes
+Klebsiella oxytoca
+Klebsiella pneumoniae
+Proteus mirabilis
+Pseudomonas aeruginosa
+Serratia marcescens
+
+目前已有下列菌種的體外試驗資料，但其臨床意義仍然不明。就ceftolozane與tazobactam而言，至少有90%之
+下列菌種的體外最低抑菌濃度(MIC)低於或等於敏感性臨界點。然而，ZERBAXA用於治療這些菌種所引起之臨床
+感染症的有效性尚未在適當且控制良好的臨床試驗中獲得確立。
+
+革蘭氏陰性菌：
+Citrobacter koseri
+Morganella morganii
+Proteus vulgaris
+Providencia rettgeri
+Providencia stuartii
+Serratia liquefaciens
+
+革蘭氏陽性菌：
+Streptococcus agalactiae
+Streptococcus intermedius
+
+敏感性試驗的方法
+臨床微生物實驗室(如果有的話)應將當地醫院及診所所使用之抗菌藥物的體外敏感性試驗累積報告提供給醫師，
+並以定期報告的方式說明院內感染和社區感染之病原菌的敏感性概況。這些報告應可幫助醫師選擇適合治療的抗
+菌藥物。
+
+稀釋技術:
+可採用定量方法來測定抗菌藥物的最低抑菌濃度。Ceftolozane與tazobactam的敏感性試驗係採用固定濃度(4
+mcg/mL)的tazobactam來進行。利用這些MICs即可估計細菌對抗菌藥物的敏感性。應採用標準化的試驗方法(培
+養液、及/或瓊脂)來測定MICs。1,4 應依據表9所列的標準來判讀MIC值。
+
+擴散技術:
+測量抑菌環直徑的定量方法亦可用以估計細菌對抗菌藥物的敏感性，且其結果具有再現性。應採用標準化的試驗
+方法來測定抑菌環的大小。2,4 此步驟係使用滲有30 mcg之ceftolozane與10 mcg之tazobactam的紙錠來檢測細
+菌對ceftolozane與tazobactam的敏感性。應依據表9所列的標準來判讀紙錠擴散的結果。
+
+無氧技術:
+就厭氧菌而言，可利用標準化的試驗方法來測定其對ceftolozane與tazobactam的敏感性。3 應依據表9所列的標
+準來判讀所測得的MIC值。
+
+                      表9：Ceftolozane/Tazobactam的敏感性試驗判讀標準
+                                 最低抑菌濃度(mcg/mL)        紙錠擴散抑菌環直徑(mm)
+              病原菌
+                                  S        I      R    S     I     R
+  Enterobacteriaceae            ≤2/4      4/4    ≥8/4 ≥22  19-21  ≤18
+  Pseudomonas aeruginosa        ≤4/4      8/4   ≥16/4 ≥21  17-20  ≤16
+  Haemophilus influenza
+                                      ≤0.5/4   ---           ---   ---    ---    ---
+  (院內感染性肺炎，包括VAP)†
+  Streptococcus anginosus
+  Streptococcus constellatus及
+                                       ≤8/4    16/4        ≥32/4   ---    ---    ---
+  Streptococcus salivarius
+  (cIAI與cUTI，包括腎盂腎炎)*
+  Bacteroides fragilis
+                      ≤8/4 16/4 ≥32/4                              ---    ---    ---
+  (cIAI與cUTI，包括腎盂腎炎)*
+  S=具敏感性，I=介於兩者之間，R=具抗藥性，依據CLSI臨界點
+  * 1.5克IV每8小時一次
+  † 3克IV每8小時一次
+
+
+
+「具敏感性 (S)」的報告乃是表示，當抗菌藥物在感染部位達到通常可達到的濃度時，該抗菌藥物很可能可以抑
+制病原菌的生長。  「介於兩者之間 (I)」的報告表示試驗結果應視為尚不確定，此外，如果該菌株對其他臨床適用
+藥物也不具充分的敏感性，則應重新進行試驗。此類報告意味著該抗菌藥物在臨床上可能應用於藥物生理濃度較
+高的身體部位或是可使用較高劑量藥物的情況。此判讀分類也提供了一個可避免因無法控制之細微技術因素而造
+成重大判讀歧異的緩衝區域。  「具抗藥性 (R)」的報告即表示，當抗菌藥物在感染部位達到通常可達到的濃度時，
+該抗菌藥物不太可能能夠抑制病原菌的生長；此時應選用其他療法。
+
+品質控制
+在標準化敏感性試驗的步驟中，必須使用實驗室標準品來監測及確保分析中所使用之器材和試劑的準確性與精確
+性，進行試驗的人員也必須具備相當的技術。1,2,3,4 Ceftolozane與tazobactam的標準品粉末應達到表10中所列的
+MIC值範圍。使用30 mcg ceftolozane/10 mcg tazobactam紙錠所進行的擴散技術應達到表10中所列的標準。4
+
+                           表10：Ceftolozane/Tazobactam的品質控制容許範圍
+                         品質控制菌株            最低抑菌濃度(mcg/mL)  紙錠擴散(抑菌環直徑mm)
+             Escherichia coli
+                                                0.12/4-0.5/4             24-32
+             ATCC 25922
+             Escherichia coli*
+                                                0.06/4-0.25/4            25-31
+             ATCC 35218
+             Pseudomonas aeruginosa
+                                                 0.25/4-1/4              25-31
+             ATCC 27853
+             Staphylococcus aureus
+                                                      不適用                10-18
+             ATCC 25923
+             Staphylococcus aureus
+                                                 16/4-64/4               不適用
+             ATCC 29213
+             Haemophilus influenzae†
+                                                     0.5/4-2/4           23-29
+             ATCC 49247
+             Klebsiella pneumoniae*
+                                                     0.5/4-2/4           17-25
+             ATCC 700603
+             Streptococcus pneumoniae
+                                                 0.25/4-1/4              21-29
+             ATCC 49619
+             Bacteroides fragilis
+                                                 0.12/4-1/4              不適用
+             ATCC 25285 (瓊脂與培養液)
+             Bacteroides thetaiotaomicron
+                                                 16/4-128/4              不適用
+             ATCC 29741 (瓊脂)
+             Bacteroides thetaiotaomicron
+                                         16/4-64/4                       不適用
+             ATCC 29741 (培養液)
+            ATCC=美國菌種中心(American Type Culture Collection)
+          * E. coli ATCC 35218與K. pneumoniae ATCC 700603的儲備培養菌株應存放-60°C (含)以
+            下的環境，並應每週製備一次工作用儲備培養菌株。
+          † 在反復轉移至培養基上之後，此菌株可能會喪失質體，並對β內醯胺類抗菌藥物產生敏感
+
+            性。應至少每月一次或當ampicillin、piperacillin或ticarcillin對此菌株的抑菌環直徑開始增
+            大時，自儲備菌株中取出新的培養菌株，如此可使發生這種現象的可能性降至最低。
+
+13   非臨床毒理學
+13.1 致癌性、致突變性、生育力損害
+目前尚未針對ZERBAXA、ceftolozane或tazobactam進行過長期的動物致癌性研究。
+
+在一項體外鼷鼠淋巴瘤分析及一項大鼠體內骨髓微核分析中，ZERBAXA的基因毒性檢測結果皆呈現陰性反應。
+在一項以中國倉鼠卵巢細胞所進行的體外染色體異常分析中，ZERBAXA的結構異常檢測結果呈現陽性反應。
+
+在體外細菌致突變性(Ames)分析、以中國倉鼠肺纖維母細胞所進行的體外染色體異常分析、體外鼷鼠淋巴瘤分析、
+以中國倉鼠卵巢細胞所進行的體外HPRT分析、鼷鼠體內微核分析、以及體內非排定DNA合成(UDS)分析中，
+ceftolozane的基因毒性檢測結果皆呈陰性反應。
+
+在一項體外細菌致突變性(Ames)分析、一項以中國倉鼠肺細胞所進行的體外染色體變異分析、一項哺乳類動物點
+突變(中國倉鼠卵巢細胞HPRT)分析、一項鼷鼠體內骨髓微核分析、以及一項UDS分析中，tazobactam的基因毒
+性檢測結果皆呈陰性反應。
+
+在高達1000毫克/公斤/日的靜脈注射劑量下，ceftolozane對於公大鼠或母大鼠的生育力未造成任何不良影響。此
+劑量所達到的平均血中暴露量(AUC)值約為每8小時2克之人類最高建議劑量下所達到人類平均每日ceftolozane
+暴露量的1.4倍。
+
+在一項每日兩次腹膜內注射tazobactam的大鼠生育力研究中，在低於或等於640毫克/公斤/日的劑量下(以體表面
+積為比較基礎，約相當於每8小時1克之人類最高建議劑量的2倍)，公鼠及母鼠的生育力參數皆未受到影響。
+
+14   臨床研究
+
+複雜性腹內感染
+在一項針對使用每8小時靜脈輸注ZERBAXA 1.5克(ceftolozane 1克與tazobactam 0.5克)加metronidazole (每8小
+時靜脈輸注500毫克)與使用meropenem (每8小時靜脈輸注1克)治療4至14天進行比較的多中心雙盲研究中，共有
+979位罹患cIAI的成人住院病人於隨機分組後接受研究藥物的治療。複雜性腹內感染包括闌尾炎、膽囊炎、憩室
+炎、胃/十二指腸穿孔、腸穿孔、以及其他造成腹內膿瘍與腹膜炎的導因。大部份的病人(75%)都來自東歐；有6.3%
+來自美國。
+
+主要療效終點指標為臨床療效反應，其定義為在投予第一劑研究藥物24至32天後的治癒評估(TOC)診察中，指標
+感染症的徵兆與症狀完全消退或明顯改善。主要療效分析族群為臨床可評估(CE)族群，包括診斷符合計畫書指定
+範圍的複雜腹內感染、接受足量研究藥物、遵守計畫書要求的經隨機分派病人；重要次要療效分析族群為意圖治
+療(ITT)族群，包括不論是否繼續接受研究藥物的所有經隨機分派病人。其他的次要評估族群包括微生物學意圖治
+療(MITT)族群以及微生物學可評估(ME)族群。微生物學意圖治療(MITT)族群，指意圖治療(ITT)族群中，在治療
+前帶有至少一種腹內病原菌但不論其是否對研究藥物具敏感性的病人。微生物學可評估(ME)族群，指臨床可評估
+(CE)族群中，在治療前帶有至少一種腹內病原菌且對研究藥物具敏感性的病人。
+
+MITT族群共包含806位病人；平均年齡為52歲，並有57.8%為男性。最常見的診斷為闌尾穿孔或闌尾周圍膿瘍，
+發生率為47%。有34.2%病人在治療前患有彌漫性腹膜炎。
+
+在MITT族群中，ZERBAXA加metronidazole在TOC診察之臨床治癒率方面的表現並不劣於meropenem。TOC診
+察中的臨床治癒率依病人族群列於表11。在MITT族群中，依病原菌分列的TOC診察臨床治癒率如表12所示。
+
+                     表11：複雜性腹內感染之第3期試驗中的臨床治癒率
+                        ZERBAXA加
+                                       Meropenem†       治療差異
+          分析族群         metronidazole*
+                                         n/N (%)       (95% CI)‡
+                          n/N (%)
+       MITT            323/389 (83.0) 364/417 (87.3) -4.3 (-9.2, 0.7)
+       ME              259/275 (94.2) 304/321 (94.7) -0.5 (-4.5, 3.2)
+                                                          治療差異
+                                                         (99% CI)‡
+       CE           353/375 (94.1)    375/399 (94.0)  0.0 (-4.16, 4.30)
+       ITT          399/476 (83.8)    424/494 (85.8) -2.2 (-7.95, 3.44)
+    * ZERBAXA每8小時靜脈輸注1.5克+ metronidazole每8小時靜脈輸注500毫克
+    † 每8小時靜脈輸注1克
+    ‡ 95%信賴區間(CI)的計算係採用未分層 Wilson Score 法。
+
+
+
+           表12：複雜性腹內感染之第3期試驗中的臨床治癒率，依病原菌分列(MITT族群)
+                                    ZERBAXA加
+      細菌類別                                         Meropenem
+                                   metronidazole
+      病原菌                                             n/N (%)
+                                       n/N (%)
+      革蘭氏陰性需氧菌
+      Escherichia coli             216/255 (84.7) 238/270 (88.1)
+      Klebsiella pneumoniae         31/41 (75.6)   27/35 (77.1)
+      Pseudomonas aeruginosa         30/38 (79)    30/34 (88.2)
+      Enterobacter cloacae          21/26 (80.8)    24/25 (96)
+      Klebsiella oxytoca            14/16 (87.5)    24/25 (96)
+      Proteus mirabilis             11/12 (91.7)     9/10 (90)
+      革蘭氏陽性需氧菌
+      Streptococcus anginosus       26/36 (72.2)   24/27 (88.9)
+      Streptococcus constellatus     18/24 (75)     20/25 (80)
+      Streptococcus salivarius       9/11 (81.8)    9/11 (81.8)
+      革蘭氏陰性厭氧菌
+      Bacteroides fragilis          42/47 (89.4)   59/64 (92.2)
+      Bacteroides ovatus            38/45 (84.4)   44/46 (95.7)
+      Bacteroides thetaiotaomicron   21/25 (84)     40/46 (87)
+      Bacteroides vulgatus           12/15 (80)    24/26 (92.3)
+
+在cIAI第3期試驗的兩個試驗組中檢出符合β內醯胺敏感性預設標準之E. coli與K. pneumoniae分離菌株的子群受
+試者中，有53/601位(9%)病人在基因型檢測中檢出某些類型的ESBL (如TEM、SHV、CTX-M、OXA)。此子群中
+的治癒率和整體試驗結果大致相當。體外敏感性試驗的結果顯示，這些分離菌株有些對ZERBAXA具有敏感性
+(MIC ≤ 2 mcg/mL)，有些則不具敏感性(MIC >2 mcg/mL)。在被認定治療成功與治療失敗的病人中皆曾發現相同
+特定基因型的分離菌株。
+
+複雜性泌尿道感染，包括腎盂腎炎
+在一項多國多中心、雙盲研究中比較使用每8小時靜脈輸注ZERBAXA 1.5克(ceftolozane 1克與tazobactam 0.5
+克)與使用levofloxacin (每日一次靜脈輸注750毫克)治療7天，共有1068位罹患cUTI (包括腎盂腎炎)的成人住院病
+人於隨機分組後接受研究藥物的治療。主要的療效指標定義為在投予最後一劑研究藥物7 (±2)天後的治癒評估
+(TOC)回診時，臨床症狀完全消退或明顯改善，且達到微生物學清除(治療前濃度≥105的所有泌尿道致病菌皆下降
+至<104 CFU/mL)。主要的療效分析族群為微生物學修正意圖治療(mMITT)族群，包括所有接受研究藥物治療且在
+治療前帶有至少一種泌尿道致病菌的病人。重要次要療效指標為微生物可評估(ME)族群在TOC回診的微生物學
+與臨床複合治癒反應，此族群包括符合計劃書要求且在TOC回診時有尿液培養結果的mMITT病人。
+
+mMITT族群共包含800位cUTI病人，包括656位(82%)腎盂腎炎病人。年齡中位數為50.5歲，並有74%為女性。有
+62位(7.8%)病人在治療前併有菌血症；有608位(76%)是在東歐收錄的病人，並有14位(1.8%)是在美國收錄的病
+人。
+
+在mMITT族群與ME族群中，ZERBAXA在TOC回診時的微生物學與臨床治癒(複合終點指標)顯示確具療效(表13)。
+在mMITT族群中，依致病菌分列的TOC回診時的微生物學與臨床複合治癒率如表14所示。
+
+在mMITT族群中，使用ZERBAXA治療且治療前併有菌血症之病人中的複合治癒率為23/29 (79.3%)。
+
+雖然ZERBAXA組與levofloxacin組在主要療效指標方面有具統計意義的差異，但這可能是因為有212/800位
+(26.5%)病人在治療前帶有不具levofloxacin敏感性之細菌的緣故。在治療前感染具levofloxacin敏感性之細菌的病
+人中，療效反應率大致相當(表13)。
+                 表13：複雜性泌尿道感染之第3期試驗中的微生物學與臨床複合治癒率
+                         ZERBAXA*       Levofloxacin†   治療差異
+          分析族群
+                           n/N (%)         n/N (%)      (95% CI)‡
+  mMITT                 306/398 (76.9) 275/402 (68.4) 8.5 (2.3, 14.6)
+   治療前帶有Levofloxacin
+                         60/100 (60)    44/112 (39.3)
+   抗藥性致病菌
+   治療前未帶有任何
+   levofloxacin抗藥性      246/298 (82.6) 231/290 (79.7)
+   致病菌
+  ME                    284/341 (83.3) 266/353 (75.4) 8.0 (2.0, 14.0)
+* 每8小時靜脈輸注ZERBAXA 1.5克
+† 每日一次靜脈輸注750毫克
+‡ The 95%信賴區間係依據分層 Newcombe 法計算而得
+
+
+
+                   表14：複雜性泌尿道感染之第3期試驗中的微生物與臨床複合治癒率，
+                           依基準點致病菌子群列出(mMITT族群)
+                                 ZERBAXA      Levofloxacin
+ 病原菌
+                                  n/N (%)         n/N (%)
+ Escherichia coli               247/305 (81) 228/324 (70.4)
+ Klebsiella pneumoniae          22/33 (66.7)    12/25 (48)
+ Proteus mirabilis              11/12 (91.7)     6/12 (50)
+ Pseudomonas aeruginosa           6/8 (75)     7/15 (46.7)
+
+在cUTI第3期試驗的兩個治療組中檢出符合β內醯胺敏感性預設標準之E. coli與K. pneumoniae分離菌株的子群中，
+有104/687(15%)在基因型檢測中檢出某些類型的ESBL (如TEM、SHV、CTX-M、OXA)。此子群中的治癒率和整
+體試驗結果大致相當。體外敏感性試驗的結果顯示，這些分離菌株有些對ZERBAXA具有敏感性(MIC ≤ 2 mcg/mL)，
+有些則不具敏感性(MIC >2 mcg/mL)。在被認定治療成功與治療失敗的病人中皆曾發現特定基因型的分離菌株。
+
+院內感染性肺炎，包括呼吸器相關肺炎
+共有726位住院治療的呼吸器相關院內感染性肺炎(包括院內感染性肺炎{HABP}及呼吸器相關肺炎{VABP})成人
+病人被收錄進入一項比較使用每8小時靜脈輸注ZERBAXA 3克(ceftolozane 2克與tazobactam 1克)與使用
+meropenem (每8小時靜脈輸注1克)治療8至14天之療效的多國雙盲研究。在隨機分組時，所有病人都必須插管並
+使用機械式呼吸器。
+
+療效的評估依據為第28天所有導因死亡率與臨床治癒率，其定義為在治療結束7至14天後的治癒評估(TOC)回診
+時，指標感染的徵兆與症狀完全消退或明顯改善。分析族群為意圖治療(ITT)族群，包括所有接受隨機分組的病人。
+
+在確診為HABP/VABP之後至接受第一劑研究藥物之前，如果需要，在投予第一劑研究藥物前的72小時期間，病
+人可使用活性非研究抗菌藥物治療最多24小時。對先前曾使用抗菌藥物治療目前之HABP/VABP失敗的病人，如
+果病人在接受該抗菌治療期間的基準點下呼吸道(LRT)培養結果顯示有革蘭氏陰性致病菌生長，且所有其他條件
+也都符合要求，則亦可納入試驗。在基準點LRT培養結果尚未確認之前，所有病人都必須於基準點開始使用
+linezolid或其他可覆蓋革蘭氏陽性菌的核准藥物進行經驗治療。在meropenem抗藥性P. aeruginosa盛行率超過
+15%的試驗中心，允許自由選擇是否使用輔助性抗革蘭氏陰性菌藥物治療，但最多治療72小時。
+
+在ITT族群的726位病人中，年齡中位數為62歲，其中有44%之病人的年齡高於或等於65歲，有22%之病人的年
+齡高於或等於75歲。大部份病人為白人(83%)、男性(71%)及來自東歐(64%)。APACHE II評分中位數為17，並有
+33%之受試者的基準點APACHE II評分高於或等於20。所有受試者都有使用機械式呼吸器，並有519位(71%)發
+生VABP。在隨機分組時，有92%的受試者已住進ICU，77%已住院5天(含)以上，並有49%已使用呼吸器5天(含)
+以上。在基準點時，726位病人中共有258位(36%)的CrCl低於80毫升/分鐘；其中有99位病人(14%)的CrCl低於50
+毫升/分鐘。患有末期腎病(CrCl低於15毫升/分鐘)的病人都被排除於這項試驗之外。約有13%的受試者曾使用抗
+菌藥物治療HABP/VABP失敗，並有15%的病人在基準點時患有菌血症。主要的共病症包括糖尿病、充血性心臟
+衰竭、以及慢性阻塞性肺病(COPD)，發生率分別為22%、16%及12%。在兩個治療組中，大部份受試者(63.1%)
+都依計劃書的規定使用研究藥物治療8至14天。
+表15所示為整體及依呼吸器相關HABP與VABP分列的第28天所有導因死亡率與TOC回診時臨床治癒率方面的結
+果。
+       表15：一項院內感染性細菌性肺炎與呼吸器相關細菌性肺炎(HABP/VABP)第3期研究中的第
+       28天所有導因死亡率與TOC回診時臨床治癒率(ITT族群)
+         終點指標                          ZERBAXA              Meropenem
+                                                           治療差異
+                                                           (95% CI)*
+         第28天所有導因死亡率     87/362 (24.0)  92/364 (25.3)  1.1 (-5.13, 7.39)
+         VABP            63/263 (24.0)  52/256 (20.3) -3.6 (-10.74, 3.52)
+         呼吸器相關HABP        24/99 (24.2)  40/108 (37.0) 12.8 (0.18, 24.75)
+         TOC回診時臨床治癒率    197/362 (54.4) 194/364 (53.3)  1.1 (-6.17, 8.29)
+         VABP           147/263 (55.9) 146/256 (57.0)  -1.1 (-9.59, 7.35)
+         呼吸器相關HABP        50/99 (50.5)  48/108 (44.4) 6.1 (-7.44, 19.27)
+       * 整體治療差異的 CI 係依據分層 Newcombe 法計算而得，並以最小風險進行加權。各項主要
+
+         診斷之治療差異的 CI 係依據未分層 Newcombe 法計算而得。
+
+在 ITT 族群中，就 CrCl 高於或等於 150 毫升/分鐘的病人而言，ZERBAXA 組與 meropenem 組中的第 28 天所
+有導因死亡率與臨床治癒率都大致相當。就基準點時患有菌血症的病人而言，使用 ZERBAXA 治療之病人中的第
+28 天所有導因死亡率為 23/64 (35.9%)，使用 meropenem 治療的病人則為 13/41 (31.7%)；臨床治癒率分別為
+30/64 (46.9%)與 15/41 (36.6%)。
+針對微生物學意圖治療(mITT)族群(包括所有接受隨機分組且在治療前帶有對兩種研究治療都具敏感性之下呼吸
+道(LRT)致病菌的受試者)評估個別致病菌的第 28 天所有導因死亡率與 TOC 回診時臨床治癒率。在 mITT 族群中，
+Klebsiella pneumoniae (113/425，26.6%)與 Pseudomonas aeruginosa (103/425，24.2%)是最常在基準點 LRT
+培養物中分離出來的致病菌。
+在 mITT 族群中，個別致病菌的第 28 天所有導因死亡率與 TOC 回診時臨床治癒率如表 16 所示。在 mITT 族群
+中，治療前帶有革蘭氏陰性菌之病人中的臨床治癒率分別為 ZERBAXA 組 139/215 (64.7%)及 meropenem 組
+115/204 (56.4%)。
+
+         表 16：一項院內感染性細菌性肺炎與呼吸器相關細菌性肺炎(HABP/VABP)第 3 期研究
+              中的第 28 天所有導因死亡率與 TOC 回診時臨床治癒率，依治療前的致病菌分列
+              (mITT 族群)
+
+          治療前致病菌類別                       第28天所有導因死亡率                        TOC回診時臨床治癒率
+          治療前致病菌                      ZERBAXA     Meropenem n/N           ZERBAXA     Meropenem
+                                       n/N (%)         (%)                 n/N (%)      n/N (%)
+          Pseudomonas                12/47 (25.5)  10/56 (17.9)          29/47 (61.7) 34/56 (60.7)
+          aeruginosa
+          Enterobacteriaceae         27/161 (16.8)     42/157 (26.8)       103/161       87/157 (55.4)
+                                                                             (64.0)
+          Enterobacter cloacae        2/15 (13.3)        8/14 (57.1)      8/15 (53.3)      4/14 (28.6)
+          Escherichia coli           10/50 (20.0)       11/42 (26.2)     32/50 (64.0)     26/42 (61.9)
+          Klebsiella oxytoca          3/14 (21.4)        3/12 (25.0)      9/14 (64.3)      7/12 (58.3)
+          Klebsiella pneumoniae       7/51 (13.7)       13/62 (21.0)     34/51 (66.7)     39/62 (62.9)
+          Proteus mirabilis           5/22 (22.7)        5/18 (27.8)     13/22 (59.1)     11/18 (61.1)
+          Serratia marcescens         3/14 (21.4)         1/12 (8.3)      8/14 (57.1)      7/12 (58.3)
+          Haemophilus                   0/20 (0)         2/15 (13.3)     17/20 (85.0)      8/15 (53.3)
+          influenzae
+
+在這項試驗的兩個治療組中檢出的符合β內醯胺敏感性預設標準的 Enterobacteriaceae 分離菌株子群中，有
+101/425 株(23.8%)在基因型檢測中檢出特定類型的 ESBL (如 TEM、SHV、CTX-M、OXA)。此子群中的第 28
+天的所有導因死亡率及治癒率和整體試驗結果大致相當。
+
+
+15    參考文獻
+1. Clinical and Laboratory Standards Institute (CLSI). Methods for Dilution Antimicrobial Susceptibility Tests
+   for Bacteria that Grow Aerobically; Approved Standard – Tenth Edition. CLSI document M07-A10, Clinical
+   and Laboratory Standards Institute, 950 West Valley Road, Suite 2500, Wayne, Pennsylvania 19087, USA,
+   2015.
+2. Clinical and Laboratory Standards Institute (CLSI). Performance Standards for Antimicrobial Disk Diffusion
+   Susceptibility Tests; Approved Standard – Twelfth Edition. CLSI document M02-A12, Clinical and
+   Laboratory Standards Institute, 950 West Valley Road, Suite 2500, Wayne, Pennsylvania 19087, USA
+   2015.
+3. Clinical and Laboratory Standards Institute (CLSI). Methods for Antimicrobial Susceptibility Testing of
+   Anaerobic Bacteria; Approved Standard – Eighth Edition. CLSI document M11-A8. Clinical and Laboratory
+   Standards Institute, 950 West Valley Road, Suite 2500, Wayne, Pennsylvania 19087, USA, 2012.
+4. Clinical and Laboratory Standards Institute (CLSI). Performance Standards for Antimicrobial Susceptibility
+   Testing. Twenty-sixth Information Supplement. CLSI document M100-S26. Clinical and Laboratory
+   Standards Institute, 950 West Valley Road, Suite 2500, Wayne, Pennsylvania 19087, USA, 2016.
+
+16     包裝規格與貯存方式
+16.1 包裝規格
+ZERBAXA 1.5克(ceftolozane與tazobactam)注射劑為單劑小瓶裝，每小瓶含有ceftolozane 1克(相當於1.147克
+ceftolozane sulfate)及tazobactam 0.5克(相當於0.537克tazobactam sodium)。每盒10支小瓶裝。
+
+16.2 貯存方式
+ZERBAXA小瓶應冷藏存放於2至8°C (36至46°F)的環境，並應避免光線照射。
+
+調製後的溶液經稀釋之後，在室溫下可存放24小時，在2至8°C (36至46°F)的溫度下冷藏時可存放7天。
+
+17 病人諮詢須知
+嚴重過敏反應
+應告知病人可能會發生過敏反應，包括嚴重過敏反應，如果發生嚴重反應，必須立即治療。應詢問病人先前是否
+曾對ZERBAXA、其他β內醯胺類藥物(包括cephalosporin類藥物)或其他過敏源發生任何過敏反應[參見警語及注
+意事項(5.2)]。
+
+可能相當嚴重的腹瀉
+應告知病人腹瀉是使用抗菌藥物時常會引發的問題。有時可能會發生頻繁的水樣腹瀉或帶血腹瀉，這可能是更為
+嚴重之腸內感染的徵兆。如果發生嚴重的水樣腹瀉或帶血腹瀉，應請病人和健康照護人員聯絡[參見警語及注意
+事項(5.3)]。
+
+抗藥性
+應囑咐病人，抗菌藥物(包括ZERBAXA)僅可用於治療細菌性感染。這類藥物不可用於治療病毒性感染(如普通感
+冒)。當處方ZERBAXA治療細菌性感染時，應囑咐病人，雖然常會在療程初期就感到病情好轉，但仍應確實依指
+示用藥。遺漏給藥或未完成完整的療程可能會(1)降低當下之治療的有效性，以及(2)升高細菌在未來出現抗藥性
+且使用ZERBAXA或其他抗菌藥物無法治好的可能性[參見警語及注意事項(5.4)]。
+
+製造及包裝廠: Steri-Pharma, LLC
+廠址: 429 S. West Street, Syracuse, NY 13202, United States of America
+
+藥商:美商默沙東藥廠股份有限公司台灣分公司
+地址:台北市信義路五段 106 號 12 樓
+

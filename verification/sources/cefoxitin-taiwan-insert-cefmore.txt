@@ -1,0 +1,210 @@
+Source: TFDA 藥品仿單查詢平台 https://mcp.fda.gov.tw/im_detail_1/%E8%A1%9B%E7%BD%B2%E8%97%A5%E8%A3%BD%E5%AD%97%E7%AC%AC038843%E8%99%9F (retrieved 2026-10-05)
+中文品名
+"瑞士"世優注射劑（西福斯汀)
+英文品名
+CEFMORE INJECTION (CEFOXITIN SODIUM) "SWISS"
+許可證號
+衛署藥製字第038843號
+藥品類別
+限由醫師使用
+劑型
+注射劑
+申請商名稱
+瑞士藥廠股份有限公司
+申請商地址
+台南市新市區中山路182號
+發證日期
+84-05-12
+有效日期
+118-01-08
+通關簽審文件編號
+DHY00103884306
+限制項目
+國 產
+包裝
+1、2 公克小瓶
+100 支以下盒裝
+仿單上傳類型
+自行上傳
+仿單無紙化
+已採用
+主製造廠
+製造廠名稱
+瑞士藥廠股份有限公司新市廠
+製造廠地址
+台南市新市區中山路182號 (TAIWAN， ROC)
+匯出PDF
+外盒/標籤
+藥品外觀
+歷史仿單查詢
+ATC code查詢
+詳細處方成分
+授權使用
+＋訂閱
+全部展開
+1 性狀
+1.1
+有效成分及含量
+Each vial contains：
+Cefoxitin sodium Eq. to Cefoxitin…………………..1.0 g (potency)
+Cefoxitin sodium Eq. to Cefoxitin…………………..2.0 g (potency)
+1.2
+賦形劑
+無
+1.3
+劑型
+注射劑
+1.4
+藥品外觀
+淺黃白色顆粒粉末
+2 適應症
+葡萄球菌、鏈球菌、肺炎雙球菌、腦膜炎球菌及其它具有感受性細菌引起之感染症。
+3 用法及用量
+3.1
+用法用量
+Cefoxitin Injection可供靜脈或肌肉注射，通常成人劑量如下表：
+感染類型
+每日使用總劑量
+使用次數及途徑
+無倂發症之感染
+如肺炎、泌尿道感染、皮膚感染
+3～4 g
+每6～8小時1 g
+靜脈注射
+中等嚴重或嚴重感染
+6～8 g
+每4小時1 g或
+每6～8小時2 g
+靜脈注射
+需要較高劑量之感染(如氣性壞疽)
+12 g
+每4小時2 g或
+每6小時3 g
+靜脈注射
+3.3
+特殊族群用法用量
+腎功能不全之成人患者cefoxitin Injection之維持劑量：
+腎功能
+肌酸酐廓清力(ml/分鐘)
+劑量
+使用次數
+輕度損害
+50～30
+1～2 g
+每8～12小時一次
+中度損害
+29～10
+1～2 g
+每12～24小時一次
+嚴重損害
+9～5
+0.5～1 g
+每12～24小時一次
+幾乎無功能
+＜5
+0.5～1 g
+每24～48小時一次
+治療三個月大或以上之小孩，80～160 mg/kg/日，分4～6次使用，較嚴重感染可增加劑量，每日最高劑量不可超過12 g。
+4 禁忌
+對cefoxitin有過敏反應者勿用
+5 警語及注意事項
+5.1
+警語/注意事項
+1.對penicillin及cephalosporin類過敏者，用時宜小心。
+2.暫時性或持續性尿量減少者：使用cefoxitin Injection時，劑量要酌減。
+6 特殊族群注意事項
+6.1
+懷孕
+懷孕：屬於B級，動物實驗無致畸胎作用，但懷孕婦女使用時，宜衡量並慎重使用。
+6.2
+哺乳
+Cefoxitin可排於人乳中，請小心使用。
+7 交互作用
+目前尚無資訊
+8 副作用/不良反應
+8.1
+臨床重要副作用/不良反應
+8.1.1
+極罕見之嚴重皮膚不良反應，如：脫屑性皮膚炎、史蒂文生氏強生症候群及毒性表皮溶解症等。
+8.1.2
+Cefoxitin一般耐受性極佳，副作用通常輕微、少見。
+1.局部反應：靜脈注射時，有時偶有栓塞性靜脈炎。
+2.過敏反應：紅疹、搔癢、嗜伊紅血球過多、發熱。
+3.胃腸反應：偶有腹瀉。
+4.血液：暫時性白血球減少及嗜中性白血球減少。
+5.肝功能：SGOT、SGPT、血清LDH及血清Alkaline Phosphatase偶有暫時性升高現象。
+6.腎功能：偶有血清肌酸酐及血清尿素增高。
+9 過量
+目前尚無資訊
+10 藥理特性
+10.1
+作用機轉
+Cefoxitin屬於一種β-Lactam(乙型內醯胺) Cephamycin C新型抗生素，由一種奇特的絲狀菌Streptomyces Lactamdurans鏈黴菌所產生，為一種廣效性、半合成注射用之抗生素。其特徵是在構造式上第7位置有－OCH3基，此Methoxy Group具有抵抗細菌β-Lactamase分解作用，故具有抵抗青黴素及頭孢子菌類抗生素產生抗藥性之主要原因的β-Lactamase之作用。
+10.2
+藥效藥理特性
+目前尚無資訊
+10.3
+臨床前安全性資料
+目前尚無資訊
+11 藥物動力學特性
+Cefoxitin 1 g經過5分鐘(靜脈注射)後之血中最高濃度為110 mcg/ml，經過4小時血中濃度降低至少於1 mcg/ml，半衰期大約是41到59 分鐘(約1小時)，可產生很高的血清及尿中濃度，經過6小時，幾乎毫無改變(達85%)由腎臟排出。
+Probenecid可延緩其在腎小管之排泄，因而可增加及延長其在血中濃度。
+Cefoxitin很快到達體液中，例如胸腔、關節液、膽汁。臨床上可同時與Gentamicin、Tobramycin或Amikacin併用之，但勿混合於同一注射器內。
+12 臨床試驗資料
+目前尚無資訊
+13 包裝及儲存
+13.1
+包裝
+1、2公克小瓶裝，100支以下盒裝。
+13.2
+效期
+如外包裝所示
+13.3
+儲存條件
+25℃以下避光儲存。
+13.4
+儲存注意事項
+配製後的注射液：於37℃以下可保存24小時。
+15 其他
+【細 菌 學】
+Cefoxitin在體外和臨床上可有效對抗下列各種細菌：
+嗜氧性革蘭氏陽性菌：
+Staphylococcus aureusa(包括產生青黴素酶菌株)
+Staphylococcus epidermidisa
+Streptococcus agalactiae
+Streptococcus pneumoniae
+Streptococcus pyogenes
+a對Methicillin/Oxacillin有抗藥性之Staphylococci菌株可被視為對Cefoxitin具抗藥性。
+Enterococci菌株大多具抗藥性，如：Enterococcus faecalis。
+嗜氧性革蘭氏陰性菌：
+Escherichia coil
+Haemophillus influenzae
+Klebsiella spp.(包括K.pneumoniae)
+Morganella Morganii
+Neisseria gonorrhoeae(包括產生青黴素酶菌株)
+Proteus mirabilis
+Proteus vulgaris
+Providencia spp.(包括Providencia rettgeri)
+厭氧性革蘭氏陽性菌：
+Clostridium spp.
+Peptococcus niger
+Peptostreptococcus spp.
+厭氧性革蘭氏陰性菌：
+Bacteroides distasonis
+Bacteroides fragilis
+Bacteroides ovatus
+Bacteroides thetaiotaomicron
+Bacteroides spp.
+Cefoxitin對Pseudomonas aeruginosa、多數Enterococci及大部分Enterobacter cloacae菌株無顯著效果。
+ATC Code
+主次
+代碼
+英文名
+主
+J01DC01
+cefoxitin
+次
+J01DC01
+cefoxitin
+✖
+歷史仿單: 103-05-15; 106-02-08 (C72-修改用量DOH, 廠商自行上傳); 106-06-28; 106-09-30 (010388430001)

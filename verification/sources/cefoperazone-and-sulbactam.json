@@ -1,0 +1,32 @@
+{
+  "drug": "cefoperazone and sulbactam",
+  "fetched": "2026-10-05T06:34:52.266Z",
+  "dailymed": null,
+  "smpc": null,
+  "lactmed": {
+    "source": "LactMed (NIH)",
+    "title": "Cefoperazone",
+    "accession": "NBK501355",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK501355/",
+    "revised": "2023-09-15",
+    "sections": {
+      "Summary of Use during Lactation": "Cefoperazone is no longer marketed in the United States. Limited information indicates cefoperazone produces low levels in milk that are not expected to cause adverse effects in breastfed infants. Occasionally disruption of the infant's gastrointestinal flora, resulting in diarrhea or thrush have been reported with cephalosporins, but these effects have not been adequately evaluated. Cefoperazone is acceptable in nursing mothers.",
+      "Drug Levels": "Maternal Levels. After 1 gram of cefoperazone intravenously in 5 women, it was undetectable in milk in 2 women at any time up to 6 hours after the dose. The average peak milk levels of 0.33 mg/L occurred 2 hours after the dose, but in individuals, peak levels occurred 2, 3 or 4 hours after the dose.[ 1 ] After 1 gram of cefoperazone given intravenously in 2 women, milk cefoperazone was 0.1 mg/L at 2 hours and 0.3 mg/L 3 hours after the dose. It was undetectable in milk 1 and 6 hours after the dose.[ 2 , 3 ] Infant Levels. Relevant published information was not found as of the revision date.",
+      "Effects in Breastfed Infants": "Relevant published information was not found as of the revision date.",
+      "Effects on Lactation and Breastmilk": "Relevant published information was not found as of the revision date.",
+      "References": "1 Takase Z , Shirafuji H , Uchida M . Fundamental and clinical studies of cefoperazone (T-1551) in the field of obstetrics and gynecology. Chemotherapy (Tokyo) 1980 ; 28 ( Suppl 6 ): 825 - 36 . 2 Matsuda S. Transfer of antibiotics into maternal milk. Biol Res Pregnancy Perinatol 1984 ; 5 : 57 - 60 . 6743732 3 Matsuda S , Kashiwagura T , Hirayama H . Passage into the human milk and clinical evaluation of sulbactam/cefoperazone. Jpn J Antibiot 1985 ; 38 : 223 - 9 . 2989572",
+      "Substance Name": "Cefoperazone",
+      "CAS Registry Number": "62893-19-0",
+      "Drug Class": "Breast Feeding Lactation Milk, Human Anti-Infective Agents Antibacterial Agents Cephalosporins"
+    }
+  },
+  "notes": {
+    "dailymed": "No US label: cefoperazone/sulbactam was never FDA-approved; single-agent cefoperazone (Cefobid) is no longer marketed in the US (DailyMed searches \"cefoperazone and sulbactam\", \"cefoperazone sodium and sulbactam sodium\", \"cefoperazone\" all returned nothing).",
+    "smpc": "No UK SmPC: not licensed in the UK (eMC searches \"sulperazon\", \"cefoperazone\" returned nothing).",
+    "lactmed": "No combination chapter; LactMed \"Cefoperazone\" (NBK501355) used. Its ref 3 (PMID 2989572) concerns sulbactam/cefoperazone milk passage.",
+    "taiwan_inserts": [
+      "cefoperazone-and-sulbactam-taiwan-insert-brosym.txt (衛部藥製字第058156號, FJUH BRO04)",
+      "cefoperazone-and-sulbactam-taiwan-insert-burotam.txt (衛部藥製字第061039號, FJUH BUR01)"
+    ]
+  }
+}

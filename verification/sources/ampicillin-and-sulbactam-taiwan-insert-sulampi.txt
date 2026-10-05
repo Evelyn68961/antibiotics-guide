@@ -1,0 +1,56 @@
+Taiwan package insert (仿單) - 舒安比靜脈乾粉注射劑 750 毫克、1500 毫克、3000 毫克
+Sulampi Powder for IV Injection 750mg, 1500mg, 3000mg
+衛署藥製字第 052553 號 - 政德製藥股份有限公司 (Genuine Pharmaceutical / GP), 雲林縣大埤鄉
+Source PDF (scanned image, 2 pages, hosted by Cardinal Tien Hospital drug-info page for "Sulampi Inj -1.5gm", NHI code AC52553210 = same NHI code as FJUH SUL05):
+  https://www.cth.org.tw/public/medi_news/9e24641f15ab702170213ee1b96e6469.pdf
+  Detail page: https://www.cth.org.tw/?aid=606&pid=0&page_name=detail&iid=1942
+Insert carries no revision date; server Last-Modified 2026-01-22. Transcribed manually from page images
+(no OCR available) on 2026-10-05; key clinical sections only, wording kept close to the original.
+
+【適應症】
+鏈球菌、葡萄球菌、大腸桿菌、克雷氏菌、流行感冒嗜血桿菌、吲哚陰性變形桿菌、檸檬酸菌屬、厭氣性細菌
+(Bacteroides Fusobacterium. Clostridium difficile)、Branhamella catarrhalis 引起之感染症。
+[Note: the licensed indication text itself lists "Clostridium difficile" among susceptible anaerobes.]
+
+【劑型】 小瓶包裝乾粉, Sulbactam + Ampicillin = 250+500 mg, 500+1000 mg, 1000+2000 mg (ratio 1:2).
+
+【劑量與用法】 可靜脈內注射給予.
+Reconstitution table: 0.75 g -> 1.6 mL; 1.5 g -> 3.2 mL; 3 g -> 6.4 mL; max final conc 125-250 mg/mL.
+IV bolus over at least 3 minutes, or further diluted and infused over 15-30 minutes.
+使用於成人: 常用劑量 1.5 g 到 12 g 日劑量, 分成每 6 或 8 小時給予一次; 每天 Sulbactam 最大劑量 4 g;
+  較不嚴重的感染可以每 12 小時注射一次.
+  Severity table (daily dose, g, sulbactam+ampicillin): 輕度 1.5-3 (0.5+1 至 1+2); 中度 最大至 6 (2+4); 重度 最大至 12 (4+8).
+  通常治療持續到發燒或其他不正常徵候消失後 48 小時, 一般 5-14 天; 嚴重病例可延長或增加 ampicillin.
+  每 1500 mg 約含 115 mg (5 mmol) 鈉.
+  預防手術感染: 誘導麻醉時給 1.5-3 g, 可每 6-8 小時重複, 通常術後 24 小時內停藥.
+  非併發性淋病: 單一 1.5 g, 同時口服 probenecid 1.0 g.
+使用於孩童、嬰兒和新生兒: 150 mg/kg/day (sulbactam 50 + ampicillin 100 mg/kg/day), 每 6 或 8 小時一次.
+  一週大的新生兒 (特別是早產兒): 75 mg/kg/day (sulbactam 25 + ampicillin 50), 分次每 12 小時.
+使用於腎功能障礙患者: 腎功能嚴重受損 (CrCl <= 30 mL/min) 時, sulbactam 與 ampicillin 清除受影響程度類似,
+  血漿中二者比例維持不變; 應比一般 ampicillin 使用法減少服用次數. (No CrCl-banded table in this insert.)
+
+【禁忌】 對任何青黴素有過敏反應的病人禁止使用本混合製品。
+
+【特殊警告或使用注意事項】 (summary) 嚴重或致命過敏反應 (含頭孢菌素交叉過敏史) -> 停藥並給予腎上腺素等;
+  非敏感菌二重感染; 長期治療定期檢查腎、肝、造血功能 (特別新生兒、早產兒); 單核球增多症病人使用 ampicillin 易出皮疹, 不應使用.
+
+【與其他藥物的交互作用】 allopurinol (皮疹增加); aminoglycosides (體外失活, 分開部位給予, 間隔至少 1 小時);
+  抗凝血劑; 抑菌性抗生素 (chloramphenicol, erythromycin, sulfonamides, tetracyclines) 可能干擾殺菌作用;
+  含動情素口服避孕藥效果可能降低; methotrexate 清除降低 (監測毒性); probenecid 升高並延長血中濃度;
+  Benedict/Fehling/Clinitest 尿糖偽陽性; 孕婦 conjugated estriol 等暫時降低.
+
+【懷孕和哺乳】 動物生殖研究未證實因 sulbactam 和 ampicillin 致生殖能力或胎兒傷害; sulbactam 會穿過胎盤;
+  懷孕和哺乳期間使用的安全性尚未建立.
+
+【不良反應】 最主要為注射部位疼痛; 少數靜脈注射後發生靜脈炎或注射部位過敏反應.
+  全身性: 過敏反應/過敏性休克; 中樞和周邊神經: 罕有全身痙攣; 腸胃: 噁心、嘔吐、腹瀉, 偽膜性結腸炎;
+  造血和淋巴: 貧血、溶血性貧血、血小板減少、嗜伊紅性白血球增多、白血球減少 (停藥後會恢復, 屬過敏反應);
+  肝/膽: ALT/AST 暫時升高, 膽紅素血症, 肝功能不正常與黃疸; 皮膚: 出疹、癢、罕見 Stevens-Johnson、
+  多形性紅斑、上皮壞死; 泌尿: 罕有間質性腎炎.
+
+【過量】 β-lactam CSF 高濃度可致神經副作用 (含痙攣); 兩者皆可經血液透析移除, 腎功能受損者過量時可助清除.
+
+【藥物動力學】 可快速進入大部分組織和體液, 腦膜發炎外穿透腦和脊髓量不高; 半衰期約 1 小時; 大部分以原型排泄於尿中.
+
+【配伍禁忌】 與 aminoglycosides 應分別配製及使用.
+(Stability/dilution table and storage omitted on purpose - not added to Notion per owner.)

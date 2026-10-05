@@ -1,0 +1,457 @@
+Source: TFDA 藥品仿單查詢平台 (mcp.fda.gov.tw), 驅黴霸100毫克膠囊 CRESEMBA 100 mg capsules, 衛部藥輸字第027795號, 美商惠氏藥廠（亞洲）股份有限公司台灣分公司 (Pfizer). Hospital code CRE03.
+URL: https://mcp.fda.gov.tw/im_detail_1/%E8%A1%9B%E9%83%A8%E8%97%A5%E8%BC%B8%E5%AD%97%E7%AC%AC027795%E8%99%9F
+Insert version: 版本 ：20250717- 2; latest history entry 114/11/03 (2025-11-03), 版次 6. Fetched 2026-10-05.
+
+1 性狀
+1.1
+有效成分及含量
+每顆膠囊含有 100 mg isavuconazole（相當於 186.3  mg isavuconazonium sulfate）。
+有關賦形劑的完整列表，請參閱 1.2 節。
+1.2
+賦形劑
+膠囊內容物
+magnesium citrate (anhydrous)
+microcrystalline cellulose
+talc
+silica, colloidal anhydrous
+stearic acid
+膠囊殼
+hypromellose
+iron oxide red
+titanium dioxide
+gellan gum
+potassium acetate
+edetate disodium
+sodium laurilsulfate
+ink black
+1.3
+劑型
+膠囊劑
+1.4
+藥品外觀
+瑞典橘（紅棕色）膠囊體，印有「100」黑色字樣。白色上蓋，印有「C」黑色字樣。
+2 適應症
+(1)  侵犯性麴菌症（invasive aspergillosis）
+(2)  使用於不適合接受 amphotericin B 的病人治療白黴菌病（mucormycosis）
+說明：
+以上適應症僅適用於成人。
+應考量抗黴菌劑的正式適當使用準則。
+使用
+開始抗黴菌劑治療前應取得黴菌培養檢體並進行其他相關實驗室（包含組織病理學）檢測，以分離並辨識致病原。在得到培養結果和獲悉其他實驗室檢測報告前可先開始進行治療，然而一旦取得上述結果時，應根據報告內容調整抗黴菌劑治療。
+3 用法及用量
+3.1
+用法用量
+劑量療程
+CRESEMBA (isavuconazonium sulfate)是azole類抗黴菌劑isavuconazole的前驅藥物。
+依下述方式開立CRESEMBA處方。
+起始劑量
+維持劑量 c
+CRESEMBA 膠囊
+每膠囊含186 mg a  的 isavuconazonium sulfate
+每8小時口服2顆膠囊 (372 mg b )  共6劑 (48 小時)
+每天一次口服2顆膠囊 (372 mg b )
+a  186 mg isavuconazonium sulfate 劑量等同於 100 mg isavuconazole
+b  372 mg isavuconazonium sulfate 劑量等同於 200 mg isavuconazole
+c  自最後一劑起始劑量後 12 至 24 小時起開始維持劑量
+可接受CRESEMBA的靜脈輸注劑型與口服劑型之間的轉換，因為已證明其生體相等性，劑型之間轉換時不需給與起始劑量。
+口服時須吞服整顆膠囊。勿嚼碎、擠壓、溶解或打開膠囊。
+CRESEMBA膠囊可伴隨食物或空腹服用。
+有關 6 個月後的長期治療，應謹慎考量利益與風險的平衡（參閱第 12 和 10.3 節）。
+不相容性
+不適用。
+4 禁忌
+CRESEMBA 禁用於已知對 isavuconazole或本品之賦形劑 過敏者（參閱第 1.2節）。
+禁止CRESEMBA 與強效 CYP3A4抑制劑併用，如 ketoconazole，或高劑量 ritonavir（每 12 小時 400 mg），因強效CYP3A4抑制劑會顯著提高 isavuconazole 的血漿濃度（參閱第 7 節）。
+禁止CRESEMBA 與 強效CYP3A4誘導劑併用，如 rifampin、carbamazepine 和聖約翰草（St. John’s wort），或長效型 barbiturate 類藥物，因強效 CYP3A4誘導劑會顯著降低 isavuconazole 的血漿濃度（參閱第 7 節）。
+CRESEMBA 會縮短 QTc 間期且與劑量相關。患有遺傳性短 QT 症候群的病人禁止使用CRESEMBA（參閱第 5.1 節）。
+5 警語及注意事項
+5.1
+警語/注意事項
+過敏
+對 isavuconazole 過敏可能引起不良反應，包括：過敏性反應 、 低血壓、呼吸衰竭、呼吸困難、藥疹、搔癢、和皮疹（參閱第 8.1 節）。若發生過敏性反應，應立即停用isavuconazole並開始適當的藥物治療。
+對其他 azole 類抗黴菌劑過敏的病人應謹慎開立 isavuconazole。
+嚴重皮膚不良反應
+Azole 類抗黴菌劑治療曾通報發生嚴重皮膚不良反應，例如史蒂芬強生(Stevens-Johnson) 症候群。若病人發生嚴重皮膚不良反應，應停用 CRESEMBA。
+心血管
+QT 間隔縮短
+CRESEMBA 不可使用於患有遺傳性短 QT 症候群的病人（參閱第 4 節）。
+在一項對於健康人體受試者進行的 QT 試驗中，isavuconazole 會引起與濃度相關的QTc 間隔縮短。在200 mg 劑量療程中，與安慰劑間的最小平方平均值 (least squares mean, LSM) 差異為給藥後 2 小時的 13.1 ms [90% CI: 17.1, 9.1 ms]。當劑量增加至 600 mg 時，與安慰劑間的 LSM 差異為給藥後 2 小時的 24.6 ms [90% CI: 28.7, 20.4 ms]。
+若病人同時服用已知會縮短 QT 間隔的其他藥物（例如：rufinamide）時，必須謹慎開立 CRESEMBA。
+肝臟轉胺酶升高或肝炎
+臨床試驗中曾通報發生肝臟轉胺酶升高（參閱第 8.1節）。極少發生因肝臟轉胺酶升高而需要停用 CRESEMBA 的情況。臨床上需要時，應考慮監測肝臟酵素。肝炎曾被報導發生於使用azole 類抗黴菌劑包含CRESEMBA的病人。
+臨床資料的限制
+Isavuconazole 治療白黴菌病的臨床資料僅有一項前瞻性非對照臨床試驗，對象為接受 isavuconazole 作為主要治療、或不適合接受其他抗黴菌劑治療（主要為 amphotericin B）的經確認或可能患有白黴菌病的 37 位病人。
+有關個別毛黴目( Mucorales) 物種的臨床療效資料非常有限，一般僅有一或二位病人（參閱第 12 節）。  目前僅取得一個小型病例子集的感受性資料。這些資料顯示，isavuconazole 在試管內試驗中所需的抑制濃度在毛黴目中的各屬/物種間變化極大，一般高於抑制麴黴菌屬物種的濃度。應注意的是，尚未對於白黴菌病進行劑量尋找試驗，且病人均接受相同於治療侵犯性麴菌症的 isavuconazole  劑量。
+5.3
+操作機械能力
+Isavuconazole 對於駕駛及操作機械能力可能會造成中等影響。若發生意識混淆、嗜睡、昏厥、和/或頭昏的症狀，應避免駕駛或操作機械。
+6 特殊族群注意事項
+6.1
+懷孕
+目前尚無 CRESEMBA 使用於懷孕婦女的資料。
+動物試驗已顯示生殖毒性。在大鼠與兔子試驗中，給與全身暴露量低於治療濃度的 isavuconazole 時，涉及子代骨骼異常（發育不全的額外肋骨）的發生率表現出劑量相關性的增加。在大鼠試驗中，也觀察到子代顴骨弓融合發生率表現出劑量相關性的增加。
+懷孕期間至斷奶期給與大鼠isavuconazonium sulfate 90 mg/kg/day（約為人體臨床維持劑量200 mg isavuconazole全身暴露量的1.0倍）時，顯示增加幼鼠週產期死亡率。在子宮內暴露於活性部分 isavuconazole 未影響存活幼鼠的生殖力。
+目前仍不知道對於人體的可能風險。
+CRESEMBA 不得使用於懷孕期間，除非病人患有嚴重或可能危及生命的黴菌感染，且使用 isavuconazole 的預期利益高於對胎兒的可能風險時。
+6.2
+哺乳
+目前取得的動物藥效學/毒理學資料顯示 isavuconazole/代謝物會分泌至乳汁中。 於哺乳大鼠靜脈輸注以  14 C 標記之 isavuconazonium sulfate 後，在乳汁中測得放射性。
+無法排除對新生兒和嬰兒有害的風險。
+CRESEMBA 治療期間應停止哺乳。
+6.3
+有生育能力的女性與男性
+CRESEMBA 不建議使用於未採取避孕措施的具生育能力女性。
+生育力
+目前尚無 isavuconazole 對於人體生育力影響的資料。動物試驗未顯示對於雄性或雌性大鼠生育力的影響（參閱第 10.3 節）。
+6.6
+肝功能不全
+CRESEMBA 尚未在重度肝功能不全病人（Child-Pugh 等級C）進行研究。不建議使用於此類病人，除非可能的利益高於風險。應密切監測這些病人可能的藥物毒性。參閱第 3.1、8.1 和 11 節。
+7 交互作用
+Isavuconazole 是 CYP3A4 的敏感受質。CYP3A4 抑制劑或誘導劑可能會改變 isavuconazole 的血漿濃度。
+Isavuconazole 是中效 CYP3A4 抑制劑及P-醣蛋白 (P-gp) 和有機陽離子轉運蛋白 2（OCT2）的弱效抑制劑。
+已進行藥物交互作用試驗探討併用藥物對 isavuconazole 藥物動力學的影響，以及 isavuconazole 對併用藥物的藥物動力學造成之影響（參閱第 11 節）。
+表 1 影響 CRESEMBA 藥物動力學之藥物
+建議
+說明
+Ketoconazole
+禁止與所有強效 CYP3A4 抑制劑併用
+當與 ketoconazole併用時， isavuconazole的暴露量增加超過 5 倍。
+Lopinavir/ritonavir a
+當CRESEMBA  與lopinavir/ritonavir  併用時應謹慎
+當與 lopinavir/ritonavir併用時， isavuconazole的暴露量增加 96%。
+Rifampin
+禁止與所有強效 CYP3A4 誘導劑併用
+當與 rifampin 併用時， isavuconazole的暴露量降低 97%。
+a  400 mg  lopinavir 與100 mg ritonavir合併使用。
+表 2 CRESEMBA 對其他藥物之藥物動力學影響
+建議
+說明
+Lopinavir/ritonavir a
+謹慎使用
+同時使用 lopinavir/ritonavir 與 CRESEMBA會導致 lopinavir 和 ritonavir 暴露量減低，可能因此失去抗病毒療效。
+Atorvastatin
+謹慎使用
+同時使用 atorvastatin與 CRESEMBA 時須謹慎，因atorvastatin 的暴露量可能會上升。應監測病人是否出現使用 atorvastatin 的典型不良反應。
+Cyclosporine
+謹慎使用
+同時使用 cyclosporine 與 CRESEMBA 會導致 cyclosporine 暴露量上升。應監測 cyclosporine 的藥物濃度，並視需要調整劑量。
+Sirolimus
+謹慎使用
+同時使用 CRESEMBA 與 sirolimus 會導致 sirolimus暴露量上升。應監測 sirolimus 的藥物濃度，並視需要調整劑量。
+Tacrolimus
+謹慎使用
+同時使用 CRESEMBA 與 tacrolimus 會導致 tacrolimus 暴露量上升。應監測 tacrolimus 的藥物濃度，並視需要調整劑量。
+Midazolam
+謹慎使用
+同時使用 CRESEMBA 與 midazolam 會導致 midazolam 暴露量上升。當與 isavuconazole  併用時，應考慮調降 midazolam 的劑量。
+Bupropion
+謹慎使用
+同時使用 CRESEMBA 與 bupropion 會導致 bupropion  暴露量下降。當與 CRESEMBA併用時，可能需要增加 bupropion 的劑量，但不應超過最高建議劑量。
+Mycophenolate Mofetil
+謹慎使用
+同時使用 CRESEMBA 與 MMF 會導致 MMF暴露量上升。應監測同時接受 CRESEMBA 與 MMF 的病人是否出現 MPA 相關毒性。
+Digoxin
+謹慎使用
+同時使用 CRESEMBA 與 digoxin 會導致 digoxin 暴露量上升。當與 CRESEMBA同時給藥時，應監測血清 digoxin濃度並用於調整劑量。
+a  400 mg 的 lopinavir 與100 mg  ritonavir合併使用。
+8 副作用/不良反應
+8.1
+臨床重要副作用/不良反應
+安全性概況摘要
+於第3期試驗以CRESEMBA治療侵犯性黴菌感染之403位病人中， 最常見治療相關不良反應為肝臟化學檢測數值升高 (7.9%)、噁心 (7.4%)、嘔吐 (5.5%)、呼吸困難 (3.2%)、腹痛 (2.7%)、腹瀉 (2.7%)、注射部位反應 (2.2%)、頭痛 (2.0%)、低血鉀 (1.7%) 和皮疹 (1.7%)。
+導致永久停止 CRESEMBA 治療的最常見不良反應為意識混淆 (0.7%)、血中膽紅素升高 (0.5%)、痙孿 (0.5%)、呼吸困難 (0.5%)、癲癇 (0.5%)、呼吸衰竭 (0.5%) 和嘔吐 (0.5%)。
+不良反應列表
+表 3 為以 isavuconazole 治療侵犯性黴菌感染的不良反應，依據系統器官類別和頻率列出。
+不良反應頻率定義如下：非常常見（≥1/10）；常見（≥1/100 至 <1/10）；不常見（≥1/1,000 至 <1/100）；和未知（無法從現有資料推估頻率）。
+在每一個發生率組別中，各項不良反應皆按照嚴重度由高排到低列出。
+表 3 按 MedDRA 系統器官類別與頻率列出的不良反應摘要
+系統器官類別
+藥物不良反應
+血液和淋巴系統異常
+不常見
+嗜中性白血球減少；血小板減少 ^ ；全血球減少；白血球減少 ^ ；
+貧血 ^
+免疫系統疾病
+不常見
+過敏 ^
+未知
+過敏性反應 *
+代謝與營養疾病
+常見
+低血鉀；食慾不振
+不常見
+低血鎂；低血糖；低白蛋白血症；營養不良 ^  ；低血鈉
+精神疾病
+常見
+譫妄 ^#
+不常見
+憂鬱；失眠 ^
+神經系統疾病
+常見
+頭痛；嗜睡
+不常見
+痙孿 ^ ；昏厥；頭暈；感覺異常 ^ ；
+腦病變；昏厥前期；周邊神經病變；味覺障礙
+耳朵和迷路疾病
+不常見
+眩暈
+心臟疾病
+不常見
+心房顫動；心搏過速；心搏過緩 ^ ；心悸；
+心房撲動；心電圖 QT 間隔縮短；上心室心搏過速；室性期外收縮；室上性期外收縮
+血管問題
+常見
+血栓性靜脈炎 ^
+不常見
+循環衰竭；低血壓
+呼吸、胸腔及縱膈疾病
+常見
+呼吸困難 ^ ； 急性呼吸衰竭 ^
+不常見
+支氣管痙孿；呼吸急促；咯血；流鼻血
+胃腸道疾病
+常見
+嘔吐；腹瀉；噁心；腹痛 ^
+不常見
+消化不良；便祕；腹脹
+肝膽疾病
+常見
+肝臟化學檢測數值升高 ^#
+不常見
+肝臟腫大；肝炎
+皮膚與皮下組織疾病
+常見
+皮疹 ^ ；搔癢
+不常見
+瘀斑；掉髮；藥疹；皮膚炎 ^
+肌肉骨骼與結締組織疾病
+不常見
+背痛
+腎臟和泌尿道疾病
+常見
+腎衰竭
+全身性異常與投藥部位情況
+常見
+胸痛 ^ ；疲倦
+不常見
+周邊水腫 ^ ；不舒服；虛弱
+^  表示將適當的常用詞彙組成所發生的單一醫療概念。
+*  上市後發現的藥物不良反應 (ADR)。
+#  請參閱以下有關選定不良反應之說明章節。
+部分不良反應之說明
+譫妄包括意識混淆反應。
+肝臟化學檢測數值升高包括丙胺酸轉胺酶升高、天冬胺酸轉胺酶升高、血中鹼性磷酸酶升高、血中膽紅素升高、血中乳酸脫氫酶升高、丙麩胺醯氨轉酸酶升高、肝臟酵素升高、肝功能異常、高膽紅素血症、肝功能檢測結果異常、和轉胺酶升高事件。
+對實驗室檢測結果的影響
+在對於因麴黴菌屬物種或其他菌絲型真菌類引起侵犯性黴菌疾病的 516 位病人所進行一項雙盲、隨機分配、活性藥物對照臨床試驗中，4.4% 的 CRESEMBA 治療病人在試驗治療結束時通報發生肝臟轉胺酶（丙胺酸轉胺酶或天冬胺酸轉胺酶）升高至 > 3 × 正常值上限 (Upper Limit of Normal, ULN)。1.2% 的 isavuconazole 治療病人發生肝臟轉胺酶顯著升高至 > 10 × ULN。
+疑似不良反應的通報
+藥品獲得核准後的疑似不良反應通報十分重要。此能讓藥品效益/風險的平衡持續受到監測。
+9 過量
+症狀
+在一項 QT 試驗中評估為高於 CRESEMBA 治療劑量（相當於 isavuconazole 600 mg/day）時發生率高於治療劑量組（相當於 isavuconazole 200 mg/day）的症狀包括：頭痛、頭暈、感覺異常、嗜睡、注意力不集中、味覺障礙、口乾、腹瀉、口腔感覺遲鈍、嘔吐、熱潮紅、焦慮、躁動、心悸、心搏過速、畏光和關節痛。
+藥物過量的處理
+Isavuconazole 無法以血液透析排除。目前沒有 isavuconazole 的特定解毒劑。若發生藥物過量，應給與支持性治療。
+10 藥理特性
+10.1
+作用機轉
+藥物分類：全身性使用之 triazole 及 tetrazole 衍生物抗真菌劑，ATC 碼：J02AC05。
+作用機轉
+Isavuconazole 是口服或靜脈輸注給與 isavuconazonium sulfate 後所形成的活性部分（參閱第 11 節）。
+Isavuconazole 可經由抑制將lanosterol轉化為ergosterol的lanosterol 14-alpha-demethylase(細胞色素 P‑450依賴性酵素)，進而阻斷ergosterol（為黴菌細胞膜的重要組成）的合成，顯示其殺黴菌作用。如此會導致細胞膜內甲基化固醇前驅物的累積與ergosterol的缺乏，進而減弱黴菌細胞膜的結構和功能。
+10.2
+藥效藥理特性
+微生物學
+在瀰漫性肺麴菌病(disseminated pulmonary aspergillosis)的動物模型中，以藥品暴露量除以最小抑制濃度 (area under curve/minimum inhibitory concentration, AUC/MIC)的藥效學 (pharmacodynamic, PD) 指數，對於臨床療效相當重要。
+無法建立不同物種[ 麴黴菌屬(Aspergillus) 和 毛黴目(Mucorales )]於體外試驗之最小抑制濃度(MIC) 與臨床反應間的明確相關性。
+體外試驗中抑制麴黴菌屬 (Aspergillus) 物種和毛黴目 (Mucorales )屬/物種所需的 isavuconazole 濃度變化極大。一般而言，抑制毛黴目所需的 isavuconazole 濃度高於抑制大部分麴黴菌屬物種所需的濃度。
+Isavuconazole對以下麴黴菌屬物種已表現出臨床療效： 煙麴黴菌  ( Aspergillus fumigatus)、黃麴黴菌 (A. flavus)、黑麴黴菌 (A. niger)和土麴黴菌  ( A. terreus)（參閱以下說明）。
+抗藥性機轉
+對triazole 抗黴菌劑感受性降低，已知與參與ergosterol生物合成之目標蛋白lanosterol 14-alpha-demethylase中黴菌  cyp51A  和  cyp51B  基因編碼的突變相關。曾有報告顯示，在體外試驗中，黴菌菌株對isavuconazole 表現出較低的感受性，且isavuconazole無法排除與 voriconazole 和其他 triazole 抗黴菌劑之間的交互抗藥性。
+EUCAST分界點
+Aspergillus species (麴菌屬)
+最低抑菌濃度 (MIC) 分界點 (mg/L)
+≤S（感受性）
+>R（抗藥性）
+黃麴黴菌 (Aspergillus flavus)
+1
+2
+煙麴黴菌 (Aspergillus fumigatus)
+1
+2
+小巢狀麴菌 (Aspergillus nidulans)
+0.25
+0.25
+土麴黴菌 (Aspergillus terreus)
+1
+1
+目前尚無足夠資料可用於為其他麴菌屬物種定義臨床分界點。
+10.3
+臨床前安全性資料
+10.3.1
+致癌性、致突變性及生育力損傷
+在2年的齧齒動物致癌性試驗中，已顯示Isavuconazole具有致癌的潛在可能。肝臟和甲狀腺腫瘤可能是由齧齒動物特定的機轉所造成，與人類無關。在雄性大鼠中觀察到皮膚纖維瘤和纖維肉瘤，這種反應的潛在機轉尚不清楚。在雌性大鼠中觀察到的子宮內膜腺瘤和子宮癌，可能是因荷爾蒙紊亂所導致。這些反應沒有安全邊際（safety margin），無法排除與人類皮膚及子宮腫瘤的相關性。
+Isavuconazole 不具可辨識的致畸性或基因毒性可能性。Isavuconazole 在一項細菌基因逆向變異試驗中結果呈陰性，在 L5178Y tk+/- 小鼠淋巴瘤染色體變異試驗中，於細胞毒性濃度時顯示具微弱的致染色體斷裂性，且在一項體內大鼠微核試驗中，顯示微核頻率未表現出生物學上相關或統計上顯著的增加。
+雄性或雌性大鼠口服最高達 isavuconazole 90 mg/kg/day（約為人體臨床維持劑量200 mg isavuconazole全身暴露量的1.0倍）之劑量時，生殖力未受影響。
+10.3.2
+動物毒理及/或藥理
+Isavuconazole 會抑制 hERG 鉀通道與 L-型鈣通道，且 IC 50 分別為 5.82 µM 與 6.57 µM[分別相當於 34 與 38倍於給與人體最大建議劑量 (maximum recommended human dose, MRHD) 時的人體非蛋白質結合 C max ]。在對於猴子進行的 39 週重複劑量毒理學 體內 試驗中，給與最高劑量達 40 mg/kg/day（約為人體臨床維持劑量 200 mg isavuconazole 全身暴露量的 1.0 倍）時，未顯示 QTcF 延長。
+環境風險評估顯示，Cresemba 可能對水環境造成風險。
+11 藥物動力學特性
+Isavuconazonium sulfate 是一種水溶性前驅藥物，可採用靜脈輸注或口服膠囊方式給藥。Isavuconazonium sulfate 在給藥後會被血漿酯酶快速水解為活性成分 isavuconazole；靜脈輸注給藥後，前驅藥物的血漿濃度非常低且僅可在短時間內測得。
+吸收
+健康受試者口服 CRESEMBA 後，活性成分 isavuconazole 會被吸收，且在單次和多次給藥後約 2-3 小時可達到最高血中濃度 (C max )（參閱表 4）。
+表 4  口服 CRESEMBA 後的 isavuconazole 穩定態藥物動力學參數
+參數
+統計
+Isavuconazole 200  mg
+(n = 37)
+Isavuconazole 600  mg
+(n = 32)
+C max  (ng/mL)
+平均值(Mean)
+標準差(SD)
+變異係數(CV %)
+7499
+1893.3
+25.2
+20028
+3584.3
+17.9
+t max  (h)
+中位數(Median)
+範圍(Range)
+3.0
+2.0 – 4.0
+4.0
+2.0 – 4.0
+AUC (h•ng/mL)
+平均值(Mean)
+標準差(SD)
+變異係數(CV %)
+121402
+35768.8
+29.5
+352805
+72018.5
+20.4
+如表 5 所示，口服單劑 CRESEMBA 後的 isavuconazole 絕對生體可用率為98%。依據這些發現，可交換使用靜脈輸注和口服給藥的方式。
+表 5  口服與靜脈輸注給藥的藥物動力學比較（平均值）
+口服 ISA 400  mg
+靜脈輸注 ISA 400  mg
+AUC (h • ng/mL)
+189462.8
+193906.8
+CV %
+36.5
+37.2
+半衰期 (h)
+110
+115
+食物對於吸收的影響
+伴隨高脂餐點口服使用相當於isavuconazole 400 mg 的 CRESEMBA後，食物會使體內isavuconazole 的 C max  降低 9%， AUC 增加 9%。因此，CRESEMBA可伴隨食物或空腹服用。
+分佈
+Isavuconazole 可在體內廣泛分佈，穩定態下平均分佈體積 (V ss ) 約為 450 L。Isavuconazole 會與人體血漿蛋白質高度結合(>99%)，主要為白蛋白。
+生物轉化
+體外/體內試驗 顯示，CYP3A4、CYP3A5、和後續的尿核甘雙磷酸葡萄糖醛酸基轉移酵素 (UGT) 參與了 isavuconazole 的代謝。
+於人體給與單劑 [cyano‑ 14 C] isavuconazonium 和 [pyridinylmethyl‑ 14 C] isavuconazonium sulfate 後，除了活性部分 (isavuconazole) 和非活性裂解產物之外，也確認了多個次要代謝物。除了活性物質 isavuconazole 之外，未觀察到AUC>10%總放射性標記物質的個別代謝物。
+排除
+健康受試者口服放射性標記 isavuconazonium sulfate 後，平均有 46.1% 的放射性劑量出現於糞便中，45.5% 出現於尿液中。
+自腎臟排除的原型 isavuconazole 低於給與劑量的 1%。
+非活性裂解產物主要透過代謝及隨後由腎臟排除代謝物的方式排除。
+線性/非線性
+健康受試者試驗顯示，isavuconazole 在最高至每天 600  mg 時表現出成比例的藥物動力學。
+特殊族群的藥物動力學
+老年病人
+單劑量口服使用相當於isavuconazole 200 mg 的CRESEMBA於老年病人(65歲以上)，其isavuconazole的AUC與年輕病人(18至45歲)相似；年輕女性與年輕男性，以及老年男性與年輕男性間的AUC相似。
+老年女性的AUC分別較老年男性、年輕女性的AUC高出38%與47%；接受CRESEMBA的老年女性的藥物動力學差異不被認為具臨床意義；因此，無需依據年齡與性別進行劑量調整。
+兒童病人
+尚未評估使用於兒童病人（< 18 歲）的藥物動力學。目前無資料。
+種族
+已發展一個用於評估isavuconazole西方(Western)與中國(Chinese)健康受試者間的藥動差異之二室群體藥物動力學。相較於西方受試者，中國受試者的清除率有40%的降低(比較中國受試者的1.6 L/hr與西方受試者的 2.6L/hr)，因此AUC較西方受試者提升約50%。身體質量指數(BMI)並未在觀察值的差異上扮演重要角色。中國受試者無需進行劑量調整。
+性別
+年輕女性與男性(18至45歲)的AUC相似，但老年女性的AUC有差異(見上述老年病人段落)。無需依據性別進行劑量調整。
+腎功能不全
+相較於腎功能正常受試者，未在輕度、中度或重度腎功能不全受試者中，觀察到isavuconazole 的總 C max  及 AUC具臨床上相關性的改變。在第 3 期試驗中接受 CRESEMBA 的 403 位病人中，79 位 (20%) 病人的腎絲球過濾率 (glomerular filtration rate, GFR) 估計值低於 60 mL/min/1.73 m 2 。腎功能不全病人無需調整劑量，包括末期腎病病人。Isavuconazole不易由透析方式排除（參閱第 3.1 節）。
+肝功能不全
+在32 位輕度（Child-Pugh 等級 A）和 32 位中度（Child-Pugh 等級 B）肝功能不全病人（每個 Child-Pugh 等級為 16 位採靜脈輸注與16 位採口服給藥）給與單劑 isavuconazole 100 mg 後，相較於 32 位年齡和體重匹配的肝功能正常健康受試者，Child-Pugh 等級 A 組的最小平方平均全身暴露量 (AUC) 增加 64%，Child‑Pugh 等級 B 組則為 84%。Child-Pugh 等級 A 組的平均血漿濃度 (C max )降低 2%，Child-Pugh 等級 B 組則降低 30%。Isavuconazole 使用於健康受試者和輕度或中度肝功能不全病人的群體藥物動力學評估顯示，輕度和中度肝功能不全族群的 isavuconazole 清除率 (clearance, CL) 數值較健康族群低 40% 和 48%。
+輕度至中度肝功能不全的病人不需調整劑量。
+Cresemba 尚未在重度肝功能不全病人（Child‑Pugh 等級 C）進行研究。不建議使用於此類病人，除非可能的利益高於風險。參閱第 3.1 和 6.6 節。
+藥物交互作用
+Isavuconazole 是CYP3A4 與CYP3A5的受質。體外試驗顯示，Isavuconazole 是CYP3A4、CYP2C8、 CYP2C9 、CYP2C19與 CYP2D6的抑制劑。Isavuconazole 也是P-醣蛋白(P-gp)、 BCRP和有機陽離子轉運蛋白2(OCT2)的抑制劑。體外試驗顯示，Isavuconazole也是CYP3A4、CYP2B6、 CYP2C8 與CYP2C9的誘導劑。
+併用藥物對Isavuconazole的藥物動力學的影響及Isavuconazole對併用藥物的藥物動力學的影響試驗，為在健康受試者投與單劑或多劑Isavuconazole所進行的研究。
+Ketoconazole、rifampin、lopinavir/ritonavir及 esomeprazole 對 isavuconazole的影響顯示於圖1。
+Ketoconazole: 是一種強效CYP3A4抑制劑，重複劑量給與ketoconazole連續24天(200 mg、每天兩次)以及單一劑量給與CRESEMBA(相等於200 mg的isavuconazole)後，ketoconazole增加了 isavuconazole 的C max  (9%)及AUC (422%)。Isavuconazole是一種CYP3A4的敏感性受質，依據4.3節及圖1資訊，isavuconazole禁止與強效CYP3A4抑制劑併用。
+Lopinavir/Ritonavir:  Lopinavir/ritonavir (400 mg/100 mg每天兩次)會增加isavuconazole (臨床劑量) 的C max  及 AUC，分別為74%及 96%；同時lopinavir及ritonavir 的平均血漿濃度也分別降低了 27% 及31%。
+Rifampin:  當與重複劑量CRESEMBA併用時，Rifampin (600 mg) 會降低isavuconazole的C max  及AUC(平均值)分別為 75% 及 97%， 因此CRESEMBA 禁止與強效 CYP3A4 誘導劑併用。
+圖1併用藥物對於Isavuconazole暴露量的影響
+Isavuconazole 對於 ritonavir、lopinavir、prednisone、combined oral contraceptives (ethinyl estradiol 與 norethindrone)、cyclosporine、atorvastatin、sirolimus、midazolam以及tacrolimus的影響顯示於圖2。
+CYP3A4 受質:  CRESEMBA 增加敏感性 CYP3A4 受質 midazolam、sirolimus及tacrolimus 的全身暴露量約2倍，因此CRESEMBA為一種中效CYP3A4抑制劑。
+圖2 Isavuconazole對於併用CYP3A4受質藥物的影響
+Isavuconazole對其他 CYP 受質的影響: caffeine、bupropion、methadone、repaglinide、warfarin、 omeprazole及dextromethorphan顯示於圖 3。
+圖3 Isavuconazole對於其他CYP受質藥物併用之曝露量的影響
+Isavuconazole 對於UGT受質及轉運蛋白的影響: mycophenolate mofetil (MMF)、methotrexate、 metformin及digoxin顯示於圖 4。
+圖4 Isavuconazole對於UGT受質及轉運蛋白暴露量的影響
+12 臨床試驗資料
+臨床療效和安全性
+侵犯性麴菌症(invasive aspergillosis)的治療
+曾在一項雙盲、活性藥物對照臨床試驗中，對於因麴菌屬物種或其他菌絲狀真菌引起侵犯性黴菌疾病的 516 位病人，評估以 isavuconazole 治療侵犯性麴菌症病人的安全性和療效。在意向治療 (intent-to-treat, ITT) 族群中，258 位病人接受 isavuconazole，258 位病人接受 voriconazole。在最初 48 小時內，每 8 小時靜脈輸注 CRESEMBA（相當於 200  mg isavuconazole）一次，隨後一天靜脈輸注或口服一次（相當於 200  mg isavuconazole）。試驗計畫書規定之最長治療期間為 84 天。治療期間中位數為 45 天。
+由獨立盲性資料評估委員會評估 myITT 族群（依據細胞學、組織學、培養或galactomannan檢測確認或疑似患有侵犯性麴菌症的病人）在治療結束 (end-of-treatment, EOT) 時的整體反應。myITT 族群包含接受 isavuconazole 的 123 位病人與接受 voriconazole 的 108 位病人。此族群的整體反應為 isavuconazole 組 n = 43 (35%)，voriconazole 組 n = 42 (38.9%)。調整後的治療差異 (voriconazole−isavuconazole) 為 4.0（95% 信賴區間：-7.9；15.9）。
+此族群第 42 天的所有原因死亡率為 isavuconazole 組 18.7%，voriconazole 組 22.2%。調整後的治療差異 (isavuconazole−voriconazole) 為 -2.7（95 % 信賴區間：-12.9；7.5）。
+白黴菌病(mucormycosis)的治療
+在一項開放性非對照試驗中，經確認或疑似患有白黴菌病的 37 位病人以相同於治療侵犯性麴菌症的劑量方案接受 isavuconazole。整體白黴菌病病人族群的治療期間中位數為 84 天，未曾因白黴菌病接受治療的 21 位病人為 102 天。有關依據獨立資料評估委員會 (Data Review Committee, DRC) 之定義而疑似或經確認患有白黴菌病的病人，整體病人族群的第 84 天所有原因死亡率為 43.2% (16/37)， 接受 isavuconazole 作為主要治療的白黴菌病病人為 42.9% (9/21)，接受 isavuconazole 且對於之前抗黴菌治療（主要為含 amphotericin B 治療）療效不佳或無法耐受的白黴菌病病人為 43.8% (7/16)。EOT 時由 DRC 評估的整體成功率為 11/35 (31.4%)，5 位病人經判定為完全痊癒，6 位病人部分痊癒。在另外 10/35 的病人 (28.6%) 中觀察到穩定反應。在因根黴菌 ( Rhizopus  spp.) 引起白黴菌病的 9 位病人中，4 位病人對於 isavuconazole 表現出有利反應。在因根毛黴 ( Rhizomucor  spp) 引起白黴菌病的 5 位病人中，未觀察到有利反應。對於其他物種的臨床經驗非常有限（横梗霉 ( Lichtheimia  spp.) n=2，小克銀漢霉 ( Cunninghamella  spp.) n=1，雅致放射毛黴 ( Actinomucor  elegans) n=1）。
+13 包裝及儲存
+13.1
+包裝
+4-1000顆鋁箔盒裝，每個膠囊泡殼連接至一個含有乾燥劑的泡殼。
+13.2
+效期
+請參見外盒。
+13.3
+儲存條件
+儲存於原始包裝中以避免濕氣。
+儲存於30ºC以下
+15 其他
+廢棄處理特別注意事項
+本藥品可能對環境造成風險（參閱第 10.3 節）。
+應根據當地規定，丟棄任何尚未使用的藥品或廢棄物。
+版本 ：20250717- 2
+ATC Code
+1 性狀
+2 適應症
+3 用法及用量
+4 禁忌
+5 警語及注意事項
+6 特殊族群注意事項
+7 交互作用
+8 副作用/不良反應
+9 過量
+10 藥理特性
+11 藥物動力學特性
+12 臨床試驗資料
+13 包裝及儲存
+15 其他
+製造廠
+藥商
+驗證碼：
+重新產生
+播放驗證碼語音
+送出
+✖
+:::
+本網站所刊出內容之著作權屬於衛生福利部食品藥物管理署所有，未經本署之同意或授權，任何人不得以任何形式重製、轉載、散佈、引用、變更、播送或出版該內容之全部或局部，亦不得為其他任何違反本署著作權之行為。
+服務專線：02-7737-2958                            		         服務信箱：mcp@tradevan.com.tw
+服務時間：週一～週五08:30~17:30
+Copyright © 2019 衛生福利部食品藥物管理署
+Food and Drug Administration, Ministry of Health and Welfare.
+All rights reserved.
+登入
+-->
+登入
+帳 號：
+密 碼：
+驗證碼：
+重新產生
+播放驗證碼語音
+登入
+忘記密碼
+會員註冊
+✖

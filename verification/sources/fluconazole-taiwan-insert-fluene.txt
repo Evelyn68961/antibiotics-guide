@@ -1,0 +1,332 @@
+Source: TFDA 藥品仿單查詢平台 (mcp.fda.gov.tw), "瑞安" 膚黴克膠囊50毫克 FLUENE CAPSULES 50MG "PURZER", 衛署藥製字第041997號, 瑞安大藥廠. Hospital code FLU22.
+URL: https://mcp.fda.gov.tw/im_detail_1/%E8%A1%9B%E7%BD%B2%E8%97%A5%E8%A3%BD%E5%AD%97%E7%AC%AC041997%E8%99%9F
+Insert version: history latest 112/01/13 (2023-01-13) 版次 4; paper insert PDF uploaded 2023-02-24. Fetched 2026-10-05.
+
+1 性狀
+1.1
+有效成分及含量
+Each Capsule Contains：
+Fluconazole……………50mg
+1.2
+賦形劑
+膠囊內容物：Tricalcium Phosphate, Corn Starch, Microcrystalline Cellulose, Colloidal Silicon Dioxide, Magnesium Stearate
+膠囊外殼：Briliant Blue FCF、Tartrazine、Titanium Dioxide、Sodium Lauryl Sulfate、Gelatin、Purified Water
+1.3
+劑型
+膠囊劑。
+1.4
+藥品外觀
+淺藍-白四號膠囊，頭和身皆印有: PZP 17之黑色字樣。
+2 適應症
+念珠菌局部或全身感染、囊球菌感染、預防後天免疫缺乏症候群病人的黴菌感染。
+3 用法及用量
+3.1
+用法用量
+Fluconazole通常是以口服給予(膠囊)。如果無法口服，則可以使用靜脈注射方式投予(靜脈注射液)。由於口服的吸收迅速完全，當從靜脈注射轉換至口服途徑時(或反之亦然)無須改變每日投予劑量。
+Fluconazole的每日劑量應依據感染的病原菌與病人對治療的反應。治療應持續至臨床指標或實驗室檢驗顯示黴菌感染已經消退為止，不適當的治療期間可能導致感染復發。AIDS及Cryptococcus腦膜炎或復發性口咽念珠菌感染的病人通常需要持續性治療(maintenance therapy)來避免復發。
+成人劑量
+1. 無法使用或無法耐受amphotericin B的隱球菌腦膜炎病人，通常劑量為首日400mg，之後每日口服一次200mg。根據病人對治療反應的臨床判斷，也可以使用每日一次400mg的劑量。治療六十天仍無反應的病人，就表示不太可能對fluconazole有反應。治療隱球菌感染的時間將視臨床與黴菌學上的反應而定，但在腦脊髓液培養為陰性後仍應繼續使用10-12週。血清學檢查的陰性並不一定表示疾病已經消滅；有一部份的病人日後會復發。
+2. 為了預防AIDS病人隱球菌腦膜炎復發，在病人接受一主要治療的完整療程後，可以給予fluconazole每日一次100-200mg。
+3. 治療口咽念珠菌感染的建議劑量為首日100mg，之後每日一次50mg。對食道念珠菌感染，建議劑量為首日200mg，之後每日一次100 mg。念珠菌感染的臨床跡象通常會在數日內消失，但治療應持續至少二至三週，特別是對免疫嚴重不全的病人。嚴重食道念珠菌感染的病人在症狀解除後可能需要持續治療兩週。臨床治癒的病人中，大約有一半的人仍會有菌落存在。
+4. 對於HIV病人對口咽念珠菌的續發性預防，建議劑量為每週一次單一劑量150mg。
+5. 對於嚴重及危及生命的念珠菌感染且無法耐受amphotericin B的病人，一般劑量為首日400mg，之後每日一次200mg。依臨床的反應而定，劑量可以增加至每日一次400mg。治療的時間視臨床反應而定，但病人應至少治療四週，且症狀解除後持續治療至少兩週。
+6. 對於陰道念珠菌感染局部治療無效時，應口服單一劑量fluconazole 150mg。
+7. 免疫機能正常病人之廣泛性的癬感染(體癬，股癬)或嚴重的足癬且局部治療無效，建議治療方式為150mg fluconazole每週一次，連續四週。
+3.3
+特殊族群用法用量
+兒童劑量
+如和成人有類似感染情況時，治療時間應根據臨床與黴菌學上的反應而定。Fluconazole是以每日單一劑量給予。
+黏膜念珠菌感染的治療建議劑量為每日一次3mg/kg。首日可採用6mg/kg的起始劑量，以更迅速達到穩定的血中濃度。
+治療全身性念珠菌感染與隱球菌感染的建議劑量為每日一次6-12mg/kg，視疾病的嚴重程度而定。
+對腎功能不全的兒童，每日所使用的劑量，應依照成人減量的準則減少劑量。
+四週以下嬰兒劑量
+新生兒對fluconazole的排泄緩慢，但在出生後的前兩週內，可使用和較大兒童同樣的mg/kg劑量，但每72小時給予一次。出生第二至四週的新生兒，相同的劑量應每48小時給予。
+腎功能不全之劑量
+Fluconazole主要是從尿液中以原型排出，對單一劑量的治療無需調整劑量。對腎功能不全病人的多劑量治療，在第一天與第二天應給予正常劑量，隨後應視肌酸酐廓清率而修正給藥間隔或每日劑量，方式如下：
+肌酸酐廓清率(mL/min)
+劑量間隔/每日劑量
+>50
+24hrs (正常劑量)
+21-50
+48hrs或每日正常劑量的一半
+11-20
+96hrs或每日正常劑量的四分之一
+定期血液透析的病人在每次血液透析後應使用正常建議劑量；在非血液透析日則應依據其肌酸酐廓清率降低使用劑量。
+定期進行血液透析的病人：每次透析後給一次建議劑量。
+這些劑量調整的建議是根據投與單一劑量後之藥物動力學，且根據臨床情況，可能需要作進一步調整。當血漿的肌酸酐是唯一可得的測量腎功能的方式時，應使用以下的公式(根據病人性別、體重與年齡)計算肌酸酐廓清率(mL/min)。
+4 禁忌
+(依文獻記載)
+Fluconazole 不應用於已知對此藥、任何賦形劑成分或相關 azole 類化合物過敏的病人。
+一個多次給藥之交互作用的研究結果指出，每日多次投與 400mg fluconazole 或劑量更高之病人禁止併用 terfenadine 。正在接受 fluconazole 的病人禁止併用其他已知會延長 QT 間期且經由酵素 CYP3A4 代謝的藥物，例如 cisapride 、 astemizole 、 erythromycin 、 pimozide 及 quinidine ( 參閱警語及注意事項與交互作用 ) 。
+5 警語及注意事項
+(依文獻記載)
+5.1
+警語/注意事項
+懷孕時應避免使用本品，除非病人患有嚴重或可能危及生命的黴菌感染且預期其益處大於對胎兒可能的風險時，方可使用。
+具生育能力女性應考慮採取有效避孕措施，並且應於整個治療期間持續避孕至最後一劑後約 1 週（ 5 至 6 個半衰期）（參閱特殊族群注意事項 - 懷孕、哺乳、有生育能力的女性與男性。）
+病人在 fluconazole 治療期間有極少之案例發生皮膚剝落反應，例如 Steven-Johnson 症候群及毒性表皮溶解壞死 (toxic epidermic necrolysis ) 。曾通報有藥物疹合併嗜伊紅性白血球症及全身症狀 (DRESS) 案例。後天免疫不全症候群 (AIDS) 病人較易對許多藥物產生嚴重的皮膚反應。若表皮受黴菌感染的病人接受治療後產生皮疹，且可能肇因於 fluconazole ，則應停止以此藥物治療。如罹患侵犯性 / 全身性黴菌感染 (invasive/systemic fungal infection) 之病人產生皮疹，需加以密切監測，若出現水泡病灶或多形性紅斑，請停止使用 fluconazole 。
+每日投與低於 400mg fluconazole 之病人併用 terfenadine 應謹慎監測。 ( 參閱禁忌與交互作用 ) 。
+如同其他 azoles 類，少數病例曾有引發急性過敏性休克反應的報告。
+部份 azole 類（包括 fluconazole ）與心電圖中 QT interval 延長有關。 Fluconazole 透過抑制鉀通道電流 (Ikr) 造成 QT 間期延長。其他藥物 ( 如 amiodarone) 引起的 QT 間期延長可能是透過抑制細胞色素 P450(CYP)3A4 來增強 ( 參閱交互作用 ) 。在上市後的監測期間，服用 fluconazole 出現 QT interval 延長及 torsade de pointes 的案例相當少。這些報告案例包括具有多重危險因子之重症病人，如結構性心臟病、電解質異常及併用其他會有影響之藥物。患有低血鉀症和晚期心衰竭之病人，發生危及生命的心室性心律不整與 Torsades de Pointes 的風險增加。
+具有潛在性前心律不整之病人應謹慎使用 fluconazole 。
+念珠菌感染
+試驗顯示白色念珠菌 (C. albicans) 以外的念珠菌種感染盛行率正逐漸增加。這些念珠菌通常都具抗藥性 ( 例如 C. krusei 和 C. auris) 或顯示對 fluconazole 的感受性較低 (C. glabrata) 。這類感染在治療失敗後，可能需要使用其他抗黴菌療法。因此，建議處方開立者將各種念珠菌種對 fluconazole 的抗藥性盛行率納入考量（參閱藥效藥理特性）。
+Fluconazole 曾有極少數病例引發包含死亡之不良後果在內之嚴重肝毒性，其中死亡主要發生於患有其他嚴重疾病的病人。在 fluconazole 引起的肝毒性病例中，其發生與每日劑量、治療時間、性別或病人年齡並無明顯的關係。 Fluconazole 的肝毒性在停藥後通常是可逆的。在 fluconazole 治療期間有不正常肝功能測試結果的病人，應監測其肝臟是否受到更嚴重的傷害。如發生肝臟疾病臨床徵象及症狀，且可能肇因於 fluconazole ，則應停用 fluconazole 。
+Fluconazole 是中效 CYP2C9 抑制劑及中效 CYP3A4 抑制劑。 Fluconazole 也是同功酶 CYP2C19 的抑制劑。接受 fluconazole 治療的病人，若併用治療指數狹窄且經由 CYP2C9, CYP2C19 及 CYP3A4 代謝的藥物治療，應接受監測 ( 參閱交互作用 ) 。
+過去接受其它 azole 類藥物 ( 例如 ketoconazole) 的病人中，曾有腎上腺功能不全的案例通報。
+過去接受 fluconazole 的病人中，曾有可逆性腎上腺功能不全的案例通報。
+5.3
+操作機械能力
+駕駛或操作機械時，應考慮到有時可能會頭暈或癲癇發作。
+6 特殊族群注意事項
+(依文獻記載)
+6.1
+懷孕
+懷孕時應避免使用本品，除非病人患有嚴重或可能危及生命的黴菌感染且預期其益處大於對胎兒可能的風險時，方可使用。
+曾有母親在第一孕期接受單劑或重複劑量之 fluconazole 150mg 後，發生自然流產和嬰兒先天異常的報告。
+有報告指出使用高劑量 (400mg/day-800mg/day) fluconazole 三個月或三個月以上以治療 coccidioidomycosis 感染的女性，產下多重性先天異常的嬰兒。 Fluconazole 的使用與這些事件之間的關係未明。僅在動物實驗，服用高劑量而產生母體毒性時會出現胎兒的副作用之報告。在 5mg/kg 或 10mg/kg 的劑量下對胎兒沒有影響，在 25mg/kg 和 50mg/kg 和更高的劑量下觀察到會增加胎兒的結構上變異 ( 多餘的肋骨、腎盂膨脹 ) 及成骨作用延遲。在 80mg/kg ( 約為人類建議劑量的 20-60 倍 ) 到 320mg/kg 的劑量範圍內，會增加大鼠的胚胎致死率及胎兒畸形 ( 包括波浪型的肋骨、唇顎裂和不正常的顱面成骨 ) 。這些影響與大鼠實驗裡抑制雌激素合成作用一致，且可能是目前已知的在懷孕期、器官形成期及分娩時雌激素較低的結果。
+病例報告指出，在大部份或整個第一孕期期間使用高劑量 (400-800 毫克 / 日 ) fluconazole 之母親所生下的嬰兒中，有一種特殊而罕見的出生缺陷情形；這些嬰兒所呈現的特徵包括：頭型寬短、顏面異常、顱頂發育異常、顎裂、股骨彎曲、肋骨及長骨變薄、關節彎曲、以及先天性心臟病。
+6.2
+哺乳
+Fluconazole 曾在母乳中發現其濃度與血漿中相當 ( 參閱藥動學特性 ) 。母乳的排除半衰期與血漿的排除半衰期相近 (30 小時 ) 。根據平均尖峰母乳濃度估算出嬰兒每日從母乳中攝取之 fluconazole 的劑量為 0.39mg/kg/day ( 假設平均母乳攝取量為 150mL/kg/day) ，約為黏膜念珠菌病之建議新生兒 (<2 週大 ) 劑量的 40% ，或建議嬰兒劑量的 13% 。
+施用單次劑量 150mg fluconazole 後可能可以繼續哺餵母乳。接受重複劑量或高劑量 fluconazole 後，則不建議哺餵母乳。哺餵母乳在發育和健康上的益處，應與母親對 fluconazole 的臨床需求，以及 fluconazole 對哺乳中嬰兒可能造成潛在的不良作用或母體原有疾病的狀況作綜合考量。
+6.3
+有生育能力的女性與男性
+具生育能力女性應考慮採取有效避孕措施，並且應於整個治療期間持續避孕至最後一劑後約 1 週 (5 至 6 個半衰期 )
+6.6
+肝功能不全
+Fluconazole 應慎用於肝功能不全的病人。
+6.7
+腎功能不全
+腎功能不全之病人應謹慎使用 fluconazole ( 參閱特殊族群用法用量 ) 。
+7 交互作用
+(依文獻記載)
+禁止併用下列藥品：
+Cisapride ：曾有報告指出同時接受 fluconazole 與 cisapride 治療之病人，會有明顯的心臟方面的影響，包括 torsades de pointes 。一個有對照組的研究發現投與 fluconazole 200mg 一天一次及 cisapride 20mg 一天四次會明顯增加 cisapride 血中濃度及延長 QT 間期。接受 fluconazole 治療的病人，應禁止併用 fluconazole 與 cisapride ( 參閱禁忌 ) 。
+Terfenadine ：因有病人服用 azole 類抗黴菌藥併用 terfenadine 時，發生 QTc 間期延長而導致嚴重心律不整的現象，故進行交互作用研究。一個每日服用 200mg fluconazole 的研究無法證實會延長 QTc 間期。另一個每天服用 400mg 及 800mg fluconazole 的研究證實，每天服用 400 mg fluconazole 或更高劑量，會造成併用的 terfenadine 的血中濃度明顯增加。因此，禁止 400mg fluconazole 或更高劑量併服 terfenadine ( 參閱禁忌 ) 。每日服用低於 400mg fluconazole 但併用 terfenadine 時應謹慎監測病人。
+Astemizole ：併用 fluconazole 和 astemizole 會減少 astemizole 的廓清。 Astemizole 血漿濃度增加可能導致 QT 延長，以及罕見的 Ttorsade de Pointes 。禁止併用 fluconazole 與 astemizole ( 參閱禁忌 ) 。
+Pimozide ：雖然未做過體外或活體實驗，併用 fluconazole 和 pimozide 可能會抑制 pimozide 的代謝。 Pimozide 的濃度增加可能導致 QT 延長及罕見的 torsade de Pointes 。禁止併用 fluconazole 與 pimozide ( 參閱禁忌 ) 。
+Quinidine ：雖然尚未進行過體外研究或活體研究，但將 fluconazole 與 quinidine 併用可能會導致 quinidine 的代謝受到抑制。使用 quinidine 會伴隨發生 QT 間期延長及罕見的 torsades de Pointes 。 Fluconazole 禁止與 quinidine 併用 ( 參閱禁忌 ) 。
+Erythromycin ： Fluconazole 與 erythromycin 併用可能會增加發生心臟毒性 (QT 間期延長及 torsade de Pointes) ，因而導致心臟病猝死的風險。 Fluconazole 禁止與 erythromycin 併用 ( 參閱禁忌 ) 。
+避免併用或併用時須注意：
+Amiodarone ：併用 fluconazole 與 amiodarone 可能會增加 QT 間期的延長。若 fluconazole 與 amiodarone 需要併用時須注意，尤其是併用高劑量的 fluconazole (800 mg) 。
+Lemborexant ：併用 fluconazole 會使 lemborexant 的 C max 和 AUC 分別上升至約 1.6 及 4.2 倍，預期將增加嗜睡等不良反應的發生風險。避免併用 fluconazole 與 lemborexant 。
+併用下列藥品時須注意及調整劑量：
+其他藥物對 fluconazole 的影響
+Hydrochlorothiazide ：在動力學交互作用研究，已投與 fluconazole 的健康志願者併用多次劑量的 hydrochlorothiazide 會使 fluconazole 血漿濃度增加 40% 。但這影響對併用利尿劑病人而言，不需改變 fluconazole 的劑量。
+Rifampicin ：併用 fluconazole 與 rifampicin 會使 fluconazole 的濃度對應時間曲線下面積 (AUC) 降低 25% ，半衰期縮短 20% 。對於併用 fluconazole 與 rifampicin 的病人，應該增加 fluconazole 的劑量。
+Fluconazole 對其他藥品的影響
+Fluconazole 是細胞色素 P450 (CYP) 同功酶 2C9 與同功酶 3A4 的中效抑制劑。 Fluconazole 也是同功酶 CYP2C19 的抑制劑。除了下列被觀察到 / 有文件證明的交互作用之外，其他經由 CYP2C9, CYP2C19 及 CYP3A4 代謝的藥物若與 fluconazole 併用，有血漿濃度增加的風險。因此併用這些藥品時應慎重，並要小心監測病人。 Fluconazole 的半衰期長，因此停止 fluconazole 治療後， fluconazole 對酵素的抑制作用可持續 4 至 5 天 ( 參閱禁忌 ) 。
+Abrocitinib ： Fluconazole (CYP2C19 、 2C9 、 3A4 抑制劑 ) 使 abrocitinib 活性部分的暴露量增加了 155% 。如果與 fluconazole 併用，請按照 abrocitinib 仿單說明調整 abrocitinib 的劑量。
+Alfentanil ：一項研究觀察到併用 alfentanil 與 fluconazole 之後， aftentanil 的清除率與分佈體積減少，以及半衰期延長。可能的作用機制是 fluconazole 對 CYP3A4 的抑制作用。可能需要調整 alfentanil 的劑量。
+Amitriptyline 、 nortriptyline ： Fluconazole 增強 amitriptyline 和 nortriptyline 的效果。 5-nortriptyline 及 / 或 S-amitriptyline 可在開始合併治療時及一週後測量。需要時，應調整 amitriptyline/nortriptyline 的劑量。
+Amphotericin B ：受感染的正常或免疫力受壓制的小鼠併用 fluconazole 和 amphotericin B 後顯示出下列結果：用在白色念珠菌引起的全身性感染，抗黴菌效果少量增加；用在新型隱球菌 (Cryptococcus neoformans) 引起的顱內感染，並無交互作用；用在薰煙麴菌 (Aspergillus fumigates) 引起的全身性感染，這兩種藥有拮抗作用。這些研究所得結果的臨床意義不明。
+抗凝血劑 ：給予男性健康受試者服用 warfarin 後，再投與 fluconazole ，會增加 prothrombin time (12%) 。在上市後經驗中，如同其他 azole 類抗黴菌藥，於病人同時使用 fluconazole 及 warfarin 而產生因 prothrombin time 增加而致的相關出血反應 ( 瘀傷、鼻出血、胃腸道出血、血尿及血便 ) 之案例皆曾有報告。已接受 coumarin 類或 indanedione 抗凝血藥物的病人應謹慎監測 prothrombin time 。可能需要調整這些抗凝血藥物的劑量。
+Azithromycin ：在一個 18 位健康受試者參與之開放、隨機、三組交叉的研究中，對於口服單一劑量 1200mg azithromycin 對口服單一劑量 800mg fluconazole 的藥物動力學及 fluconazole 對 azithromycin 的藥物動力學影響評估。 Fluconazole 與 azithromycin 之間無顯著藥物動力學交互作用。
+Benzodiazepines ( 短效 ) ：口服投與 midazolam 後，給予 fluconazole 會造成 midazolam 血中濃度明顯地增加，並產生精神運動性作用 (psychomotor effects) 。在 fluconazole 口服時對 midazolam 的作用，比靜脈注射時明顯。若以 fluconazole 治療的病人，有需要併用 benzodiazepines ，應考慮降低 benzodiazepines 劑量，並適當地監視病人情形。 Fluconazole 抑制 triazolam 的代謝，使 triazolam ( 單劑量 ) 的 AUC 增加約 50% ， C max 增加 20 至 32% ，半衰期延長 25 至 50% 。可能需要調整 triazolam 的劑量。
+Carbamazepine ： Fluconazole 抑制 carbamazepine 代謝，曾觀察到 carbamazepine 血清濃度增加 30% 的現象；故有發生 carbamazepine 毒性的風險。可能需要按照血中濃度的測量值 / 效果調整 carbamazepine 的劑量。
+鈣離子通道阻斷劑 ：某些鈣離子通道拮抗劑 (nifedipine 、 isradipine 、 amlodipine 、 verapamil 及 felodipine) 由 CYP3A4 代謝。 Fluconazole 可能會增加鈣離子通道拮抗劑的全身暴露量。建議經常監測不良事件的發生。
+Celecoxib ：併用 fluconazole ( 每天 200mg) 與 celecoxib(200mg) 治療期間， celecoxib 的 C max 及 AUC 分別增加 68% 及 134% 。與 fluconazole 併用時， celecoxib 的劑量可能要減半。
+Cyclosporin ： Fluconazole 顯著增加 cyclosporin 的血中濃度和 AUC 。這種組合可藉按照 cyclosporin 的血中濃度降低劑量而使用。
+Cyclophosphamide ： cyclophosphamide 與 fluconazole 合併治療會使血清膽紅素和血清肌酸酐濃度升高。這種組合可以使用，但必須對血清膽紅素和血清中酸酐濃度升高的風險提高警覺。
+Fentanyl ：曾有一例可能因 fentanyl 和 fluconazole 交互作用致死的病例報告。作者判斷病人死於 fentanyl 中毒。再者，一項對 12 名健康志願者進行的隨機交叉研究顯示， fluconazole 顯著延緩 fentanyl 的排除。 Fentanyl 的濃度升高可能導致呼吸抑制。
+Halofantrine ： Fluconazole 對 CYP3A4 有抑制作用，可能增加 halofantrine 的血漿濃度。
+HMG-CoA 還原酶抑制劑 ： 當 fluconazole 與經由 CYP3A4 代謝的 HMG-CoA 還原酶抑制劑 ( 如 atorvastatin 和 simvastatin) 或經由 CYP2C9 代謝的 HMG-CoA 還原酶抑制劑 ( 如 fluvastatin) 併用時，因為會降低 statin 類藥物的肝臟代謝，發生肌病和橫紋肌溶解的風險增加 ( 劑量依賴型 ) 。如需同步治療，應觀察病人有無肌病及橫紋肌溶解症狀，並監測肌酸酐激酶。若觀察到肌酸酐激酶明顯增加，或診斷出或懷疑發生肌病及橫紋肌溶解，即應停用 HMG-CoA 還原酶抑制劑。可能需要依據 statin 類藥物處方資訊中的指示使用較低劑量的 HMG-CoA 還原酶抑制劑。
+Ibrutinib ： Fluconazole 等 CYP3A4 中效抑制劑會提高 ibrutinib 的血漿濃度，並可能增加毒性的風險。若無法避免併用，請按照 ibrutinib 處方資訊中的指示減少 ibrutinib 的劑量，並提供密切的臨床監測。
+Ivacaftor （單獨使用或含 ivacaftor 的複方） ：併用囊腫性纖維化穿膜傳導調節蛋白 (cystic fibrosis transmembrane conductance regulator ， CFTR) 致效劑 ivacaftor 會使 ivacaftor 暴露量增加 3 倍、羥甲基 ivacaftor （ hydroxymethyl-ivacaftor ，代謝物 [M1] ）暴露量增加 1.9 倍。須依據 ivacaftor （單獨使用或含 ivacaftor 的複方）處方資訊中的指示減少 ivacaftor （單獨使用或含 ivacaftor 的複方）的劑量。
+Losartan ： Fluconazole 抑制 losartan 代謝成它的活性代謝產物 (E-31 74) ，在 losartan 治療期間，主要是由此活性代謝物產生血管緊張素 II 受體拮抗作用。應持續監測病人血壓。
+Lurasidone ： Fluconazole 等 CYP3A4 中效抑制劑可能會提高 lurasidone 的血漿濃度。若無法避免併用，請按照 lurasidone 處方資訊中的指示減少 lurasidone 的劑量。
+Methadone ： Fluconazole 可能會提高 methadone 的血清濃度，可能需要調整 methadone 的劑量。
+非類固醇抗發炎藥 ：與 fluconazole 併用時， flurbiprofen 的 C max 和 AUC 分別比單獨使用 flurbiprofen 時增加 23% 和 81% 。同樣地，當 fluconazole 與消旋的 ibuprofen (400mg) 併用時，具有藥理活性的異構體 [S-(+)-ibuprofen] 的 C max 和 AUC 分別比單獨投與消旋的 ibuprofen 增加 15% 和 82% 。雖未經特別研究，但 fluconazole 可能會增加其他經由 CYP2C9 代謝非類固醇抗發炎藥 (NSAIDs) 的全身暴露量 ( 例如 naproxen 、 lornoxicam 、 meloxicam 、 diclofenac) 。建議經常監測與 NSAIDs 有關的不良事件與毒性。可能需要調整 NSAIDs 的劑量。
+Olaparib ： Fluconazole 等 CYP3A4 中效抑制劑會提高 olaparib 的血漿濃度，故不建議同時使用。若無法避免併用，請將 olaparib 的劑量限制在 200mg 每日兩次。
+口服避孕藥 ：有二個藥動學研究併用多次劑量 fluconazole 和口服避孕藥。在 50mg fluconazole 的研究中，對荷爾蒙值沒有影響；但是每日服用 200mg fluconazole 時， ethinyl estradiol 及 levonorgestrel 的 AUCs 分別增加 40% 及 24% 。因此，以這些劑量多次給予 fluconazole 不太可能影響併用口服避孕藥之療效。
+Phenytoin ： Fluconazole 抑制 phenytoin 的肝臟代謝，併用時應監測 phenytoin 的血清濃度以免發生 phenytoin 毒性。
+Prednisone ：有一例接受 prednisone 治療的肝臟移植病人，停止三個月的 fluconazole 治療時發生急性腎上腺皮質功能不全的病例報告。停用 fluconazole 大概會增強 CYP3A4 的活性，導致 prednisone 代謝增加。對於長期接受 fluconazole 及 prednisone 治療的病人，停用 fluconazole 時，應小心監測腎上腺皮質功能不全的發生。
+Rifabutin ：已有報告指出併用 fluconazole 與 rifabutin 時會產生交互作用，會造成 rifabutin 的血清濃度增加高達 80% 。曾有併用 fluconazole 與 rifabutin 之病人發生葡萄膜炎。併用 fluconazole 與 rifabutin 的病人應小心監控。
+Saquinavir ： Fluconazole 因會抑制 saquinavir 在肝臟被 CYP3A4 代謝及抑制 P- 醣蛋白，使得 saquinavir 的 AUC 增加約 50% ， C max 增加約 55% ，清除率減少約 50% 。可能需要調整 saquinavir 的劑量。
+Sirolimus ： Fluconazole 可能藉抑制 sirolimus 被 CYP3A4 代謝及 P- 醣蛋白，進而提高 sirolimus 的血漿濃度。根據效果 / 血中濃度的測量結果調整 sirolimus 的劑量，便可使用這種組合。
+Sulfonylureas ：健康志願者併服 fluconazole 和 sulfonylureas ， fluconazole 會延長 sulfonylureas 的血清半衰期 ( 例如 chlorpropamide 、 glibenclamide 、 glipizide 、 tolbutamide) 。建議併用期間要經常監測血糖，並且適當降低 sulfonylurea 的劑量。
+Tacrolimus ： Fluconazole 在腸道抑制 tacrolimus 經由 CYP3A4 代謝，使口服給予的 tacrolimus 血清濃度提高達 5 倍。以靜脈注射途徑給予 tacrolimus 時，未觀察到顯著的藥動學變化。 Tacrolimus 血中濃度升高曾伴有腎毒性。應根據 tacrolimus 的血中濃度降低口服 tacrolimus 的劑量。
+Theophylline ：在一項安慰劑為對照的藥物交互作用研究中，使用 fluconazole 200mg 十四天造成 theophylline 平均血漿清除率降低 18% 。正在使用高劑量 theophylline 或容易發生 theophylline 中毒的病人，在接受 fluconazole 時應注意觀察是否有 theophylline 中毒的病癥，並據此適當地調整治療。
+Tofacitinib ：將 tofacitinib 與會中度抑制 CYP3A4 與抑制 CYP2C19 的藥物 ( 如 fluconazole) 同時併用時，其暴露量會升高。可能需要調整 tofacitinib 的劑量。
+Tolvaptan ：當 CYP3A4 受質 tolvaptan 與中度抑制 CYP3A4 的藥物 fluconazole 同時併用時， tolvaptan 的暴露量會顯著升高 (AUC 升高 200% ； C max 升高 80%) ，具有明顯增加不良反應的風險，尤其是明顯的利尿、脫水和急性腎衰竭。有關併用 tolvaptan 之建議，請參照 tolvaptan 處方資訊中的指示。
+長春花生物鹼 (Vinca alkaloids) ：雖未經研究，但 fluconazole 可能會增加長春花生物鹼 ( 例如 vincristine 和 vinblastine) 的血漿濃度而引起神經毒性，這可能是對 CYP3A4 的抑制作用所致。
+維生素 A ：根據一名接受全反式維甲酸 (all-trans-retinoid acid ，維生素 A 酸 ) 及 fluconazole 合併治療病人的病例報告，曾以假性腦瘤的形式發生與中樞神經系統 (CNS) 有關的副作用，於停止 fluconazole 治療後消失。這種組合可以使用，但必須牢記與中樞神經系統有關的副作用。
+Zidovudine ： Fluconazole 使口服 zidovudine 的清除率減少約 45% ，從而使 zidovudine 的 C max 和 AUC 分別增加 84% 和 74% 。與 fluconazole 合併治療之後， zidovudine 的半衰期也延長 128% 。對於接受這種合併治療的病人，應監測其 zidovudine 相關副作用的發生，也許要考慮降低 zidovudine 的劑量。
+Voriconazole (CYP2C9 、 CYP2C19 及 CYP3A4 的抑制劑 ) ：對 8 名健康男性受試者同時投予口服用的 voriconazole ( 第 1 天投予 400 毫克 Q12h ，然後連續 2.5 天投予 200 毫克 Q12h) 與口服用的 fluconazole ( 第 1 天投予 400 毫克，然後連續 4 天投予 200 毫克 Q24h) ，結果會使 voriconazole 的 C max 與 AUC τ平均分別升高 57% (90% CI ： 20%, 107%) 與 79% (90% CI ： 40%, 128%) 。在一項涵蓋 8 名健康男性受試者的追蹤臨床研究中，降低 voriconazole 與 fluconazole 的劑量及 ( 或 ) 投藥頻率並未能排除或減小這種影響。不建議將任何劑量的 voriconazole 與 fluconazole 合併使用。
+交互作用研究顯示當口服 fluconazole 併用食物、 cimetidine 、制酸劑或為骨髓移植所作之全身輻射，對於 fluconazole 未出現臨床上有意義的吸收減少之效果。
+應提醒醫生此藥與其他藥物之藥物交互作用研究尚未完成，但交互作用仍可能發生。
+8 副作用/不良反應
+(依文獻記載)
+8.1
+臨床重要副作用/不良反應
+病人通常對 fluconazole 具有良好耐受性。
+安全性特性資訊摘要
+曾通報 出現與 fluconazole 治療相關之藥物疹合併嗜伊紅性白血球症及全身症狀 (DRESS) （參閱 警語及注意事項 ）
+有些病人，特別是患有嚴重而原因不明疾病 ( 例如愛滋病及癌症 ) 的病人，在 fluconazole 及類似藥物治療期間，可觀察到其腎臟與血液學功能測試結果改變，肝臟亦有異常現象 ( 參閱警語及注意事項 ) ，但是其臨床效果及與治療的關係仍不清楚。
+在 fluconazole 治療期間曾經觀察到並通報下列副作用，其頻率如下：易見 (≥1/10) ，常見 (≥1/100 至 <1/10) ，少見 (≥1/1,000 至 <1/100) ，罕見 (≥1/10,000 至 <1/1,000) ，極罕見 (<1/10,000) ，發生頻率不明 ( 無法從現有數據估計 ) 。
+系統器官分類
+頻率
+副作用
+血液及淋巴系統障礙
+罕見
+顆粒性白血球缺乏、白血球減少、嗜中性白血球減少、血小板減少
+免疫系統障礙
+罕見
+過敏反應、血管性水腫
+代謝及營養障礙
+罕見
+高膽固醇血症、高三酸甘油脂血症、低血鉀症
+精神障礙
+少見
+失眠、嗜眠
+神經系統障礙
+常見
+頭痛
+少見
+癲癇發作、頭暈、感覺異常、味覺異常
+罕見
+震顫
+耳與迷路障礙
+少見
+眩暈
+心臟障礙
+罕見
+Torsade de pointes 、 QT 延長
+胃腸道
+常見
+腹痛、腹瀉、噁心、嘔吐
+少見
+消化不良、脹氣、口乾
+肝膽障礙
+常見
+麩丙酮酸轉胺脢 (ALT) 升高、天門冬安酸轉胺酶 (AST) 升高、鹼性磷酸酶升高
+少見
+膽汁鬱滯、黃疸、膽紅素升高
+罕見
+肝毒性包括罕見的死亡案例、肝衰竭、肝細胞壞死、肝炎、肝細胞損傷
+皮膚及皮下組織障礙
+常見
+皮疹
+少見
+搔癢、蕁麻疹、多汗、藥疹 a
+罕見
+毒性表皮壞死、 Stevens-Johnson 症候群、急性全身性發疹樣膿皮症、剝落性皮膚炎、臉部水腫、禿髮
+未知
+藥物疹合併嗜伊紅性白血球症及全身症狀 (DRESS)
+肌肉骨骼與結締組織障礙
+少見
+肌肉疼痛
+一般障礙與給藥部位狀況
+少見
+疲倦、不適、衰弱、發燒
+a 包括固定藥物疹
+兒童族群
+在兒童臨床試驗期間記錄之不良事件及實驗室檢驗值異常，其形式與發生率都與在成人身上見到的相當。
+9 過量
+(依文獻記載)
+曾有 fluconazole 過量伴有幻覺與妄想行為的事件被報告過。
+在服用劑量過量時，應進行症狀治療 ( 支持性療法及如果需要時則胃灌洗 ) 。
+Fluconazole 大部份從尿液排泄，強迫性大量利尿作用，可能會增加清除率。一個三小時的血液透析療程可以降低血漿濃度約 50% 。
+10 藥理特性
+(依文獻記載)
+10.1
+作用機轉
+藥物治療分類：全身使用性抗黴菌濟triazole衍生物，ATC碼 J02AC01。
+Fluconazole為triazole類抗黴菌劑，為一強效且具選擇性黴菌固醇合成抑制劑。
+其主要作用方式為抑制黴菌細胞色素P-450調節之羊毛脂醇-14α去甲基化，這是黴菌生物合成麥角固醇的必要步驟。14α甲基固醇的堆積與後續黴菌細胞膜喪失麥角固醇相關，且可能是fluconazole抗黴菌活性的來源。相較於各類哺乳動物的細胞色素P-450酵素系統，fluconazole對黴菌的細胞色數P-450酵素系統展現出較高度選擇性。
+Fluconazole對於黴菌內細胞色素P-450有依賴性之酵素具有高度選擇性。投與每日50mg fluconazole至多達28天已顯示不會影響男性睪固酮血漿中濃度或生育齡女性的固醇類濃度。對健康受試者投與每日200mg至400mg fluconazole對內生性固醇濃度或是促腎上腺皮質激素(ACTH)刺激反應沒有臨床上有意義的影響。與antipyrine的交互作用指出，單劑量或多劑量投與50mg fluconazole不會影響antipyrine代謝。
+10.2
+藥效藥理特性
+藥物動力學/藥效學關係
+在動物實驗中，用於實驗性念珠菌感染的MIC值與療效間存在相關性。在臨床試驗中，fluconazole的AUC與劑量是近乎1:1的線性關係。在AUC或劑量與口腔念珠菌感染的成功臨床反應之間也存在直接但不完全的關係，直到較輕度念珠菌血症與治療間關係亦是如此。由fluconazole MIC較高的菌株引起之感染較難達到同等的治癒程度。
+微生物學
+在體外實驗中， fluconazole對臨床常見念珠菌種 (包括 C. albicans 、 C. parapsilosis 、 C. tropicalis )展現出抗黴菌活性。 C. glabrata 顯示出對 fluconazole的感受性較低，而 C.krusei 則基本上對fluconazole有抗藥性。Fluconazole對 C. guilliermondii 的MIC與歐洲抗微生物感受性試驗委員會(EUCAST)流行病學臨界值 (epidemiological cut-off value，ECOFF)都比對 C. albicans 的數值高。近期崛起菌種 C. auris 則傾向對fluconazole較具抗藥性。
+Fluconazole在體外實驗也展現出對Cryptococus neoformans、Crytococcus. gattii以及地方性黴菌Blastomyces dermatitidis、Coccidioides immitis、Histoplasma capsulatum與Paracoccidioides brasiliensis有抗菌活性。
+於多種黴菌感染動物實驗中顯示靜脈或口服途徑投予fluconazole都一樣有效。它的活性可對抗抗伺機性黴菌病，如念珠菌感染，其中包括免疫機能異常動物的全身念珠菌感染；隱球菌感染，包括顱內感染；Microsporum spp感染；Trichophyton spp感染。在區域流行之黴菌感染動物實驗中也顯示出fluconazole的活性，包括Blastomyces dermatitides；Coccidioides immitis感染，包括顱內感染；正常及免疫抑制動物的Histoplasma capsulatum感染。
+抗藥性機轉
+通常具有 感受性的念珠菌種當中，最常見抗藥性機轉涉及azole類藥物的目標酵素，即為負責生物生成麥角固醇之酵素。目標酵素編碼基因( ERG11 )的點突變會使目標改變，降低azole類藥物親合力。 ERG11 過度表現會導致生成過高濃度的目標酵素，以至於需要更高的細胞間藥物濃度才能抑制所有細胞內酵素分子。
+抗藥性 第二項重要機轉與fluconazole經由兩類多重藥物排出運輸蛋白主動排出細胞相關：主要催化者(由 MDR 基因編碼)及ABC運輸蛋白家族 (由 CDR 基因編碼)。 MDR 基因向上調控會造成fluconazole抗藥性，而 CDR 基因向上調控則會導致對多種azole類藥物的抗藥性。 Candida glabrata 的抗藥性大多包含 CDR 基因向上調控，引發對多種azole類藥物的抗藥性。對於最低抑菌濃度介於(MIC) 16到32mg/L的菌株，建議使用最高劑量之fluconazole。
+曾有 除白色念珠球菌之外有念珠菌的重複感染報告。這些念珠菌對fluconazole通常感受性較低( C. glabrata ) 或具有抗藥性 (如 C. krusei、C. auris )，此類感染可能需選擇其他抗黴菌療法。
+分界點 (Breakpoints)
+EUCAST參考資訊
+根據 對藥物動力學/藥效學 (PK/PD)數據、體外藥物感受性和臨床反應的分析，EUCAST AFST (歐洲抗微生物藥物感受性試驗委員會-抗黴菌藥物感受性試驗小組委員會)已確定fluconazole對念珠菌屬的分界點 (EUCAST Fluconazole參考文件；歐洲抗微生物藥物感受性試驗委員會、抗黴菌劑、用於解讀最低抑菌濃度 (MIC)的分界點表)。這些文件已區分出非物種相關的分界點，主要根據PK/PD數據判定且與特定物種的MIC分佈無關，以及最常與人類感染有關物種的相關分界點。下表列出這些分界點：
+抗黴菌劑
+物種相關分界點 (S ≤ /R>)，單位為mg/L
+非物種相關分界點 A
+S</R>，單位為mg/L
+白色念珠菌
+都柏林念珠菌
+(Candida dubliniensis)
+禿髮念珠菌
+(Candida glabrata)
+克魯斯念珠菌
+(Candida krusei)
+平滑念珠菌
+(Candida parapsilosis)
+熱帶念珠菌
+(Candida tropicalis)
+Fluconazole
+2/4
+2/4
+0.001/16*
+--
+2/4
+2/4
+2/4
+S=感受性，R=抗藥性
+A=非物種 相關分界點主要根據PK/PD數據而確定，與特定物種的MIC分佈無關。僅用於未具有特定分界點的生物。
+-- =不建議進行藥物感受性試驗，因為該物種對於本藥品療法而言屬於不良目標。
+* =整個 C. glabrata 屬於 I (中間性)類別。當超過 16mg/L時，應將針對 C. glabrata 的MIC解讀為具抗藥性。感受性類別 (≤0.001mg/L)只是為了避免將「I」菌株誤分類為「S」菌株。I -感受性，暴露增加：當治療成功的可能性很高時，將微生物歸類為感受性、暴露增加，因為經由調整給藥方式或經由其感染部位的濃度而增加其對藥物的暴露。
+10.3
+臨床前安全性資料
+致癌
+以口服2.5mg/kg/day、5mg/kg/day與10mg/kg/day (約為人類建議劑量的2-7倍)持續24個月，fluconazole在大白鼠及小鼠身上並無顯示致癌的可能性。雄鼠投與5與10mg/kg/day，則有增加肝細胞腺瘤發生率的情形。
+致突變
+Fluconazole不論有無經代謝活化，在四種菌株的傷寒沙門氏菌以及小鼠的淋巴瘤L5178Y系統中，都沒有致突變的現象。體內(口服投與fluconazole觀察鼠骨髓細胞)與體外(人類淋巴細胞暴露於fluconazole 1000µg/mL)細胞生成學的研究，也顯示沒有染色體的突變發生。
+對生育力的損害
+每日口服5mg/kg、10mg/kg或20mg/kg或注射5mg/kg、25mg/kg或75mg/kg，fluconazole並不會影響雄性或雌性老鼠的生育力，雖然口服20mg/kg時分娩的開始會稍微延遲。在生產前後之老鼠以靜脈注射5mg/kg、20mg/kg或40mg/kg的研究中，在一些投與20 mg/kg (大約5-15倍人體建議劑量)與40mg/kg的母鼠有發現難產與分娩時間延長，但5mg/kg者則無。對分娩的干擾，反應在死產數稍微增加，以及這些劑量下新生兒存活率的降低。對老鼠分娩的影響，與fluconazole高劑量所產生降低雌激素的特異性相符合。這種荷爾蒙的改變尚未於使用fluconazole治療的女性身上觀察到。(參閱藥效藥理特性)
+11 藥物動力學特性
+(依文獻記載)
+經靜脈或口服途徑投與，fluconazole的藥物動力學特性相似。口服投與fluconazole吸收良好，且血漿中濃度(及全身身體可用率)，可到達靜脈注射給藥90%以上。口服吸收不受併服食物影響。在禁食狀態的血漿最高濃度發生在投藥後0.5至1.5小時間，血漿排除半衰期約30小時。血漿濃度與劑量成比例，每天一次，多次投與(約4至5天)可達到穩定濃度的90%。
+在第一天投予起始劑量(一般每日劑量的二倍)，可使得血漿濃度在第二天達到穩定濃度的90%。擬似分布體積約相當於體內總水分體積。血漿蛋白結合率低(11- 12%)。
+Fluconazole對所有曾被研究之體液穿透性良好。Fluconazole在唾液及痰液的濃度與血漿中相似。在黴菌性腦膜炎之病人，fluconazole於腦脊髓液(CSF)濃度可達血漿中濃度約80%。
+Fluconazole的皮膚濃度會高於血漿中濃度而且此濃度可達到皮膚角質層，表皮真皮層及汗腺。Fluconazole會蓄積在皮膚角質層。每日一次50 mg的劑量，12天後fluconazole的濃度為73µg/g；中斷治療7天後的濃度仍有5.8µg/g。150mg一週一次的劑量，在第7天fluconazole在皮膚角質的濃度後為23.4µg/g，且第二次劑量的7天後仍有7.1µg/g。
+投予150mg一週一次的劑量，四個月後fluconazole在健康指甲的濃度是4.05µg/g，而在生病指甲則為1.8µg/g，且治療結束後6個月於指甲樣本中仍可測得fluconazole。Fluconazole主要排泄路徑為腎臟，約有80%的口服劑量以原型出現在尿液中。Fluconazole之清除率與肌酸酐的清除率成正比。並無證據顯示有循環的代謝物。
+Fluconazole具有長的血漿排除半衰期，此性質提供以單一劑量治療陰道念珠菌感染及每日一次或每週一次投與治療其它適應症之可能性。
+一研究以單一劑量投與100mg fluconazole口服膠囊或口服懸浮液，藉由漱口及停留口中2分鐘再吞下之方式比較唾液及血漿中濃度。懸浮液吞下5分鐘後，可觀察到fluconazole在唾液中最大濃度，且此濃度為口服膠囊吞嚥後4小時所達到唾液中最大濃度的182倍。在4小時後，兩者fluconazole的唾液濃度是相似的。唾液中的平均AUC，服用懸浮液明顯大於服用膠囊。但2種配方由唾液中排除速率或是血漿中藥物動力參數並無明顯不同。一項針對10名曾暫時或永久停止哺餵母乳之哺乳女性進行的藥物動力學研究，曾評估給予單劑150mg fluconazole後48小時內，fluconazole在血漿和母乳中的濃度。結果偵測到母乳中平均濃度大約為母體血漿濃度的98%。在用藥5.2小時後，平均尖峰母乳濃度為2.61 mg/L。
+兒童藥物動力學
+以下表1為兒童研究報告中的藥物動力學數據：
+表1：兒童之藥物動力學數據
+研究年齡
+劑量
+(mg/kg)
+半衰期
+(hours)
+AUC
+(μg.h/mL)
+11天-11個月 單劑量靜脈注射3 mg/kg 23.0 110.1
+9個月-13歲 單劑量口服2 mg/kg 25.0 94.7
+9個月-13歲 單劑量口服8 mg/kg 19.5 362.5
+5歲-15歲 多劑量靜脈注射2 mg/kg 17.4* 67.4*
+5歲-15歲 多劑量靜脈注射4 mg/kg 15.2* 139.1*
+5歲-15歲 多劑量靜脈注射8 mg/kg 17.6* 196.7*
+平均7歲 多劑量口服3 mg/kg 15.5 41.6
+*代表最後一天
+在加護病房之早產兒(懷孕約28週)，每3天靜脈注射給予fluconazole 6 mg/kg，最多達到5個劑量。第1天的平均半衰期是74小時(44-185)，隨時間降低第7天後為平均53小時(30-131)，第13天為47小時(27-68)。
+第一天的曲線下面積(AUC)(µg.h/mL)為271(173-385)，隨時間增加第7天為平均值490(292-734)，於第13天降低為平均值360(167-566)。
+第一天的分佈體積(mL/kg)為1183(1070-1470)，隨時間增加第7天為平均值1184(510-2130)，第13天為平均值1328(1040-1680)。
+老人藥物動力學
+22名65歲或65歲以上受試者接受口服單一劑量50mg fluconazole的藥物動力學研究，其中有10位併用利尿劑，在服藥後1.3小時可達到最大血中濃度約1.54µg/mL，平均AUC是76.4±20.3μg•h/mL，平均最終半衰期是46.2小時。這些藥物動力動力學參數值比在健康年輕男性受試者之數值高，併用利尿劑不會明顯改變AUC或最大血中濃度。另外，就肌酸酐清除率(74mL/min)、由尿液中(0-24hrs)回收原型藥之比例為22%及fluconazole腎清除率評估(0.124mL/min/kg)而言，老人普遍低於年輕受試者。因此，顯示老人對fluconazole清除率的改變是和老人族群腎功能降低相關的。每個受試者的最終排除半衰期相對肌酸酐清除率的圖形，與正常受試者及各程度腎功能不全受試者之預測半衰期-肌酸酐清除率曲線相比，顯示22個受試者中有21位的數值落在預測半衰期-肌酸酐清除率曲-線的95%信賴界限內。這結果與假設一致，在年長受試者身上觀察到比年輕男性受試者高的藥物動力學參數值，是由於腎功能降低所致。
+12 臨床試驗資料
+目前尚無資訊。
+13 包裝及儲存
+13.1
+包裝
+4-1000粒鋁箔盒裝。
+13.2
+效期
+如外包裝所示。
+13.3
+儲存條件
+25°C以下避光貯存。

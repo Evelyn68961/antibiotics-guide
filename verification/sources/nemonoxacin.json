@@ -1,0 +1,30 @@
+{
+  "drug": "nemonoxacin",
+  "fetched": "2026-10-05T06:20:55.633Z",
+  "dailymed": null,
+  "smpc": null,
+  "lactmed": null,
+  "dailymed_note": "No US FDA approval for nemonoxacin; no DailyMed SPL exists (searched \"nemonoxacin\").",
+  "smpc_note": "Not authorised in the UK/EU; no eMC SmPC (searched \"nemonoxacin\").",
+  "lactmed_note": "No LactMed record for nemonoxacin in the local archive.",
+  "taiwan_insert": [
+    {
+      "source": "TFDA 藥品仿單查詢平台",
+      "title": "太捷信膠囊250毫克(奈諾沙星) Taigexyn Capsule 250mg, 衛部藥製字第058540號 (太景生物科技)",
+      "version": "仿單更新 113/03/25 版次4 (current per history table)",
+      "url": "https://mcp.fda.gov.tw/im_detail_1/%E8%A1%9B%E9%83%A8%E8%97%A5%E8%A3%BD%E5%AD%97%E7%AC%AC058540%E8%99%9F",
+      "text_file": "verification/sources/nemonoxacin-taiwan-insert-taigexyn-cap.txt",
+      "hospital_code": "TAI05",
+      "note": "License number derived from NHI code AC58540100."
+    },
+    {
+      "source": "TFDA 藥品仿單查詢平台",
+      "title": "太捷信 靜脈輸液500毫克/250毫升(奈諾沙星) Taigexyn Infusion Solution 500mg/250ml, 衛部藥製字第060558號 (太景生物科技)",
+      "version": "仿單更新 111/06/13 版次2 (current per history table)",
+      "url": "https://mcp.fda.gov.tw/im_detail_1/%E8%A1%9B%E9%83%A8%E8%97%A5%E8%A3%BD%E5%AD%97%E7%AC%AC060558%E8%99%9F",
+      "text_file": "verification/sources/nemonoxacin-taiwan-insert-taigexyn-inj.txt",
+      "hospital_code": "TAI06",
+      "note": "License number derived from NHI code AC60558265."
+    }
+  ]
+}

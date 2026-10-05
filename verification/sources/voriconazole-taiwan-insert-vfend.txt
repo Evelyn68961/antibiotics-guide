@@ -1,0 +1,1199 @@
+Source: TFDA 藥品仿單查詢平台 (mcp.fda.gov.tw), 黴飛凍晶注射液200毫克 VFEND 200MG FOR SOLUTION FOR INFUSION, 衛署藥輸字第023648號 (shared insert with 黴飛膜衣錠 50/200 mg 衛署藥輸字第023647/023646號), Pfizer Taiwan.
+URL: https://mcp.fda.gov.tw/im_detail_1/%E8%A1%9B%E7%BD%B2%E8%97%A5%E8%BC%B8%E5%AD%97%E7%AC%AC023648%E8%99%9F
+Insert version: CDS 20250715-2; latest history entry 114/04/28 (2025-04-28), 版次 6. Fetched 2026-10-05.
+
+1 性狀
+1.1
+有效成分及含量
+膜衣錠：
+每一黴飛膜衣錠含有 50 毫克或 200 毫克的 voriconazole 。
+輸注溶液用凍晶粉末：
+每一小瓶輸注溶液用凍晶粉末中含有 200 毫克的 voriconazole ，經配製後可形成相當於 10mg/mL 的黴飛輸注溶液 ( 參見 3.2 節）。
+1.2
+賦形劑
+膜衣錠：
+核心藥錠
+單水乳糖 (Lactose Monohydrate)
+預膠化澱粉 (Pregelatinised Starch)
+Croscarmellose Sodium
+Povidone
+硬脂酸鎂 (Magnesium Stearate)
+膜衣
+Hypromellose
+二氧化鈦 (Titanium Dioxide ， E171)
+單水乳糖 (Lactose Monohydrate)
+Glycerol Triacetate
+輸注溶液用凍晶粉末：
+Sulphobutylether Beta Cyclodextrin Sodium
+注射用水
+1.3
+劑型
+黴飛膜衣錠 50 毫克 /200 毫克：膜衣錠
+黴飛凍晶注射液 200 毫克：凍晶注射劑
+1.4
+藥品外觀
+膜衣錠：
+Voriconazole 50 毫克膜衣錠是白色圓形藥錠，其中一面有內凹的「 Pfizer 」字樣，另一面有內凹的「 VOR50 」字樣。
+Voriconazole 200 毫克膜衣錠是白色膠囊狀藥錠，其中一面有內凹的「 Pfizer 」字樣，另一面有內凹的「 VOR200 」字樣。
+輸注溶液用凍晶粉末：
+輸注溶液用 Voriconazole 凍晶粉末是白色凍晶粉末，裝在 30 毫升的透明玻璃瓶中，相當於 200 毫克的 voriconazole 。
+2 適應症
+治療侵犯性麴菌症 (invasive aspergillosis) ；
+治療嚴重之侵犯性念珠菌感染 (serious invasive Candida infections)
+治療足分枝菌 ( Scedosporium spp.) 和鐮刀菌 ( Fusarium spp.) 之嚴重黴菌感染
+預防高危險病人發生侵入性黴菌感染，包括接受造血幹細胞移植 (HSCT) 的病人
+3 用法及用量
+3.1
+用法用量
+膜衣錠：
+Voriconazole 膜衣錠需於飯前至少一小時或飯後一小時服用。
+輸注溶液用凍晶粉末：
+Voriconazole 以靜脈注射給藥之前，需經配製和稀釋 ( 參見 3.2 節 ) 。
+輸注溶液用 Voriconazole 凍晶粉末不適合用於推注 (bolus injection) 。
+Voriconazole 的建議給藥速度最大為每小時 3mg/kg ， 1-2 小時內完成。
+成人使用
+治療一開始必須以靜脈注射或口服的方法進行特定的 voriconazole 負荷劑量療程，使病人的血漿藥物濃度於第一天即接近穩定狀態。由於 voriconazole 的口服生體可用率極高 (96% ；參見 11 節 ) ，因此當臨床上必要時，可以將靜脈注射和口服給藥法相互調換。
+侵入性麴菌症及足分枝菌和鐮刀菌之嚴重黴菌感染 :
+治療一開始第一天必須以靜脈注射的方法進行特定的 voriconazole 負荷劑量療程，接著給予維持劑量療程，靜脈注射治療應持續至少 7 天，若病人臨床上改善，且能耐受口服藥物，才可使用口服錠劑。
+建議劑量的詳細資料如下表：
+靜脈注射
+口服
+病人體重 ≧40 公斤
+病人體重＜ 40 公斤
+所有適應症的
+負荷劑量療程
+( 最初 24 小時 )
+每 12 小時 6mg/kg
+( 最初 24 小時 )
+每 12小 時 400mg
+( 最初 24 小時 )
+每 12 小時 200mg
+( 最初 24 小時 )
+維持劑量 ( 最初 24 小時之後 )
+預防侵入性黴菌感染 / 預防突發性感染
+每 12 小時 4mg/kg
+每 12 小時 200mg
+每 12 小時 100mg
+對 fluconazole 具抗藥性之嚴重侵入性念珠菌 / 侵入性麴菌症 / 足分枝菌和鐮刀菌之嚴重黴菌感染
+每 12 小時 4mg/kg
+每 12 小時 200mg
+每 12 小時 100mg
+免疫系統受損病人由白色念珠菌引起的食道念珠菌病
+無建議
+每 12 小時 200mg
+每 12 小時 100mg
+劑量調整
+膜衣錠：
+若病人對治療的反應不理想，可將口服維持劑量由每 12 小時 200 mg ( 相當於每 12 小時靜脈注射 3 mg/kg) ，增加到每 12 小時 300mg ( 相當於每 12 小時靜脈注射 4 mg/kg) 。體重低於 40 公斤的病人，可由每 12 小時 100mg 增加至 150mg 。
+若病人無法忍受較高的劑量 ( 如每 12 小時口服 300 mg) ，則將口服劑量每次降低 50mg ，逐漸減少至每 12 小時 200mg( 體重低於 40 公斤的病人，則為每 12 小時 100mg) 的維持劑量。
+如果 voriconazole 的維持劑量可以由每 12 小時口服 200mg 增加至 400mg( 體重低於 40 公斤的病人，可以由每 12 小時口服 100mg 增加至 200mg) ， phenytoin 或許可以和 voriconazole 併用，請參見 5.1 節和 7 節。
+將 voriconazole 和調整劑量後的 efavirenz 併用時， voriconazole 的維持劑量應提高至每 12 小時 400 毫克 ( 參見 4 、 5.1 與 7 節 )  。
+治療期間的長短應視病人的臨床與黴菌學反應而定。
+輸注溶液用凍晶粉末：
+若病人對每 12 小時 3 毫克 / 公斤之劑量的反應不理想，可將靜脈注射維持劑量增加到每 12 小時 4mg/kg 。
+若病人無法忍受每 12 小時 4 毫克 / 公斤的劑量，則將靜脈注射劑量降低至每 12 小時 3 毫克 / 公斤的最低劑量。
+如果 voriconazole 的靜脈注射劑量可以增加至每 12 小時 5mg/kg ， phenytoin 或許可以和 voriconazole 併用 ( 參見 5.1 節和 7 節 ) 。
+治療期間長短應視病人的臨床與黴菌學反應而定。
+3.2
+調製方式
+血液製劑與濃縮電解質
+Voriconazole 不可與任何血液製劑或任何短期濃縮電解質輸液同時輸注，即使是讓兩種輸液透過不同的靜脈導管 ( 或插管 ) 輸注也不建議。在開始使用 voriconazole 治療之前，應先矯正電解質障礙的問題，如低血鉀、低血鎂及低血鈣 ( 參見 5.4 節 ) 。
+含 ( 非濃縮 ) 電解質的靜脈輸注溶液
+Voriconazole 可與其它含 ( 非濃縮 ) 電解質的靜脈輸注溶液同時輸注，但必須透過不同的導管輸注。
+全靜脈營養輸液 (TPN)
+Voriconazole 可與全靜脈營養輸液同時輸注，但必須透過不同的導管輸注。如果是透過多管腔導管輸注，則 TPN 與 voriconazole 必須使用不同的輸注入口。
+不可使用 4.2% 的碳酸氫鈉輸液稀釋 voriconazole 。目前並不確知本品與其它濃縮液的相容性。
+除了本節所提及的藥物之外，本品不可與其它藥物混合使用。
+使用和處理指示
+輸注溶液用凍晶粉末： Voriconazole 包裝為單一劑量的小玻璃瓶裝。配製時加入 19 毫升注射用水，可配製成 20 毫升的透明溶液，濃度為 10 mg/mL 。若真空未能將稀釋液汲入藥瓶內，即應丟棄藥瓶不可再用。給藥時，可將適量的配製溶液 ( 詳見下表 ) 加入適當的相容注射液中，最後可得濃度 0.5-5 mg/mL 的 voriconazole  溶液。
+配製注射液時所需的 VFEND 10 mg/mL 濃縮液體積
+體重
+( 公斤 )
+VFEND 濃縮液 (10 mg/mL) 所需用量：
+3 mg/kg 劑量
+( 藥瓶數 )
+4 mg/kg 劑量
+( 藥瓶數 )
+6 mg/kg 劑量
+( 藥瓶數 )
+8 mg/kg 劑量
+( 藥瓶數 )
+9 mg/kg 劑量
+( 藥瓶數 )
+10
+-
+4.0 毫升 (1)
+-
+8.0 毫升 (1)
+9.0 毫升 (1)
+15
+-
+6.0 毫升 (1)
+-
+12.0 毫升 (1)
+13.5 毫升 (1)
+20
+-
+8.0 毫升 (1)
+-
+16.0 毫升 (1)
+18.0 毫升 (1)
+25
+-
+10.0 毫升 (1)
+-
+20.0 毫升 (1)
+22.5 毫升 (2)
+30
+9.0 毫升 (1)
+12 毫升 (1)
+18 毫升 (1)
+24.0 毫升 (2)
+27.0 毫升 (2)
+35
+10.5 毫升 (1)
+14 毫升 (1)
+21 毫升 (2)
+28.0 毫升 (2)
+31.5 毫升 (2)
+40
+12.0 毫升 (1)
+16 毫升 (1)
+24 毫升 (2)
+32.0 毫升 (2)
+36.0 毫升 (2)
+45
+13.5 毫升 (1)
+18 毫升 (1)
+27 毫升 (2)
+36.0 毫升 (2)
+40.5 毫升 (3)
+50
+15.0 毫升 (1)
+20 毫升 (1)
+30 毫升 (2)
+40.0 毫升 (2)
+45.0 毫升 (3)
+55
+16.5 毫升 (1)
+22 毫升 (2)
+33 毫升 (2)
+44.0 毫升 (3)
+49.5 毫升 (3)
+60
+18.0 毫升 (1)
+24 毫升 (2)
+36 毫升 (2)
+48.0 毫升 (3)
+54.0 毫升 (3)
+65
+19.5 毫升 (1)
+26 毫升 (2)
+39 毫升 (2)
+52.0 毫升 (3)
+58.5 毫升 (3)
+70
+21.0 毫升 (2)
+28 毫升 (2)
+42 毫升 (3)
+-
+-
+75
+22.5 毫升 (2)
+30 毫升 (2)
+45 毫升 (3)
+-
+-
+80
+24.0 毫升 (2)
+32 毫升 (2)
+48 毫升 (3)
+-
+-
+85
+25.5 毫升 (2)
+34 毫升 (2)
+51 毫升 (3)
+-
+-
+90
+27.0 毫升 (2)
+36 毫升 (2)
+54 毫升 (3)
+-
+-
+95
+28.5 毫升 2)
+38 毫升 (2)
+57 毫升 (3)
+-
+-
+100
+30.0 毫升 (2)
+40 毫升 (2)
+60 毫升 (3)
+-
+-
+Voriconazole 是單一劑量，未加保存劑的無菌凍晶粉末。因此以微生物學的觀點來看，必須立即使用。若不立即使用，使用前的保存時間和狀況是使用者的責任，除非配製步驟在確實無菌的情況下進行，否則 2℃-8℃ 之下不應超過 24 小時。
+泡製溶液可以用下列溶液稀釋：
+0.9 ％ Sodium Chloride 靜脈注射液
+Compound Sodium Lactate 靜脈注射液
+5 ％ Glucose and Compound Sodium Lactate 靜脈注射液
+5 ％ Glucose and 0.45 ％ Sodium Chloride 靜脈注射液
+5 ％ Glucose  靜脈注射液
+5 ％ Glucose in 20 mEq Potassium Chloride 靜脈注射液
+0.45 ％ Sodium Chloride 靜脈注射液
+5 ％ Glucose and 0.9 ％ Sodium Chloride 靜脈注射液
+Voriconazole 與其他未列於此節的稀釋液是否相容仍屬未知。
+3.3
+特殊族群用法用量
+老年人使用
+老年病人無須調整劑量。
+腎功能不全病人使用
+膜衣錠：
+口服 voriconazole 的藥動學不會受腎功能不全影響。因此有輕度至重度腎功能不全的病人無須調整劑量。
+輸注溶液用凍晶粉末：
+若病人有中度至重度的腎功能不全 ( 肌酸酐清除率 <50mL/min) 時，會導致靜脈內輔藥 sulphobutylether β-cyclodextrin sodium (SBEC D ) 在靜脈內累積，此時除非靜脈注射 voriconazole 的好處大於風險，否則應以口服方式治療這些病人。應該密切監測病人的血清肌酸酐值，若肌酸酐值上升，則應考慮改為口服治療。
+血液透析清除 voriconazole 的速率為每分鐘 121 毫升，血液透析 4 小時所排除的 voriconazole 量不夠多，沒有理由要調整劑量。
+靜脈內的輔藥 SBECD 經血液透析的清除速率為每分鐘 55 毫升。
+肝功能不全病人使用
+肝功能檢驗值升高 (ALT ， AST) 的急性肝功能障礙病人無須調整劑量。
+建議持續監測肝功能檢驗值，觀察其是否持續上升。
+輕度至中度的肝功能不全 (Child-Pugh 分類 A 級和 B 級 ) 病人使用 voriconazole  時，建議仍用標準的負荷劑量，但維持劑量需減半。
+目前沒有 voriconazole 使用於重度肝功能不全 (Child-Pugh 分類 C 級 ) 病人的研究資料。
+Voriconazole 曾與肝功能值上升和肝臟受損之臨床症候有關，例如黃疸。只有在治療利益大於潛在風險時，重度肝功能不全病人才能使用 voriconazole 。重度肝功能不全病人必須小心監測藥物毒性。
+兒童使用
+用於 兒童 (2 至 <12 歲 ) 與年齡較小的青少年 (12 至 14 歲且 <50 公斤 )
+建議劑量如下：
+靜脈注射
+口服
+負荷劑量療程
+( 最初 24 小時 )
+每 12 小時 9 毫克 / 公斤
+無建議
+維持劑量
+( 最初 24 小時之後 )
+8 毫克 / 公斤每日兩次
+每日兩次 9 毫克 / 公斤
+( 最高劑量為每日兩次 350 毫克 )
+註：根據一項針對 112 位 2 至 <12 歲之免疫功能不全兒童病人及 26 位 12 至 <17 歲之免疫功能不全青少年病人所進行之族群藥物動力學分析的結果。
+建議一開始先以靜脈注射的方式治療，且只有在臨床表現明顯改善之後才可考慮轉換成口服治療。應注意的是， 8 毫克 / 公斤之靜脈注射劑量所達到的 voriconazole 暴露量要比 9 毫克 / 公斤的口服劑量高 2 倍左右。
+兒童口服劑量建議的依據為使用口服懸液用粉劑配方之 voriconazole 所進行的研究。目前尚未針對兒童族群評估過口服懸液用粉劑與錠劑之間的生體相等性。由於一般都認為兒童的胃腸通過時間較短，因此，錠劑在兒童體內的吸收程度也可能與成人病人不同。 2 至 <12 歲兒童建議使用口服懸液配方。
+二歲以下兒童使用本藥的安全性和有效性尚未確立 ( 參見 12 節 ) ，因此不建議二歲以下兒童使用 voriconazole 。目前尚未研究過對 2 至 <12 歲且肝功能或腎功能不全的兒童病人使用本藥的結果 ( 參見 8.1 節與 11 節 ) 。
+用於所有其他的青少年 (12 至 14 歲且 ≥50 公斤： 15 至 <17 歲，不考慮體重 )
+Voriconazole 的用量應和成人相同。
+劑量調整
+若病人對治療的反應不理想，可以每次增加 1 毫克 / 公斤的方式逐步提高劑量 ( 若已開始使用 350 毫克的最高口服劑量，則每次增加 50 毫克 ) 。若病人無法耐受治療，則以每次減少 1 毫克 / 公斤的方式逐步降低劑量 ( 若已開始使用 350 毫克的最高口服劑量，則每次減少 50 毫克 ) 。
+成人與兒童之預防治療
+應在移植當天開始預防治療，且可持續給藥長達 100 天。移植後僅能在持續免疫抑制或移植物抗宿主疾病 (GvHD)  情況下，持續最多 180 天 ( 參見 12 節 ) 。
+劑量
+預防治療之建議劑量與各年齡層之治療劑量相同。請參見上表。
+預防治療持續時間
+尚未在臨床試驗中充分研究使用 Voriconazole 超過 180 天的安全性和療效。
+4 禁忌
+Voriconazole 禁用於已知對 voriconazole 或本品任何賦形劑過敏之病人。
+本節及 7 節所列之交互作用藥物為指引，且不應視為所有可能禁用藥物之完整清單。
+Voriconazole 不可與高度依賴 CYP3A4 代謝之藥物併用，這些藥物的血漿濃度升高可能與嚴重及 / 或危及生命的反應相關 ( 參見 7 節 ) ：
+Terfenadine
+Astemizole
+Cisapride
+Pimozide
+Lurasidone
+Quinidine
+Ivabradine
+Sirolimus
+Naloxegol
+Tolvaptan
+Finerenone
+Eplerenone
+Voclosporin
+Venetoclax ：在 venetoclax 劑量調整期開始和進行期間不可併用。
+麥角生物鹼
+Voriconazole 禁止與麥角生物鹼 (ergot-alkaloids)  類藥品 ( 如 ergotamine 、 dihydroergotamine 、 ergometrine(ergonovine) 、 methylergometrine (methylergonovine))  併用，因為這些藥物是 CYP3A4 受質，其血漿濃度增加可能增加麥角中毒風險 ( 參見 7 節 ) 。
+Voriconazole 不可與誘導 CYP3A4 之藥物併用，會使 voriconazole 血漿濃度顯著降低：
+與 rifabutin 、 rifampicin 、 carbamazepine 、長效型巴比妥類藥物 (barbiturates ，例如 phenobarbital)  及聖約翰草併用 ( 參見 7 節 ) 。
+Efavirenz   標準劑量下的 Voriconazole 禁止與 efavirenz 每 24 小時 400 毫克或更高劑量併用 ( 參見 7 節 ) 。有關併用 voriconazole 與低劑量 efavirenz 的資訊 ，請見 5.1 節。
+Ritonavir   禁止與高劑量的 ritonavir ( 每日兩次 400 毫克 [ 含 ] 以上 )  併用 ( 參見 7 節 ) 。有關併用低劑量的資訊，請見 5.1 節。
+5 警語及注意事項
+5.1
+警語/注意事項
+過敏： 處方 voriconazole 給對其他 azole 類藥物過敏的病人時須小心。
+輸注相關反應： 施行 voriconazole 靜脈注射時曾經發生過輸注相關反應，主要是潮紅和噁心。根據症狀的嚴重程度，應該考慮停止治療 ( 參見 8.1 節 ) 。
+心臟不良反應： 有些 azole 類藥物 ( 包括 voriconazole)  會伴隨心電圖的 QT 間期延長。在臨床開發與上市後的監視期內，曾有服用 voriconazole 的病人發生 torsade de pointes 的案例。這些案例涉及合併多個危險因子的重症病人，例如曾經接受有心臟毒性之化學治療、心肌病、低血鉀症、以及併用會促發這種情況的藥物。對於有前心律不整狀況的病人，投予 voriconazole 應小心，例如：
+先天性或後天性 QT 延長
+心肌病變，特別是發生心臟衰竭的情況下
+竇性心搏過緩
+已罹患有症狀之心律不整
+併用已知會延長 QT 間期的藥物 ( 參見 7 節 )
+開始 voriconazole 治療之前與治療期間，應在需要時監測並矯正電解質，例如低血鉀症、低血鎂症和低血鈣症 ( 參見 3.3 節 ) 。
+一項研究針對健康志願者探討高達一般每日劑量 4 倍的 voriconazole 單一劑量對 QT 間期的影響。與基礎值相比，各組都沒有受試者的 QTc 增加量 ≧60  毫秒。沒有受試者經歷到 QT 間期超過可能在臨床上相關的閥值 500 毫秒 ( 參見 12) 。
+肝毒性： 在臨床試驗於 voriconazole 治療期間曾有嚴重肝反應案例 ( 包括臨床肝炎、膽汁鬱滯、猛爆性肝衰竭，包括死亡 ) 。肝臟反應的案例主要發生在有嚴重潛在疾病的病人 ( 主要是血液方面的癌症 ) 。暫時性的肝臟反應 ( 包括肝炎和黃疸 )  也曾發生在沒有其他可識別危險因子的病人。肝功能不全通常在停止治療後復原。
+監測肝功能： 接受 voriconazole 治療的病人，必須謹慎監測肝毒性。開始 voriconazole 治療時的臨床處置應包括肝功能的實驗室評估 ( 特別是 AST 和 ALT) ，且治療的第一個月內至少每週一次。持續治療時，若肝功能檢驗結果沒有改變，監測頻率可降低至每月一次。
+如果肝功能檢驗顯著升高，應停用 voriconazole ，除非醫師判斷病人治療的風險 - 效益後認為可繼續使用 ( 參見 3.3 節 ) 。
+視覺不良反應： 在上市後的使用經驗中曾有發生持續時間較長之視覺不良反應的報告，包括視神經炎與視神經乳頭水腫。這些主要都是發生於併有原有疾病且 ( 或 ) 合併使用可能會引發或促進這些反應之藥物的重症病人 ( 參見 8.1 節 ) 。
+腎臟不良反應： 曾有接受 voriconazole 治療的重症病人發生急性腎衰竭。接受 voriconazole 治療的病人可能同時接受有腎毒性的藥物治療，以及同時有會造成腎功能減退的狀況。
+監測腎功能： 應監測病人是否發生腎功能異常，包括做實驗室檢驗評估，特別是測量血清肌酸酐 ( 參見 3.3 節 ) 。
+監測胰臟功能： 對併有急性胰臟炎危險因子 ( 如最近曾接受化學治療、造血幹細胞移植 [HSCT])
+的成人與兒童，在使用 voriconazole 治療期間應監視是否發生胰臟炎。
+嚴重皮膚不良反應：
+光毒性
+此外，已知 VFEND 與光毒性反應相關，包括例如雀斑、小痣、光化性角化症和偽紫質症 (pseudoporphyria) 等。已觀察到與methotrexate (一種與紫外線 (UV) 再活化相關的藥物) 併用會增加皮膚毒性的風險。與紫外線再活化相關的其他藥物可能會觀察到這種風險。建議包含兒童在內的所有病人在 VFEND 治療期間要避免直接曝曬陽光，並採取防範措施，例如防護衣物和高防曬係數 (SPF)  防曬油。
+皮膚鱗狀細胞癌 (SCC)
+已有病人發生皮膚鱗狀細胞癌 ( 包括皮膚 SCC 原位癌或波文氏病 [Bowen’s disease]) 之通報，這當中有部分為先前曾出現光毒性反應。如病人出現光毒性反應，應尋求多專科建議、考慮停用 VFEND 並使用替代性抗黴菌藥物，及將病人轉介給皮膚科醫生。若持續使用 VFEND ，應定期進行全身性皮膚評估，以針對癌前病灶進行早期偵測及治療。若發現癌前皮膚病灶或皮膚鱗狀細胞癌時，應停用 VFEND ( 參見下方「長期治療」內容 ) 。
+剝落性皮膚反應
+使用 voriconazole 治療時發生嚴重皮膚不良反應   (SCAR)  之通報，如 Stevens-Johnson 症候群   (SJS) 、 毒性表皮壞死溶解症   (TEN) ， 和可能危及生命或致命之藥物疹合併嗜酸性白血球增多及全身症狀   (DRESS) 。若病人出現皮疹，應密切監測，且若病灶惡化，則應停用 VFEND 。
+腎上腺不良反應：
+接受 azole 類藥物 ( 包括 voriconazole)  的病人曾通報有可逆性腎上腺機能不全病例。接受 azole 類藥物併用或未併用皮質類固醇的病人曾通報有腎上腺機能不全問題。在接受 azole 類藥物且未併用皮質類固醇的病人中，腎上腺機能不全與 azole 類藥物直接抑制類固醇生成有關。在服用皮質類固醇類藥物的病人中，   因 voriconazole 相關 CYP3A4 抑制作用影響其代謝故可能導致皮質類固醇過量和腎上腺抑制   ( 參見 第 7 節 ) 。接受 voriconazole 併用皮質類固醇的病人也曾通報庫欣氏症候群 (Cushing’s syndrome) 併發或未併發腎上腺機能不全的問題。
+接受 voriconazole  和皮質類固醇 ( 包含吸入性皮質類固醇，如 budesonide)  長期治療的病人應在治療期間以及停用 voriconazole  時謹慎監測是否出現腎上腺皮質功能異常情形 ( 參見 7 節 ) 。如果病人出現庫欣氏症候群或腎上腺機能不全的徵象和症狀，應指示病人立即就醫。
+長期治療 ：
+voriconazole 長期治療曾發生下列的相關嚴重不良事件：
+皮膚鱗狀細胞癌 (SCC) ：有光 敏感性皮 膚反應和額外危險因子的病人，長期治療期間曾有皮膚鱗狀細胞癌 ( 包括皮膚 SCC 原位癌或波文氏病 [Bowen’s disease]) 和黑色素瘤的報告。如果發生光毒性反應，應尋求各科專家意見，並應轉介病人接受皮膚科醫師診療。應考慮停用 voriconazole 。持續使用 voriconazole 期間，不論是否發生光毒性相關病灶，應定期進行全身皮膚評估，以早期偵測並治療癌前病灶。
+如果病人出現符合癌前皮膚病灶、皮膚鱗狀細胞癌或黑色素瘤的皮膚病灶，應考慮停用 voriconazole 。
+非感染性骨膜炎 ： 曾有移植病人在長期使用 voriconazole 治療期間發生骨膜炎 (periostitis) 的報告。如果病人出現骨骼疼痛的症狀，且 X 光檢查結果與骨膜炎相符，則應停用 voriconazole 。
+小兒科使用： 二歲以下兒童使用本藥的安全性和療效資料尚未確立 ( 參見 12 節 ) 。 Voriconazole 適用於 2 歲 ( 含 ) 以上的兒童病人。在兒童族群中曾觀察到較高的肝臟酵素上升頻率 ( 參見 8.1 節 ) 。兒童與成人都應接受肝功能監測。在吸收不良及體重遠低於同齡者的 2 至 12 歲的兒童病人中，口服生體可用率可能會受到限制。在這種情況下，建議以靜脈輸注的方式投予 voriconazole 。
+兒童族群的光毒性反應發生率較高 。由於曾有進展為皮膚鱗狀細胞癌的報告，因此兒童病人應採用嚴格的防曬措施。發生光照老化傷害的兒童，例如棕斑或雀斑，即使停止治療後，也建議避免陽光曝曬並接受皮膚科追蹤。
+預防性療法： 若發生治療相關不良事件 ( 肝毒性、嚴重皮膚反應包含光毒性和 SCC 、嚴重或持續性視覺障礙和骨膜炎 )  ，必須考慮停用 voriconazole  並改用替代性抗黴菌劑。
+Everolimus  (CYP3A4 受質、 P-gp 受質 ) ：不建議將 voriconazole 與 everolimus 併用，因為一般認為 voriconazole 會明顯升高 everolimus 的血漿濃度。目前尚無足夠的資料可據以提供這種情況下的劑量建議 ( 參見 7 節 ) 。
+Fluconazole   (CYP2C9 、 CYP2C19 與 CYP3A4 的抑制劑 ) ：對健康受試者併用口服 voriconazole 與口服 fluconazole 會導致 voriconazole 的 C max 與 AUC τ 明顯升高。目前尚未確定降低 voriconazole 與 fluconazole 的劑量及 ( 或 ) 投藥頻率是否能夠消除這種影響。如果在 fluconazole 之後接續使用了 voriconazole ，建議應監視是否發生和 voriconazole 有關的不良事件 ( 參見 7 節 ) 。
+Efavirenz  (CYP450 誘導劑； CYP3A4 的抑制劑與受質 ) ：將 voriconazole 與 efavirenz 併用時，
+voriconazole 的劑量應提高至每 12 小時 400 毫克，而 efavirenz 的劑量則應降低至每 24 小時 300 毫
+克 ( 參見 3.1 、 4 與 7 節 ) 。
+Glasdegib (CYP3A4 受質 ) ：與 voriconazole 併用一般認為會升高 glasdegib 的血漿濃度並增加 QTc 延長的風險 ( 參見 7 節 ) 。如果不能避免併用，建議經常進行 ECG 監測。
+酪胺酸激酶抑制劑   (CYP3A4 受質 )：voriconazole 與由 CYP3A4 代謝的酪胺酸激酶抑制劑併用會升高酪胺酸激酶抑制劑血漿濃度以及不良反應的風險。如果無法避免併用，建議降低酪胺酸激酶抑制劑的劑量並進行密切臨床監測 ( 參見 7 節 )。
+Phenytoin (CYP2C9 受質和強效的 CYP450 誘導劑 ) ： Phenytoin 與 voriconazole 併用時，建議小心監測 phenytoin 的血漿濃度。除非利益大於風險，否則應避免同時使用 voriconazole 和 phenytoin ( 參見 7 節 ) 。
+Ritonavir  ( 強效的 CYP450 誘導劑、 CYP3A4 抑制劑與受質 ) ： Voriconazole 應避免和低劑量的 ritonavir ( 每日兩次 100 毫克 ) 併用，除非效益 / 風險評估的結果顯示適合使用 voriconazole ( 參見 7 節；較高的劑量請參見 4 節 ) 。
+Methadone  (CYP3A4 受質 ) ： Methadone 的血漿濃度會升高，並會伴隨出現毒性反應，包括 QT 間隔延長。併用期間應經常監視是否發生與 methadone 有關的不良事件及毒性。可能必須降低 methadone 的劑量 ( 參見 7 節 ) 。
+短效性鴉片類麻醉劑 (CYP3A4 受質 ) ：與 voriconazole 併用時，應考慮降低 alfentanil 、 fentanyl 及其它結構與 alfentanil 類似且經由 CYP3A4 代謝之短效性鴉片類麻醉劑 ( 如 sufentanil) 的劑量 ( 參見 7 節 ) 。由於 alfentanil 的半衰期在與 voriconazole 併用時會延長 4 倍，且有一項獨立的已發表研究指出，將 voriconazole 與 fentanyl 併用會導致 fentanyl 的平均 AUC 0-∞ 升高 1.4 倍，因此可能必須經常監測鴉片類麻醉劑相關不良事件 ( 包括延長呼吸監視的時間 ) 。
+長效性鴉片類麻醉劑   (CYP3A4 受質 ) ：與 voriconazole 併用時，應考慮降低 oxycodone 及其它經由 CYP3A4 代謝之長效性鴉片類麻醉劑 ( 如 hydrocodone) 的劑量。可能必須經常監測鴉片類麻醉劑相關不良事件 ( 參見 7 節 ) 。
+5.3
+操作機械能力
+Voriconazole 可能對於視覺造成暫時而可逆性的影響，包括視覺模糊、視覺感知的改變 / 加強和 / 或畏光。病人在經歷這類症狀時，必須避免有潛在危險的工作，例如開車或操作機械。使用 voriconazole 的病人不應於夜間駕駛。
+5.4
+實驗室檢測
+實驗室檢驗： 在開始 VFEND  治療前及在治療期間，電解質異常如低血鉀、低血鎂和低血鈣應進行矯正。
+病人管理應包含以實驗室檢驗評估腎功能 ( 特別是血清肌酸酐 )  和肝功能 ( 特別是肝功能檢驗和膽紅素 ) 。
+6 特殊族群注意事項
+6.1
+懷孕
+尚無懷孕婦女使用 voriconazole 的適當資訊。
+動物研究顯示於高劑量時有生殖毒性 ( 參見 10.3 節 ) 。對於人類的潛在風險仍未知。
+Voriconazole  不得於懷孕時使用，除非對母體的好處明顯超過對胎兒的潛在風險。
+資料
+動物資料
+對於懷孕大鼠，在器官形成期（懷孕第 6-17  天）以 10 、 30  和 60 毫克 / 公斤 / 日劑量口服給藥 Voriconazole 。 Voriconazole 在給藥劑量為 10  毫克 / 公斤 / 日（約為建議人體劑量 [recommended human dose ， RMD]  的 0.3  倍 [ 與體表面積相比 ] ）或更高時，會造成畸形輸尿管積水和腎積水發生率增加，在給藥劑量為 60 毫克 / 公斤（約為 RMD  的 2  倍 [ 與體表面積相比 ] ）時則會造成唇顎裂發生率增加。在給藥劑量為 10 mg/kg  或更高時，也觀察到薦骨和尾椎骨、顱骨、恥骨和舌骨骨化減少、多餘肋骨、胸骨異常和輸尿管 / 腎盂擴張。但在任何劑量下均無母體毒性的證據。
+對於懷孕兔子，在器官形成期（懷孕第 7-19  天）以 10 、 40  和 100  毫克 / 公斤 / 日劑量口服給藥 Voriconazole 。 Voriconazole 在給藥劑量為 100  毫克 / 公斤 / 日（約為 RMD  的 6  倍 [ 與體表面積相比 ] ）時，會造成胚胎著床後流產增加和胎兒體重下降，與母體毒性（減少體重增加和食物攝取）有關。在給藥劑量為 100  毫克 / 公斤 / 日時，還觀察到胎兒骨骼變異（頸肋和胸骨外骨化部位的發生率增加）。
+在雌性大鼠的周產期和產後毒性研究中，自胚胎著床至泌乳結束，以 1 、 3  和 10  毫克 / 公斤 / 日劑量口服給藥 Voriconazole 。在給藥劑量為 10  毫克 / 公斤 / 日（約為 RMD  的 0.3  倍）時， Voriconazole  延長了懷孕和分娩的持續時間，並導致難產和相關母體死亡率增加以及 F1 後代周產期存活率降低。
+6.2
+哺乳
+Voriconazole 分泌至乳汁的狀況尚未經調查。哺乳婦女於開始使用 vorizonazole 治療時必須停止哺乳。
+6.3
+有生育能力的女性與男性
+生育力
+在給藥劑量 50 毫克 / 公斤，或 1.6 倍的每日最大建議劑量下， Vorizonazole 對大鼠的懷孕率造成減少影響。這結果只在初步試驗有統計學的意義，而不是在一個大型生育力試驗中。
+可能懷孕的婦女
+可能懷孕的婦女必須在治療期間使用有效的避孕方式。
+7 交互作用
+Voriconazole 會被細胞色素 P450 的同功酵素 (isoenzyme) ： CYP2C19 、 CYP2C9 、以及 CYP3A4 所代謝，也會抑制這些酵素的活性。這些同功酵素的抑制劑或誘導劑，可能分別使 voriconazole 的血漿濃度增加或減少，同樣地， voriconazole 也可能會增加透過這些 CYP450 同功酵素代謝之物質的血漿濃度，特別是針對透過 CYP3A4 代謝的物質，這是由於 voriconazole 是強效 CYP3A4 抑制劑，儘管其 AUC 的血中濃度增加為受質依賴性 ( 參見下面的交互作用表 ) 。
+除了特別指明者之外，本藥物交互作用的研究是以健康男性成人受試者為對象，在口服 voriconazole 200mg 每日二次的劑量下，給予多次劑量讓藥物濃度達到穩定狀態。這些研究結果與其他人口族群以及給藥途徑有關連性。
+對合併使用已知會延長 QT 間隔之藥物的病人，投予 voriconazole 時應謹慎；當 voriconazole 可能會增加該透過 CYP3A4 同功酵素代謝之藥物 ( 如某些抗組織胺劑、 quinidine 、 cisapride 、 pimozide  和 ivabradine) 的血漿濃度時，禁止併用該藥物 ( 參見下文及 4 節 ) 。
+交互作用表
+Voriconazole 與其他藥物間的交互作用列於下表 ( 「 QD 」表示每日一次，「 BID 」表示每日兩次，「 TID 」表示每日三次，「 ND 」表示未定 ) 。各項藥物動力學參數的箭頭方向係以幾何平均比率的 90% 信賴區間在 80%-125% 的範圍之內 (↔) 、以下 (↓) 或以上 (↑) 為基礎。星號 (*)  代表雙向交互作用。 AUC τ   、 AUC t 及 AUC 0- ∞ 分別表示一個投藥間隔、從時間 0 到有檢測值之時間、以及從時間 0 到無限久期間的曲線下面積。
+表中的交互作用係依下列順序列出：禁忌、須調整劑量並進行嚴密的臨床及 ( 或 ) 生物學監測者、最後則是無明顯藥物動力學交互作用但在此治療領域中可能具臨床重要性者。
+表中所列藥物為指引，且不應視為所有可能禁用或可能與voriconazole有交互作用藥物之完整清單。
+藥品
+[ 交互作用機制 ]
+交互作用
+幾何平均變化 (%)
+併用建議
+Astemizole 、 cisapride 、 pimozide 、 quinidine 、 terfenadine   和 ivabradine
+[CYP3A4 受質 ]
+雖然未經研究，但這些藥物的血漿濃度升高會導致 QTc 延長，以及發生罕見的 torsades de pointes 。
+禁止併用 ( 參見 4 節 )
+Carbamazepine 和長效型巴比妥類藥物 ( 包括但不限於： phenobarbital 、 mephobarbital)
+[ 強效的 CYP450 誘導劑 ]
+雖然未經研究，但 carbamazepine 和長效型巴比妥類藥物可能會明顯降低 voriconazole 的血漿濃度。
+禁止併用 ( 參見 4 節 )
+Efavirenz ( 一種非核苷類反轉錄酶抑制劑 ) [CYP450 誘導劑； CYP3A4 的抑制劑與受質 ]
+Efavirenz 400  毫克 QD *
+與 voriconazole 200 毫克 BID  併用
+Efavirenz 300 毫克 QD ，與 voriconazole 400 毫克 BID 併用 *
+Efavirenz C max  ­↑ 38%
+Efavirenz AUC τ  ­↑ 44%
+Voriconazole C max  ↓ 61%
+Voriconazole AUC τ  ↓ 77%
+和 efavirenz 600 毫克 QD 相比較，
+Efavirenz C max ↔
+Efavirenz AUC τ  ­↑17%
+和 voriconazole 200 毫克 BID 相比較，
+Voriconazole C max ↑23%
+Voriconazole AUC τ ↓ 7%
+標準劑量下的 voriconazole 禁止與 efavirenz 400 毫克 QD 或更高劑量 合併使用   ( 參見 4 節 ) 。
+如果 voriconazole 的維持劑量提高至 400 毫克 BID ，且 efavirenz 的劑量降低至 300 毫克 QD ，或可將 voriconazole 與 efavirenz 併用。當停止使用 voriconazole 治療時，應將 efavirenz 的劑量回復到原先的劑量 ( 參見 3.1 節 ) 。
+麥角生物鹼 (ergot-alkaloids)
+類藥品 (如ergotamine、
+dihydroergotamine、
+ergometrine(ergonovine)、
+methylergometrine
+(methylergonovine))
+[CYP3A4受質]
+雖然未經研究，但voriconazole可能會升高麥角生物鹼類藥品的血漿濃度，並增加麥角中毒風險。
+同時投與voriconazole及麥角生物鹼類藥品，可能增加麥角生物鹼類藥品之血中濃度，引起罕見但嚴重之血管攣縮以致顱部及/或 四肢缺血之風險。 Voriconazole禁止與麥角生 物鹼 (ergot-alkaloids) 類藥物併用。
+禁止併用 ( 參見 4 節 )
+Lurasidone
+[CYP3A4 受質 ]
+雖然未經研究，但 voriconazole 可能會顯著升高 lurasidone 的血漿濃度。
+禁止併用 ( 參見 4 節 )
+Naloxegol
+[CYP3A4 受質 ]
+雖然未經研究，但 voriconazole 可能會顯著升高 naloxegol 的血漿濃度。
+禁止併用 ( 參見 4 節 )
+Finerenone
+[CYP3A4 受質 ]
+雖然未經研究，但
+voriconazole 可能會顯著升 finerenone 的血漿濃度。
+禁止併用 ( 參見 4 節 )
+Voclosporin
+雖然未經研究，但 voriconazole 可能會顯著升高 voclosporin 的血漿濃度。
+禁止併用 ( 參見 4 節 )
+Eplerenone
+雖然未經研究，但 voriconazole 可能會顯著升高 eplerenone 的血漿濃度。
+禁止併用 ( 參見 4 節 )
+Rifabutin
+[ 強效的 CYP450 誘導劑 ]
+300 毫克 QD
+300 毫克 QD ( 與 voriconazole 400 毫克 BID 併用 )*
+Voriconazole C max ↓ 69%
+Voriconazole AUC τ ↓78%
+Rifabutin C max  ↑­ 195%
+Rifabutin AUC τ  ↑­ 331%
+和 voriconazole 200 毫克 BID 相比較，
+Voriconazole C max  ↑ 104%
+Voriconazole AUC τ  ↑87%
+禁止併用 ( 參見 4 節 )
+Rifampicin (600 毫克 QD)
+[ 強效的 CYP450 誘導劑 ]
+Voriconazole C max  ↓93%
+Voriconazole AUC τ  ↓ 96%
+禁止併用 ( 參見 4 節 )
+Ritonavir ( 蛋白酶抑制劑 )
+[ 強效的 CYP450 誘導劑； CYP3A4 的抑制劑與受質 ]
+高劑量 (400 毫克 BID)
+低劑量 (100 毫克 BID)*
+Ritonavir C max 與 AUC τ ↔
+Voriconazole C max  ↓ 66%
+Voriconazole AUC τ  ↓ 82%
+Ritonavir C max  ↓ 25%
+Ritonavir AUC τ  ↓13%
+Voriconazole C max  ↓ 24%
+Voriconazole AUC τ  ↓ 39%
+Voriconazole  與高劑量的 ritonavir (400 毫克 [ 含 ] 以上 BID)  禁止併用 ( 參見 4 節 ) 。
+應避免將 voriconazole 與低劑量的 ritonavir (100 毫克 BID) 併用，除非病人的效益 / 風險評估結果顯示適合使用 voriconazole 。
+聖約翰草
+[CYP450 誘導劑； P-gp 誘導劑 ]
+300 毫克 TID ( 與單劑 voriconazole 400 毫克併用 )
+在一項獨立的已發表研究中， Voriconazole
+AUC 0- ∞  ↓ 59%
+禁止併用 ( 參見 4 節 )
+Tolvaptan
+[CYP3A 受質 ]
+雖然未經研究，但 voriconazole  可能會顯著升高 tolvaptan 的血漿濃度。
+禁止併用 ( 參見 4 節 )
+Venetoclax
+[CYP3A 受質 ]
+雖然未經研究，但 voriconazole  可能會顯著升高 venetoclax  的血漿濃度。
+在 venetoclax  劑量調整開始和進行期間應 禁止 併用 voriconazole ( 參見 4 節 ) 。穩定每日給藥情況下需遵循 venetoclax  處方資訊調降 venetoclax  濃度；建議密切監測是否出現毒性徵象。
+Fluconazole (200 毫克 QD)
+[CYP2C9 、 CYP2C19 與 CYP3A4 的抑制劑 ]
+Voriconazole C max ­ ↑ 57%
+Voriconazole AUC τ   ↑ 79%
+Fluconazole C max ND
+Fluconazole AUC τ ND
+目前尚未確定降低 voriconazole 與 fluconazole 的劑量及 ( 或 ) 投藥頻率是否能夠消除這種影響。如果在 fluconazole 之後接續使用了 voriconazole ，建議應監視是否發生和 voriconazole 有關的不良事件。
+Phenytoin
+[CYP2C9 受質及強效的 CYP450 誘導劑 ]
+300 毫克 QD
+300 毫克 QD ( 與 voriconazole 400 毫克 BID 併用 )*
+Voriconazole C max ↓ 49%
+Voriconazole AUC τ  ↓ 69%
+Phenytoin C max ­ ↑ 67%
+Phenytoin AUC τ  ↑­ 81%
+和 voriconazole 200 毫克 BID 相比較，
+Voriconazole C max  ↑ 34%
+Voriconazole AUC τ ↑ 39%
+應避免將 voriconazole 與 phenytoin 併用，除非治療的效益超越風險。建議嚴密監測 phenytoin 的血漿濃度。
+如果 voriconazole 的維持劑量可提高至靜脈注射 5 毫克 / 公斤 BID ，或從口服 200 毫克 BID 提高至 400 毫克 BID ( 體重低於 40 公斤的病人，從口服 100 毫克 BID 提高至 200 毫克 BID) ，則 phenytoin 或可與 voriconazole 併用 ( 參見 3.1 節 ) 。
+Letermovir
+[CYP2C9 及 CYP2C19 誘導劑 ]
+Voriconazole C max  ↓ 39%
+Voriconazole AUC 0-12  ↓ 44%
+Voriconazole C 12  ↓ 51%
+如果必須與 letermovir 併用，應嚴密監測 voriconazole 療效降低情形。
+Flucloxacillin
+[CYP450 誘導劑 ]
+雖未有研究證實，但曾有報告顯示 flucloxacillin 會顯著降低 voriconazole 的血漿濃度。
+如果無法避免 voriconazole 與 flucloxacillin 之併用 ， 則需監測 voriconazole 療效降低的可能情形。
+Lemborexant
+[CYP3A4 受質 ]
+雖然未經研究，但 voriconazole 可能會升高 lemborexant 的血漿濃度。
+應避免 voriconazole 與 lemborexant 併用。
+Glasdegib
+[ CYP3A4 受質 ]
+雖然未經研究，但 voriconazole 可能會升高 glasdegib 的血漿濃度並增加 QTc 延長的風險。
+如果無法避免併用，建議經常進行 ECG 監測。
+酪胺酸激酶抑制劑 (Tyrosine kinase inhibitors) ( 包括但不限於： axitinib 、 bosutinib 、 cabozantinib 、 ceritinib 、 cobimetinib 、 dabrafenib 、 dasatinib 、 nilotinib 、 sunitinib 、 ibrutinib 、 ribociclib ）
+[CYP3A4 受質 ]
+雖然未經研究，但 voriconazole 可能會顯著升高經 CYP3A4 代謝的酪胺酸激酶抑制劑血漿濃度。
+如果無法避免併用，建議降低酪胺酸激酶抑制劑的劑量並進行密切臨床監測。
+抗凝血劑
+Warfarin ( 單劑 30 毫克，與 300 毫克 BID 的 voriconazole 併用 )
+[CYP2C9 受質 ]
+其他口服抗凝血劑
+( 包括但不限於： phenprocoumon 、 acenocoumarol)
+[CYP2C9 與 CYP3A4 受質 ]
+最大凝血酶原時間會增加約 2 倍
+雖然未經研究，但 voriconazole 可能會升高 coumarins 的血漿濃度，並可能因而導致凝血酶原時間增加。
+建議應嚴密監測凝血酶原時間或其它適當的抗凝血試驗結果，並據以調整抗凝血劑的劑量。
+Ivacaftor
+[CYP3A4 受質 ]
+雖然未經研究，但  voriconazole  可能會升高 ivacaftor  的血漿濃度，使不良反應的風險上升。
+建議降低 ivacaftor  的劑量。
+Eszopiclone
+[CYP3A4 受質 ]
+雖然未經研究，但 voriconazole  可能會升高 eszopiclone 的血漿濃度和其鎮靜作用。
+建議降低 eszopiclone 的劑量。
+Benzodiazepines
+[CYP3A4 受質 ]
+Midazolam (IV 單劑 0.05 毫克 / 公斤 )
+Midazolam ( 口服單劑 7.5 毫克 )
+其他 benzodiazepines  (包括但不限於： triazolam 、 alprazolam)
+在一項獨立發表的研究中 (Midazolam IV 單劑 0.05 毫克 / 公斤 )，Midazolam
+AUC 0- ∞  ↑ 3.7 倍
+在一項獨立發表的研究中 (Midazolam  口服單劑 7.5 毫克 )，Midazolam C max  ↑ 3.8 倍
+Midazolam  AUC 0- ∞  ­↑ 10.3 倍
+雖然未經研究，但 voriconazole 可能會使透過 CYP3A4 代謝之其他 benzodiazepines 的血漿濃度升高，並可能因而導致鎮靜效果延長。
+應考慮降低 benzodiazepines 的劑量。
+免疫抑制劑
+[CYP3A4 受質 ]
+Sirolimus ( 單劑 2 毫克 )
+Everolimus
+[CYP3A4 受質、 P-gp 受質 ]
+Ciclosporin ( 腎臟移植手術後長期接受 ciclosporin 治療且狀況穩定的病人 )
+Tacrolimus ( 單劑 0.1 毫克 / 公斤 )
+在一項獨立的已發表研究中，
+Sirolimus C max ­ ↑ 6.6 倍
+Sirolimus AUC 0- ∞  ↑­ 11 倍
+雖然未經研究，但 voriconazole 可能會明顯升高 everolimus 的血漿濃度。
+Ciclosporin C max ­ ↑ 13%
+Ciclosporin AUC τ  ↑ 70%
+Tacrolimus C max ­ ↑ 117%
+Tacrolimus AUC t  ↑ 221%
+Voriconazole 與 sirolimus 禁止併用 ( 參見 4 節 ) 。
+不建議將 voriconazole 與 everolimus 併用，因為一般認為 voriconazole 會明顯升高 everolimus 的血漿濃度 ( 參見 5.1 節 ) 。
+對已在使用 ciclosporin 的病人開始投予 voriconazole 時，建議將 ciclosporin 的劑量減半，並應嚴密監測 ciclosporin 的濃度。 Ciclosporin 的濃度升高會伴隨出現腎毒性。停用 voriconazole 時，應嚴密監測 ciclosporin 的濃度，並視需要提高劑量。
+對已在使用 tacrolimus 的病人開始投予 voriconazole 時，建議將 tacrolimus 的劑量降低至原來劑量的三分之一，並應嚴密監測 tacrolimus 的濃度。 Tacrolimus 的濃度升高會伴隨出現腎毒性。停用 voriconazole 時，應嚴密監測 tacrolimus 的濃度，並視需要提高劑量。
+長效性鴉片類麻醉劑
+[CYP3A4 受質 ]
+Oxycodone ( 單劑 10 毫克 )
+在一項獨立的已發表研究中，
+Oxycodone C max ­ ↑ 1.7 倍
+Oxycodone AUC 0- ∞ ↑ 3.6 倍
+應考慮降低 oxycodone 及其它透過 CYP3A4 代謝之長效性鴉片類麻醉劑 ( 如 hydrocodone) 的劑量。可能必須經常監測是否發生和鴉片類麻醉劑相關的不良事件。
+Methadone (32-100 毫克 QD)
+[CYP3A4 受質 ]
+R-methadone (active) C max ­ ↑ 31%
+R-methadone (active) AUC τ  ↑­ 47%
+S-methadone C max  ↑ 65%
+S-methadone AUC τ  ­↑ 103%
+建議應經常監測是否發生和 methadone 相關的不良事件與毒性反應，包括 QT 延長。可能須降低 methadone 的劑量。
+非類固醇抗發炎藥 (NSAIDs)
+[CYP2C9 受質 ]
+Ibuprofen ( 單劑 400 毫克 )
+Diclofenac ( 單劑 50 毫克 )
+S-Ibuprofen C max ­ ↑ 20%
+S-Ibuprofen
+AUC 0-∞  ↑ 100%
+Diclofenac C max ­ ↑ 114%
+Diclofenac
+AUC 0-∞  ↑ 78%
+建議應經常監測是否發生和 NSAIDs 相關的不良事件與毒性反應。可能須降低 NSAIDs 的劑量。
+Omeprazole (40 毫克 QD)*
+[CYP2C19 抑制劑； CYP2C19 和 CYP3A4 受質 ]
+Omeprazole C max ­ ↑ 116%
+Omeprazole AUC τ  ­↑ 280%
+Voriconazole C max ­ ↑ 15%
+Voriconazole AUC τ  ↑ 41%
+其它屬於 CYP2C19 受質之質子幫浦抑制劑的作用也可能會被 voriconazole 抑制，繼而導致這些藥物的血漿濃度升高。
+不建議調整 voriconazole 的劑量。
+對已在使用 40 毫克 ( 含 ) 以上之 omeprazole 的病人開始投予 voriconazole 時，建議將 omeprazole 的劑量減半。
+口服避孕藥 *
+[CYP3A4 受質； CYP2C19 抑制劑 ]
+Norethisterone/ethinylestradiol (1 毫克 /0.035 毫克 QD)
+Ethinylestradiol C max ↑ 36%
+Ethinylestradiol AUC τ  ↑ 61%
+Norethisterone C max ­ ↑ 15%
+Norethisterone AUC τ  ↑ 53%
+Voriconazole C max ↑14%
+Voriconazole AUC τ  ↑  46%
+建議除了監測是否發生和 voriconazole 相關的不良事件之外，也應監測和口服避孕藥相關的不良事件。
+短效性鴉片類麻醉劑
+[CYP3A4 受質 ]
+Alfentanil ( 單劑 20 微克 / 公斤，與 naloxone 併用 )
+Fentanyl ( 單劑 5 微克 / 公斤 )
+在一項獨立的已發表研究中，
+Alfentanil AUC 0-∞  ­ ↑ 6 倍
+在一項獨立的已發表研究中， Fentanyl AUC 0-∞  ↑­ 1.34 倍
+應考慮降低 alfentanil 、 fentanyl 及其它結構與 alfentanil 類似且透過 CYP3A4 代謝之短效性鴉片類麻醉劑 ( 如 sufentanil) 的劑量。建議應長時間經常監測是否發生呼吸抑制及其它和鴉片類麻醉劑相關的不良事件。
+Statin 類降血脂藥物 ( 如 lovastatin)
+[CYP3A4 受質 ]
+雖然未經研究，但 voriconazole 可能會使透過 CYP3A4 代謝之 statin 類藥物的血漿濃度升高，並可能因而導致橫紋肌溶解。
+如果無法避免 voriconazole 與由 CYP3A4 代謝的 statin 類藥物併用，應考慮降低 statin 類降血脂藥物的劑量。
+Sulphonylureas ( 包括但不限於： tolbutamide 、 glipizide 、 glyburide)
+[CYP2C9 受質 ]
+雖然未經研究，但 voriconazole 可能使會 sulphonylureas 的血漿濃度增加，並可能因而導致血糖過低。
+建議應監測血糖。應考慮降低 sulfonylureas 的劑量。
+長春花鹼 ( 包括但不限於： vincristine 和 vinblastine)
+[CYP3A4 受質 ]
+雖然未經研究，但 voriconazole 可能會升高長春花鹼的血漿濃度，並因而引發神經毒性反應。
+應考慮降低長春花鹼的劑量。
+其它 HIV 蛋白酶抑制劑 ( 包括但不限於： saquinavir 、 amprenavir 和 nelfinavir)*
+[CYP3A4 的受質與抑制劑 ]
+尚未進行過臨床研究。體外研究顯示， voriconazole 可能會抑制 HIV 蛋白酶抑制劑的代謝作用，而 voriconazole 的代謝作用也可能會被 HIV 蛋白酶抑制劑所抑制。
+應嚴密監測是否發生任何藥物毒性反應及 ( 或 ) 療效不彰的現象，並可能須調整劑量。
+其他非核苷類反轉錄酶抑制劑 (NNRTIs) ( 包括但不限於： delavirdine 、 nevirapine)*
+[CYP3A4 受質、抑制劑或 CYP450 誘導劑 ]
+尚未進行過臨床研究。體外研究顯示， voriconazole 的代謝作用可能會被 NNRTIs 所抑制，而 voriconazole 也可能會抑制 NNRTIs 的代謝作用。
+Efavirenz 對 voriconazole 之影響的發現顯示， NNRTI 也可能會誘導 voriconazole 的代謝作用。
+應嚴密監測是否發生任何藥物毒性反應及 ( 或 ) 療效不彰的現象，並可能須調整劑量。
+Tretinoin
+[ CYP3A4 受質 ]
+雖然未經研究，但 voriconazole 可能會升高 tretinoin 的濃度並增加不良反應 ( 假性腦瘤、高血鈣症 ) 的風險。
+建議在接受 voriconazole 治療期間以及停用  voriconazole 後調整 tretinoin 的劑量。
+Cimetidine (400 毫克 BID)
+[ 非特異性 CYP450 抑制劑，並會升高胃液的 pH 值 ]
+Voriconazole C max ­ ↑ 18%
+Voriconazole AUC τ  ­ ↑ 23%
+不須調整劑量
+Digoxin (0.25 毫克 QD)
+[P-gp 受質 ]
+Digoxin C max ↔
+Digoxin AUC τ ↔
+不須調整劑量
+Indinavir (800 毫克 TID)
+[CYP3A4 抑制劑和受質 ]
+Indinavir C max ↔
+Indinavir AUC τ ↔
+Voriconazole C max ↔
+Voriconazole AUC τ ↔
+不須調整劑量
+巨環類抗生素
+Erythromycin (1 克 BID)
+[CYP3A4 抑制劑 ]
+Azithromycin (500 毫克 QD)
+Voriconazole C max 與 AUC τ ↔
+Voriconazole C max 與 AUC τ ↔
+目前尚不確知 voriconazole 對 erythromycin 或 azithromycin 的影響。
+不須調整劑量
+Mycophenolic acid ( 單劑 1 克 )
+[UDP- 葡萄糖醛酸轉移酶 ]
+Mycophenolic acid C max ↔
+Mycophenolic acid AUC t ↔
+不須調整劑量
+皮質類固醇
+Prednisolone ( 單劑 60 毫克 )
+[CYP3A4 受質 ]
+Prednisolone C max ↑11%
+Prednisolone AUC 0-∞  ↑ 34%
+不須調整劑量
+接受 voriconazole  和皮質類固醇 ( 包含吸入性皮質類固醇，如 budesonide)  長期治療的病人應在治療期間以及停用 voriconazole  時謹慎監測是否出現腎上腺皮質功能異常情形 ( 參見 5.1 節 ) 。
+Ranitidine (150 毫克 BID)
+[ 會升高胃液的 pH 值 ]
+Voriconazole C max 與 AUC τ ↔
+不須調整劑量
+* 其结果根據臨床研究，在健康受試者中第1天投予口服 voriconazole 400 毫克每日兩次，接續投予至少2天的口服 voriconazole 200毫克每日兩次。
+8 副作用/不良反應
+8.1
+臨床重要副作用/不良反應
+Voriconazole 在成人中的安全性資料來自於超過 2,000 名受試者 (1,603 名治療研究的成年病人 ) 的整合性安全性資料庫。這代表由不同份子組成的族群，包含有血液惡性病、有食道念珠菌症和頑強黴菌感染的 HIV 感染病人、有念珠菌菌血症或麴菌症 (aspergillosis) 的非嗜中性白血球減少症病人，以及健康志願者。
+此外，也曾針對 279 位在預防研究中使用 voriconazole 治療的病人 ( 含 270 名成人 ) 評估 voriconazole 的安全性。這些預防研究中的不良事件概況和已在 2,000 名 voriconazole 臨床試驗受試者中獲得確立的安全性概況大致相同。
+下表列出彙整後之治療 (1,603 人 ) 和預防 (270 人 ) 研究中 1,873 名成年人所經歷的所有原因不良反應。最常見的不良反應是視覺障礙、肝功能檢查結果異常、發燒、出疹、嘔吐、噁心、腹瀉、頭痛、周邊水腫以及腹痛。不良反應的嚴重程度多為輕微至中等。以年齡、種族、或性別分析安全性資料時，未發現於臨床上有顯著的差異。
+依系統器官分類 (SOC) 及 CIOMS 發生率類別 ( 非常常見、常見、不常見、罕見、發生率不明 ) 區分，並於同一個發生率類別及 SOC 中按照醫學嚴重性由高排到低的藥物不良反應 ( 彙整後之治療和預防研究中的成年人 )
+MedDRA 系統器官分類 ＊
+藥物不良反應
+感染
+常見
+鼻竇炎
+不常見
+偽膜性腸炎
+良性，惡性腫瘤及其他（包括囊腫及息肉）
+發生率不明
+皮膚鱗狀細胞癌 ( 包括皮膚 SCC 原位癌或波文氏病 [Bowen’s disease]) **,g
+血液與淋巴系統障礙
+常見
+顆粒性白血球缺乏 a 、全部血球減少、血小板減少 b 、白血球減少、貧血
+不常見
+骨髓衰竭、淋巴結腫、嗜伊紅血球增多
+罕見
+瀰漫性血管內凝血
+免疫系統障礙
+不常見
+過敏
+罕見
+類過敏性反應
+內分泌障礙
+不常見
+腎上腺機能不全、甲狀腺機能低下
+罕見
+甲狀腺機能亢進
+代謝與營養障礙
+非常常見
+周邊水腫
+常見
+低血糖症、低血鉀症、低血鈉症 **
+精神障礙
+常見
+憂鬱、幻覺、焦慮、失眠、精神激昂、精神紊亂
+神經系統障礙
+非常常見
+頭痛
+常見
+暈厥、震顫、張力過強 e 、感覺異常、 嗜睡、 頭暈
+不常見
+腦部水腫、腦病變 c 、錐體外疾病 d 、 周邊神經病變、 運動失調、感覺遲鈍、味覺障礙
+罕見
+肝性腦病變、 Guillain-Barre 症候群、眼球震顫
+眼障礙
+非常常見
+視覺障礙 h
+常見
+視網膜出血
+不常見
+視神經疾病 f 、視神經乳頭水腫 g 、眼動危象 [oculogyric crisis] 、複視、鞏膜炎、眼瞼炎
+罕見
+視神經萎縮、角膜渾濁
+耳與迷路障礙
+不常見
+聽覺遲鈍、暈眩、耳鳴
+心臟障礙
+常見
+室上心律不整、心搏過速、 心搏徐緩
+不常見
+心室纖維顫動 、心室期外收縮、心室心搏過速、心電圖上 QT 間期延長、室上心搏過速
+罕見
+torsade de pointes 、房室傳導完全阻滯、心束支傳導阻滯、結性心律
+血管障礙
+常見
+低血壓、靜脈炎
+罕見
+血栓性靜脈炎、淋巴管炎
+呼吸、胸腔與縱膈障礙
+常見
+急性呼吸窘迫症候群、肺水腫
+胃腸障礙
+非常常見
+腹瀉、嘔吐、腹痛、噁心
+常見
+唇炎、消化不良、便秘、齒齦炎
+不常見
+腹膜炎、胰臟炎、舌頭腫大、十二指腸炎、腸胃炎、舌炎
+肝膽障礙
+非常常見
+肝功能檢查結果異常
+常見
+黃疸、膽汁鬱滯性黃疸、肝炎 i
+不常見
+肝衰竭、肝腫大、膽囊炎、膽石病
+皮膚與皮下組織障礙
+非常常見
+皮疹
+常見
+剝落性皮膚炎、禿髮、斑丘疹、搔癢
+不常見
+Stevens-Johnson 症候群、光過敏皮膚反應、紫斑病、蕁麻疹、濕疹
+罕見
+毒性表皮壞死溶解症、血管性水腫、偽紫質症 (pseudoporphyria) 、多形紅斑、乾癬、藥物疹、藥物疹合併嗜酸性白血球增多及全身症狀 (DRESS)* ,g
+發生率不明
+皮膚型紅斑性狼瘡 **
+肌肉骨骼、結締組織與骨障礙
+常見
+背痛
+不常見
+關節炎
+腎與泌尿障礙
+常見
+急性腎衰竭、血尿
+不常見
+腎小管壞死、蛋白尿、腎炎
+全身性障礙與給藥部位狀況
+非常常見
+發燒
+常見
+胸痛、臉部水腫 j 、無力、寒顫
+不常見
+注射部位反應、類流感症狀
+檢驗結果異常
+常見
+血中肌酸酐升高
+不常見
+血中尿素升高、血中膽固醇升高
+＊ 頻率分類如下：非常常見 ≧10 ％，常見 ≧1 ％至 <10 ％，不常見 ≧0.1 ％至 <1 ％；罕見 0.01 ％至 <0.1 ％；發生率不明 ( 無法由現有資料估計 ) 。
+** 上市後使用期間發現的藥物不良反應。
+a   包含嗜中性白血球低下併發燒及嗜中性白血球低下。
+b   包含免疫性血小板低下紫斑症。
+c   包含缺氧缺血性腦病變及代謝性腦病變。
+d   包含靜坐不能及帕金森氏症 (parkinsonism) 。
+e   包含頸部僵硬及強直 (tetany) 。
+f   上市後使用經驗曾有持續性視神經炎的報告，參見 5.1 節。
+g   參見 5.1 節。
+h   參見 8.1 節的「視覺障礙」一段。
+i   包含藥物誘發型肝臟傷害、中毒性肝炎、肝細胞傷害及肝毒性。
+j   包含眼眶周圍水腫、嘴唇水腫及口腔水腫。
+視覺障礙
+在臨床試驗中，使用 voriconazole 時發生視覺障礙 ( 包含視覺模糊、畏光、綠視症、色視症、色盲、藍視症、眼部疾病、虹視 [halo vision] 、夜盲、振動幻視、光幻視、閃光暗點 [scintillating scotoma] 、視力衰退、視覺偏亮、視野缺陷、玻璃體飄浮物及黃視症 ) 的案例相當常見。這些視覺障礙都是暫時性的反應，並完全可逆，大部分在 60 分鐘之內便會自動消退。證據顯示，此類反應會隨重複投予 voriconazole 而減弱。視覺障礙通常相當輕微，極少造成停藥，也不會造成長期後遺症。視覺障礙可能和較高的血漿濃度及 ( 或 ) 劑量相關。
+在上市後的使用經驗中，曾有持續時間較長的視覺不良事件報告 ( 參見 5.1 節 ) 。
+雖然作用部位最可能在視網膜內，但視覺障礙的作用機制仍未知。
+一項針對健康志願者所做的研究調查 voriconazole 對於視網膜功能的影響， voriconazole 會造成網膜電圖 (ERG) 波形振幅減少 ─ 網膜電圖測量視網膜的電流。在 29 天投藥期間，視網膜的變化不會惡化，而且停止使用 voriconazole 後可以完全恢復。
+曾針對副球黴菌病 (paracoccidioidomycosis) 病人評估過 voriconazole 對視覺功能的長期影響 ( 中位數 169 天；範圍 5-353 天 ) 。視力、視野、色覺及對比敏感度等試驗的評估結果顯示， voriconazole 對視覺功能並不會造成任何臨床相關影響。並無任何發生視網膜毒性的病癥。有 17位/35位 使用 voriconazole 的受試者發生視覺不良反應。這些反應並未導致停藥、通常相當輕微、多發生於第一週的治療期間、並且在持續使用 voriconazole 治療之後都會消退。
+皮膚反應
+在臨床試驗中，使用 voriconazole 的病人很常發生皮膚反應。但這些病人有嚴重的潛在疾病而同時接受多種藥物的治療。大多數發疹屬於輕微至中度。於 voriconazole  治療期間，病人曾發生嚴重的皮膚不良反應 (SCAR)─ 包括 Stevens-Johnson 症候群 ( 不常見 ) 、毒性表皮壞死溶解症 ( 罕見 )  上市後報告之藥物疹合併嗜酸性白血球增多及全身症狀 (DRESS) ( 罕見 ) 、以及多形紅斑 ( 罕見 ) ( 參見 5.1 節 ) 。
+若病人發疹，應接受嚴密監測，若病況加劇，應終止使用 voriconazole 。長期接受 voriconazole  治療的病人曾發生皮膚光過敏反應 ( 參見 5.1 節 ) 。
+使用 voriconazole 時也曾報告可能與光毒性有關的皮膚不良反應 ( 偽紫質症、唇炎及皮膚型紅斑性狼瘡 ) 。所有病人均建議避免日光曝曬並施行防曬措施。如果出現光毒性反應，應考慮停用 voriconazole 並由皮膚科醫師進行評估 ( 參見 5.1 節 ) 。
+肝功能檢驗
+在 voriconazole 臨床試驗計畫中轉胺酶上升至 >3 倍 ULN ( 未必構成不良事件 ) 的整體發生率，在使用 voriconazole ( 統整治療及預防性用途 ) 的成年及兒童受試者中分別為 18.0% (319/1,768) 及 25.8% (73/283) 。肝功能檢驗異常通常與血漿濃度和 / 或劑量較高相關。大多數的肝功能檢驗異常可以在治療期間經由不調整劑量，或調整劑量 ( 包括終止治療 ) 而獲得解決。
+病人有其他嚴重潛在疾病的情況下， voriconazole  的使用曾伴隨發生嚴重肝臟毒性的案例，包括黃疸、肝炎和肝衰竭導致死亡。
+兒童使用
+曾針對 288 位將 voriconazole 用於預防用途 (183 位 ) 及治療用途 (105 位 ) 的 2 至 <12 歲 (169 位 ) 及 12 到 <18 歲 (119 位 ) 兒童病人，探討 voriconazole 的安全性。這 288 位兒童病人中的不良反應概況大致和成人相同。經觀察，相較成人，兒童病人發生肝臟酵素上升現象被通報為不良事件的頻率較高 ( 兒童病人中有 14.2% 發生轉胺酶上升，而成人中為 5.3%) 。過去也曾在其他參與酌情使用計畫的 2 至 12 歲兒童病人中 (158 位兒童病人 ) ，探討 voriconazole 的安全性。這些兒童病人的不良反應概況大致和成人相同。上市後的資料顯示，兒童病人的皮膚反應發生率可能會比成人高 。
+目前已有關於兒童病人出現胰臟炎之上市後報告。
+輸注相關反應
+健康人接受 voriconazole 靜脈注射時發生過的過敏性反應包括潮紅、發燒、出汗、心搏過速、胸悶、呼吸困難、昏倒、噁心、搔癢、出疹。靜脈注射一開始就會產生症狀 ( 參見 5.1 節 ) 。
+9 過量
+臨床試驗中發生三例意外用藥過量。三例皆為小兒科病人，他們接受約達五倍之 voriconazole  建議注射劑量，所發生的單一不良反應為持續十分鐘的畏光症狀。
+Voriconazole 無已知的解毒劑。對於用藥過量的建議治療方式是針對症狀進行治療，以及給予支持性療法。
+血液透析清除 voriconazole 的速率為每分鐘 121 毫升；靜脈內輔藥 SBECD 經血液透析的清除速率為每分鐘 55 毫升。用藥過量時，血液透析可能有助於排除體內過量的 voriconazole 和 SBECD 。
+10 藥理特性
+10.1
+作用機轉
+Voriconazole 是一種 triazole 類抗黴菌劑。 Voriconazole 的主要作用模式為抑制黴菌中由細胞色素 P450 所媒介的 14α-lenosterol 去甲基化作用，這是黴菌麥角脂醇之生物合成的必要步驟。 14 α-methyl sterols 開始蓄積之後，黴菌細胞膜中的麥角脂醇便會減少，這可能就是 voriconazole 產生抗黴菌活性的原理。 Voriconazole 對黴菌細胞色素 P-450 酵素的選擇性已證實要高於各種不同的哺乳類動物細胞色素 P-450 酵素系統。
+10.2
+藥效藥理特性
+藥動學與藥效學 (PK/PD) 的關係
+在十個治療研究中，個別受試者的平均和最大血漿濃度中位數分別是 2,425 ng/mL ( 四分位數間距 1,193 至 4,380 ng/mL)  和 3,742 ng/mL ( 四分位數間距 2,027 至 6,302 ng/mL) 。治療研究中並未發現 voriconazole 血漿濃度之平均值、最大或最小值和療效之間有正面的關係。
+臨床試驗資料的 PK/PD 分析證實，在 voriconazole  血漿濃度和肝功能 (LFT) 異常、視覺障礙之間有正面的關係。
+微生物學
+在體外試驗中， voriconazole  顯示了廣效性的抗黴菌活性，對於念珠菌 ( Candida species)( 包括具 fluconazole 抗藥性的 C. krusei 、 C. glabrata 和 C. albicans ) 有高度抗黴菌效力，並對試驗之所有麴菌 ( Aspergillus species) 有殺黴菌效力。此外， voriconazole  於體外試驗中，顯示對於新興的黴菌病原具有殺黴菌效力，包括足分枝菌 ( Scedosporium ) 或鐮刀菌 ( Fusarium )─ 它們對於現存的抗黴菌藥物之感受性有限。
+臨床證明對下列黴菌有臨床療效 ( 可達到部份或完全的治療反應，參見下文的臨床經驗段落 ) ：麴菌 ( Aspergillus spp.) ，包括 A. flavus 、 A. fumigatus 、 A. terreus 、 A. niger 、 A. nidulans ；念珠菌 ( Candida spp.) ，包括 C. albicans 、 C. dubliniensis 、 C. glabrata 、 C. inconspicua 、 C. krusei 、 C. parapsilosis 、 C. tropicalis 和 C. guilliermondii ；足分枝菌 ( Scedosporium spp.) ，包括 S. apiospermum 、 S. prolificans 以及鐮刀菌 ( Fusarium spp.) 。
+其它曾治療過的黴菌感染 ( 通常可獲得部分或完全的治療反應 ) 包括感染下列菌種的案例： Alternaria 菌屬、 Blastomyces dermatitidis 、 Blastoschizomyces capitatus 、 Cladosporium 菌屬、 Coccidioides immitis 、 Conidiobolus coronatus 、 Cryptococcus neoformans 、 Exserohilum rostratum 、 Exophiala spinifera 、 Fonsecaea pedrosoi 、 Madurella mycetomatis 、 Paecilomyces lilacinus 、 Penicillium 菌屬 ( 包括 P. marneffei ) 、 Phialophora richardsiae 、 Scopulariopsis brevicaulis 、 以及 Trichosporon 菌屬 ( 包括 T. beigelii ) 。
+曾發現對下列菌種的臨床分離菌株具有體外抗菌活性： Acremonium 菌屬、 Alternaria 菌屬、 Bipolaris 菌屬、 Cladophialophora 菌屬、 Histoplasma capsulatum ，且大部份的菌株都是在 0.05 至 2 微克 / 毫升的 voriconazole 濃度範圍內受到抑制。
+已證實對下列病原菌具有體外抗菌活性，但不確知其臨床意義：彎薑孢黴菌 ( Curvularia 菌屬及 Sporothrix 菌屬。
+抗黴菌劑感受性分界點 (Breakpoints)
+治療前應先取得供黴菌培養及其它實驗室檢驗 ( 血清學試驗、組織病理學試驗 ) 用的檢體，藉以分離和鑒定致病菌。或可於確知黴菌培養及其它實驗室檢驗的結果之前即開始進行治療；不過，一旦取得結果之後，便應據以調整抗感染治療的方式。
+最常造成人類感染的菌種包括 C. albicans 、 C. parapsilosis 、 C. tropicalis 、 C. glabrata 與 C. krusei ， voriconazole 對這些菌種的最低抑菌濃度 (MIC) 通常都低於 1 毫克 / 升。
+不過， voriconazole 對各種念珠菌的體外抗菌活性並非完全相同。就 C. glabrata 而言， voriconazole 對具 fluconazole 抗藥性之分離菌株的 MIC 便要相應高於其對具 fluconazole 感受性之分離菌株的 MIC 。因此，一定要設法鑑識念珠菌到菌種的層級。如果有抗黴菌劑感受性試驗的結果，則可利用分界點標準來詮釋 MIC 。
+歐洲抗菌藥物感受性試驗委員會 (EUCAST) 分界點
+念珠菌： Voriconazole 對念珠菌之抗菌效力的詮釋標準僅適用於利用 EUCAST 微量培養液稀釋參照法評估於 24 小時後讀取之 最低抑菌濃度 ( MIC) 所進行的試驗。
+EUCAST 所建立的分界點標準
+念珠菌及麴菌菌種
+最低抑菌濃度 (MIC) 分界點 ( 毫克 / 升 )
+≤S ( 具感受性 )
+>R ( 具抗藥性 )
+Candida albicans 1
+0.06
+0.25
+Candida dubliniensis 1
+0.06
+0.25
+Candida glabrata
+證據不足 (IE)
+IE
+Candida krusei
+IE
+IE
+Candida parapsilosis 1
+0.125
+0.25
+Candida tropicalis 1
+0.125
+0.25
+Candida guilliermondii 2
+IE
+IE
+Candida 的非菌種相關分界點 3
+IE
+IE
+Aspergillus fumigatus 4
+1
+1
+Aspergillus nidulans 4
+1
+1
+Aspergillus flavus
+IE 5
+IE 5
+Aspergillus niger
+IE 5
+IE 5
+Aspergillus terreus
+IE 5
+IE 5
+非菌種相關分界點 6
+IE
+IE
+1 MIC 值高於具感受性 / 中間性 (S/I) 之分界點的菌株極為罕見，或是尚未見於報告。對任何這類分離菌株的鑑識與抗黴菌劑感受性試驗都必須重複進行，而且只要結果確定，即應將此分離菌株送至參考實驗室。直到有證據顯示 MIC 高於目前抗藥性分界點之確認分離菌株出現臨床反應前，此分離菌株應報告為抗藥性。 MIC 低於或等於流行病學臨界點時，下列菌種造成之感染中達到臨床反應76%。因此，野生型族群的 C. albicans 、 C. dubliniensis 、 C. parapsilosis 和 C. tropicalis 視為具感受性。
+2   這些菌株的流行病學臨界值 (ECOFFs) 一般而言高於 C. albicans 的臨界值。
+3   非菌種相關分界點已經主要依據 PK/PD 資料確立，與特定 Candida 菌種的 MIC 分佈無關。非菌種相關分界點僅限用於沒有特定分界點的菌種。
+4   技術性不確定範圍 (ATU) 為 2 。報告為 R 加上下列備註：「在某些臨床狀況中 ( 非侵入性感染形式 ) ，若確認有足夠暴露量，則可使用 voriconazole 」。
+5   這些菌種的 ECOFF 一般而言高於 A. fumigatus 的一次二倍稀釋 (one two-fold dilution) 。
+6   尚未確立 voriconazole 的非菌種相關分界點。
+臨床與實驗室標準協會 (CLSI) 分界點
+CLSI 所建立的分界點標準
+進行感受性試驗的方法
+麴菌與其它 絲狀黴菌 ：對麴菌與其它 絲狀黴菌， 目前尚未建立任何詮釋標準。
+念珠菌： Voriconazole 對念珠菌之抗菌效力的詮釋標準僅適用於利用 臨 床與實 驗室標準協會 (CLSI) 微量培養液稀釋參照法 M27 評估於 48 小時後讀取之 最低抑菌濃度 ( MIC) ，或利用紙錠擴散參照法 M44 評估 24 小時後之抑菌圈直徑所進行的試驗。
+培養液稀釋法： 利用定量分析法來測定抗黴菌劑的 MIC 。這些 MIC 可做為念珠菌之抗黴菌劑感受性的評估標準。應於 48 小時後採用標準化程序測定 MIC 。標準化程序係以微量稀釋法 ( 培養液 ) 為基礎，並採用標準化的接種菌濃度及標準化的 voriconazole 粉劑濃度。應依據下表中的標準來詮釋 MIC 值。
+擴散法： 必須檢測抑菌圈直徑的定性分析法也是一種具再現性的念珠菌之抗黴菌劑感受性的評估標準。此類標準化程序必須採用標準化的接種菌濃度。此程序係使用飽含 1 微克 voriconazole 的紙錠來檢測酵母菌對 voriconazole 的感受性。紙錠擴散法的詮釋標準亦如下表所示。
+Voriconazole 的感受性詮釋標準
+培養液稀釋法 (48 小時後 )
+(MIC ，微克 / 毫升 )
+紙錠擴散法 (24 小時後 )
+( 抑菌圈直徑，毫米 )
+具感受性 (S)
+具劑量依賴性感受性 (S-DD)
+具抗藥性 (R)
+具感受性 (S)
+具劑量依賴性感受性 (S- DD)
+具抗藥性 (R)
+Voriconazole
+≦1.0
+2.0
+≧4.0
+≧17
+14-16
+≦13
+註 1 ：表中所示為 voriconazole 對念珠菌的分界點 ( 微克 / 毫升 ) 。如果利用一種等級分類法來評估 MIC ，而所獲得的結果落在兩個類別之間，則以下一個等級較高的類別來表示。因此， voriconazole MIC 為 1.5 微克 / 毫升的分離菌株就會被歸入 S-DD 類。
+具感受性的類別，係指分離菌株可為所檢測之抗黴菌劑所抑制，在使用針對感染部位之建議劑量時通常可達到的濃度。具劑量依賴性感受性的類別係指該分離菌株所引起的感染在藥物經生理作用後會聚集的身體部位中或使用高劑量的藥物時或可獲得適當的治療。具抗藥性的類別係指分離菌株並不會為藥物在正常劑量療程下通常可達到的濃度所抑制，以及藥物對該分離菌株的臨床療效尚未在治療研究中獲得確切的證實。
+品質控制
+標準感受性試驗程序必須使用品質控制菌株來控制試驗程序的技術層面。標準 voriconazole 粉劑與 1 微克紙錠應可達到下表中的數值範圍。
+註：品質控制菌株乃是具有和抗藥性機制及其在黴菌中之遺傳表現有關之內在生物學特性的特殊菌株；微生物學控制所使用的特殊菌株並不具臨床意義。
+用以確認感受性試驗結果的 Voriconazole 可接受品質控制範圍
+品質控制菌株
+培養液稀釋法
+(MIC ，微克 / 毫升 )
+紙錠擴散法 (24 小時後 )
+( 抑菌圈直徑，毫米 )
+@24 小時
+@48 小時
+Candida parapsilosis
+ATCC 22019
+0.016-0.12
+0.03-0.25
+28-37
+Candida krusei
+ATCC 6258
+0.06-0.5
+0.12-1.0
+16-25
+Candida albicans
+ATCC 90028
+*
+*
+31-42
+*  此菌株 / 抗黴菌劑組合的品質控制範圍尚未確立，因為初步品質控制研究期間的實驗室間差異相當廣泛。
+ATCC 為美國菌種保藏中心 (American Type Culture Collection) 的註冊商標。
+10.3
+臨床前安全性資料
+Voriconazole 的重複劑量毒性研究顯示，肝臟是目標器官。出現肝毒性的血漿暴露量與人類接受治療劑量所達到的血漿暴露量相似，和其他抗黴菌藥物一樣。大鼠、小鼠和狗使用 voriconazole 也會誘發極微的腎上腺變化。傳統的安全性藥理、基因毒性或致癌可能性研究，均未顯示對人類具有毒性。
+在生殖研究中， voriconazole 在全身暴露量等於人類接受治療劑量所達到的暴露量時，會導致大鼠畸形以及兔子畸胎。研究 voriconazole  對於大鼠出生前後發育的影響，發現 voriconazole 在暴露量低於人類接受治療劑量所達到的暴露量時，會使懷孕期和產程延長，進而造成難產、母體死亡，並降低幼鼠存活率。對於分娩的影響，可能是經由針對特定物種的機制所傳達，使雌二醇 (estradiol) 降低，而這些作用與其他 azole 類抗黴菌藥物一致。在給藥劑量 50 毫克 / 公斤，或 1.6 倍的每日最大建議劑量下， Vorizonazole 對大鼠的懷孕率造成減少影響。這結果只在初步試驗有統計學的意義，而不是在一個大型生育力試驗中。
+關於靜脈注射輔藥 SBECD 的臨床前資料顯示，其在重複劑量毒性研究中的主要作用為泌尿道上皮細胞出現空泡，以及肝臟和肺臟巨噬細胞的活化。
+致癌性、突變性、生育力受損
+在大鼠和小鼠中進行了為期兩年的致癌性研究。大鼠 voriconazole  的口服給藥劑量為 6 、 18  或 50  毫克 / 公斤，根據體表面積換算，約相當於 RMD 劑量的 0.2 、 0.6 或 1.6  倍。在給藥劑量 50  毫克 / 公斤的雌性大鼠中檢測到肝細胞腺瘤，而在給藥劑量 6  和 50  毫克 / 公斤的雄性大鼠中發現肝細胞癌。小鼠 voriconazole  的口服給藥劑量為 10 、 30  或 100  毫克 / 公斤，根據體表面積換算，約相當於 RMD 劑量的 0.1 、 0.4 或 1.4  倍。在雄性和雌性小鼠中偵測到肝細胞腺瘤，而在 voriconazole  給藥劑量為 RMD 劑量的 1.4  倍之雄性小鼠中偵測到肝細胞癌。
+Voriconazole 在體外培養人類淋巴細胞中表現出致染色體斷裂活性（主要是染色體斷裂）。 Voriconazole  於安姆氏測定 (Ames assay) 、中國倉鼠卵巢細胞次黃嘌呤 - 鳥嘌呤磷酸核苷轉移酶測定 (Chinese hamster ovary cell/hypoxanthine‐guanine phosphoribosyl‐transferase ， CHO HGPRT assay) 、小鼠微核試驗或體內去氧核醣核酸 (DNA)  修復測定（非排定 DNA  合成測定）中未顯示遺傳毒性。
+Voriconazole  給藥劑量為 50 mg/kg  或 RMD  的 1.6  倍時，對大鼠的雄性或雌性生育力並無影響。
+11 藥物動力學特性
+一般藥動學性質
+已在健康受試者、特定族群和病人中探討過 voriconazole  的藥動學性質。對於有罹患麴菌症危險的病人 ( 主要是淋巴或造血組織惡性腫瘤病人 ) ，給予 14 天口服 voriconazole 200 或 300 毫克，每日二次，其快速且持續吸收、蓄積和非線性藥動學的特性均證實與健康者一致。
+Voriconazole 非線性的藥動學肇因於代謝飽和。劑量增加時可觀察到暴露量的增加大於劑量比例。據估計，平均而言，口服劑量自 200 毫克每日二次增加到 300 毫克每日二次時，會使暴露量 (AUC τ ) 增加約 2.5 倍。 200 毫克 ( 體重低於 40 公斤的病人則為 100 毫克 ) 之口服維持劑量所達到的 voriconazole 暴露量和靜脈注射 3 毫克 / 公斤大致相當。 300 毫克 ( 體重低於 40 公斤的病人則為 150 毫克 ) 之口服維持劑量所達到的 voriconazole 暴露量和靜脈注射 4 毫克 / 公斤大致相同 ( 參見下表 ) 。
+Voriconazole 在接受不同劑量療程之成人中的藥動學參數
+幾何平均數 (CV%) a
+靜脈注射
+6 毫克 / 公斤
+( 起始劑量 )
+靜脈注射
+3 毫克 / 公斤
+Q12h
+靜脈注射
+4 毫克 / 公斤
+Q12h
+口服
+400 毫克
+( 起始劑量 )
+口服
+200 毫克
+Q12h
+口服
+300 毫克
+Q12h
+人數
+35
+23
+40
+17
+48
+16
+AUC 12 (μg∙h/mL)
+13.9 (32)
+13.7 (53)
+33.9 (54)
+9.31 (38)
+12.4 (78)
+34.0 (53)
+C max (μg/mL)
+3.13 (20)
+3.03 (25)
+4.77 (36)
+2.30 (19)
+2.31 (48)
+4.74 (35)
+C min  (μg/mL)
+--
+0.46 (97)
+1.73 (74)
+--
+0.46 (120)
+1.63 (79)
+a   各項參數的估算係依據 5 項藥物動力學研究的非分室分析結果。
+AUC 12  = 12 小時投藥間隔的曲線下面積， C max  = 最高血漿濃度， C min = 最低血漿濃度。
+使用建議之靜脈注射或口服起始劑量時，血漿濃度在給藥後 24 小時之內達到接近穩定狀態 ( 例如，在第 1 天每 12 小時靜脈注射 6 毫克 / 公斤，然後每 12 小時靜脈注射 3 毫克 / 公斤；在第 1 天每 12 小時口服 400 毫克，然後每 12 小時口服 200 毫克 ) 。若沒有起始劑量，在每日二次多劑量下會造成累積，大多數病人的血漿 voriconazole  濃度會在第六天達到穩定狀態。
+吸收
+口服後， voriconazole  會被快速而幾乎完全地吸收，而於給藥後 1-2 小時達到藥物在血漿中的最高濃度 (C max ) 。口服 voriconazole  的生體可用率估計為 96 ％。當投予 400 毫克 / 每日兩次的初始劑量及之後投與 200 毫克 / 每日二次之維持劑量後， 200 毫克   錠劑與 40 毫克 / 毫升（相當於 200 毫克）口服懸液劑具有生體相等性。如果 voriconazole  多劑量與高脂肪飲食共服，若服用的是錠劑， C max   和 AUC τ 會分別降低 34%  和 24% ，而服用口服懸液劑則是降低分別 58%  及 37%
+Voriconazole 的吸收不會受胃部 pH 值改變所影響。
+分佈
+Voriconazole 於穩定狀態的分佈體積估計為 4.6 升 / 公斤，顯示其可廣泛散佈於組織。血漿蛋白質結合率估計為 58 ％。
+有 8 名參與憐憫性使用計畫 (Compassionate programme) 的病人被抽取腦脊髓液 (CSF) 檢測，所有病人的 CSF 皆出現可偵測的 voriconazole濃度 。
+代謝
+體外研究顯示 voriconazole  會被肝臟細胞色素 P450 同功酵素 ─CYP2C19 、 CYP2C9 以及 CYP3A4 所代謝。
+Voriconazole 藥動學在不同個體間具有高度變異性。
+體內試驗顯示 CYP2C19 在 voriconazole 的代謝中扮演重要的角色。此酵素表現出基因的多形性。例如， 15 ％ -20 ％的亞洲人口普遍代謝能力較差， 3 ％ -5 ％的白種人和黑人普遍代謝能力較差。針對白種人和日本人健康受試者所做的研究顯示，平均而言，代謝能力較差者的 voriconazole 暴露量 (AUC τ ) 比同型合子的 (homozygous) 代謝能力較強者高 4 倍。異型合子代謝能力較強者的 voriconazole 暴露量 (AUC τ ) 平均高於其同型合子的代謝能力較強者約 2 倍。
+Voriconazole 的主要代謝產物是 N-oxide ，佔血漿中放射線同位素標示代謝物的 72 ％。此代謝物具極小的抗黴菌活性，因此與 voriconazole  的整體療效無關。
+排泄
+Voriconazole 經肝臟代謝排除，尿中所排出之原型藥小於劑量的 2 ％。
+給予放射線同位素標示之 voriconazole  後，經多次靜脈注射後，於尿中約可發現 80 ％的放射活性；而多次口服劑量後，於尿中約可發現 83 ％的放射活性。大多數 (>94 ％ ) 總放射線同位素活性會於口服和靜脈注射後的 96 小時內排出。
+Voriconazole 的末期半衰期視劑量而定， 200 毫克 ( 口服 ) 時，約為 6 小時。因為非線性藥動學，所以末期半衰期對於預測 voriconazole  的蓄積或排除沒有用處。
+特殊病人族群的藥動學
+性別
+在一項口服多劑量研究中，健康年輕女性的 C max 和 AUC τ 分別比健康年輕男性 (18-45 歲 ) 高出 83 ％和 113 ％。同一研究中，健康老年男性和健康老年女性 (≧65 歲 ) 之間的 C max 和 AUC τ 未觀察到顯著差異。在一相似研究中，以口服懸液劑給藥後，健康年輕女生的平均 AUC 高於健康年輕男性 45% ，而性別間的平均 C max 相當。對於接受錠劑和口服懸液劑之 voriconazole 穩定狀態波谷濃度 (C min ) ，女性分別高出男性 100% 和 91% 。
+臨床計畫中，未因性別而作劑量上的調整。男性與女性有相似的安全性和血漿濃度，因此沒有必要因性別而作劑量上的調整。
+老年人
+在一項口服多劑量研究中，健康老年男性 (≧65 歲 ) 比健康年輕男性 (18-45 歲 ) 的 C max 和 AUC τ 分別高出 61 ％和 86 ％。健康老年女性 (≧65 歲 ) 和健康年輕女性 (18-45 歲 ) 的 C max 和 AUC τ 沒有顯著差異。
+在治療研究中，未因年齡而作劑量上的調整觀察到血漿濃度和年齡之間有相關性，不過年輕人與老年人有相似的安全性，因此老年人沒有必要因此而作劑量上的調整。
+小兒族群
+兒童與青少年病人之建議劑量的依據為一項針對 112 位 2 至 <12 歲之免疫功能不全兒童病人及 26 位 12 至 <17 歲之免疫功能不全青少年病人的整合數據所進行之族群藥物動力學分析的結果。有 3 項小兒藥物動力學研究曾針對每日兩次 3 、 4 、 6 、 7 及 8 毫克 / 公斤的多重靜脈注射劑量與每日兩次 4 毫克 / 公斤、 6 毫克 / 公斤及 200 毫克的多重口服劑量 ( 使用口服懸液用粉劑 ) 進行評估。有一項青少年藥物動力學研究曾評估過於第 1 天投予每日兩次靜脈注射 6 毫克 / 公斤之起始劑量後，再以每日兩次靜脈注射 4 毫克 / 公斤及每日兩次口服 300 毫克錠劑投予的結果。在兒童病人中所觀察到的受試者間變異要大於成人。
+針對兒童與成人之族群藥物動力學數據進行比較的結果顯示，對兒童靜脈注射投予 9 毫克 / 公斤之起始劑量後的預估總暴露量 (AUC τ ) 和對成人靜脈注射投予 6 毫克 / 公斤之起始劑量後的預估總暴露量相當。對兒童每日兩次靜脈注射投予 4 及 8 毫克 / 公斤之維持劑量後的預估總暴露量 (AUC τ ) 分別和對成人每日兩次靜脈注射投予 3 及 4 毫克 / 公斤之維持劑量後的預估總暴露量相當。對兒童每日兩次口服投予 9 毫克 / 公斤 ( 最高 350 毫克 ) 之維持劑量後的預估總暴露量和對成人每日兩次口服投予 200 毫克後的預估總暴露量相當。 8 毫克 / 公斤之靜脈注射劑量所達到的 voriconazole 暴露量要比 9 毫克 / 公斤的口服劑量高 2 倍左右。
+相對於成人，兒童病人的靜脈注射維持劑量較高，這是因為兒童病人的肝臟質量對身體質量的比率較大，因此其排除效能也較高的緣故。
+不過，在有吸收不良問題和體重極低 ( 就其年齡而言 ) 的兒童病人中，口服生體可用率可能會受到限制。在這種情況下，建議採用靜脈注射的方式投予 voriconazole 。
+在大多數的青少年病人中， voriconazole 的暴露量都和接受相同劑量療程的成人相當。不過，在某些年齡較小且體重較輕的青少年病人中， voriconazole 的暴露量有較成人低的現象。這可能是因為這些病人中的 voriconazole 代謝情形比較類似兒童而非成人的緣故。根據族群藥物動力學分析的結果， 12 至 14 歲且體重低於 50 公斤的青少年應使用兒童劑量 ( 參見 3.3 節 ) 。
+腎功能不全
+一項口服單一劑量 (200 毫克 ) 研究中，受試者包括腎功能正常者、有輕度 ( 肌酸酐清除率 [creatinine clearance] 41-60  毫升 / 分鐘 ) 至重度 ( 肌酸酐清除率 <20  毫升 / 分鐘 ) 腎功能不全者， voriconazole 藥動學受到腎功能不全的影響並不明顯。不同程度腎功能不全者的 voriconazole 血漿蛋白質結合率相似。參見 3.3 節和 5.1 節中對劑量和監測所作的建議。
+注射劑的賦形劑 (SBECD) 在中度及重度腎功能不全者 ( 血清的肌酸酐濃度 ≧220mmol/L (2.5mg/dL) 會產生蓄積現象，參見 3.3 節和 5.1 節對劑量和監測所作的建議。
+肝功能不全
+口服單一劑量 200 毫克之後，輕度至中度肝功能不全 (Child-Pugh 分類 A 級和 B 級 ) 病人與肝功能正常者相比， AUC 高出 233 ％。 Voriconazole 的蛋白質結合率不受肝功能不全的影響。在一口服多劑量研究中，給予中度肝功能不全 (Child-Pugh 分類 B 級 ) 病人 100 毫克每日二次的維持劑量，和給予肝功能正常者 200 毫克每日二次的劑量，其 AUC τ 相似。沒有重度肝功能不全 (Child-Pugh 分類 C 級 )病人 的藥動學資料。
+劑量相關資料請參見 3.3 節。
+12 臨床試驗資料
+本節中，成功的結果被定義為完全或部分的反應。
+麴菌 ( Aspergillus )  感染 ─ 對於預後不佳之麴菌症病人的療效
+Voriconazole 於體外殺黴菌活性試驗中，具有殺死 Aspergillus spp. 的活性。一項開放性、隨機分配、多中心的研究中，有 277 名免疫不全而罹患急性、侵入性麴菌症的病人接受 voriconazole 或傳統藥物 amphotericin B作為第一線治療 治療十二週，以比較這二種藥物的療效和存活效益。 Voriconazole 的給藥方式為最初 24 小時每 12 小時靜脈注射 6 毫克 / 公斤的起始劑量，再以每 12 小時 4 毫克 / 公斤的維持劑量治療至少 7 天。之後則可改用口服劑型治療，劑量為每 12 小時 200 毫克。靜脈注射 (IV) voriconazole 的中位治療期為 10 天 ( 範圍： 2-85 天 ) 。在 IV voriconazole 的治療之後，口服 (PO) voriconazole 的中位治療期為 76 天 ( 範圍： 2-232 天 ) 。
+接受 voriconazole 治療的病人中有 53 ％的整體反應令人滿意 ( 基準點出現之相關症狀、症候、 X 光片 / 支氣管鏡異常完全或部分消除 ) ，而接受 amphotericin B 治療者則為 31 ％。 Voriconazole 的 84 天存活率在統計上明顯比 amphotericin B 好，以存活時間和因毒性而終止治療的時間而言， voriconazole 在臨床上和統計學上皆明顯較佳。
+此項研究確認另一較早的前瞻性研究，對於具危險因子而預後不佳的病人，可以得到正面的結果，包括移植物抗宿主疾病等，特別是腦部感染 ( 通常死亡率為 100 ％ ) 。
+研究包括骨髓移植、器官移植、血液惡性病、癌症和 AIDS 病人的腦部、靜脈竇、肺部和散佈性麴菌症。
+嚴重侵入性念珠菌感染 –  在非嗜中性白血球減少之病人中的療效
+一項開放性的比較研究曾針對 voriconazole 在念珠菌病之初級治療中的療效和先使用 amphotericin B 再使用 fluconazole 的療法進行比較。這項研究共收錄了 370 位已證實患有念珠菌病 ( 血液培養呈陽性反應，並有發生感染的臨床病癥 ) 但未出現嗜中性白血球減少現象的病人，其中有 248 位使用 voriconazole 治療。此病人群皆為重症病人，在基礎期時約有 50% 的受試
+者住在加護病房，並有 40% 使用人工呼吸器。兩個治療組的中位治療期皆為 15 天。於治療結束 (EOT) 12 週後，兩個治療組中都有 41% 的病人產生成功的反應 ( 感染的所有臨床病癥與症狀都消退 / 改善，念珠菌血液培養呈陰性反應，受感染之深部組織部位的念珠菌檢驗結果呈陰性反應 ) 。
+在這項分析中，未進行 EOT 12 週後評估的病人皆視為治療失敗。一項針對最適於病人評估之最後時間點 (EOT 、或 EOT 2 、 6 或 12 週後 ) 的治療反應率進行比較的次級分析顯示， voriconazole 與先使用 amphotericin B 再使用 fluconazole 之療法的治療反應率分別為 65% 與 71% 。
+嚴重頑強念珠菌感染
+研究包含 55 名罹患嚴重頑強全身性念珠菌感染，而先前的抗黴菌治療，特別是 fluconazole 治療無效的病人 ( 包括念珠菌血症、散佈性或其他侵入性念珠菌病 ) 。有 24 人得到成功的反應 (15 例完全反應， 9 例部分反應 ) 。對於具有 fluconazole 抗藥性的非白色念珠菌種， 3/3 C. krusei ( 完全反應 ) ， 6/8 C. glabrata (5 例完全反應， 1 例部分反應 )  感染得到成功的結果。這個臨床療效資料得到有限的感受性資料支持。
+其他嚴重的罕見黴菌病原
+Voriconazole 被證實對下列罕見的黴菌病原有效：
+足分枝菌 ( Scedosproium spp.)—28 名罹患 S. apiospermum 感染的病人中有 16 人 (55 ％ ) ， 7 名罹患 S. prolificans 感染的病人中有 2 人 (29%) 對 voriconazole 治療產生成功的反應。此外， 3 名罹患混合菌種感染的病人中有 1 人得到成功的反應。
+鐮刀菌 ( Fusarium  spp.)—17 名病人中有 7 人 (41 ％ )  用 voriconazole  治療成功；這 7 名病人中， 3 人是眼睛感染， 1 人是竇感染， 3 人是散佈性感染。另外 4 名鐮刀菌症病人是多菌種感染，其中 2 人得到成功的後果。
+大多數接受上述 voriconazole 治療罕見感染的病人皆不能忍受先前的抗黴菌治療或對其沒有反應。
+侵入性黴菌感染的初級預防 –  在接受異體造血幹細胞移植 (HSCT) 且先前未發生確定或可能之侵入性黴菌感染 (IFI) 的病人中的預防效果
+一項針對接受異體 HSCT 且先前未發生確定或可能之 IFI 的成人或青少年病人所進行的開放性、比較性多中心研究曾比較使用 voriconazole 與 itraconazole 進行初級預防性治療的效果。成功的定義為接受 HSCT 後能夠持續使用研究藥物進行預防性治療達 100 天 ( 中斷治療不大於 14 天 ) ，以及接受 HSCT 後存活 180 天且未發生確定或可能的 IFI 。修正意圖治療 (MITT) 族群包括 465 位於清髓性 (58%) 或降低強度 (42%) 之調理治療後接受異體 HSCT 的病人。病人在接受 HSCT 後隨即開始使用研究藥物進行預防性治療：有 224 位接受 voriconazole 治療，有 241 位接受 itraconazole 治療。在 MITT 族群中，使用研究藥物進行預防性治療的中位持續時間分別為 voriconazole 組 96 天， itraconazole 組 68 天。
+成功率及其他次要評估指標如下表所示：
+試驗評估指標
+Voriconazole
+N=224
+Itraconazole
+N=241
+比例差異和 95% 信賴區間 (CI)
+P 值
+第 180 天成功率 *
+109 (48.7%)
+80 (33.2%)
+16.4% (7.7%, 25.1%)**
+0.0002**
+第 100 天成功率
+121 (54.0%)
+96 (39.8%)
+15.4% (6.6%, 24.2%)**
+0.0006**
+完成至少 100 天試驗藥物預防治療
+120 (53.6%)
+94 (39.0%)
+14.6% (5.6%, 23.5%)
+0.0015
+第 180 天時存活
+184 (82.1%)
+197 (81.7%)
+0.4% (-6.6%, 7.4%)
+0.9107
+180 天內發生確定或可能 IFI
+3 (1.3%)
+5 (2.1%)
+-0.7% (-3.1%, 1.6%)
+0.5390
+100 天內發生確定或可能 IFI
+2 (0.9%)
+4 (1.7%)
+-0.8% (-2.8%, 1.3%)
+0.4589
+使用試驗藥物期間發生確定或可能 IFI
+0
+3 (1.2%)
+-1.2% (-2.6%, 0.2%)
+0.0813
+*  試驗的主要評估指標。
+**  調整隨機分配後之比例差異， 95% CI 和 p 值。
+IFI 的次級預防 –  在接受異體 HSCT 且先前曾發生確定或可能之 IFI 的病人中的預防效果
+一項針對接受異體 HSCT 且先前曾發生確定或可能之 IFI 的成人病人所進行的開放性、非比較性多中心研究曾評估使用 voriconazole 進行次級預防性治療的效果。主要的終點評估指標為接受 HSCT 後第一年期間發生確定或可能之 IFI 的病人比率。 MITT 族群包括 40 位先前曾發生 IFI 的病人，其中有 31 位為發生麴菌症的病人， 5 位為發生念珠菌病的病人，有 4 位為發生其他 IFI 的病人。在 MITT 族群中，使用研究藥物進行預防性治療的中位持續時間為 95.5 天。
+在接受 HSCT 後的第一年期間，病人中有 7.5% (3/40) 發生確定或可能的 IFI ，包括一個念珠菌血症病例、一個賽多孢子菌病 (scedosporiosis) 病例 ( 兩者皆為先前之 IFI 復發的病例 ) 、以及一個接合菌病 (zygomycosis) 病例。第 180 天時的存活率為 80.0% (32/40) ， 1 年後則為 70.0% (28/40) 。
+治療持續時間
+靜脈注射和口服 voriconazole ，讓病人照護和延長治療的可能性皆具有彈性。臨床試驗中， 714 名病人接受 voriconazole  治療超過 12 週， 155 名受試者接受 voriconazole 治療超過 6 個月。
+兒童之臨床研究
+53 名 2 到 <18 歲的兒童病人，曾在兩項前瞻性、開放標示、非比較性、多中心臨床試驗中接受 voriconazole 的治療。其中一項研究納入 31 名可能、已證實或很可能罹患侵入性麴菌症 (IA) 的病人；其中 14 位病人已證實或很可能罹患 IA ，並已納入 MITT 療效分析中。另一項研究則納入 22 名罹患侵入性念珠菌症含念珠菌血症 (invasive candidiasis including candidaemia , ICC) ，以及需要初級或救援療法的食道念珠菌症 ( esophageal candidiasis , EC) 之病人；其中 17 人已納入 MITT 療效分析中。在 MITT 分析總共納入的 31 名病人中， 14 人為 2 到 <12 歲 (5 位病人罹患 IA ，而有 9 人罹患 ICC 或 EC) ，而 17 人為 12 到 <18 歲 (9 人罹患 IA ，而有 8 人罹患 ICC 和 EC) 。整體反應的整體發生率，對於 IA 病人而言 6 週時為 64.3% (9/14) ，對於 ICC 病人而言 EOT 時為 85.7% (6/7) ，而對於 EC 病人而言 EOT 時為 70% (7/10) 。在罹患 IA 的受試者中，治療成功率在 2 到 <12 歲病人中為 40% (2/5) ，在 12 到 <18 歲病人中則為 77.8% (7/9) 。
+檢查 QT 間期之臨床試驗
+一項安慰劑對照、隨機單一劑量交叉研究評估 ketoconazole 和三種 voriconazole 口服劑量對健康志願者 QT 間期的影響。和基礎值相比，以安慰劑調整的 QTc 平均最大增加量於給予 voriconazole 800 、 1200 和 1600 毫克之後分別是 5.1 、 4.8 和 8.2  毫秒，給予 ketoconazole 800 毫克之後是 7.0 毫秒，且沒有任何一組的受試者有 QTc 大於或等於 60 秒的增加量。沒有人經歷到超過臨床相關閥值 500 毫秒的間期。
+13 包裝及儲存
+13.1
+包裝
+膜衣錠：
+2-1000 錠鋁箔盒裝。
+輸注溶液用凍晶粉末：
+Voriconazole 是單一盒裝的無菌凍晶粉末，置於 30 毫升透明的第 I 型玻璃瓶內，附有橡膠瓶塞、鋁蓋和塑膠密封。
+13.2
+效期
+膜衣錠：
+請參閱外盒摽示。
+輸注溶液用凍晶粉末：
+請參閱外盒摽示。
+配製後的濃縮液：冷藏於 2℃-8℃(36℉-46℉) 下為 24 小時。
+13.3
+儲存條件
+膜衣錠：
+儲存於 30°C 以下。
+輸注溶液用凍晶粉末：
+未調配的藥瓶應儲存在 25℃ 以下。
+配製後的濃縮液：可儲存於 2℃-8℃(36℉-46℉) 下最多 24 小時 ( 置於冰箱 ) 。
+15 其他
+版本 : CDS 20250715-2
+共用仿單資訊：
+黴飛膜衣錠50毫克：衛署藥輸字第023647號 (本藥須由醫師處方使用)
+黴飛膜衣錠200毫克：衛署藥輸字第023646號 (本藥須由醫師處方使用)
+黴飛凍晶注射液200毫克：衛署藥輸字第023648號 (本藥限由醫師使用)
