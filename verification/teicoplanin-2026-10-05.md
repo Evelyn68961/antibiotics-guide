@@ -84,3 +84,4 @@ Renal column follows the **Taiwan insert** (reviewer's choice): CrCl 40–60 hal
 ## LactMed (read 2026-10-05 from the NIH bulk download; revised 2021-08-16)
 
 Poorly excreted into breastmilk and not orally absorbed, so unlikely to affect the breastfed infant; one infant breastfed safely during therapy. Monitor for diarrhea, especially newborns and preterm infants. The Notion Breastfeeding column currently carries only the UK label wording ("unknown whether excreted"). Proposed: replace with the LactMed summary.
+Breastfeeding column updated in Notion 2026-10-05 with the LactMed view (label wording kept alongside).

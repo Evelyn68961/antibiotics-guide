@@ -77,3 +77,6 @@ Product stocked: **庫寧靜脈乾粉注射劑 Culin 500 mg** (drug code CUL01, 
 | Interactions | (no field) | Valproate (avoid), ganciclovir (seizures), probenecid | ⚠️ missing |
 | Breastfeeding | Manufacturer: weigh risk/benefit | LactMed 2024: low milk levels, acceptable | outdated |
 | Stability | 4 h room temperature / 24 h refrigerated | Same (§16) | ✅ |
+
+## Changes made in Notion (2026-10-05)
+All items above applied: adult and renal doses per US label (incl. 60–90 band, <15 rule, HD), seizure notes, Side Effects (CNS, GI, thrombophlebitis, LFT↑), Monitor (renal, neuro), coverage (E. faecalis replaces Enterococcus; MSSA, Enterobacter, Serratia, Haemophilus, Anaerobes, Bacteroides added), indications (cUTI, Pelvic, Sepsis, Bacteremia, bone/joint, SSTI, Endocarditis added), Mechanism, Pediatric, Drug Interactions, Pregnancy, Breastfeeding (LactMed 2024), Notes, References, Renewed date.
