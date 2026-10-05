@@ -65,6 +65,7 @@
   },
   "note": "Merged: dailymed fetched with drug_name \"amoxicillin and clavulanate potassium\" (no US IV formulation exists; oral tablet label used); smpc/lactmed fetched with \"amoxicillin and clavulanic acid\".",
   "taiwan_insert": null,
-  "taiwan_insert_note": "Not found. Hospital products: AMO04 AmoClav inj 1000/200 mg (NHI AC57877297, 中化裕民, license 衛署藥製字第057877號 inferred from NHI code) and AMO08 Amonado inj (NHI AC60231297). Cardinal Tien Hospital (cth.org.tw) does not list an IV amoxicillin/clavulanate product; TFDA insert platform mcp.fda.gov.tw search requires a CAPTCHA; reg.802.mnd.gov.tw unreachable; FJUH 仿單 field empty for both codes.",
-  "us_label_note": "No IV amoxicillin/clavulanate is FDA-approved; DailyMed label is the oral tablet (generic IR tablets). UK SmPC is the IV 1000/200 mg product matching the hospital strength."
+  "taiwan_insert_note": "Not found. Hospital products: AMO04 AmoClav inj 1000/200 mg (NHI AC57877297; maker 中化裕民 per an unopened web-search snippet, UNVERIFIED; license number 衛署藥製字第057877號 is a GUESS from the NHI code, NOT confirmed) and AMO08 Amonado inj (NHI AC60231297). Cardinal Tien Hospital (cth.org.tw) does not list an IV amoxicillin/clavulanate product; TFDA insert platform mcp.fda.gov.tw search requires a CAPTCHA; reg.802.mnd.gov.tw unreachable; FJUH 仿單 field empty for both codes.",
+  "us_label_note": "No IV amoxicillin/clavulanate is FDA-approved; DailyMed label is the oral tablet (generic IR tablets). UK SmPC is the IV 1000/200 mg product matching the hospital strength.",
+  "us_pediatric_label_note": "The tablet label above omits pediatric oral dosing. Reviewer A checked pediatric oral dosing against AUGMENTIN labels on DailyMed: setid 174cc098-fe49-4f1a-87e2-601c7573f0db (tablets/suspension, v6, 2016) and 59979859-8c9b-4173-a5e3-2e6312fd9d79 (ES-600, v6, Jul 2026)."
 }

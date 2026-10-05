@@ -48,12 +48,30 @@
     "note": "Sections filled manually from .cache/lactmed/LM1207.nxml (fetch script regex misses <sec> tags carrying sec-type attribute)."
   },
   "taiwan_insert": {
-    "status": "not retrieved",
-    "candidates": [
-      "https://www.shionogi.com/content/dam/shionogi/ts/products/pdf/Rapiacta-INS-081009.pdf (Shionogi Taiwan insert, 衛部藥輸字第026649號 per search snippet)",
-      "https://www.cdc.gov.tw/Uploads/archives/68c9e764-9bb4-4bd1-b0c1-43ae05d38ee8.pdf",
-      "https://www.cdc.gov.tw/Uploads/91f361df-c039-49ba-ac47-77736f1f56f5.pdf (Taiwan CDC peramivir use protocol)"
-    ],
-    "note": "Found via web search but all hosts blocked by sandbox proxy (403); no copy on www.cth.org.tw found. Taiwan/Japan Rapiacta dosing (300 mg single, 600 mg for severe) differs from US Rapivab (600 mg single) - needs the insert to confirm."
+    "status": "retrieved",
+    "source": "TFDA 藥品仿單查詢平台 (mcp.fda.gov.tw)",
+    "title": "瑞貝塔點滴靜脈注射液 Rapiacta 300 mg/60 mL bag (peramivir hydrate 349.4 mg = peramivir 300 mg), 衛部藥輸字第026649號, 台灣塩野義製藥; mfr Nipro Pharma Ise Plant (Japan); licensed from BioCryst",
+    "version": "Insert version 4, 2025年3月 (uploaded 2025-08-27, 廠商自行上傳); clinical text identical to version 3 (2019-09-18). License issued 105-02-19, valid to 120-02-19.",
+    "url": "https://mcp.fda.gov.tw/im_detail_pdf/%E8%A1%9B%E9%83%A8%E8%97%A5%E8%BC%B8%E5%AD%97%E7%AC%AC026649%E8%99%9F",
+    "pdf_url": "https://mcp.fda.gov.tw/insert/pdfcasefile/d2a947d2-b3f0-49fa-bb7a-ef8b0f0cb3de",
+    "pdf_url_v3_2019": "https://mcp.fda.gov.tw/insert/pdfcasefile/i_f21c42d0-3b89-4a7e-9e2c-26d6f40267b8",
+    "hospital_code": "RAP02 (NHI B026649251)",
+    "sections": {
+      "1 適應症": "治療成人及一個月大以上兒童之A型及B型流感病毒急性感染。使用限制: 預防使用之有效性及安全性尚未確立; 對C型流感病毒感染無效; 對細菌感染無效; 對於需要住院的嚴重流感病人之有效性尚未建立; 2歲以下兒童在臨床試驗中的療效及安全性資料較缺乏。",
+      "2.1 劑量": "宜於症狀發生後48小時內使用本藥。成人建議劑量為300 mg，每次最多不得超過600 mg，15分鐘以上單次點滴靜脈注射。兒童建議劑量為10 mg/kg，每次最多不得超過600 mg，15分鐘以上單次點滴靜脈注射。",
+      "2.2": "連續投與之經驗有限。",
+      "2.3 腎功能不全 (表1, 一般情形 1次投與量)": "50≤Ccr: 300 mg; 30≤Ccr<50: 100 mg; 10≤Ccr<30: 50 mg. ※Ccr<10 mL/min及接受血液透析的病人，請審慎調整投與量；Peramivir會因血液透析而快速自血中清除。血液透析病人在血液透析後依腎功能調整劑量。腎功能不全的兒童病人尚無使用經驗。(表6 模擬: 相當於600 mg時 Ccr 30-<50 200 mg, 10-<30 100 mg)",
+      "4 禁忌": "對本藥成分曾發生過敏症之病人，請勿投與。",
+      "5 警語": "5.1 精神神經症狀(異常行為); 5.2 細菌感染的風險; 5.3 肝功能監測: 治療早期(如給藥隔天)就可能會出現肝功能不良、黃疸，開始投與後應隨即進行肝功能檢查; 5.4 賦形劑(氯化鈉540 mg)—心臟/循環或腎功能不全者注意鈉及水分負擔; 5.5 休克、過敏性反應。",
+      "6 不良反應": "成人968例: 腹瀉5.8%，嗜中性白血球減少2.8%，蛋白尿2.5%。兒童117例: 腹瀉10.3%，嗜中性白血球減少9.4%，嘔吐5.1%。重大副作用: 休克/過敏性反應、白血球減少/嗜中性白血球減少(1-<5%)、肝功能不良/黃疸、急性腎衰竭、異常行為。類似藥品: 肺炎、急性猛爆性肝炎、TEN/SJS、血小板減少、精神神經症狀、出血性大腸炎。其他: 發疹、腹瀉、噁心嘔吐、AST/ALT上升、蛋白尿、淋巴球增加、血中葡萄糖增加、CK上升等。",
+      "7 交互作用": "不經肝代謝，不誘導或抑制CYP450; 與rimantadine、oseltamivir、口服避孕藥、probenecid無交互作用證據。",
+      "8.1 懷孕": "FDA懷孕用藥分類為C級 (retired FDA letter category, quoted from insert)。利益高於危險性時才可投與; 大鼠藥劑會通過胎盤; 兔子有流產及早產報告。",
+      "8.3 哺乳": "投與中應避免哺餵母乳 [大鼠中有藥物分布至母乳的報告]。",
+      "8.4 兒童": "2歲以上療效與安全性已建立; 1個月以上未滿2歲: 日本第三期試驗 10 mg/kg QD 1-2天 (n=12); 低出生體重兒、新生兒安全性尚未確立。",
+      "12.2": "以最高投與劑量的2倍給與，不會延長QTc間隔。",
+      "12.3": "蛋白結合率0.3-1.8%; 尿中排泄86.3-95.4% (48h); 肝功能不全未研究，依排除途徑應不會改變。血液透析4小時後血漿濃度降至約1/4。",
+      "14": "日本II期: 300 mg、600 mg單次均較安慰劑縮短症狀緩解時間; 國際III期(含台灣244例): 300/600 mg單次不劣於oseltamivir 5天; 日本高危險群 300/600 mg QD 1-5天; Study 301 (住院重度) 600 mg QD×5天未改善。"
+    },
+    "note": "Earlier status 'not retrieved' (shionogi.com / cdc.gov.tw blocked). Retrieved by reviewer B from TFDA mcp.fda.gov.tw (license number from NHI code B026649251). pdftotext of v4 PDF works despite font warnings."
   }
 }

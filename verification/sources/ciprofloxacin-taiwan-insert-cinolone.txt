@@ -1,0 +1,539 @@
+Source: TFDA 藥品仿單查詢平台 (mcp.fda.gov.tw), "信東" 信諾隆膜衣錠250毫克 CINOLONE F.C. TABLET 250MG (ciprofloxacin HCl), 衛署藥製字第038747號, 信東生技. Hospital code CIN02 (Cinolone 250 mg tab, NHI AC38747100).
+URL: https://mcp.fda.gov.tw/im_detail_1/%E8%A1%9B%E7%BD%B2%E8%97%A5%E8%A3%BD%E5%AD%97%E7%AC%AC038747%E8%99%9F (retrieved 2026-10-05; structured insert)
+Latest historical PDF listed: 54030660 Cinolone F.C. Tablets 250mg(Lit)(印刷版次10)-109-01-21 (2020-01-21) https://mcp.fda.gov.tw/insert/pdfcasefile/i_a5e1f62f-b9c9-46d4-ae0d-2f772bc7100c (link mapping by list order)
+
+特殊警語
+使用本藥治療下列適應症時，應保留於沒有其他替代治療選擇時：慢性支氣管炎急性惡化、急性非複雜性膀胱炎、非複雜性泌尿道感染、急性鼻竇炎。
+Fluoroquinolone類藥品可能與發生長期、失能及潛在不可逆嚴重不良反應相關，不同系統之不良反應可能同時發生，包括肌腱炎、肌腱斷裂、周邊神經炎及中樞神經系統作用(如精神及中樞神經系統不良反應)。過去使用Fluoroquinolone或 Quinolone類藥品曾發生嚴重不良反應的病人，應避免使用本藥。
+1 性狀
+1.1
+有效成分及含量
+每膜衣錠含291毫克的Ciprofloxacin hydrochloride monohydrate，相當於250毫克的Ciprofloxacin。
+1.2
+賦形劑
+Sodium Starch Glycolate、Corn Starch、Magnesium Stearate、Lactose Monohydrate、Calcium Phosphate Dibasic、Opadry White。
+1.3
+劑型
+膜衣錠。
+1.4
+藥品外觀
+圓凸形的白色膜衣錠，刻有“ST”、“131”的字樣。
+2 適應症
+成人
+對Ciprofloxacin有感受性之細菌所引起之呼吸道感染、中耳炎、竇炎、眼感染、腎臟及泌尿道感染(包括淋病)、腹部感染(包括腹膜炎)、皮膚及軟組織感染、骨髓炎、關節感染、菌血症。
+﹝說明﹞
+－呼吸道的感染
+因肺炎雙球菌(Pneumococcus)引起肺炎之門診病人，Ciprofloxacin不應用為第一線治療用藥。而對於治療由克雷白桿菌屬(Klebsiella spp.)、大腸桿菌屬(Enterobacter spp.)、變形桿菌屬(Proteus spp.)、大腸桿菌(Escherichia coli)、綠膿桿菌(Pseudomonas aeruginosa)、嗜血桿菌屬(Haemophilus spp.)、Moraxella catarrhalis、Legionella及葡萄球菌(Staphylococci)所引起的肺炎，Ciprofloxacin則作為合適的治療用藥。
+－中耳(中耳炎)、副鼻竇(鼻竇炎)的感染，尤其是由包括綠膿桿菌(Pseudomonas aeruginosa)在內的革蘭氏陰性菌，或葡萄球菌(Staphylococci)所引起。
+－眼部的感染
+－腎和／或泌尿道的感染
+－生殖器官的感染，包括子宮附屬器炎、淋病、前列腺炎
+－腹腔的感染(例如腸胃道、膽管的感染、腹膜炎)
+－皮膚及軟組織的感染
+－骨頭及關節的感染
+－敗血症
+－免疫系統衰弱的病人(如接受免疫抑制治療或處於嗜中性白血球減少狀態的病人)已受感染或具高度被感染危險時的預防
+－對於免疫抑制的病人的選擇性腸內淨化
+小孩
+－大腸桿菌(Escherichia coli)所引起之複雜性泌尿道感染和腎盂腎炎(1-17歲)
+－綠膿桿菌(P. aeruginosa)有關之囊腫性纖維化產生急性肺部惡化的現象(5-17歲)
+﹝說明﹞
+因關節及結締組織之併發症發生率較高，本藥非小孩複雜性泌尿道感染之首選藥物。
+在小孩的臨床試驗僅針對於上述的適應症，關於其他適應症的臨床使用經驗有限。
+由於可能會導致與關節和／或週邊組織有關的不良反應，必須經過審慎的效益／風險評估後才可以使用本品治療。
+成人和小孩
+－吸入性炭疽病(接觸後)
+﹝說明﹞
+降低接觸氣霧化的炭疽桿菌後疾病的發生或惡化。
+Ciprofloxacin在人體中所到達的血中濃度可以當作一種替代指標，合理地用於預測臨床效益和提供疾病治療的基準。
+3 用法及用量
+3.1
+用法用量
+用量
+成人
+除非有其他處方，每日建議劑量如下：
+
+膜衣錠
+呼吸道感染(根據嚴重度及感染病菌)
+2×250～500mg
+泌尿道感染
+－急性、非併發型
+－女性膀胱炎(停經前)
+－併發型
+
+2×125mg到1～2×250mg
+單一劑量250mg
+2×250mg～500mg
+淋病
+－外生殖器
+－急性、非併發型
+
+2×125mg
+單一劑量250mg
+腹瀉
+1～2×500mg
+其他感染(見適應症)
+2×500mg
+特別嚴重、會威脅生命的感染。例如：
+－鏈球菌感染引起的肺炎
+－囊腫性纖維化的復發感染
+－骨頭及關節的感染
+－敗血症
+－腹膜炎
+特別是有假單胞菌屬(Pseudomonas)、葡萄球菌屬(Staphylococcus)和鏈球菌(Streptococcus)存在時。
+2×750mg
+吸入性炭疽病(接觸後)
+2×500mg
+當懷疑或確定接觸後，應儘早使用本品治療。
+小孩(1-17歲)
+－複雜性泌尿道感染和腎盂腎炎
+治療複雜性泌尿道感染和腎炎時，每12小時口服劑量是10-20 mg/kg，每次最大劑量是750mg。
+－囊腫性纖維化
+臨床和藥物動力學資料證實Ciprofloxacin在治療與綠膿桿菌(P. aeruginosa)有關之小孩囊腫性纖維化產生急性肺部惡化的病患(5-17歲)，其使用劑量是每天口服兩次，每次20 mg/kg(每天最大劑量是1500mg)。
+－吸入性炭疽病(接觸後)
+每天兩次每次15 mg/kg，每次最大劑量不得超過500mg(每天最大劑量是1000mg)。
+當懷疑或確定接觸後，應儘早使用本品治療。
+
+治療期
+治療期間的長短由疾病的嚴重程度及臨床和細菌生長的週期決定。在發燒或臨床症狀消失後須持續給藥至少三天。平均治療期為：
+成人
+－急性、非併發型淋病及膀胱炎為1天
+－腎、泌尿道和腹腔感染可高達7天
+－身體防禦力弱的病人在整個嗜中性白血球減少的期間都要用藥
+－骨髓炎病人最多2個月
+－其它感染為7-14天
+在鏈球菌的感染時，因會有續發併發症的危險，所以治療必須持續至少10天。
+由披衣菌所引起的感染，治療也必須持續至少10天。
+小孩(1-17歲)
+－複雜性泌尿道感染和腎盂腎炎
+大腸桿菌(Escherichia coli)引起之複雜性泌尿道感染和腎盂腎炎，治療期是10-21天。
+－囊腫性纖維化
+綠膿桿菌(P. aeruginosa)有關之囊腫性纖維化的急性肺部惡化的病患(5-17歲)，治療期是10-14天。
+成人和小孩
+－吸入性炭疽病(接觸後)
+Ciprofloxacin(靜脈注射或口服)治療炭疽桿菌(接觸後)的總治療期是60天。
+3.2
+調製方式
+給藥方法
+錠劑應整顆和少量水一起吞服。
+飯前或飯後服用皆可。如果空腹服用，活性成分吸收較快。因為這樣，錠劑或口服懸浮液不可和乳製品或礦物質含量高的飲料(例如牛奶、優格、加鈣柳橙汁)併用。但是，作為正餐中一部份的膳食鈣並不會明顯影響Ciprofloxacin吸收。
+若病人因疾病嚴重或其他原因無法服用錠劑(例如：接受腸道營養的病患)，建議可以一開始時以靜脈輸注Ciprofloxacin來治療，再以口服錠劑來持續治療。
+3.3
+特殊族群用法用量
+老年人(> 65歲)
+年老的病患應依其病情嚴重性及肌氨酸酐(creatinine)清除率給予最低的藥量。
+腎及肝功能受損的病患
+成人：
+腎功能受損
+－當creatinine清除率在31到60 mL/min/1.73m2或血漿中creatinine的濃度在1.4到1.9 mg/100mL時，每日最大口服劑量為一天1000毫克。
+－當creatinine清除率少於30 mL/min/1.73m2或血漿中creatinine的濃度等於或高於2.0 mg/100mL時，每日最大口服劑量為一天500毫克。
+腎功能受損且須血液透析
+－當creatinine清除率在31到60 mL/min/1.73m2或血漿中creatinine的濃度在1.4到1.9 mg/100mL時，每日最大口服劑量為一天1000毫克。
+－當creatinine清除率少於30 mL/min/1.73m2或血漿中creatinine的濃度等於或高於2.0 mg/100mL時，每日最大口服劑量為一天500毫克。
+腎功能受損且進行連續性腹膜透析之門診病人(CAPD)
+一顆500毫克的Ciprofloxacin膜衣錠或二顆250毫克的Ciprofloxacin膜衣錠。
+肝功能受損
+不須調整劑量。
+腎及肝功能受損
+－當creatinine清除率在31到60 mL/min/1.73m2或血漿中creatinine的濃度在1.4到1.9 mg/100mL時，每日最大口服劑量為一天1000毫克。
+－當creatinine清除率少於30 mL/min/1.73m2或血漿中creatinine的濃度等於或高於2.0 mg/100mL時，每日最大口服劑量為一天500毫克。
+小孩：
+腎功能受損或肝功能受損小孩的使用劑量尚未被研究。
+4 禁忌
+(依文獻記載)
+Ciprofloxacin禁用於對Ciprofloxacin、其他Quinolone類藥物或任何賦形劑會過敏的病人(參見“1.2賦形劑”)。
+禁止同時使用Ciprofloxacin和Tizanidine (參見“7.交互作用”)。
+5 警語及注意事項
+(依文獻記載)
+5.1
+警語/注意事項
+過去使用Quinolone或Fluoroquinolone類藥品曾發生嚴重不良反應的病人，應避免使用本藥。
+周邊神經病變
+曾有使用Fluoroquinolone類抗生素發生感覺或感覺運動神經產生多發性神經病變，造成感覺異常、感覺遲鈍或無力等症狀之案例。醫療人員應提醒病人，在持續處方Ciprofloxacin前，若出現神經病變之相關症狀如疼痛、燒灼感、針刺感、發麻或無力症狀時應告知醫師，以避免潛在不可逆之情況發生。當病人出現神經病變症狀時應立即停藥。
+肌腱炎及肌腱斷裂
+肌腱炎及肌腱斷裂(好發於阿基里斯腱)，有時為雙側，可能在開始使用Fluoroquinolone類藥品的48小時內很快發生，也可能甚至在停藥數個月後才發生。老年人、腎功能不良、曾進行器官移植或同時併用皮質類固醇的病人會增加肌腱炎及肌腱斷裂的風險，故使用本藥應避免併用皮質類固醇。
+當出現肌腱炎的初期徵兆(如疼痛腫脹、發炎)，應停用本藥並考慮使用替代藥物。受到影響的肢體應加以適當的治療(如加以固定)。倘出現肌腱病變的徵兆應避免使用皮質類固醇。
+中樞神經系統作用
+－精神相關不良反應：Fluoroquinolone類藥品可能增加精神相關不良反應，包括中毒性精神病、精神病反應進展至自殺意念／想法、幻覺或妄想；憂鬱或自殘行為加企圖自殺或完成自殺；焦慮、躁動或緊張；精神混亂、膽妄、失去方向感或注意力無法集中；失眠或做惡夢；記憶力受損。這些反應可能發生在第一次投藥後。建議使用本藥之病人倘出現前述不良反應，應立即告知醫療人員，停用此藥並開始適當的治療。
+－中樞神經系統不良反應：Fluoroquinolone類藥品可能與增加癲癇(痙攣)風險、增加顱內壓(假性腦腫瘤)、頭暈和顫抖有關。此類藥物已知會誘發癲癇或降低癲癇閥值。曾有癲癇重積狀態的通報案例。應小心使用於癲癇病人及已知或疑似患有可能管誘發癲癇或降低癲癇閥值之中樞神徑疾病(如嚴重腦動脈硬化、有痙攣病史、腦部血流減少、腦部結構改變或中風)，或具其他可能會誘發癲癇或降低癲癇閥值危險因子(如藥物、腎功能不全)的病人。如發生癲癇應停用本藥並並開始適當的治療。
+血糖異常
+Fluoroquinolone類藥品可能與血糖異常有關，包括有症狀的高血糖和低血糖，通常發生於同時使用口服降血糖藥物(加glyburide)或胰島素之糖尿病病人，建議針對這些病人要小心監控血糖值。
+曾有嚴重低血糖導致昏迷或死亡的通報案例。如使用本藥之病人發生低血糖反應，應停用本藥並立即開始適當的治療。
+流行病學研究報告顯示，使用Fluoroquinolone類藥品可能增加主動脈瘤及主動脈剝離相關風險，尤其是老年人。
+當病人有動脈瘤疾病之家族史，或經診斷已有主動脈瘤及／或主動脈剝離，或具有加重主動脈瘤及主動脈剝離之危險因子(如：Marfan syndrome、vascular Ehlers-Danlos syndrome、Takayasu arteritis、giant cell arteritis、Behcet's disease、高血壓、已知有動脈粥樣硬化)時，Fluoroquinolone類藥品需經謹慎評估其效益及風險與其他治療方式後方得使用。建議病人如有突發性腹痛、胸或背痛，應立即就醫。
+嚴重感染和/或格蘭氏陽性或厭氧菌感染
+嚴重感染、格蘭氏陽性或厭氧菌感染不適合單獨使用Ciprofloxacin治療，治療這些感染時，Ciprofloxacin應併用其他適當的抗細菌製劑。
+肺炎鏈球菌感染
+Ciprofloxacin不建議用於肺炎鏈球菌的感染，因為對抗肺炎鏈球菌的療效有限。
+生殖道感染
+生殖道感染可能是由對Fluoroquinolone具有抗藥性的淋病雙球菌分離株(Neisseria gonorrhoeae isolates)所導致，當生殖道感染被認為或已知是淋病雙球菌感染時，特別重要的是需獲取當地對Ciprofloxacin抗藥性的流行率資訊和依據實驗室測試結果確認細菌的感受性。
+心臟疾病
+Ciprofloxacin與QT延長有關(參見“8.1 臨床重要副作用/不良反應”)。由於女性相較於男性有較長的QTc間隔基準值(Baseline QTc interval)，所以對於會延長QTc間隔的藥品可能會較為敏感。老年病患可能也較容易受到藥品影響QT區間，當Ciprofloxacin併用會導致QT區間延長的藥物(例如：class IA or III的抗心律不整藥物、三環抗憂鬱劑、巨環類抗生素、抗精神病藥物) (參見“7. 交互作用”)或病患潛在有QT間隔延長或torsade de pointes危險因子(例如：先天性QT延長症候群、未經控制的電解質失調[例如：低血鉀症或低血鎂症]及心臟疾病[例如心衰竭、心肌梗塞或心搏徐緩])時須謹慎使用。
+小孩和青少年(1-17歲)
+依據藥品的等級，Ciprofloxacin已被指出會導致發育未完全動物其承受重量的關節(weight-bearing joint)產生關節病變(參見“8.1 臨床重要副作用/不良反應”)。從使用Ciprofloxacin的病患(年齡小於18歲；大多數是囊腫性纖維化病患)其可取得的安全性資料分析，並無任何證據顯示與藥物有關的軟骨或關節傷害產生。
+過敏反應
+在某些例子中，第一次給與Ciprofloxacin後會產生過敏反應(參見“8.1 臨床重要副作用/不良反應”)，須立刻通知醫生。在極少數的情況下，過敏性及類過敏性反應會變成具生命危險性的休克(參見“8.1 臨床重要副作用/不良反應”)。在這些情況下，Ciprofloxacin必須停藥，並進行藥物治療(如休克的治療)。
+腸胃系統
+在治療期或治療後有嚴重且持續性的腹瀉，必須請教醫生，因為在這個症狀背後，可能隱藏著嚴重的抗生素相關腸炎(威脅生命的偽膜性結腸炎，有可能致死)，需立即治療(參見“8.1 臨床重要副作用/不良反應”)。在這種情況下，必須停用Ciprofloxacin並給予適當的治療，禁用抑制蠕動的藥物。
+肝膽系統
+已經有使用Ciprofloxacin發生肝壞死(Hepatic necrosis)和肝衰竭而危及生命的案例通報。若產生任何肝臟疾病的徵兆及症狀(例如：食慾不振、黃疸、深色尿液、皮膚騷癢或腹部壓痛感)，應該要中斷治療(參見“8.1 臨床重要副作用/不良反應”)。使用Ciprofloxacin治療的患者，其轉氨酶(Transaminases)、鹼性磷酸酶(Alkaline phosphatase)或膽汁鬱滯性黃疸(Cholestatic jaundice)會暫時升高，特別是之前就有肝受損的病人。
+肌肉骨骼系統
+本藥品具有使重症肌無力惡化之風險，具有重症肌無力患者應避免使用。
+使用Ciprofloxacin的患者，即使是在治療開始的48小時內，可能會發生肌腱炎和肌腱斷裂(主要是跟腱) (有時為雙側性)。肌腱的發炎和斷裂甚至可能會發生在停止Ciprofloxacin治療後的數個月。
+老年人或同時併用皮質類固醇治療的患者可能會增加發生肌腱病變(Tendinopathy)的風險。若有任何肌腱炎的跡象(如疼痛性腫脹、發炎)，應通知醫生並且停止使用Ciprofloxacin，小心照護保持四肢處於休息狀態，避免不適當的身體運動(否則會增加肌腱斷裂的危險)。
+Ciprofloxacin必須小心的使用在曾經因為服用Quinolone治療導致肌腱疾病的病患。
+神經系統
+Ciprofloxacin和其它的Fluoroquinolones相似，已知會誘發癲癇或降低癲癇閾值。
+對於癲癇病人及曾患有中樞神經失調的病人(例如痙攣閥值偏低、曾有痙攣的病史、腦部血流減少、腦部結構改變或中風)，Ciprofloxacin應只用在治療效益大於危險性的情況下，因為這些病人面臨著可能發生中樞神經失調的危險。已有癲癇重積狀態(Status epilepticus)的通報案例(參見“8.1 臨床重要副作用/不良反應”)。如果發生癲癇應該中斷Ciprofloxacin治療。
+在某些例子中，第一次給與Fluoroquinolones (包括Ciprofloxacin)後甚至可能會發生精神病學反應(Psychiatric reactions)。在少數的情況，抑鬱或精神病反應可能會演變成自殺意念／想法和自我傷害的行為，例如自殺未遂或完全自殺(請見“8.1 臨床重要副作用/不良反應”)。如果發生抑鬱、精神病反應、有自殺的想法或行為，Ciprofloxacin必須停藥，給予適當處置。
+當患者服者使用包括Ciprofloxacin的Fluoroquinolones，曾有感覺或感覺運動神經產生多發性神經病變(Polyneuropathy)造成感覺異常、感覺遲鈍及感覺減退的案例通報。正在使用Ciprofloxacin治療的患者，如果發生神經病變的症狀(例如：疼痛、燒灼感、刺痛感、麻痺或虛弱感)，在繼續治療前應該先告知醫生。
+皮膚與附屬器官
+Ciprofloxacin會產生光敏感反應。服用Ciprofloxacin的病患應避免暴露於過量的陽光及紫外線下。若有光過敏作用(如像曬傷般的皮膚反應)產生，須停止給藥(參見“8.1 臨床重要副作用/不良反應”)。
+Cytochrome P450
+Ciprofloxacin已知是CYP 450 1A2酵素的中度抑制劑，當與其他經由此酵素代謝途徑的藥物(例如：Theophylline、Methylxantines、Caffeine、Duloxetine、Ropinirole、Clozapine、Olanzapine、Agomelatine)併用時需小心，禁止與Tizanidine併用，因為Ciprofloxacin會抑制這些藥物的代謝清除率，導致與血漿濃度增加有關的藥物副作用產生(參見“7. 交互作用”)。
+5.2
+藥物濫用及依賴性
+目前尚無資訊。
+5.3
+操作機械能力
+Fluoroquinolones (包含Ciprofloxacin)會影響中樞神經的反應導致病患駕駛或操作機械的能力會有損害(參見“8.1 臨床重要副作用/不良反應”)，尤其與酒精併用時更易發生。
+5.4
+實驗室檢測
+Ciprofloxacin在體外的藥效會藉由抑制結核分歧桿菌(Mycobacterial tuberculosis)生長，干擾分枝桿菌屬(Mycobacterium spp.)培養的檢測，導致服用Ciprofloxacin的病患產生偽陰性反應。
+5.5
+其他注意事項
+目前尚無資訊。
+6 特殊族群注意事項
+(依文獻記載)
+6.1
+懷孕
+根據來自懷孕婦女使用Ciprofloxacin的資料顯示，沒有致畸形或胚胎／新生兒毒性。動物試驗也未顯示有生殖毒性。在幼年及胎兒的動物試驗，已有發現曝露於Quinolones對未成熟軟骨的影響，根據動物試驗的結果，可能無法排除藥物可能會對尚未成熟生物的關節軟骨造成傷害。(參見“10.3臨床前安全性資料”)，因此Ciprofloxacin不建議使用在懷孕期間。
+6.2
+哺乳
+Ciprofloxacin會分泌到乳汁中，由於有關節軟骨傷害的潛在風險，哺乳婦女不建議使用Ciprofloxacin(參見“10.3臨床前安全性資料”)。
+6.3
+有生育能力的女性與男性
+目前尚無資訊。
+6.4
+小兒
+目前尚無Ciprofloxacin使用於治療綠膿桿菌引起的囊腫性纖維化產生急性肺部惡化(小孩年齡5-17歲)、大腸桿菌所引起之複雜性泌尿道感染和腎盂腎炎(小孩年齡1-17歲)和吸入性炭疽病(接觸後)之外其他適應症的研究，至於其他疾病，其臨床經驗有限。
+針對吸入性炭疽病(接觸後)，風險／效益評估顯示孩童病患使用Ciprofloxacin治療是適當的。
+6.5
+老年人
+目前尚無資訊。
+6.6
+肝功能不全
+目前尚無資訊。
+6.7
+腎功能不全
+目前尚無資訊。
+6.8
+其他族群
+目前尚無資訊。
+7 交互作用
+(依文獻記載)
+已知會延長QT間隔的藥物
+Ciprofloxacin和其它的Fluoroquinolones一樣，對於併用已知會延長QT間隔的藥物(例如：class IA or III的抗心律不整藥物、三環抗憂鬱劑、巨環類抗生素、抗精神病藥物)時，須謹慎使用(參見“5.1 警語/注意事項”)。
+螯合劑
+Ciprofloxacin(口服)和含多價陽離子的藥物、礦物質補充劑(例如：鈣、鎂、鋁及鐵劑)、磷聚合物(例如：Sevelamer、Lanthanum carbonate)、Sucralfate、制酸劑或高緩衝性藥物(例如：Didanosine錠劑)等含鎂、鋁或鈣的藥物併用時會降低Ciprofloxacin的吸收，因此Ciprofloxacin應在這些製劑服用前1-2小時或服用後至少4小時才可服用。H2接受體阻斷劑類的制酸劑不受此限。
+食物和乳製品
+必須避免乳製品或礦物質含量高的飲料(例如牛奶、優格、加鈣柳橙汁)和Ciprofloxacin供用，因為Ciprofloxacin的吸收可能會降低。但是，作為正餐中一部份的膳食鈣並不會明顯影響Ciprofloxacin的吸收。
+Probenecid
+Probenecid會干擾Ciprofloxacin的腎排除，所以併用Ciprofloxacin和Probenecid會增加Ciprofloxacin的血中濃度。
+Metoclopramide
+Metoclopramide會加速Ciprofloxacin的吸收而使其在較短的時間內達到最大血中濃中濃度，但其對Ciprofloxacin的生體可用率沒有影響。
+Omeprazole
+Ciprofloxacin和Omeprazole併服會導致Ciprofloxacin的Cmax和AUC輕微微地降低。
+Tizanidine
+含有Tizanidine的藥物不可以和Ciprofloxacin同時使用(參見“4. 禁忌”)。健康受試者的臨床試驗顯示，當併用Ciprofloxacin和Tizanidine時，Tizanidine的血漿濃度會上升【Cmax增加7倍，範圍：4-21倍；AUC增加10倍，範圍：6-24倍】，導致增強低血壓和鎮靜的作用(參見“5.1 警語/注意事項-Cytochrome P450”)。
+Theophylline
+Ciprofloxacin和含有Theophylline的藥物一起服用會使Theophylline的血中濃度增加，導致Theophylline引發的副作用；在極少數的情況下，這些副作用會造成生命危險或致命的。如果無法避免併用此兩種藥物，應監測血中Theophylline濃度且適當減少Theophylline的劑量(參見“5.1 警語/注意事項-Cytochrome P450”)。
+其他Xanthine的衍生物
+Ciprofloxacin與含有Caffeine或Pentoxifylline (Oxpentifylline)的藥物併用時，已知會增加Xanthine衍生物的血中濃度。
+Phenytoin
+在同時併用Ciprofloxacin及Phenytoin的患者觀察到Phenytoin的血漿濃度會改變(降低或增加)。建議併用Ciprofloxacin及Phenytoin的期間以及中斷併用之後要監測Phenytoin的治療(包括測量phenytoin的血漿濃度)以避免因降低Phenytoin的血漿濃度而造成對癲癇失去控制，以及預防當原本併用此兩種藥品的患者中斷使用Ciprofloxacin，造成Phenytoin過量產生的不良反應。
+Methotrexate
+Methotrexate在腎小管的輸送可能因併服Ciprofloxacin而受到抑制，導致Methotrexate血漿濃度增加，這可能增加Methotrexate所引起毒性反應的危險性，因此，使用Methotrexate治療的病人，當要併服Ciprofloxacin時，必須小心監測。
+NSAID
+動物研究顯示非常高劑量的Quinolones藥物(Gyrase抑制劑)和某些非固醇類抗發炎藥物(Acetylsalicylic acid除外)併用會引起痙攣。
+Cyclosporin
+Ciprofloxacin和含有Cyclosporin的藥物併用會造成血中肌氨酸酐濃度的暫時性升高。因此，需時常(一星期二次)控制這類病患血中肌氨酸酐的濃度。
+維他命K拮抗劑
+同時使用Ciprofloxacin和維他命K拮抗劑時會增加抗凝血的作用，此風險會因為潛在的感染、年齡和病患的狀態而不同，所以Ciprofloxacin對於INR (International Normalized Ratio)增加的影響難以評估，併用Ciprofloxacin與維他命K拮抗劑(例如：Warfarin、Acenocoumarol、Phenprocoumon或Fluindione)時需頻繁地監測INR。
+併用Ciprofloxacin和Warfarin可能會加強Warfarin的作用。
+口服降血糖製劑
+曾有併用Ciprofloxacin及口服降血糖製劑(主要為Sulfonylureas，例如：Glibenclamide、Glimepiride)產生低血糖的案例通報。推測可能是由於增強口服降血糖製劑的作用(參見“8.1 臨床重要副作用/不良反應”)。
+Duloxetine
+臨床研究顯示當Duloxetine和CYP450 1A2 isozyme的強抑制劑例如：Fluvoxamine併用時，會導致Duloxetine的AUC和Cmax增加，雖然沒有臨床資料可以證明Duloxetine和Ciprofloxacin可能的交互作用機轉，相似的結果可被預期在藥物併用時(參見“5.1 警語/注意事項-Cytochrome P450”)。
+Ropinirole
+一個臨床研究顯示當Ropinirole和Ciprofloxacin (CYP450 1A2 isozyme中度抑制劑)併用時，會導致Ropinirole的Cmax和AUC分別增加60%和84%，與Ciprofloxacin併用時需監控Ropinirole相關的不良反應，建議適時的調整劑量(參見“5.1 警語/注意事項-Cytochrome P450”)。
+Lidocaine
+健康受試者併用含有Lidocaine的藥物和Ciprofloxacin (CYP450 1A2 isozyme中度抑制劑)時，靜脈注射Lidocaine的清除率會減低22%，雖然Lidocaine治療的耐受性佳，併用時會有與Ciprofloxacin相關的副作用發生。
+Clozapine
+併用250毫克Ciprofloxacin和Clozapine 7天後，Clozapine和N-desmethylclozapine的血中濃度會分別增加29%和31%，與Ciprofloxacin併用後建議需進行臨床監測和適當的調整Clozapine的劑量(參見“5.1 警語/注意事項-Cytochrome P450”)。
+Sildenafil
+口服併用50毫克的Sildenafil和500毫克的Ciprofloxacin後，健康受試者的Sildenafil Cmax和AUC會增加約2倍，因此併用Ciprofloxacin和Sildenafil時，Sildenafil劑量需考慮減半。
+Agomelatine
+臨床研究顯示CYP450 1A2 isozyme的強抑制劑Fluvoxamine，會顯著抑制Agomelatine的代謝，導致Agomelatine的暴露量增加60倍。雖然沒有臨床資料可以證明和CYP450 1A2中度抑制劑Ciprofloxacin可能的交互作用機轉，相似的結果可被預期在藥物併用時(參見“5.1 警語/注意事項-Cytochrome P450”)。
+Zolpidem
+和Ciprofloxacin併用可能會增加Zolpidem的血中濃度，因此不建議併用。
+8 副作用/不良反應
+(依文獻記載)
+8.1
+臨床重要副作用/不良反應
+有案例報告指出使用Fluoroquinolone類抗生素可能導致長期(長達數月甚至數年)、失能及潛在性不可逆之嚴重藥品不良反應。這些不良反應涉及多個器官系統和感官，症狀包括肌腱炎、肌腱斷裂、關節疼痛、四肢疼痛、步態不穩，與感覺異常有關聯之神經病變、疲勞、精神症狀、記憶受損，及聽力、視覺、味覺和嗅覺受損，且有部分案例無相關風險因子(參見“5.1 警語/注意事項”)。可能發生之精神症狀包含但不限於睡眠疾病、焦慮、恐慌發作、混淆或憂鬱等。對於Fluoroquinolones 引起之長期或失能嚴重不良反應症狀，目前尚無明確的藥品治療建議。依現有資料尚無法確定Fluoroquinolone 類抗生素引起長期、失能及潛在不可逆嚴重不良反應之發生率，但根據國際間藥品不良反應通報資料，其通報率至少在1/1,000 和 1/10,000 之間(對應到罕見之發生頻率範圍)。
+
+安全資訊摘要
+藥物不良反應(ADR)根據Ciprofloxacin(口服、注射)的所有臨床研究，以CIOMS III發生率分類(n=51621位病人)。
+不良反應列表
+已報導與Ciprofloxacin有關的不良藥物反應摘要在下表中，在每一個發生頻率分類中，不良反應的表示依據嚴重程度的順序刊載：
+
+常見
+≧1/100至<1/10
+不常見
+≧1/1000至 <1/100
+罕見
+≧1/0000至<1/1000
+非常罕見
+≦1/10000
+未知
+(發生在藥品上市後且發生頻率無法預期時)
+感染
+
+念珠菌感染
+抗生素相關性結腸炎(致死性極低)
+
+
+血液及
+淋巴系統
+
+嗜伊紅血球增多
+白血球減少、貧血、嗜中性白血球低下、白血球增多、血小板減少、血小板過多
+溶血性貧血、顆粒性血球減少、全血球減少(有生命危險的)、骨髓抑制(有生命危險的)
+
+免疫系統
+
+
+過敏反應、過敏性水腫／血管性水腫
+過敏性反應、過敏性休克(有生命危險的)、類血漿疾病反應(serum sickness-like reaction)
+
+代謝及
+營養失調
+
+降低食慾和食物攝取
+血糖過高
+血糖過低
+
+未知
+精神疾病
+
+精神運動性過度活躍／易激動
+精神混亂及方向迷失、焦慮、不正常的作夢(惡夢)、抑鬱、幻覺
+精神上的反應(潛在性累積自殘行為，例如：自殺意念／想法，企圖自殺或完全自殺)
+
+神經系統
+疾病
+
+頭痛、暈眩、失眠、味覺喪失
+感覺異常／遲鈍、感覺減退、震顫、癲癇發作(包括癲癇重積狀態)、眩暈
+偏頭痛、運動失調、嗅覺喪失、感覺過敏、顱內壓增高(大腦假性腫瘤)
+周邊神經病變和多發性神經病變
+眼部疾病
+
+
+視力障礙
+辨色扭曲
+
+耳部疾病
+
+
+耳鳴、聽力減弱
+聽力喪失
+
+心臟疾病
+
+
+心跳加快
+
+QT延長、心室心律不整、torsades de pointes*
+血管疾病
+
+
+血管擴張、低血壓、暈厥
+血管炎
+
+呼吸道、胸部及縱膈腔
+
+
+呼吸困難(包含類似氣喘的症狀)
+
+
+胃腸道疾病
+噁心、腹瀉
+嘔吐、胃腸道及腹部疼痛、消化不良、胃腸脹氣
+
+胰臟炎
+
+肝膽疾病
+
+轉胺酶增加、膽紅素增加
+肝功能損害、黃疸、肝炎(非傳染性)
+肝壞死(只有很少的機會會轉變成有生命危險的肝衰竭)
+
+皮膚及
+皮下組織
+
+紅疹、搔癢、蕁麻疹
+光敏感反應、水泡
+瘀點、多型性紅斑、結節性紅斑、Stevens- Johnson症狀(有生命危險的)、毒性表皮壞死溶解症(有生命危險的)
+急性廣泛性發疹性膿皰症(AGEP)
+肌肉骨骼和
+結締組織
+
+關節痛
+肌肉酸痛、關節炎、肌肉張力增加及痙攣
+肌肉無力、肌腱炎、肌腱斷裂(主要是Achilles肌腱)、重症肌無力的惡化
+
+腎臟及泌尿
+系統
+
+腎功能異常
+腎衰竭、血尿、結晶尿、腎小管間質腎炎
+
+
+一般症狀
+
+非特定區域疼痛、感覺不舒服、發熱
+水腫、出汗(多汗症)
+步履不穩
+
+Investigations
+
+血液中鹼性磷酸酶增加
+凝血原值不正常、澱粉水解酵素升高
+
+INR (International
+normalized ratio)值增加(使用維生素K拮抗劑治療的患者)
+*事件發生在藥品上市後而且顯著的發生在有QT 延長風險的病患(參見“5.1 警語/注意事項”)。
+
+下列不良反應在接受靜脈輸注或靜脈輸注後轉口服治療的病患，有較高的發生頻率：
+常見
+嘔吐、短暫性轉胺酶上升、紅疹
+不常見
+血小板減少症、血小板過多、精神混亂及方向迷失、幻覺、感覺異常／遲鈍、癲癇發作、眩暈、視力障礙、聽力喪失、心跳加快、血管擴張、低血壓、短暫肝功能損害、黃疸、腎衰竭、水腫
+少見
+全血球減少症、骨髓抑制、過敏性休克、精神上的反應、偏頭痛、嗅覺喪失、聽力受損、血管炎、胰臟炎、肝壞死、瘀點、肌腱斷裂
+MedDRA preferred term是用來描述某些反應和其相同含義及相關狀況的詞彙。
+ADR term是依據MedDRA version 14.0 (除了黴菌重覆感染和不特定疼痛)來表示。
+
+特殊族群的額外資訊
+小孩病患
+有一項針對1至17歲兒童的研究評估肌肉骨骼的不良作用，包括關節痛、異常步態、關節檢查異常等，在開始治療6週時，這些不良作用的發生率在Ciprofloxacin組高於對照藥物(參見“5.1 警語/注意事項”)。之前提及關節病(關節痛、關節炎)的發生機率是從成人的試驗所收集到的資料來計算。在小孩的族群，關節病的發生機率為常見(參見“5.1 警語/注意事項”)。
+8.2
+臨床試驗經驗
+目前尚無資訊。
+8.3
+上市後經驗
+目前尚無資訊。
+9 過量
+(依文獻記載)
+除了一般急救措施外，還建議監測腎功能，包括尿液pH值。可以使尿液酸化，以預防結晶尿。患者應該維持在足夠的水份補充狀態。在過量時，含鈣或鎂的制酸劑可能可以減少Ciprofloxacin的吸收。
+只有少量的Ciprofloxacin (＜10%)會在血液透析或腹膜透析排除。
+10 藥理特性
+(依文獻記載)
+Ciprofloxacin是一合成的廣效性抗生素。
+10.1
+作用機轉
+在體外實驗中Ciprofloxacin可以有效對抗所有的革蘭氏陰性病原菌，Ciprofloxacin的殺菌作用是因為抑制細菌DNA複製、轉錄、修補和重組時的type II topoisomerase (DNA gyrase和Topoisomerase IV)。
+10.2
+藥效藥理特性
+抗藥機轉
+Ciprofloxacin的體外抗藥性通常是由於細菌Topoisomerases IV和DNA gyrase透過多重步驟突變在作用點突變，單點突變可能會導致感受性減低而非臨床抗藥性，但是多重突變通常會導致臨床上對Ciprofloxacin抗藥性及Quinolone類的交互抗藥性。
+抗藥性機轉使得其他抗生素失去活性，例如：細菌的滲透性屏障(通常是綠膿桿菌)和或輸出幫浦的表現可能會影響對Ciprofloxacin的感受性，gnr基因所產生基因質體媒介的抗藥性已被報導，對於Penicillins、Cephalosporins、Aminoglycosides、Marolides和Tetracyclines的抗藥性機制不會影響Ciprofloxacin的抗菌活性，而且尚未Ciprofloxacin和其他抗菌藥品的交互抗藥，對上述藥品具有抗藥性的細菌可能會對Ciprofloxacin具有感受性。
+最小殺菌濃度(MBC)通常不會超過2個係數的最小抑菌濃度(MIC)。
+對Ciprofloxacin的體外感受性：
+抗藥性的流行率會因地理環境的不同和所選擇菌種的時間而不同，當地抗藥性的資料是需要的，特別是治療嚴重感染時，必要時或對某些感染不確定時，需請教專家的意見，了解本土抗藥性流行率作為用藥參考。
+以下所列的微生物菌屬或菌種在體外對Ciprofloxacin具有感受性：
+革蘭氏陽性嗜氧菌
+Bacillus anthracis
+Staphylococcus aureus (methicillin感受性菌株)
+Staphylococcus saprophyticus
+Streptococcus pyogenes
+革蘭氏陰性嗜氧菌
+Aeromonas spp.
+Moraxella catarrhalis
+Brucella spp.
+Neisseria meningitidis
+Citrobacter koseri
+Pasteurella spp.
+Francisella tularensis
+Salmonella spp.*
+Haemophilus ducreyi
+Shigella spp.
+Haemophilius influenzae
+Vibrio spp.
+Legionella spp.
+Yersinia pestis
+厭氧菌
+Mobiluncus
+其他病原菌
+Chlamydia trachomatis
+Chlamydia pneumoniae
+Mycoplasma hominis
+Mycoplasma pneumoniae
+以下這些菌種對Ciprofloxacin呈現不同程度的敏感度：Acinetobacter baumannii, Burkholderia cepacia, Campylobacter spp., Citrobacter freudii, Enterococcus faecalis, Enterobacter aerogenes, Enterobacter clocae, Escherichia coli, Klebsiella pneumoniae, Klebsiella oxytoca, Morganella morganii, Neisseria gonorrhoeae, Proteus mirabilis, Proteus vulgaris, Providencia spp., Pseudomonas aeruginosa, Pseudomonas fluorescens, Serratia marcescens, Peptostreptococcus spp., Propionibacterium acnes.
+以下這些菌種被認為本身對Ciprofloxacin具有抗藥性：Staphylococcus aureus (methicillin-resistant) and Stenotrophomonas maltophilia, Actinomyces, Enteroccus faecium, Listeria monocytogenes, Mycoplasma genitalium, Ureaplasma urealitycum, Anaerobic microorganisms (Excepted Mobiluncus, Peptostreptococus, Propionibacterium acnes).
+10.3
+臨床前安全性資料
+急性毒性
+口服Ciprofloxacin的急性毒性可視為非常低。依人種不同，靜脈輸注Ciprofloxacin的半數致死劑量為125-290 mg/kg。
+慢性毒性
+六個月以上的慢性耐受研究
+劑量分別增加到500 mg/kg (大鼠)及30 mg/kg (猴子)仍可以耐受且無傷害。猴子最高劑量組(90 mg/kg)觀察到腎小管末稍有變化。
+致癌性
+小鼠試驗(21個月大，劑量最高到約1000 mg/kg bw/day)及大鼠試驗(24個月大，劑量125 mg/kg bw/day，22星期後調高到250 mg/kg bw/day)皆未顯示任何致癌性的可能。
+生殖毒性
+大鼠繁殖力試驗
+成鼠的繁殖力、子宮及產後的發展及其第一代後代的繁殖力皆未受到Ciprofloxacin影響。
+胚胎毒性
+未有任何證據顯示Ciprofloxacin有胚胎毒性或致畸胎毒性作用。
+大鼠出生前後及產後的發展
+未發現動物出生前後或產後的發展有受到影響。撫養期結束時的組織學研究並未發現有成鼠關節傷害的跡象。
+致突變性
+有八個Ciprofloxacin的體外致突變性實驗已完成。
+雖然其中兩個體外實驗(the Mouse Lymphona Cell Forward Mutation Assay及Rat Hepatocyte Primary Culture DNA Repair Assay (UDS))顯示是有致突變性的，但所有的體內試驗包括所有相關指標皆顯示沒有致突變性。
+關節耐受性研究
+如同其他已知的Gyrase抑制劑，Ciprofloxacin對未發育完成的動物較大且負重的關節產生傷害。
+依年齡、種族及劑量不同對軟骨造成傷害程度也不同，對關節的負重減輕可以減少傷害。發育成熟的動物(大鼠、狗)研究並未有證據顯示軟骨損害。小獵犬的研究顯示給與高劑量(治療劑量的1.3到3.5倍)的Ciprofloxacin兩個星期後並觀察5個月，發現有關節損害。但在治療劑量並沒有此現象。
+11 藥物動力學特性
+(依文獻記載)
+吸收
+口服單一劑量250mg、500mg和750mg的Ciprofloxacin錠劑後，Ciprofloxacin可以快速而且廣泛的被吸收(主要從小腸)，1-2小時後達到最高血中濃度。絕對生體可用率大約是70-80%，最大血中濃度(Cmax)和曲線下面積(AUC)與劑量成比例增加。
+分佈
+Ciprofloxacin與蛋白質結合率很低(20-30%)，而且在血漿中大部分以非離子狀態存在，Ciprofloxacin可以自由地擴散至血管外，最大穩定狀態分佈體積是2-3 L/kg，顯示Ciprofloxacin擴散至組織所產生的濃度明顯的超過血漿中的濃度。
+代謝
+已知會有少量的4種代謝物存在，如下：
+DesethyleneCiprofloxacin (M1)、SulphoCiprofloxacin (M2)、OxoCiprofloxacin (M3)和FormylCiprofloxacin (M4)，M1到M3代謝物顯示有相當或稍差於Nalidixic的體外抗菌活性，M4 (存在量最低的代謝物)主要與Norfloxacin具有相等的體外抗菌活性。
+排泄
+Ciprofloxacin主要以非代謝的型態經由腎臟排除，少量經由非腎臟排除。
+小孩
+在一項小孩的試驗顯示Cmax和AUC與年齡無關，多次給藥(10 mg/kg/TID)時並未觀察到Cmax和AUC明顯的增加，10位患有嚴重敗血症的小孩，以10 mg/kg靜脈輸注1小時後，年齡小於1歲者其Cmax是6.1 mg/L (範圍4.6-8.3 mg/L)；年齡1-5歲者其Cmax是7.2 mg/L (範圍4.7-11.8 mg/L)，兩組年齡層的AUC值分別是17.4 mg*h/L (範圍11.8-32.0 mg*h/L)和16.5 mg*h/L (範圍11.0-23.8 mg*h/L)，這些數值介於成人治療劑量的範圍內，針對各種感染的小孩病患其族群藥動學分析，小孩的平均半衰期預估值大約是4-5小時，口服懸浮液的生體可用率大約是60%。
+12 臨床試驗資料
+目前尚無資訊。
+13 包裝及儲存
+13.1
+包裝
+2～1000錠塑膠瓶裝、鋁箔盒裝。
+13.2
+效期
+如外包裝所示。
+13.3
+儲存條件
+本品應置於30℃下、緊密阻光容器中貯存。
+13.4
+儲存注意事項
+需置於小孩接觸不到之處。
+14 病人使用須知
+目前尚無資訊。
+15 其他
+目前尚無資訊。

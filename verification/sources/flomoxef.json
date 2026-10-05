@@ -1,7 +1,20 @@
 {
   "drug": "flomoxef",
-  "fetched": "2026-10-05T06:43:24.095Z",
+  "fetched": "2026-10-05T06:45:54.522Z",
   "dailymed": null,
   "smpc": null,
-  "lactmed": null
+  "lactmed": null,
+  "dailymed_note": "No US label: DailyMed spls.json?drug_name=flomoxef returns 0 results (flomoxef is not FDA-approved).",
+  "smpc_note": "No UK SmPC: eMC search 'flomoxef' returns no results (not licensed in UK).",
+  "lactmed_note": "No LactMed chapter: 'flomoxef' absent from the local LactMed archive (.cache/lactmed, 1965 chapters) and no books/lactmed E-utilities hit. Only lactation data: Taiwan insert PK (breast milk mean <=0.5 ug/mL after 1 g IV, n=5).",
+  "taiwan_insert": {
+    "source": "TFDA 藥品仿單查詢平台",
+    "title": "氟黴寧靜脈注射劑1公克 Flumarin for Injection 1g, 衛署藥輸字第024321號 (台灣塩野義製藥; mfr Shionogi Pharma Kanegasaki Plant, Japan)",
+    "version": "修訂日期 2025年3月; PDF uploaded 2025-05-28 (older PIv7 2019-08-19 also listed, file corrupt)",
+    "url": "https://mcp.fda.gov.tw/im_detail_pdf/%E8%A1%9B%E7%BD%B2%E8%97%A5%E8%BC%B8%E5%AD%97%E7%AC%AC024321%E8%99%9F",
+    "pdf": "https://mcp.fda.gov.tw/insert/pdfcasefile/f00601dd-69fd-4c6e-a282-74a0922a818d",
+    "text_file": "verification/sources/flomoxef-taiwan-insert-flumarin.txt",
+    "hospital_code": "FLU05",
+    "note": "License derived from NHI code BC24321209. PDF has no text layer; text file is a manual transcription from page images. Insert gives NO numeric renal dose table (only: reduce dose / extend interval; T1/2 table by CrCl and HD T1/2). Adult 1-2 g/day in 2 doses IV/IV infusion, up to 4 g/day in 2-4 doses; children 60-80 mg/kg/day in 3-4 doses (max 150 mg/kg/day); neonates 20 mg/kg 2-3x/day (day 0-3) or 3-4x/day (day 4+)."
+  }
 }
