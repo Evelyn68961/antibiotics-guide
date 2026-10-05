@@ -43,3 +43,6 @@ The core dosing is correct. The renal table misses the lowest band, the neurotox
 - Coverage tags: E. coli, Pseudomonas, Klebsiella, Proteus, Enterobacter (US Microbiology). Could add Serratia, Haemophilus, Citrobacter, Neisseria.
 - `Burkholderia`: not in the US list; consistent with clinical use for melioidosis, but unsourced here ⚠️.
 - Page body: "劑量上限 6g/天" ✅.
+
+## Changes made in Notion (2026-10-05)
+Renal column: 1 g loading dose, CrCl 6–15 and <5 bands, severe-infection adjustment, HD after each session (dropped "or QOD"), CAPD. Notes: neurotoxicity warning, max dose, ESBL/AmpC, penicillin cross-allergy. Side Effects + neurotoxicity, GI, thrombophlebitis, SJS/TEN, DRESS. Monitor: renal, neuro. Indications: `Brain abscess` removed; cUTI, bone/joint, Pelvic, Peritonitis, Sepsis added. Coverage + Serratia, Haemophilus, Neisseria. Mechanism, Pediatric, Drug Interactions, Pregnancy, Breastfeeding filled. Page body renal section updated to match (in Chinese) with neurotoxicity warning; label and LactMed references added. Renewed date 2026-10-05.
