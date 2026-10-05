@@ -60,3 +60,20 @@ US label §1: lower respiratory tract, UTI (complicated and uncomplicated), intr
 - Hepatic: no adjustment (none in the label).
 - HD: give after the session (§2.4).
 - Coverage: Acinetobacter, Pseudomonas, Streptococcus, E. coli, Klebsiella (§12.4).
+
+## FJUH hospital drug database entry (pasted by reviewer, 2026-10-05)
+
+Product stocked: **庫寧靜脈乾粉注射劑 Culin 500 mg** (drug code CUL01, NHI code AC48189277). The database text follows Lexicomp-style dosing.
+
+| Topic | FJUH database | US label | Finding |
+|---|---|---|---|
+| Adult dose | 500 mg q6h or 1 g q8h by indication | Same; 1 g q6h for intermediate susceptibility; max 4 g/day | ✅ (database omits the 4 g/day maximum) |
+| Pediatric | 15–25 mg/kg q6h, max 1 g/dose | 15–25 mg/kg q6h (≥3 months); neonatal table; max 4 g/day | ✅ (database omits neonates) |
+| Renal 60–<90 | No adjustment (60–<130) | **Reduce**: 400 mg q6h, or 500 mg q6h / 750 mg q8h | ⚠️ differs from label |
+| Renal 30–<60 | 250 mg q6h or 500 mg q8h | 300 mg q6h or 500 mg q8h | ⚠️ minor difference |
+| Renal 15–<30 | 250 mg q8h or 500 mg q12h | 200 mg q6h or 500 mg q12h | ⚠️ minor difference |
+| CrCl <15 / HD | not stated | Not unless HD within 48 h; HD: use the 15–<30 dose after HD | ⚠️ missing |
+| Side effects | Rash, GI, local pain, leukopenia | **Seizures**, myoclonus, confusion; hypersensitivity; CDAD | ⚠️ seizure risk missing |
+| Interactions | (no field) | Valproate (avoid), ganciclovir (seizures), probenecid | ⚠️ missing |
+| Breastfeeding | Manufacturer: weigh risk/benefit | LactMed 2024: low milk levels, acceptable | outdated |
+| Stability | 4 h room temperature / 24 h refrigerated | Same (§16) | ✅ |

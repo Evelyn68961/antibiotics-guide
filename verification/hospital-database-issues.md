@@ -14,3 +14,9 @@ Discrepancies between the hospital drug information system (10.10.4.25) and the 
 | Colistin (COL04) | 警語 / 副作用 | No mention of pseudo-Bartter syndrome | Renal tubulopathy with hypokalemia, metabolic alkalosis, hypocalcemia, hypomagnesemia; monitor electrolytes | US label (Warnings); UK SmPC 4.4 |
 | Colistin (COL04) | 哺乳分類 | Avoided | Minimal milk excretion, poor oral absorption; inhaled use acceptable | LactMed NBK501329 (rev. 2024) |
 | Colistin (COL04) | 懷孕分類 | C | FDA letter categories retired; label: crosses placenta, use only if benefit justifies risk | US label |
+| Imipenem/Cilastatin (CUL01) | 腎功能調整 | CrCl 60–<130: no adjustment; 30–60: 250 mg q6h or 500 mg q8h; 15–30: 250 mg q8h or 500 mg q12h | CrCl 60–<90 **requires reduction** (400 mg q6h, or 500 mg q6h / 750 mg q8h); 30–<60: 300 mg q6h or 500 mg q8h; 15–<30: 200 mg q6h or 500 mg q12h | US label Table 3 (Primaxin, DailyMed 2025) |
+| Imipenem/Cilastatin (CUL01) | 腎功能調整 | No guidance for CrCl <15 or HD | CrCl <15: do not give unless HD within 48 h; HD: use the 15–<30 dose, give after HD | US label §2.3–2.4 |
+| Imipenem/Cilastatin (CUL01) | 副作用 | Lists rash, GI, local reactions, leukopenia only | **Seizures**, myoclonus, confusion (↑ with renal impairment, CNS disease); not for meningitis or pediatric CNS infections | US label §1.9, §5.2 |
+| Imipenem/Cilastatin (CUL01) | 交互作用 | No interaction field | Valproic acid/divalproex (generally not recommended), ganciclovir (seizures), probenecid (not recommended) | US label §7 |
+| Imipenem/Cilastatin (CUL01) | 劑量 | No maximum stated | Max 4 g/day | US label §2.1 |
+| Imipenem/Cilastatin (CUL01) | 哺乳分類 | Manufacturer: weigh risk/benefit | Low milk levels; acceptable in nursing mothers | LactMed NBK500987 (rev. 2024) |
