@@ -19,7 +19,7 @@
 // --exclude=<word> skips US labels and UK SmPCs whose title contains the word
 // (e.g. a combination product that shares the generic name).
 
-import { writeFileSync, mkdirSync, existsSync, readFileSync } from 'node:fs'
+import { writeFileSync, mkdirSync, existsSync, readFileSync, readdirSync } from 'node:fs'
 import { execFileSync } from 'node:child_process'
 import { dirname, resolve } from 'node:path'
 import { fileURLToPath } from 'node:url'
@@ -225,7 +225,7 @@ async function fetchLactMed() {
     .find((r) => r.rtype === 'chapter' && r.title.toLowerCase() === drug)
   if (!chapter) return null
   const lmId = chapter.id.match(/LM\d+/)?.[0]
-  const xml = lmId ? await readLactMedChapter(lmId) : null
+  const xml = await readLactMedChapter(lmId, chapter.title)
   return {
     source: 'LactMed (NIH)',
     title: chapter.title,
@@ -237,7 +237,9 @@ async function fetchLactMed() {
 }
 
 // Downloads and unpacks the LactMed archive on first use (XML files only).
-async function readLactMedChapter(lmId) {
+// Older chapters are named LM<n>.nxml; newer ones by drug name
+// (e.g. voriconazole.nxml), so fall back to matching the chapter title.
+async function readLactMedChapter(lmId, title) {
   if (!existsSync(LACTMED_DIR)) {
     mkdirSync(LACTMED_DIR, { recursive: true })
     const archive = resolve(LACTMED_DIR, 'lactmed.tar.gz')
@@ -250,8 +252,24 @@ async function readLactMedChapter(lmId) {
       '--wildcards', '*.nxml',
     ])
   }
-  const file = resolve(LACTMED_DIR, `${lmId}.nxml`)
-  return existsSync(file) ? readFileSync(file, 'utf8') : null
+  const byId = lmId && resolve(LACTMED_DIR, `${lmId}.nxml`)
+  if (byId && existsSync(byId)) return readFileSync(byId, 'utf8')
+  const byTitle = lactMedTitleIndex().get(title.toLowerCase())
+  return byTitle ? readFileSync(resolve(LACTMED_DIR, byTitle), 'utf8') : null
+}
+
+// Chapter title (lower case) → file name, from each file's first <title>.
+let titleIndex
+function lactMedTitleIndex() {
+  if (!titleIndex) {
+    titleIndex = new Map()
+    for (const f of readdirSync(LACTMED_DIR).filter((f) => f.endsWith('.nxml'))) {
+      const head = readFileSync(resolve(LACTMED_DIR, f), 'utf8').slice(0, 4000)
+      const t = head.match(/<title-group>\s*<title>([^<]+)<\/title>/)?.[1]
+      if (t && !titleIndex.has(t.toLowerCase())) titleIndex.set(t.toLowerCase(), f)
+    }
+  }
+  return titleIndex
 }
 
 function lactMedRevised(xml) {
