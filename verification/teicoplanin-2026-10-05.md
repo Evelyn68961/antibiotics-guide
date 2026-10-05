@@ -5,29 +5,30 @@
 - **Sources** (raw text in `sources/teicoplanin.json`, refresh with `npm run fetch-sources -- teicoplanin targocid`):
   - **SmPC:** UK SmPC, Targocid 200 mg powder for injection/infusion (Sanofi), revised 11 December 2025. [Link](https://www.medicines.org.uk/emc/product/2926/smpc)
   - **US label:** none. Teicoplanin is not approved in the US.
-  - **Taiwan insert:** the page links a 仿單 PDF on cth.org.tw. This environment can't reach that site, so it was not checked.
+  - **Taiwan insert:** Targocid 200 mg 仿單 (衛署藥輸字第 021848 號, Sanofi Taiwan), linked from the Notion page ([PDF](https://www.cth.org.tw/public/medi_news/57c69513d4a9ef5843abb5e3dd351acf.pdf)). The PDF is dated 2017-06-15 and cites "Targocid UK SPC 2001 + CCDS v3 16Dec2016". Text saved in `sources/teicoplanin-taiwan-insert.txt`.
   - **LactMed:** NBK500894 ([link](https://www.ncbi.nlm.nih.gov/books/NBK500894/)). Not read (CAPTCHA).
 
 Legend: ✅ matches · ❌ contradicts or misses something in the SmPC · ⚠️ unsupported or inconsistent
 
 ## Needs correction
 
-### 1. Renal dose: wrong thresholds and timing ❌
+### 1. Renal dose: under-reduced in both labels ❌
 
-| | Notion | UK SmPC 4.2 |
-|---|---|---|
-| When to adjust | not stated | **No adjustment until day 4**; loading doses are given in full |
-| Mild–moderate | CrCl 40–60: q24h (= no reduction) | **CrCl 30–80**: halve the maintenance dose (dose every 2 days, or half dose daily) |
-| Severe | CrCl 10–40: q48h | **CrCl <30**: one-third of the dose (dose every 3 days, or one-third daily) |
-| | CrCl <10: q72h | (included in <30) |
-| Haemodialysis | not stated | Same as CrCl <30. **Not removed by haemodialysis** |
-| CAPD | not stated | 6 mg/kg IV loading dose, then 20 mg/L in the dialysis bags (week 1: every bag; week 2: alternate bags; week 3: overnight bag) |
+| | Notion | Taiwan insert (2017) | UK SmPC 4.2 (2025) |
+|---|---|---|---|
+| When to adjust | not stated | From **day 4** | From **day 4**; loading doses given in full |
+| Mild–moderate | CrCl 40–60: q24h (= no reduction) | **CrCl 40–60: half** the maintenance dose (daily, or loading dose every other day) | **CrCl 30–80: half** |
+| Severe | CrCl 10–40: q48h (= half) | **CrCl <40 and HD: one-third** (daily, or loading dose every 3 days) | **CrCl <30 and HD: one-third** |
+| | CrCl <10: q72h | (included in <40) | (included in <30) |
+| Haemodialysis | not stated | Not removed by HD | Not removed by HD |
+| CAPD peritonitis | not stated | 400 mg IV loading dose, then 20 mg/L in every bag (week 1), alternate bags (week 2), overnight bag (week 3) | Same, but 6 mg/kg IV loading dose |
 
-With Notion's thresholds, a patient with CrCl 60–80 gets no reduction (the SmPC halves the dose), and one with CrCl 30–40 gets half instead of one-third.
+Notion's cut-offs (40 and 10) follow neither label. Each band gets one step less reduction than the Taiwan insert: CrCl 40–60 gets no reduction (should be half), and 10–40 gets half (should be one-third). The UK SmPC (newer) moves the cut-offs to 80 and 30.
 
 ### 2. Adult dose: loading regimen differs ⚠️
 - SmPC: **cSSTI, pneumonia, cUTI**: 6 mg/kg q12h × **3 doses**, then 6 mg/kg once daily. **Bone/joint, infective endocarditis**: 12 mg/kg q12h × **3–5 doses**, then 12 mg/kg once daily. Doses are by body weight whatever the weight.
-- Notion's "mild 6 mg/kg / severe 10–12 mg/kg" and "FN 6 mg/kg" groupings are not in the SmPC. Febrile neutropenia is not a UK indication.
+- Taiwan insert: same adult table as the UK SmPC (lower respiratory, SSTI, cUTI, bacteraemia: 6 mg/kg q12h × 3 then daily; bone/joint and endocarditis: 12 mg/kg q12h × 3–5 then daily). It also lists **surgical prophylaxis: 400 mg IV single dose at induction (6 mg/kg if >85 kg)**.
+- Notion's "mild 6 mg/kg / severe 10–12 mg/kg" grouping is not in either label. Febrile neutropenia appears only in the Taiwan **pediatric** section (10 mg/kg maintenance for severe infection or neutropenia).
 - Missing: number of loading doses, duration (endocarditis usually ≥21 days; **no more than 4 months**), and trough targets (see #4).
 - ✅ C. difficile: 100–200 mg orally twice daily for 7–14 days.
 
@@ -45,7 +46,7 @@ SmPC 4.4/4.8: **nephrotoxicity/renal failure**, **ototoxicity** (deafness, tinni
 The targets depend on the assay method, and the child page doesn't say which one it uses. Check against your hospital laboratory's method. Timing (day 3–5, then weekly) ✅.
 
 ### 5. Indications column incomplete ❌
-UK indications include **CAPD peritonitis**, **bacteraemia** with the listed infections, and **oral treatment of C. difficile infection**. The column has none of these. `Osteoarthritis` is being used for bone and joint infections (no better tag exists).
+UK and Taiwan indications include **CAPD peritonitis**, **surgical prophylaxis** (Taiwan),, **bacteraemia** with the listed infections, and **oral treatment of C. difficile infection**. The column has none of these. `Osteoarthritis` is being used for bone and joint infections (no better tag exists).
 
 ## Empty columns the SmPC can fill
 
@@ -53,7 +54,7 @@ UK indications include **CAPD peritonitis**, **bacteraemia** with the listed inf
 |---|---|
 | Category | Glycopeptide |
 | Mechanism | Inhibits cell-wall synthesis by binding D-Ala-D-Ala of peptidoglycan precursors; Gram-positive only (5.1) |
-| Pediatric dose | <2 months: 16 mg/kg IV once (loading), then 8 mg/kg daily (infusion only). 2 months–12 years: 10 mg/kg q12h × 3, then 6–10 mg/kg daily. >12 years: adult dose |
+| Pediatric dose | <2 months: 16 mg/kg IV once (loading), then 8 mg/kg daily, infused over 30 min. 2 months–16 years (Taiwan) / –12 years (UK): 10 mg/kg q12h × 3, then 6 mg/kg daily (most infections) or 10 mg/kg daily (severe infection or neutropenia) |
 | Drug Interactions | Do not mix with aminoglycosides in the same syringe. Caution with nephro-/ototoxic drugs (aminoglycosides, colistin, amphotericin B, ciclosporin, cisplatin, furosemide, ethacrynic acid) (4.5) |
 | Pregnancy | Limited data; stillbirths and neonatal deaths in rats at high doses. Avoid unless clearly necessary; fetal ear and kidney risk cannot be excluded (4.6) |
 | Breastfeeding | Unknown whether excreted in milk; weigh benefit to child against benefit to mother (4.6) |
@@ -62,7 +63,8 @@ UK indications include **CAPD peritonitis**, **bacteraemia** with the listed inf
 ## Coverage
 
 - ✅ MRSA, MSSA, Streptococcus, Enterococcus (*E. faecalis* commonly susceptible; *E. faecium* acquired resistance; some VanB VRE susceptible).
-- ⚠️ `Bacillus` is not in the SmPC's species list. Unverified.
+- ⚠️ `Bacillus` is in neither the UK nor the Taiwan species list. Unverified.
+- Taiwan insert also lists *Listeria monocytogenes*, micrococci, *Eikenella corrodens*, JK corynebacteria, *C. difficile* and peptococci as susceptible.
 - Could add (SmPC "commonly susceptible"): Corynebacterium (*C. jeikeium*), Anaerobes (Peptostreptococcus, *C. difficile*).
 - Not covered: all Gram-negatives, atypicals ✅ (none tagged).
 
