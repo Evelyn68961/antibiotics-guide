@@ -53,3 +53,7 @@ MSSA, E. coli, E. faecalis (vancomycin-susceptible), Haemophilus, Legionella (CA
 - The Meropenem page cites the IDSA AMR guidance as "2024". A newer version was published 2026-07-30; the reference was updated 2026-10-05.
 
 - Renewed date set to 2026-10-05.
+
+## LactMed (read 2026-10-05 from the NIH bulk download; revised 2025-06-15)
+
+"Short-term use of tigecycline is probably acceptable in nursing mothers." Milk levels are likely low (71–89% protein bound) and infant absorption is limited by milk calcium. LactMed notes that the manufacturer's advice (avoid breastfeeding during therapy and for 9 days after) is more cautious than the evidence. The Notion Breastfeeding column currently carries only the label wording. Proposed: add the LactMed view.

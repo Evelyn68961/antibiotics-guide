@@ -8,8 +8,9 @@
 //   - UK eMC SmPC: the first SmPC listed for the name (or for an optional
 //     second argument, e.g. a UK brand name), split into sections
 //     (4.2 Posology, 4.5 Interactions, 4.6 Pregnancy/lactation, ...)
-//   - LactMed: the correct NCBI Bookshelf ID for the drug (the page itself
-//     sits behind a CAPTCHA, so only the ID and link are collected)
+//   - LactMed: the drug's chapter, read from NIH's bulk download (the web
+//     pages sit behind a CAPTCHA). The ~210 MB archive is downloaded once
+//     into .cache/lactmed and reused.
 //
 // Usage: npm run fetch-sources -- meropenem
 //        npm run fetch-sources -- colistimethate colomycin
@@ -18,12 +19,16 @@
 // --exclude=<word> skips US labels and UK SmPCs whose title contains the word
 // (e.g. a combination product that shares the generic name).
 
-import { writeFileSync, mkdirSync } from 'node:fs'
+import { writeFileSync, mkdirSync, existsSync, readFileSync } from 'node:fs'
+import { execFileSync } from 'node:child_process'
 import { dirname, resolve } from 'node:path'
 import { fileURLToPath } from 'node:url'
 
 const __dirname = dirname(fileURLToPath(import.meta.url))
 const OUT_DIR = resolve(__dirname, '..', 'verification', 'sources')
+const LACTMED_DIR = resolve(__dirname, '..', '.cache', 'lactmed')
+const LACTMED_ARCHIVE =
+  'https://ftp.ncbi.nlm.nih.gov/pub/litarch/90/6c/lactmed_NBK501922.tar.gz'
 const UA = { 'User-Agent': 'Mozilla/5.0 (antibiotics-guide verifier)' }
 
 const args = process.argv.slice(2)
@@ -219,13 +224,51 @@ async function fetchLactMed() {
     .map((u) => summary.result[u])
     .find((r) => r.rtype === 'chapter' && r.title.toLowerCase() === drug)
   if (!chapter) return null
+  const lmId = chapter.id.match(/LM\d+/)?.[0]
+  const xml = lmId ? await readLactMedChapter(lmId) : null
   return {
     source: 'LactMed (NIH)',
     title: chapter.title,
     accession: chapter.accessionid,
     url: `https://www.ncbi.nlm.nih.gov/books/${chapter.accessionid}/`,
-    note: 'Page text not fetched: NCBI Bookshelf serves a CAPTCHA to scripts.',
+    revised: xml ? lactMedRevised(xml) : null,
+    sections: xml ? lactMedSections(xml) : {},
   }
+}
+
+// Downloads and unpacks the LactMed archive on first use (XML files only).
+async function readLactMedChapter(lmId) {
+  if (!existsSync(LACTMED_DIR)) {
+    mkdirSync(LACTMED_DIR, { recursive: true })
+    const archive = resolve(LACTMED_DIR, 'lactmed.tar.gz')
+    console.log('Downloading LactMed archive (~210 MB, first run only)…')
+    const res = await fetch(LACTMED_ARCHIVE, { headers: UA })
+    if (!res.ok) throw new Error(`${res.status} ${LACTMED_ARCHIVE}`)
+    writeFileSync(archive, Buffer.from(await res.arrayBuffer()))
+    execFileSync('tar', [
+      'xzf', archive, '-C', LACTMED_DIR, '--strip-components=1',
+      '--wildcards', '*.nxml',
+    ])
+  }
+  const file = resolve(LACTMED_DIR, `${lmId}.nxml`)
+  return existsSync(file) ? readFileSync(file, 'utf8') : null
+}
+
+function lactMedRevised(xml) {
+  const m = xml.match(
+    /<date date-type="revised">\s*<day>(\d+)<\/day>\s*<month>(\d+)<\/month>\s*<year>(\d+)<\/year>/,
+  )
+  return m ? `${m[3]}-${m[2].padStart(2, '0')}-${m[1].padStart(2, '0')}` : null
+}
+
+// Each <sec> with a <title>; the text runs to the next <sec> or </sec>.
+function lactMedSections(xml) {
+  const sections = {}
+  for (const m of xml.matchAll(/<sec id="[^"]*">\s*<title>([^<]+)<\/title>([\s\S]*?)(?=<sec |<\/sec>)/g)) {
+    const body = htmlToText(m[2])
+    if (body) sections[m[1]] = body
+  }
+  return sections
 }
 
 // ------- Main -------

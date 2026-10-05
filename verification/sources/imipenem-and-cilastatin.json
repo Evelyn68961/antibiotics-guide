@@ -1,6 +1,6 @@
 {
   "drug": "imipenem and cilastatin",
-  "fetched": "2026-10-05T03:39:35.307Z",
+  "fetched": "2026-10-05T03:53:32.984Z",
   "dailymed": {
     "source": "DailyMed (US FDA label)",
     "title": "PRIMAXIN IV (IMIPENEM AND CILASTATIN SODIUM) INJECTION, POWDER, FOR SOLUTION [MERCK SHARP & DOHME LLC]",
@@ -32,6 +32,16 @@
     "title": "Imipenem and Cilastatin",
     "accession": "NBK500987",
     "url": "https://www.ncbi.nlm.nih.gov/books/NBK500987/",
-    "note": "Page text not fetched: NCBI Bookshelf serves a CAPTCHA to scripts."
+    "revised": "2024-11-15",
+    "sections": {
+      "Summary of Use during Lactation": "Limited information indicates that imipenem produces low levels in milk that are not expected to cause adverse effects in breastfed infants. Occasionally disruption of the infant's gastrointestinal flora, resulting in diarrhea or thrush has been reported with beta-lactams, but these effects have not been adequately evaluated. Imipenem-cilastatin and imipenem-cilastatin-relebactam are acceptable in nursing mothers.",
+      "Drug Levels": "Maternal Levels. Imipenem 500 mg and cilastatin 500 mg were infused intravenously over 30 minutes in 12 women. Imipenem appeared in the milk in concentrations of 0.21 to 0.52 mg/L between 1 and 5 hours after the dose in 10 of the women. The drug was usually detectable in only 1 to 3 of the samples taken hourly for 6 hours. In one woman, imipenem was undetectable (<0.2 mg/L) at all times up to 6 hours after the dose. Another woman had a detectable milk imipenem level of 1.84 mg/L only at 4 hours after the dose. Cilastatin was undetectable (<0.5 mg/L) in milk at all times in all women.[ 1 ] Imipenem 500 mg and cilastatin 500 mg were infused intravenously over 30 minutes in 11 women. Seventy-six milk samples were obtained over the 6 hours following a dose. Imipenem was detectable in milk primarily at 2 to 4 hours after the dose. On average, the highest milk levels occurred 3 hours after the dose. All milk concentrations were less than 1 mg/L at all times up to 6 hours after the dose. The drug was undetectable in the milk of some women. Cilastatin was not measured.[ 2 ] Infant Levels. Relevant published information was not found as of the revision date.",
+      "Effects in Breastfed Infants": "Relevant published information was not found as of the revision date.",
+      "Effects on Lactation and Breastmilk": "Relevant published information was not found as of the revision date.",
+      "References": "1 Ito K , Izumi K , Takagi H , et al. Fundamental and clinical evaluation of imipenem/cilastatin sodium in the perinatal period. Jpn J Antibiot 1988 ; 41 : 1778 - 85 . 3210308 2 Matsuda S , Suzuki M , Oh K , et al. Pharmacokinetic and clinical studies on imipenem/cilastatin sodium in the perinatal period. A study of imipenem/cilastatin sodium in the perinatal co-research group. Jpn J Antibiot 1988 ; 41 : 1731 - 41 . 3062205",
+      "Substance Name": "Imipenem and Cilastatin",
+      "CAS Registry Number": "92309-29-0",
+      "Drug Class": "Breast Feeding Lactation Milk, Human Anti-Infective Agents Antibacterial Agents Carbapenems"
+    }
   }
 }

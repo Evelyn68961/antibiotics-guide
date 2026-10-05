@@ -1,11 +1,11 @@
 {
   "drug": "teicoplanin",
-  "fetched": "2026-10-05T03:22:33.777Z",
+  "fetched": "2026-10-05T03:53:43.432Z",
   "dailymed": null,
   "smpc": {
     "source": "UK eMC SmPC",
     "title": "Targocid 200mg powder for solution for injection/infusion",
-    "revised": "11",
+    "revised": "11 December 2025",
     "url": "https://www.medicines.org.uk/emc/product/2926/smpc",
     "sections": {
       "4.1 Therapeutic indications": "4.1 Therapeutic indications Targocid is indicated in adults and in children from birth for the parenteral treatment of the following infections (see sections 4.2, 4.4 and 5.1): • complicated skin and soft tissue infections, • bone and joint infections, • hospital acquired pneumonia, • community acquired pneumonia, • complicated urinary tract infections, • infective endocarditis, • peritonitis associated with continuous ambulatory peritoneal dialysis (CAPD), • bacteraemia that occurs in association with any of the indications listed above. Targocid is also indicated as an alternative oral treatment for Clostridium difficile infection-associated diarrhoea and colitis. Where appropriate, teicoplanin should be administered in combination with other antibacterial agents. Consideration should be given to official guidance on the appropriate use of antibacterial agents.",
@@ -27,6 +27,16 @@
     "title": "Teicoplanin",
     "accession": "NBK500894",
     "url": "https://www.ncbi.nlm.nih.gov/books/NBK500894/",
-    "note": "Page text not fetched: NCBI Bookshelf serves a CAPTCHA to scripts."
+    "revised": "2021-08-16",
+    "sections": {
+      "Summary of Use during Lactation": "Teicoplanin is not approved for marketing in the United States by the U.S. Food and Drug Administration, but is available in other countries. Limited data indicate that teicoplanin is poorly excreted into breastmilk. Because teicoplanin is not orally absorbed it is unlikely to adversely affect the breastfed infant. One infant was safely breastfed during maternal therapy with teicoplanin and ceftriaxone. Until more information becomes available, monitor the breastfed infant for gastrointestinal disturbances such as diarrhea, particularly in newborn and preterm infants.",
+      "Drug Levels": "Maternal Levels. A woman who was 2 months postpartum was given teicoplanin 500 mg twice daily for an infected fistula. The drug was discontinued after 3 doses and a sample of milk from a complete emptying of the breast was taken 19 hours after the third dose. The concentration of the A2-2 component of teicoplanin in breastmilk was 0.94 mg/L. The authors estimated that this would represent a dose to the infant of 141 mcg/kg daily or about 1.4% of the maternal weight-adjusted dosage. However, if the other components of teicoplanin distribute into milk similarly, these values could be approximately doubled.[ 1 ] Infant Levels. Relevant published information was not found as of the revision date.",
+      "Effects in Breastfed Infants": "A mother who was exclusively nursing her 52-day-old infant developed a soft-tissue infection. She was treated with intravenous teicoplanin 400 mg every 12 hours for 3 doses, then 400 mg daily for 5 days total, intravenous ceftriaxone 1 gram daily, and topical mupirocin cream twice daily. A careful follow-up indicated that her infant had no adverse effects.[ 2 ]",
+      "Alternate Drugs to Consider": "Vancomycin",
+      "References": "1 Fraissinet F Lesourd M Naudoux N Pharmacokinetics of teicoplanin in a breastfeeding mother. Breastfeed Med 2017 12 244 6 28304183 2 Kaplan YC Keskin-Arslan E Acar S Teicoplanin use during breastfeeding. Breastfeed Med 2017 12 124 28051878",
+      "Substance Name": "Teicoplanin",
+      "CAS Registry Number": "61036-62-2",
+      "Drug Class": "Breast Feeding Lactation Antibacterial Agents Anti-Infective Agents Glycopeptides"
+    }
   }
 }

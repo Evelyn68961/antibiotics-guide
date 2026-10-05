@@ -1,6 +1,6 @@
 {
   "drug": "tigecycline",
-  "fetched": "2026-10-05T01:46:45.019Z",
+  "fetched": "2026-10-05T03:53:40.951Z",
   "dailymed": {
     "source": "DailyMed (US FDA label)",
     "title": "TIGECYCLINE INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [SANDOZ INC]",
@@ -50,6 +50,15 @@
     "title": "Tigecycline",
     "accession": "NBK541846",
     "url": "https://www.ncbi.nlm.nih.gov/books/NBK541846/",
-    "note": "Page text not fetched: NCBI Bookshelf serves a CAPTCHA to scripts."
+    "revised": "2025-06-15",
+    "sections": {
+      "Summary of Use during Lactation": "Tigecycline is a tetracycline antibiotic. A number of reviews have stated that tetracyclines are contraindicated during breastfeeding because of possible staining of infants’ dental enamel or bone deposition of tetracyclines. However, available literature indicates that infant harm is not likely with short-term use of a tetracycline during lactation. Tigecycline is 71 to 89% bound to plasma proteins, so milk levels are likely low and absorption by the infant is inhibited by the calcium in breastmilk. Although the manufacturer recommends avoiding breastfeeding during administration of tigecycline and for 9 days after the last dose, short-term use of tigecycline is probably acceptable in nursing mothers. As a theoretical precaution, avoid prolonged or repeat courses during nursing. Monitor the infant for rash and for possible effects on the gastrointestinal flora, such as diarrhea or candidiasis (thrush, diaper rash).",
+      "Drug Levels": "Maternal Levels . Relevant published information was not found as of the revision date. Infant Levels . Relevant published information was not found as of the revision date.",
+      "Effects in Breastfed Infants": "Relevant published information was not found as of the revision date.",
+      "Effects on Lactation and Breastmilk": "Relevant published information was not found as of the revision date.",
+      "Substance Name": "Tigecycline",
+      "CAS Registry Number": "220620-09-7",
+      "Drug Class": "Breastfeeding Lactation Milk, Human Anti-infective Agents Antibacterial Agents Tetracyclines"
+    }
   }
 }

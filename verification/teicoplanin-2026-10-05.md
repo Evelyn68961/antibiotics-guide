@@ -80,3 +80,7 @@ UK and Taiwan indications include **CAPD peritonitis**, **surgical prophylaxis**
 ## Changes made in Notion (2026-10-05)
 
 Renal column follows the **Taiwan insert** (reviewer's choice): CrCl 40–60 half, <40 and HD one-third, from day 4; UK cut-offs noted alongside. Adult dose (loading doses × 3 / × 3–5, durations, trough targets by assay, surgical prophylaxis), pediatric dose, Category, Mechanism, Drug Interactions, Pregnancy, Breastfeeding, Notes filled. Side Effects tags added. Indications + Bacteremia, Peritonitis, CDI, Surgical prophylaxis. Coverage: `Bacillus` removed; Corynebacterium, Listeria, Anaerobes added. References section added. Child page: trough table now by assay (FPIA/HPLC) with source; interaction list adds colistin and amphotericin B. Renewed date 2026-10-05.
+
+## LactMed (read 2026-10-05 from the NIH bulk download; revised 2021-08-16)
+
+Poorly excreted into breastmilk and not orally absorbed, so unlikely to affect the breastfed infant; one infant breastfed safely during therapy. Monitor for diarrhea, especially newborns and preterm infants. The Notion Breastfeeding column currently carries only the UK label wording ("unknown whether excreted"). Proposed: replace with the LactMed summary.
