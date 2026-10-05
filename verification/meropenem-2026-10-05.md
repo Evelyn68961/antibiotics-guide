@@ -81,3 +81,21 @@ Source: 美平乾粉注射劑 Mepem® IV 0.25 g / 0.5 g (衛署藥輸字第 0221
 | Indications | approved FDA/EMA list | Any infection due to susceptible bacteria; list includes meningitis, peritonitis, pneumonia, osteomyelitis, sepsis, pelvic infections ✅ |
 
 The main difference is the **maximum daily dose**: this Taiwan label (Japanese dosing, 2016) caps adults at 2 g/day, while the FDA/UK labels and the Notion entry use up to 6 g/day. Not changed in Notion; needs the reviewer's decision.
+
+## FJUH hospital drug database entry (pasted by reviewer, 2026-10-05)
+
+Product stocked: **麥羅乾粉注射劑 500 mg** (Meropenem hydrate 500 mg/vial, drug code MER02, NHI code AC57285277). It is **not** Mepem, so the Mepem 2 g/day maximum above does not apply.
+
+| Topic | FJUH database | Notion | Match |
+|---|---|---|---|
+| Indications | cIAI, pediatric meningitis ≥3 mo, cSSSI (FDA list) | Approved (FDA/EMA) list | ✅ |
+| Adult dose | 1 g q8h; extended infusion: start 2 g q8h over 3 h | 1 g q8h; extended infusion 3 h for critically ill | ✅ (Notion does not state the 2 g q8h EI start) |
+| Pediatric | 10 / 20 / 40 mg/kg q8h | Same | ✅ |
+| Renal | ≥51: 0.5–1 g q8h; 26–50: 1 g q12h; 10–25: 0.25–0.5 g q12h; <10: 0.25–0.5 g q24h | Same bands (half dose at 10–25 and <10) | ✅ |
+| Hepatic | No adjustment | No adjustment | ✅ |
+| Pregnancy | "B" | "No FDA letter category (PLLR)…" | Database uses the retired letter system |
+| Breastfeeding | "Excretion unknown / use caution" | LactMed: low levels (RID 0.13–0.18%), acceptable | Database is outdated (LactMed has data since 2012) |
+| Stability | NS: 2 h at 15–25 °C / 18 h at 4 °C; D5W: 1 h / 8 h | Removed from Notion (reviewer's choice) | Database differs from the current FDA label (NS 1 h / 15 h; D5W use immediately) |
+| Pharmacokinetics | "CSF concentrations approximate those of the plasma" | — | ⚠️ FDA §12.3: CSF 1.1–3.3 mg/L in inflamed meninges vs plasma peak ~49 mg/L after 1 g |
+
+No Notion change is needed for meropenem from this comparison. The last four rows concern the hospital database, not the Notion entry.
