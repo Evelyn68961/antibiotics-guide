@@ -1,0 +1,564 @@
+Source: https://mcp.fda.gov.tw/im_detail_1/%E8%A1%9B%E9%83%A8%E8%97%A5%E8%BC%B8%E5%AD%97%E7%AC%AC026376%E8%99%9F
+TFDA insert, 衛部藥輸字第026376號 (Posanol Tablets 100mg 波賽特錠劑, MSD Taiwan; mfr N.V. Organon), online insert updated 114/01/23 (2025-01-23), doc ref HA-000027487-TW-20241119 / S-CCDS-MK5592-OS-T-042021, fetched 2026-10-05
+
+中文品名
+波賽特錠劑100毫克
+英文品名
+Posanol Tablets 100mg
+許可證號
+衛部藥輸字第026376號
+藥品類別
+須由醫師處方使用
+劑型
+膜衣錠
+申請商名稱
+美商默沙東藥廠股份有限公司台灣分公司
+申請商地址
+台北市信義區信義路五段106號12樓
+發證日期
+104-02-03                                    
+有效日期
+119-02-03                                    
+監視期限
+109-02-03                                        
+通關簽審文件編號
+DHA05202637608
+限制項目
+,輸 入,成品已完成元素不純物評估(Option 1、2a、2b)
+包裝
+2~1000錠以下鋁箔盒裝
+仿單上傳類型
+自行上傳
+主製造廠
+製造廠名稱
+N.V. ORGANON
+製造廠地址
+KLOOSTERSTRAAT 6 5349 AB OSS,THE NETHERLANDS (Netherlands)
+次製造廠
+製造廠名稱
+Organon Heist bv　(製程：包裝)
+製造廠地址
+Industriepark 30, 2220 Heist-op-den-Berg, Belgium (Belgium)
+匯出PDF
+外盒/標籤
+藥品外觀
+歷史仿單查詢
+ATC code查詢
+詳細處方成分
+授權使用
+＋訂閱
+全部展開
+1 性狀
+1.1
+有效成分及含量
+Posanol (posaconazole)為一triazol類以口服錠劑給藥之抗黴菌製劑。
+Posaconazole之化學式為4-[4-[4-[4-[[ (3R,5R)-5- (2,4-difluorophenyl)tetrahydro-5- (1H-1,2,4-triazol-1-ylmethyl)-3-furanyl]methoxy]phenyl]-1-piperazinyl]phenyl]-2-[(1S,2S)-1-ethyl-2-hydroxypropyl]-2,4-dihydro-3H-1,2,4-triazol-3-one，其實驗式為C37H42F2N8O4 ，分子量為700.8，其化學結構式為:
+圖1: 化學結構式
+每一錠含posaconazole 100 mg。
+1.2
+賦形劑
+hypromellose acetate succinate, microcrystalline cellulose, hydroxypropylcellulose, silica dental type, croscarmellose sodium, magnesium stearate, and Opadry® II Yellow [組成: polyvinyl alcohol partially hydrolyzed, Macrogol/PEG 3350 (polyethylene glycol 3350), titanium dioxide (E171), talc, and iron oxide yellow (E172)].
+1.3
+劑型
+膜衣錠
+1.4
+藥品外觀
+黃色膠囊形膜衣錠劑，一面刻”100”字樣。
+2 適應症
+(1) 對amphotericin B或itraconazole或voriconazole治療無效或不能忍受之成人侵入性麴菌病(invasive aspergillosis)的第二線用藥。(無效的定義是先前用有效抗黴菌劑的治療劑量至少7天，感染惡化或未改善)
+(2) 適用於13歲以上高危險病人，用於預防侵入性黴菌感染，包括造血幹細胞移植接受者因為植體宿主反應，而接受高劑量免疫抑制劑治療，及acute myelogenous leukemia (AML) 或高危險myelodysplastic syndrome (MDS) 病人接受誘導化學治療，而引起長期嗜中性白血球減少症。
+Posaconazole 錠劑不適用於口咽念珠菌感染治療。有關口咽念珠菌感染治療，請參閱posaconazole口服懸液劑的仿單。
+3 用法及用量
+3.1
+用法用量
+3.1.1 一般
+Posaconazole 錠劑可和食物併服，亦可不和食物併服。
+Posaconazole 具有錠劑及懸浮液劑劑型，由於兩者於配方上的差異，在治療上此兩種劑型無法進行替換。醫師應依照不同劑型之用藥指示進行給藥。
+3.1.2 劑量與治療期間
+表 1. 各種適應症之建議劑量
+適應症
+劑量與治療期間
+治療無效之侵入性黴菌感染(IFI)/不能耐受之侵入性黴菌感染病人
+用藥第一天，起始劑量為300 mg(100 mg三錠) 一天兩次，之後每天300 mg，一天一次。
+依照病人原發疾病嚴重程度、臨床表現及從免疫抑制恢復的情況，而決定治療期間。
+預防侵入性黴菌感染
+用藥第一天，起始劑量為300 mg(100 mg三錠) 一天兩次，之後每日300 mg，一天一次。可和食物併服，亦可不和食物併服。
+依照病人從白血球減少症或免疫抑制情況恢復所需要的時間而決定治療期間。對於急性骨髓性白血病(Acute myelogenous leukemia)或骨髓造血功能不良症候群(Myelodysplastic syndromes)病人，使用posaconazole預防感染的時間，應在預估開始出現白血球減少情況(neutropenia)的數天前即開始使用，待白血球回升至 500 cell/mm3以上時，再持續使用七天。
+3.1.3 使用/操作指示
+Posaconazole 之錠劑及懸浮液劑劑型無法進行替換
+Posaconazole 具有錠劑及懸浮液劑劑型，由於兩者於配方上的差異，在治療上此兩種劑型無法進行替換。醫師應依照不同劑型之用藥指示進行給藥。
+Posanol為口服錠劑。須整粒吞服，勿剝半、壓碎或咀嚼。
+3.3
+特殊族群用法用量
+用於小兒科病人：用於未滿13歲青少年及兒童的安全性和療效尚未確立。
+用於肝功能不全病人：因為在肝功能不全病人的藥動學資料有限，故無法提供劑量調整建議。在少數被測試的肝功能不全受試者，半衰期會隨肝功能減退而延長(參閱11.藥物動力學特性)。
+用於腎功能不全病人：無須因腎功能不全調整劑量，因為posaconazole不是主要由腎臟排除，預期嚴重腎功能不全對posaconazole的藥動學沒有影響，故不建議調整劑量(參閱11.藥物動力學特性)。
+4 禁忌
+對posaconazole或本品任何成分過敏。
+雖然未做過in vitro 或in vivo 研究，posaconazole與某些經由CYP3A4系統代謝的藥品如terfenadine、astemizole、cisapride、pimozide或quinidine同時給藥，可能使這些藥品的血漿濃度升高，引起QT延長與發生罕見的多型性心室心搏過速(torsade de pointes)。
+Posaconazole與主要經由CYP3A4代謝的HMG-CoA還原酶抑制劑(例如  simvastatin、lovastatin及atorvastatin)同時給藥，會使這些藥物血漿濃度升高，可能引起橫紋肌溶解症(rhabdomyolysis)。
+雖然未做過in vitro 或 in vivo 研究，posaconazole可能增加麥角生物鹼(如ergotamine、dihydroergotamine、ergometrine (ergonovine)、methylergometrine (methylergonovine) )的血漿濃度而導致麥角中毒。Posaconazole禁止與麥角生物鹼(ergot-alkaloids)類藥品併用。
+5 警語及注意事項
+5.1
+警語/注意事項
+在臨床試驗中，從186 位使用每日300 mg 錠劑的受試者之穩定狀態Cmin計算得出的穩定狀態下預測平均濃度(predicted Cavg)，有81%的受試者介於500-2500 ng/mL，有15%的受試者介於2500-3750 ng/mL，有4%的受試者超過3,750 ng/mL。
+在臨床試驗中，每日300 mg 錠劑的曝藥期間至多為28天，錠劑的曝藥期間較口服懸液劑(oral suspension) 的臨床試驗為短，而錠劑的曝藥量較口服懸液劑高，不能排除錠劑的不良反應發生率較高。
+過敏：迄今尚無有關posaconazole與其他azole類抗黴菌劑交叉過敏的資料。對於對其他azole類過敏的病人，使用posaconazole時應小心。
+Calcineurin-Inhibitor藥物交互作用: Posaconazole與cyclosporine、tacrolimus或sirolimus併用時，會增加這些Calcineurin-Inhibitor全血中的最低濃度。臨床療效試驗曾報告，血中cyclosporine 或 tacrolimus濃度升高的病人發生腎毒性(Nephrotoxicity)和腦白質病(leukoencephalopathy)（包括死亡）。在併用期間以及在停止posaconazole治療時，應時常監測cyclosporine、tacrolimus或sirolimus全血中的最低濃度，並據此來調整cyclosporine、tacrolimus或sirolimus的劑量。
+肝毒性：在臨床試驗中，使用posaconazole治療期間，有少數肝臟反應的病例(如:ALT、AST、鹼性磷酸酶、總膽紅素輕度至中度升高，及/或臨床肝炎)發生。停止治療後，升高的肝功能指數通常可以復原，有些病例無須中斷治療，這些檢驗值便恢復正常，很少需要停藥。極少數有嚴重疾病(如:惡性血液病)病人，使用posaconazole治療期間，發生較嚴重的肝臟反應(致死的案例)被報告出。在嚴重肝功能不全者，處方posaconazole時應小心。在開始Posanol治療及Posanol治療期間應監測肝功能。在Posanol治療期間，肝功能指數出現異常的病人必須監測是否有肝損害惡化的情況發生。病人監測應包括肝功能的實驗室評估(特別是肝功能指數及膽紅素)，如果臨床徵兆及症候顯示發生可能因posaconazole造成之肝病，則應考慮停止Posanol治療。
+QT 延長：有些azoles類會使心電圖QTc間期延長。Posanol不可與已知會延長QTc間期之經由CYP3A4系統代謝的藥品併用(參閱4.禁忌及7.交互作用)。以Posanol用於治療有心率不整前兆的病人應特別注意，如：
+•先天或後天QTc 延長
+•心肌症，特別是出現心衰竭者
+•竇性心搏過慢
+•出現症狀的心率不整
+•與已知會延長QTc間期的藥物併用
+在posaconazole 治療前與治療期間應監測電解質障礙，尤其是與鉀、鎂或鈣濃度有關者，需要時矯正之。
+Midazolam和其他經由CYP3A4系統代謝的benzodiazepines藥物：Posanol與任何經由CYP3A4代謝的benzodiazepine類藥物(如：midazolam、triazolam、alprazolam)併用，由於延長鎮靜與可能的呼吸抑制風險，只在臨床上有需要，才能考慮。建議應考慮調整benzodiazepine的劑量(參閱7.交互作用)。
+血漿曝藥量: 投與posaconazole錠劑之後的血漿濃度一般高於投與posaconazole口服懸液劑(oral suspension)。投與posaconazole錠劑後，有些病人的血漿濃度會隨著時間而增加，posaconazole錠劑所達到較高曝藥量的安全性數據，目前很有限。
+Vincristine毒性: Vincristine與azole類抗黴菌劑(包含posaconazle)併用會導致神經毒性及其他嚴重不良反應，包括癲癇、周邊神經性病變、不正常的抗利尿激素分泌引起之症狀及麻痺性腸阻塞。對於接受長春花生物鹼(包括vincristine)治療的病人，若無其他抗黴菌療法得以選擇，則保持使用azole類抗黴菌劑(包括posaconazole)進行治療(參閱7.交互作用)。
+Venetoclax 毒性: Posaconazole與venetoclax（經由 CYP3A4 代謝）併用可能會增加venetoclax的毒性，包括腫瘤溶解症候群(tumor lysis syndrome, TLS) 和嗜中性白血球低下症（neutropenia）的風險（參見7.交互作用）。詳細請參閱 venetoclax 藥物資訊。
+5.2
+藥物濫用及依賴性
+Posaconazole濫用的可能性未知。
+6 特殊族群注意事項
+6.1
+懷孕
+對於posaconazole使用於孕婦上，目前尚無足夠資料可供參考。動物研究已證實其具生殖毒性。在大鼠，posaconazole在低於人類治療劑量之暴露量時，會引起骨骼畸形。在兔子，posaconazole在大於建議劑量之暴露量時，有胚胎毒性。對人類的潛在危險不明。懷孕期間不可使用posaconazole，除非對母親的效益大於對胎兒的危險。
+6.2
+哺乳
+Posaconazole會分泌到哺乳母鼠的乳汁中，但尚未針對posaconazole是否會分泌到人類乳汁中進行研究。哺乳期間不可使用posaconazole治療，除非對母親的效益明確的大於對嬰兒危險。
+7 交互作用
+除非另特別描述，以下的交互作用發生在posaconazole錠劑及口服懸液劑。
+其他藥品對Posanol錠劑及口服懸液劑的影響：
+Posaconazole經由UDP葡萄糖醛酸共軛結合代謝(第二期酵素)，而且是P-gp外排幫浦的受質；因此這些清除路徑的抑制劑或誘發劑會影響posaconazole的血漿濃度。
+Rifabutin (每天一次每次300 mg)會使posaconazole的Cmax (最高血漿濃度)及AUC (血漿濃度時間曲線下面積)分別降低57 % 及51 %。應避免同時使用posaconazole與rifabutin或類似的誘發劑（如rifampicin），除非對病人的效益大於其風險。參閱下方posaconazole對rifabutin血漿濃度影響的部分。
+Phenytoin (每天一次每次200 mg)會使posaconazole的Cmax (最高血漿濃度)及AUC (血漿濃度時間曲線下面積)分別降低41 % 及50 %。應避免同時使用posaconazole與phenytoin，除非對病人的效益大於危險。
+H2接受器拮抗劑，質子泵抑制劑，制酸劑：
+波賽特錠劑
+尚未發現制酸劑、Ranitidine質子泵抑制劑對posaconazole錠劑有所影響。當posaconazole錠劑和制酸劑、H2接受器拮抗劑及質子泵抑制劑併用時無須調整劑量。
+波賽特口服懸液劑
+Cimetidine(400 mg 每天二次)會使Posanol的血漿濃度(Cmax及AUC)降低39%，可能因減少胃酸製造而導致吸收降低。應避免同時使用Posanol與cimetidine，除非對病人的效益大於危險。其他可抑制胃酸數小時的H2接受器拮抗劑(如：famotidine、ranitidine)和質子泵抑制劑(如：omeprazole)對posaconazole的血漿濃度影響尚未有研究，但可能發生降低生體可用率的情形，所以應該儘量避免合併使用。
+胃腸蠕動製劑:
+Metoclopramide: 尚未發現posaconazole錠劑與metoclopramide併用時，對於posaconazole於藥動學上的影響。當posaconazole錠劑和metoclopramide併用時，無須調整劑量。
+Loperamide: 與posaconazole併用時，並不會影響posaconazole血中濃度。當posaconazole和loperamide併用時，無須調整劑量。
+Glipizide (單次劑量10 mg): 對posaconazole之Cmax (最高血漿濃度)及AUC (血漿濃度時間曲線下面積)在臨床上無顯著的影響。
+Efavirenz :(每天一次每次400 mg)會使posaconazole的Cmax (最高血漿濃度)及AUC (血漿濃度時間曲線下面積)分別降低45% 及50%。應避免同時使用posaconazole與efavirenz，除非對病人的效益大於危險。
+Fosamprenavir: Fosamprenavir與posaconazole併用可能導致posaconazole血漿濃度下降。如果必須併用，建議密切監測突破性黴菌感染(breakthrough fungal infections)。連續使用fosamprenavir (一天兩次，每次700 mg，使用十天)，posaconazole (服用口服懸液劑，第一天一次200 mg，第二天，一天兩次每次200 mg，之後一天兩次，每次400 mg，使用八天)的Cmax及AUC分別降低21% 及23%。
+Posaconazole錠劑及口服懸液劑對其他藥品之影響：
+Posaconazole經由細胞色素P450系統代謝的程度，在臨床上並不顯著。但posaconazole是一種CYP3A4抑制劑，所以投與posaconazole時，經由酵素路徑代謝的藥品的血漿濃度可能會增加。
+麥角生物鹼(Ergot-alkaloids) 類藥品(如ergotamine、dihydroergotamine、ergometrine(ergonovine)、methylergometrine (methylergonovine) )：雖然未做過in vitro 或 in vivo 研究，但posaconazole可能會增加麥角生物鹼的血漿濃度，可能造成麥角中毒(ergotism)，引起罕見但嚴重之血管攣縮以致顱部及/或四肢缺血之風險。Posaconazole禁止與麥角生物鹼(ergot-alkaloids)類藥品併用。
+長春花生物鹼(Vinca alkaloids)：大部分的長春花生物鹼(如vincristine和vinblastine)皆為經CYP3A4系統代謝之受質。併用azole類抗黴菌劑(包含posaconazole)和vincristine會導致嚴重不良反應(參閱5.1. 警語/注意事項)。Posaconazole可能會增加長春花生物鹼的血漿濃度，導致神經毒性及其他嚴重不良反應。因此，對於接受長春花生物鹼(包括vincristine)治療的病人，若無其他抗黴菌療法得以選擇，則保持使用azole類抗黴菌劑(包括posaconazole)進行治療。
+Cyclosporine：在接受cyclosporine穩定劑量的心臟移植病人，每天一次服用posaconazole口服懸液劑200 mg， 會增加cyclosporine的濃度，需降低cyclosporine劑量。在已接受cyclosporine的病人，開始用posaconazole治療時，應降低cyclosporine的劑量(例如:降至目前使用劑量的四分之三)。此後在併用期間，應小心監測cyclosporine的血中濃度，一旦停止posaconazole 治療，應視需要調整cyclosporine的劑量。
+Tacrolimus：Posaconazole使tacrolimus (0.05 mg/kg 單一劑量)的Cmax 及 AUC分別增加121% 及358%。在已接受tacrolimus的病人，開始posaconazole治療時，應降低tacrolimus的劑量(例如:約降至目前使用劑量的三分之一)。此後在併用期間應小心監測tacrolimus的血中濃度，一旦停止posaconazole治療，應視需要調整tacrolimus的劑量。
+Sirolimus：在健康受試者，重覆劑量口服投予posaconazole (400 mg 口服懸液劑每天二次，16天) ，使sirolimus (2 mg 單一劑量)的Cmax 及 AUC平均分別增加6.7倍及8.9倍。
+在已接受sirolimus的病人，開始 posaconazole治療時，應減少sirolimus的劑量(例如:約降至目前使用劑量的十分之一)，並頻繁監控sirolimus在全血中的最低濃度。在posaconazole治療、併用期間及停止posaconazole治療時，均應小心監測sirolimus的血中濃度，並視需要調整sirolimus的劑量。
+Rifabutin：Posaconazole使rifabutin的 Cmax 及 AUC 分別增加 31% 及72%。應避免同時使用posaconazole與rifabutin，除非對病人的效益大於其風險。(參閱上述關於rifabutin對posaconazole血中濃度影響的部份)如需併用，建議小心監測全部血球計數以及與rifabutin濃度升高有關的不良反應(如葡萄膜炎)。
+Midazolam:重覆劑量口服投予posaconazole (每次200 mg口服懸液劑，每日二次，服用7天)會使靜脈注射midazolam (0.4 mg單次劑量)的Cmax及AUC分別平均增加1.3倍及4.6倍；posaconazole 400 mg口服懸液劑每日二次、服用7天，會使靜脈注射midazolam的Cmax及AUC分別平均增加1.6倍及6.2倍。上述的兩個劑量均會使口服midazolam (2 mg單次口服劑量)的Cmax及AUC分別增加2.2倍及4.5倍。另外，在併用期間，口服posaconazole (200 mg或400 mg口服懸液劑)會延長midazolam的平均終端半衰期從大約3-4小時至8-10小時。
+由於延長鎮靜的風險，當posaconazole與任何經由CYP3A4代謝的benzodiazepine類藥物併用時，建議考慮調整benzodiazepine劑量。
+Zidovudine (AZT), lamivudine (3TC), indinavir: 在臨床研究上顯示，posaconazole合併zidovudine , lamivudine , indinavir並無臨床上顯著的影響。因此這三種藥品和posaconazole合併使用時，無須調整劑量。
+HIV蛋白酶抑制劑：HIV蛋白酶抑制劑是經由CYP3A4受質代謝的藥品，預期和posaconazole併用時會增加這些抗反轉錄病毒藥物的血中濃度。在健康受試者，口服併用posaconazole (400 mg 口服懸液劑每天二次)與atazanavir (300 mg每天一次)七天後，atazanavir的Cmax 及 AUC平均分別增加2.6倍及3.7倍。在健康受試者，重覆口服併用posaconazole (400 mg口服懸液劑每天二次，使用七天)與atazanavir及ritonavir (300/100 mg每天一次)七天後，atazanavir的Cmax 及 AUC平均分別增加1.5倍及2.5倍。這些增加與血漿中膽紅素濃度上升有關。建議併用posaconazole時，應頻繁監控經由CYP3A4系統代謝的抗反轉錄病毒藥物相關的不良反應及毒性。
+主要經由CYP3A4代謝的HMG-CoA 還原酶抑制劑:重覆劑量口服投予posaconazole (50，100及200 mg口服懸液劑每日一次，服用13天)，會使simvastatin (40 mg單次劑量)的Cmax平均增加7.4倍至11.4倍，AUC平均增加5.7倍至10.6倍。Posaconazole可能會增加HMG-CoA 還原酶抑制劑的血漿濃度，導致橫紋肌溶解，以posaconazole治療期間，應停止投予這些HMG-CoA 還原酶抑制劑。
+經由CYP3A4代謝的鈣離子通道阻斷劑: 雖然未做過in vitro 或in vivo 研究，但建議在與posaconazole併用期間，應時常監測與鈣離子通道阻斷劑相關不良反應及毒性。可能需要調整鈣離子通道阻斷劑的劑量。
+毛地黃(Digoxin)：Digoxin與其他Azole類藥物的併用會增加digoxin的血漿濃度。且曾發生病人使用digoxin 和posaconazole時，digoxin之血漿濃度增加的情形，當與posaconazole併用的治療期間都須監測digoxin的血中濃度。
+Venetoclax：Venetoclax（經CYP3A4代謝）與posaconazole併用會增加venetoclax Cmax和AUC0-INF，可能會增加venetoclax的毒性（參閱5.1警語/注意事項）。
+Sulfonylureas：某些健康志願者於posaconazole與glipizide併用時，其血糖會降低，故在於糖尿病病人使用時，建議監測其血中葡萄糖濃度。
+8 副作用/不良反應
+8.1
+臨床重要副作用/不良反應
+Posaconazole Tablets安全性
+在收納230 位病人的樞鈕性臨床試驗中，已評估了posaconazole錠劑的安全性。一項收納以posaconazole錠劑為黴菌預防感染治療病人的非對照性藥物動力學與安全性研究。病人具有免疫功能不良情況，包括血液腫瘤(hematological malignancy)，化療後嗜中性白血球減少症，移植物對抗宿主疾病(graft versus host disease; GVHD)，造血幹細胞移植(HSCT)後，平均給藥之中位數為28天。20位病人第一天用藥為兩次，每次200 mg，之後一天一次，每次200 mg及210位病人第一天用藥為兩次，每次300 mg，之後一天一次，每次300 mg。
+最常見的posaconazole錠(每天一次300 mg)治療相關不良反應(≥5%)為噁心及腹瀉。
+最常見導致停用posaconazole錠每天一次300 mg的不良反應為噁心。
+在收納了2,400位病人和健康志願者之臨床試驗和上市後使用經驗中，評估了posaconazole口服懸液劑的安全性。172位病人接受posaconazole治療6個月或6個月以上，其中58位接受posaconazole治療12個月或12個月以上。
+428位病人以posaconazole口服懸液劑治療侵入性黴菌感染，有1%病人發生的治療相關嚴重不良事件報告，包括其他藥物的血中濃度改變，肝臟酵素增加，噁心，皮疹，嘔吐。605位病人以posaconazole口服懸液劑作預防性治療，病人發生的治療相關的嚴重不良事件報告(各有1%)，包括高膽紅素血症，肝臟酵素增加，肝細胞損傷，噁心和嘔吐。
+以posaconazole口服懸液劑治療的臨床試驗期間，不常見及罕見的相關醫學明顯不良事件報告，包括腎上腺皮質功能不全，過敏和/或過敏反應。
+此外，使用posaconazole口服懸液劑曾經發生罕見的多型性心室心搏過速(torsade de pointes)。
+此外，使用posaconazole口服懸液劑併用cyclosporine或tacrolimus來處置移植排斥或移植物對抗宿主疾病(graft versus host disease; GVHD)時，曾經發生罕見溶血性尿毒綜合症及栓塞性血小板低下紫斑(thrombotic thrombocytopenic purpura)。
+Posaconazole錠劑及口服懸液劑研究之治療相關的不良反應( Treatment-related adverse reaction, TRAEs)
+表2中顯示健康志願者及病人整個族群中，服用posaconazole錠劑及口服懸液劑發生最常見與治療相關的不良反應(TRAEs)。
+表2. 依身體系統率，接受posaconazole錠及口服懸液劑治療之受試者發生與治療相關的不良反應(TRAEs)
+包含發生率1%，及高於常見(>1/100, <1/10) 之所有與治療相關的不良反應
+血液及淋巴系統疾病
+常見:
+嗜中性白血球減少症
+代謝與營養疾病
+常見: 
+神經性厭食症，電解質失衡，低血鉀
+神經系統疾病
+常見: 
+頭暈，頭痛，皮膚感覺異常，嗜睡
+腸胃道疾病
+常見: 
+腹痛，腹瀉，消化不良，胃腸脹氣(flatulence)，口乾，噁心，嘔吐，便秘
+肝膽疾病
+常見: 
+肝功能檢驗升高(包括AST、ALT、鹼性磷酸酶、GGT、膽紅素) 
+皮膚與皮下組織疾病
+常見: 
+紅疹，搔癢
+全身性疾患與用藥部位反應
+常見:
+乏力，疲勞，發熱（發燒）
+8.3
+上市後經驗
+上市後使用經驗曾報告的不良反應如下:
+內分泌紊亂：假性醛固酮增多症
+9 過量
+目前尚未有posaconazole錠劑使用過量的經驗。
+在臨床研究中，一些病人接受posaconazole口服懸液劑高達1600 mg/天未出現異於低劑量者之不良事件。此外，有一位病人意外服用過量posaconazole口服懸液劑，1200 mg一天兩次服用了三天。研究人員並未觀察到相關的不良事件。
+Posaconazole無法藉由血液透析移除。
+10 藥理特性
+10.1
+作用機轉
+Posaconazole是羊毛脂醇14α-脫甲基酶 (lanosterol 14α-demethylase) 的強效抑制劑，這種酵素催化麥角脂醇(ergosterol)生合成的重要步驟。
+10.2
+藥效藥理特性
+10.2.1 藥物治療族群
+全身性使用抗感染的triazole衍生物。
+ATC code: J02AC04。
+10.2.2 藥物效力學作用(例如:抗藥性，體外試驗易感受性數據)
+微生物學
+在體外試驗(in vitro)顯示，posaconazole對下述微生物有效: 麴菌屬(煙色麴菌[A. fumigatus]、黃麴菌[A. flavus]、土麴菌[A. terreus]、小巢狀麴菌[A. nidulans]、黑麴菌[A. niger]、焦麴菌[A. ustus] 、赭曲霉[A. ochraceus]); 念珠菌屬(白色念珠菌[C.albicans]、光滑念珠菌[C. glabrata]、克柔念珠菌[C. krusei]、近平滑念珠菌[C. parapsilosis]); 新型隱球菌(Cryptococcus neoformans)； 粗球黴菌(Coccidioides immitis);貝德羅索氏芳沙加菌(Fonsecaea pedrosoi); 莢膜組織孢漿菌 (Histoplasma capsulatum); 波氏假性黴樣菌(Pseudallescheria boydii)及鏈隔孢菌屬(Alternaria spp); 外瓶黴屬（Exophiala）；鐮胞菌(Fusarium)；支綠菌屬(Ramichloridium)；根粘菌(Rhizomucor)、白黴(Mucor)、及根黴(Rhizopus)。
+在體內試驗(in vivo)顯示，posaconazole對下述酵母菌及黴菌有效: 都柏林念珠菌(Candida dubliniensis), 無名假絲念珠菌(C. famata), 季也蒙念珠菌(C. guilliermondii), 葡萄牙念珠菌(C. lusitaniae), 乳酒念珠菌(C. kefyr), 脂肪酶產生菌(C. rugosa), 熱帶念珠菌(C. tropicalis), 涎沫念珠菌(C. zeylanoides), 平常念珠菌(C. inconspicua), 解脂念珠菌(C.lipolytica), 挪威念珠菌(C. norvegensis), 假熱帶念珠菌(C. pseudotropicalis), 羅倫隱球菌(Cryptococcus laurentii), 馬克思克魯維酵母菌(Kluyveromyces marxianus) ,釀酒酵母菌(Saccharomyces cerevisiae), 解脂耶氏酵母菌(Yarrowia lipolyticam), 畢赤酵母菌屬(Pichia spp), 毛孢子菌屬(Trichosporon), 聚多曲黴(Aspergillus sydowii), 煙管菌(Bjerkandera adusta), 皮炎芽生菌(Blastomyces dermatitidis), 絮狀表皮癬菌(Epidermophyton floccosum), 巴西芽生菌(Paracoccidioides brasiliensis), 尖端賽多孢子菌(Scedosporium apiospermum), 申克是孢子菌(Sporothrix schenckii), 皮炎外瓶黴(Wangiella dermatitidis); 犁頭黴屬 (Absidia spp), 鱗質黴屬(Apophysomyces), 雙孔孢菌屬(Bipolaris), 彎孢菌屬(Curvularia), 小孢子菌屬(Microsporum), 擬青黴屬(Paecilomyces), 青黴屬(Pencillium), 毛癬菌屬(Trichophyton)。然而由於目前相關的臨床研究有限，因此無法推估posaconazole對這些病媒的療效及安全性。
+Posaconazole為廣效性之抗黴菌劑，可用於以下對其他azole類藥物有抗藥性或效果不佳之黴菌感染:
+念珠菌屬 (包括 對fluconazole, voriconazole及itraconazole有抗藥性之白色念珠菌[C. albicans]分離菌株)。
+對fluconazole低敏感度之克柔念珠菌(C. krusei)及光滑念珠菌(C. glabrata)。
+對amphotericin B低敏感度之葡萄牙念珠菌(C. lusitaniae)。
+麴菌屬(Aspergillus)(包括對fluconazole, voriconazole, itraconazole 及 amphotericin B之抗藥性之分離菌株。)
+過去不認為對azole敏感之黴菌，如:接合菌綱(Zygomycetes)之黴菌(如: 犁頭黴屬 (Absidia spp)，白黴(Mucor)，根黴(Rhizopus)，根粘菌(Rhizomucor)。
+在體外試驗(in vitro)中，posaconazole對下列具有殺黴菌的活性:
+麴菌屬
+雙相性真菌(dimorophic fungi)(皮炎芽生菌Blastomyces dermatitidis, 莢膜組織漿菌Histoplasma capsulatum, 馬爾尼菲青黴菌Penicillium marneffei, 粗球孢子菌Coccidioides immitis)。
+某些種之念珠菌(Candida)。
+Posaconazole在動物感染模型中，對許多由黴菌或酵母菌引起的黴菌感染有效。然而，在最低抑菌濃度與療效之間並無一致的關聯性。
+開始治療前，應先取得黴菌培養及其他實驗室檢驗(包括組織病理學檢查)的檢體，以分離並鑑定致病病原。治療可以在得知培養結果前開始；但一有結果時，應據以調整抗黴菌治療。
+抗藥性
+對posaconazole有抗藥性之白色念珠菌菌株(C. albicans)不能在實驗室中產生。對posaconazole感受性減低的自發性實驗室煙色麴菌(Aspergillus fumigatus)突變株以1x10-8到1x10-9的頻率出現。對posaconazole感受性顯著降低的白色念珠菌及煙色麴菌臨床分離株很少見。在這些罕見的感受性減低的實例中，感受性減低與臨床治療失敗沒有明顯相互關係。曾在感染對其他azoles類有抗藥性之微生物的病人觀察到臨床成功；posaconazole在體外對許多其他azoles及/或amphotericin B有抗藥性的麴菌及念珠菌菌株有效，與這些觀察一致。Posaconazole對任一黴菌的最低抑菌濃度臨界點尚未確立。
+抗黴菌藥組合
+當posaconazole和amphotericin B或caspofungin的組合，在體外及體內接受測試，拮抗作用很少或無拮抗作用，在一些情況下，有加成效果。這些試驗的結果的臨床有意義不明。
+10.3
+臨床前安全性資料
+致癌性，致突變性
+與在其他azole抗黴菌劑觀察到的一樣，在posaconazole重複劑量毒性研究見到與抑制類固醇荷爾蒙合成有關的效應。用大鼠與狗進行的毒性研究在等於或大於人類治療劑量的暴露量時觀察到腎上腺抑制作用。
+生殖、周產期及出生後發育研究是在大鼠進行的。Posaconazole在低於人類治療劑量的暴露量時會引起骨骼變異與畸形、難產、妊娠期延長、減少每胎產仔數平均值與出生後存活能力。在兔子，posaconazole在大於建議劑量的暴露量時有胚胎毒性。如同在其他azole類抗黴菌劑所觀察到的，這些生殖效應被認為與對類固醇生成的治療相關作用有關。
+Posaconazole在體外或活體試驗中均無基因毒性。致癌性研究未顯示對人類有特別的危險。
+11 藥物動力學特性
+11.1 概要
+由各個以健康受試者及病人進行的臨床計畫得到的一般藥動學發現一致，posaconazole的吸收慢，排除慢，分布體積廣泛。
+Posaconazole錠劑(200 mg或300 mg)一天一次，多次服用後，健康志願者的暴露量比病人高1.3倍。
+11.2 吸收
+Posanol錠劑吸收後達到最高血中濃度的時間tmax 中位數為4~5個小時，且在單劑量及多劑量劑量投與高達300 mg之後，呈現線性藥動學。
+口服錠劑的絕對生體可用率大約為54 %。
+Posanol錠劑在第一天服用一天兩次，之後為一天一次。
+食物對健康受試者的影響
+Posanol 錠劑可和食物併服，亦可不和食物併服。
+11.3 分布
+服用Posaconazole錠劑後，在研究中之健康受試者其平均擬似分佈體積為394 L(42 %) ，範圍為294-583 L。
+Posaconazole的蛋白質結合率高(>98.0%)，主要是與血清白蛋白結合。
+11.4 代謝
+Posaconazole沒有重要的循環代謝物。 CYP450酵素抑制劑不太會改變posaconazole的濃度。循環中的代謝物大多是posaconazole的葡萄糖醛酸共軛化合物，只有少數是氧化(由CYP450介導)代謝物。經由尿與糞便排除的代謝物約佔投與放射性標記劑量的17%。
+11.5 排除
+Posaconazole主要經糞便排除(77%的放射性標記劑量)，多為原型藥物(66%的放射性標記劑量)。腎清除是次要排除途徑，14%的放射性標記劑量經尿液排除(< 0.2%的放射性標記劑量是原型藥物)。
+Posaconazole錠劑排除之平均半衰期(t½)範圍為26 ~31小時，其清除率範圍為7.5~11 L/hr。
+11.6 在特殊族群的藥動學
+小兒
+充分且良好控制之posaconazole口服懸液劑之研究結果，支持posaconazole錠劑在13至17歲病人的使用。
+性別
+Posaconazole在男性和女性的藥動學相當，無須依性別調整posaconazole的劑量。
+老年人
+在230位服用posaconazole錠劑的病人中，38位(17 %)為65歲以上的病人。年長病人與年輕病人之posaconazole錠劑的藥動學性質相當。年輕病人及年長病人之藥物安全性概況並無觀察到差異，因此年長者無須調整劑量。
+種族
+Posaconazole錠劑尚無充足之數據確定是否有種族之間的差異。由一健康志願者（n =56）之多劑量研究結果顯示，相對於白種人，posaconazole口服懸液劑在黑人受試者的AUC和Cmax略為下降（16％），因此無須因種族而調整劑量。
+體重
+Posaconazole藥物動力學模擬建議，體重超過120公斤的病人可能posaconazole暴露量較低，因此，建議對體重超過120公斤突破性真菌感染(breakthrough fungal infections)的病人應密切監測。
+肝功能不全
+在一項以少數肝功能不全(Child-Pugh class A, B or C)受試者 (n = 12)進行的研究中，儘管肝功能正常受試者的Cmax值(平均508 ng/ml)與先前在健康受試者進行研究一致，但Cmax值會隨肝功能不全的嚴重程度下降(輕度、中度和重度組分別是545、414和347 ng/ml)。此外，半衰期延長也與肝功能減退有關(輕度、中度和重度組分別是26.6、35.3、與46.1個小時)，各組的半衰期都比肝功能正常者的半衰期(22.1小時)長。由於肝功能不全病人的藥動學資料有限，因此無法提供劑量調整建議。
+雖在posaconazole錠劑尚未執行具體研究；但類似的建議適用於錠劑。
+腎功能不全
+投與單一劑量後，輕度與中度腎功能不全(n = 18, ClCr ≥ 20 ml/min/1.73 m2)對posaconazole的藥動學没影響; 因此不需調整劑量。在重度腎功能不全病人方面(n = 6, ClCr < 20 ml/min/1.73 m2)，與其他腎功能組(< 40% CV)相比，posaconazole的暴露量變異度很大( 96% CV)。但因腎臟不是posaconazole重要排除路徑，故預料重度腎功能不全對posaconazole的藥動學沒有影響，沒有劑量調整建議。Posaconazole不會經血液透析而去除。由於暴露量的差異，對於有嚴重腎功能不全的突破性真菌感染(breakthrough fungal infections)病人，應密切監控。
+雖在posaconazole錠劑尚未執行具體研究；但類似的建議適用於錠劑。
+12 臨床試驗資料
+臨床經驗
+Posaconazole錠劑之銜接性試驗摘要
+試驗案 5615為一非比較性多中心臨床試驗，目的為評估藥物posaconazole錠劑的藥動學特性、安全性及耐受性。試驗案 5615和先前posaconazole口服懸液劑之樞鈕臨床試驗所執行的病人族群相似。試驗案 5615之藥動學及安全性被用來與現行的口服懸液劑之資料(包含療效資料)銜接。
+受試者族群包含: 1)急性骨髓性白血病(acute myelogenous leukemia; AML)或骨髓造血功能不良症候群(myelodysplastic syndromes; MDS)病人近期接受化療而發生或預期發生嗜中性白血球減少，或2)接受造血幹細胞移植(HSCT)，並接受免疫抑制療法以預防或治療移植體對抗宿主疾病(GVHD)的病人。兩種不同給藥方式在試驗第一階段進行評估:分別為第一天服用兩次，每次服用200 mg，之後每天服用一次，每次服用200 mg (part 1A)；第一天服用兩次，每次服用300 mg，之後每天服用一次，每次服用300 mg (part 1B及part 2)。
+於試驗part 1第一階段的所有試驗者和試驗part 2的試驗者，在試驗的第一天和達到穩定狀態的第八天蒐集系列性的藥動學樣本。此外，在更大受試者族群給予下ㄧ個劑量(Cmin)之前，在穩定血中濃度期間收集了幾天稀少的藥動學樣品。依據平均Cmin濃度，計算出186位投予300 mg劑量的受試者的預測平均血中濃度(Cav)。在病人的Cav藥動分析，發現每日一次 300 mg劑量治療時，有81%的受試者達穩定狀態預測Cav介於500-2500 ng/mL，ㄧ位受試者（<1%）的預測Cav在500 ng/ml以下，而19%受試者預測Cav超過2,500 ng/ml。受試者在穩定狀態平均預測Cav 達1,970 ng/ml。
+在表3顯示病人使用治療劑量的posaconazole 錠劑與posaconazole口服懸液劑之後，以四分位數分析曝藥量之比較。使用錠劑後的曝藥量一般較高，但與使用口服懸液劑之後的曝藥量重疊。
+表3. 使用posaconazole錠劑與posaconazole口服懸液劑之樞紐性試驗Cav四分位數分析
+Posaconazole
+錠劑
+Posaconazole 口服懸液劑
+預防AML及HSCT病人
+Study 5615
+預防GVHD病人
+Study 316
+預防嗜中性白血球減少病人
+Study 1899
+治療侵入性麴菌病
+Study 0041
+300 mg 每天一次 (第一天 300 mg 一天兩次)*
+200 mg
+一天三次
+200 mg
+一天三次
+200 mg
+一天四次 (住院治療)，之後 400 mg 一天兩次
+四分位數分析
+pCav 範圍
+(ng/ml)
+Cav範圍
+(ng/ml)
+Cav範圍
+(ng/ml)
+Cav範圍
+(ng/ml)
+Q1
+442 –1,223
+22 –557
+90 –322
+55 –277
+Q2
+1,240 –1,710
+557 –915
+322 –490
+290 –544
+Q3
+1,719 –2,291
+915 –1,563
+490 –734
+550 –861
+Q4
+2,304 –9,523
+1,563 –3,650
+734 –2,200
+877 –2,010
+pCav: 預測平均血中濃度(predicted Cav)
+Cav = 在穩定狀態中測得之平均血中濃度
+*20 病人使用 200 mg 每天一次 (第一天 200 mg一天兩次)
+侵入性麴菌病(Invasive aspergillosis)
+以每日800 mg posaconazole口服劑量分次給藥予對amphotericin B(包括微脂體配方)、itraconazole或voriconazole治療沒有反應或不能耐受這些藥品的病人以進行評估。將臨床結果與病歷回顧的外部對照組的結果進行比較，外部對照組包括了86位接受(如上)有效治療的病人，其大多數都與接受posaconazole治療病人同一時間與同一地點接受治療。兩組的麴菌病病例大多是對過去的治療無效，在posaconazole組佔88%及外部對照組佔79%。
+如表4所示，在治療結束時，接受posaconazole治療之病人的成功反應為42%(完全或部份緩解)，外部對照組是26%。但是，這並不是一項前瞻、隨機、有對照組的臨床研究，因此對所有與外部對照組的比較應小心檢視。
+表4. 治療結束時posaconazole對侵入麴菌病菌的整體療效，與外部對照組相比
+posaconazole
+口服懸液劑
+外部對照組
+整體反應
+45/107 (42 %)
+22/86 (26 %)
+對各種黴菌的成功率
+            所有黴菌學上證實的
+麴菌屬*(Aspergillus spp.)
+34/76
+(45 %)
+19/74
+(26 %)
+            煙色麴菌(A. fumigatus)
+12/29
+(41 %)
+12/34
+(35 %)
+            黃麴菌(A. flavus)
+10/19
+(53 %)
+3/16
+(19 %)
+            土麴菌(A. terreus)
+4/14
+(29 %)
+2/13
+(15 %)
+            黑麴菌(A. niger)
+3/5
+(60 %)
+2/7
+(29 %)
+*包括其他較少見的菌種或未知菌
+侵入性黴菌感染(IFIs)的預防療法 (試驗案316及1899)
+兩項針對高危險群病人使用posaconazole口服懸液劑避免發生侵入性黴菌感染的大規模隨機分派、控制性預防療法的臨床試驗。
+試驗案316為一隨機分派、雙盲試驗，比較posaconazole口服懸液劑(每天三次每次200 mg)及fluconazole膠囊(400 mg，每天一次)對患有同種異體造血幹細胞移植接受者併發移植體對抗宿主疾病(GVHD)的病人。主要療效指標為隨機分配16週時經由一獨立、盲性、外部專家小組來決定其已證實/可能的(IFIs)侵入性黴菌感染的發生率。關鍵的次要指標為在治療期間(第一次給藥到最後一次給藥加7天)已證實/可能的侵入性黴菌感染的發生率。Posaconazole及fluconazole的平均治療期間分別為80天及77天。
+試驗案1899是一項隨機分派、盲性評估的臨床試驗，以posaconazole口服懸液劑(每日三次每次200 mg)及fluconazole懸液劑(400 mg每日一次)或itraconazole口服液劑(每日兩次每次200 mg)預防侵入性黴菌感染因急性骨髓性白血病或骨髓增生異常症候群而接受細胞毒性化學治療而引起嗜中性白血球減少症的病人，經由一獨立、盲性、外部專家小組來評估治療期間主要療效指標的證實/可能侵入性黴菌感染的發生率。關鍵的次要指標為治療後100天後已證實/可能的侵入性黴菌感染發生率。Posaconazole與fluconazole/itraconazole的平均治療期間分別為29天及25天。
+在兩項預防性試驗中，麴菌症為最常見的突破性感染。請見表5兩項研究的結果。相較於接受fluconazole或itraconazole治療之控制組病人，接受posaconazole預防療法治療的病人較少出現突破性麴菌症感染。
+表5. 預防侵入性黴菌感染的臨床研究結果
+試驗
+Posaconazole口服懸液劑
+對照組a
+P值
+已證實/可能侵入性黴菌感染的病人比例(%)
+治療期間b
+1899d
+7/304 (2)
+25/298 (8)
+0.0009
+316e
+7/291 (2)
+22/288 (8)
+0.0038
+固定時間期間c
+1899d
+14/304 (5)
+33/298 (11)
+0.0031
+316d
+16/301 (5)
+27/299 (9)
+0.0740
+已證實/可能侵入性麴菌感染病人比例(%)
+治療期間b
+1899d
+2/304 (1)
+20/298 (7)
+0.0001
+316e
+3/291 (1)
+17/288 (6)
+0.0013
+固定時間期間c
+1899d
+4/304 (1)
+26/298 (9)
+< 0.0001
+316d
+7/301 (2)
+21/299 (7)
+0.0059
+FLU = fluconazole; ITZ = itraconazole; POS = posaconazole
+a: FLU/ITZ (1899) : FLU (316)
+b: 在試驗1899中，為從隨機分配到試驗的最後一次給藥再加 7天的期間; 在試驗316中，為從試驗第一次給藥到最後一次給藥再加 7天的期間。
+c: 在試驗1899中，為從隨機分配到隨機分配後100天的期間; 在試驗316中，為從基準線當日到基準日後111天的期間。
+d: 全部隨機分配的病人
+e: 全部治療的病人
+在試驗1899中，發現使用posaconazole組有顯著降低死亡率[POS 49/304 (16%) vs. FLU/ITZ 67/298 (22%), p = 0.048]。依據Kaplan-Meier估計，接受posaconazole治療者在隨機分配後100天，有顯著較高的存活可能性: 當分析考量到所有死因(p = 0.0354)(圖2)及侵入性黴菌感染相關死亡(p = 0.0209)時，即可顯示此項存活優勢。
+圖2: 試驗1899中所有死亡案例 (POS vs FLU/ITZ; P=0.0354)
+在試驗316中，整體死亡率相似(POS, 25%; FLU, 28%); 但是，posaconazole組(4/301)因為侵入性黴菌感染死亡的比例顯著比FLU組(12/299；p=0.0413)低。
+13 包裝及儲存
+13.1
+包裝
+2~1000以下錠鋁箔盒裝。
+13.2
+效期
+標示於外盒
+13.3
+儲存條件
+30 °C以下。
+13.4
+儲存注意事項
+Posaconazole 錠劑無特別儲存條件
+15 其他
+HA-000027487-TW-20241119
+S-CCDS-MK5592-OS-T-042021
+ATC Code
+主次
+代碼
+英文名
+主
+J02AC04
+posaconazole
+次
+J02AC04
+posaconazole
+✖
+歷史仿單
+序號
+仿單更新時間
+版次
+-->
+結果
+1
+114/01/23
+2
+-->
+檢視
+序號
+結果
+1
+chilab-01-CRT-MK5592-000020221-TW-PI-T-Posanol Tab-110-10-21.pdf
+2
+Posanol Tablet 100mg_仿單(自行變更-無騎縫章)-112-07-04(廠商自行上傳).pdf
+✖
+民眾用藥資訊
+項次
+檔案名稱
+上傳日期
+✖
+紙本仿單樣式(自行上傳)
+項次
+檔案名稱
+上傳日期
+✖
+外盒標籤清單
+項次
+檔案名稱
+上傳日期
+1
+Posanol Tab Foil_TFDA-108-07-22(廠商自行上傳).pdf
+2
+衛部藥輸字第026376號-20230629-001.pdf
+2023-06-29 08:41                                
+✖
+詳細處方成分
+處方標示
+Each tablet contains: 
+成分類別
+成分代碼
+成分名稱
+含量描述
+含量
+單位
+主成分
+0812204720
+POSACONAZOLE
+100.000000
+MG
+✖
+授權使用
+***衛部藥輸字第026376號***
+被授權廠商
+簽審文件編號
+核准文號
+授權起始日
+授權終止日
+查無資料
+✖
+訂閱
+匯出PDF
+全部選擇
+1 性狀
+2 適應症
+3 用法及用量
+4 禁忌
+5 警語及注意事項
+6 特殊族群注意事項
+7 交互作用
+8 副作用/不良反應
+9 過量
+10 藥理特性
+11 藥物動力學特性
+12 臨床試驗資料
+13 包裝及儲存
+15 其他
+製造廠
+藥商
+驗證碼：
+重新產生
+播放驗證碼語音
+送出
+✖
+:::
+本網站所刊出內容之著作權屬於衛生福利部食品藥物管理署所有，未經本署之同意或授權，任何人不得以任何形式重製、轉載、散佈、引用、變更、播送或出版該內容之全部或局部，亦不得為其他任何違反本署著作權之行為。
+服務專線：02-7737-2958                           		      服務信箱：mcp@tradevan.com.tw
+服務時間：週一～週五08:30~17:30
+Copyright © 2019 衛生福利部食品藥物管理署
+Food and Drug Administration, Ministry of Health and Welfare.
+All rights reserved.
+登入
+-->
+登入
+帳號：
+密碼：
+驗證碼：
+重新產生
+播放驗證碼語音
+登入
+忘記密碼
+會員註冊
+✖

@@ -1,0 +1,472 @@
+Source: TFDA 藥品仿單查詢平台 https://mcp.fda.gov.tw/im_detail_1/衛署藥製字第055554號 (菌巴達懸液用粉 Azithrom Powder for Oral Suspension, 健喬信元; latest listed insert update 113/06/12 = 2024-06-12, version 3). Fetched 2026-10-05.
+
+英文品名
+Azithrom Powder for Oral Suspension
+許可證號
+衛署藥製字第055554號
+藥品類別
+須由醫師處方使用
+劑型
+懸液用粉劑
+申請商名稱
+健喬信元醫藥生技股份有限公司
+申請商地址
+新竹縣湖口鄉工業一路6號
+發證日期
+99-11-24
+有效日期
+119-11-24
+通關簽審文件編號
+DHY00105555409
+限制項目
+國 產,成品已完成元素不純物評估(Option 3),完成BE試驗,監視期滿學名藥
+包裝
+1000公克以下HDPE塑膠瓶裝
+主製造廠
+製造廠名稱
+歐帕生技醫藥股份有限公司
+製造廠地址
+新竹縣湖口鄉光復路1號 (TAIWAN， ROC)
+匯出PDF
+外盒/標籤
+藥品外觀
+歷史仿單查詢
+ATC code查詢
+與前一版比對
+詳細處方成分
+授權使用
+＋訂閱
+全部展開
+1 性狀
+1.1
+有效成分及含量
+泡製後的懸浮液含有azithromycin 40毫克/毫升（一次5毫升的劑量中含有200毫克）。
+每100克口服懸浮液用粉劑中含有：
+活性主成分
+Azithromycin dihydrate 5.01克
+相當於azithromycin base 4.78克
+1.2
+賦形劑
+Colloidal silicon dioxide, grape flavour, strawberry flavor, sucrose, tromethamine, xanthan gum.
+1.3
+劑型
+懸液用粉劑
+1.4
+藥品外觀
+白色至淡黃色顆粒狀或塊狀粉末。
+2 適應症
+革蘭氏陽性、陰性及厭氧菌引起之下呼吸道感染（包括支氣管炎及肺炎）、皮膚及軟組織感染、中耳炎、上呼吸道感染和性傳染病。
+3 用法及用量
+3.1
+用法用量
+本藥須由醫師處方使用。
+成人
+用於治療上呼吸道感染、下呼吸道感染、皮膚與軟組織感染及牙齒口腔感染時，劑量為每天一次服用500 mg，連續服用3天。
+老年人
+對於年紀較大病人可以適用相同的用法用量。由於老年病人可能較容易發生心律不整與torsades de pointes的風險，使用本品應小心(參見第5.1節警語/注意事項)。
+治療具感受性
+Chlamydia trachomatis
+菌株引起的性病時，劑量為單一口服1 g一次。
+孩童
+每天10 mg/kg，連續服用3天。
+對於超過45公斤（含）以上的孩童，服用的劑量與成人相同（每天500 mg，連續服用3天）。
+本品必須以每天單一一次的劑量服用。
+Azithromycin可與食物併服，亦可空腹服用。先進食再服藥或可改善服用azithromycin所引起的胃腸道副作用。
+3.2
+調製方式
+使用/操作指示
+（1） 請先將藥粉搖散後，再打開瓶蓋。
+（2） 包裝中所附針筒量取9 mL冷開水加入藥瓶中與藥粉充分混合搖勻。
+（3） 加水調配後，每瓶可供取用15 mL劑量，剩餘量請丟棄。每5 mL含azithromycin 200毫克。
+（4） 用法：使用懸浮液前，務必再充分搖動藥瓶。請以針筒量取醫師指示藥量，再以針筒或所附量杯服用。
+（5） 保存方法：室溫下可保存十天，其力價不變。
+（6） 加水溶解後，為⽩⾊/米⽩⾊⾄橘黃⾊/棕⾊懸浮液。
+3.3
+特殊族群用法用量
+腎功能不全的病人
+腎絲球過濾率（GFR）10-80 mL/min的病人並不須調整劑量；但是，對於GFR＜10 mL/min的病人則應謹慎用藥（參見第6.7節 腎功能不全與第11節 藥物動力學特性）。
+肝功能不全的病人
+對於有輕至中度肝功能不全的病人，可使用和肝功能正常之病人相同的劑量（參見第5.1節 警語/注意事項與第11節 藥物動力學特性）。
+4 禁忌
+《依文獻記載》
+對本品活性成分、erythromycin、任一巨環類抗生素或ketolide類抗生素、或任一1.2節所列之賦形劑過敏。
+5 警語及注意事項
+《依文獻記載》
+5.1
+警語/注意事項
+過敏
+和erythromycin及其它的巨環類抗生素一樣，曾報告過罕見的嚴重過敏反應，包括血管神經性水腫和急性過敏性反應anaphylaxis (極罕有致死個案)，皮膚反應包括急性全身發疹性膿皰病(acute generalized exanthematous pustulosis, AGEP)、Stevens-Johnson症候群(SJS)、毒性表皮壞死性溶解症(toxic epidermal necrolysis, TEN)(極罕有致死案例)和嗜酸性球增多症合併全身症狀的藥物反應(drug reaction with eosinophilia and systemic symptoms, DRESS)。上述與azithromycin相關反應中，有部份會造成反覆出現的症狀，因此需要較長期的觀察與治療。
+發生過敏反應時應停止用藥，並採取適當的治療措施。醫師應注意在停止症狀治療後，過敏症狀可能會再度出現。
+肝臟毒性
+由於肝臟為azithromycin的主要排除途徑，因此有顯著肝臟疾病的病人必須謹慎使用azithromycin。服用azithromycin曾有肝功能受損、肝炎、膽汁鬱積性黃疸、肝臟壞死、猛爆性肝炎的報告，可能會造成肝衰竭，有些曾經導致死亡(參見第8.1節臨床重要副作用/不良反應)。部分病人可能原先患有肝病，或可能服用其他具有肝毒性藥品。
+如果出現肝功能受損的病徵及症狀，例如發生迅速無力(rapid developing asthenia)，且伴有黃疸、深色尿液、容易出血或肝性腦病，則必須立刻進行肝功能檢查。若有肝功能異常，請立即停止azithromycin治療。
+嬰兒肥厚性幽門狹窄(Infantile hypertrophic pyloric stenosis, IHPS)
+過去曾在使用azithromycin後(最晚治療至出生後第42天)的新生兒中，有嬰兒肥厚性幽門狹窄(Infantile hypertrophic pyloric stenosis, IHPS)的報告。應告知父母及嬰兒照護者，嬰兒若於餵食期間出現嘔吐或躁動(irritability)等狀況，應聯絡其醫師。
+麥角鹼衍生物
+在接受麥角鹼衍生物治療的病人中，曾有同時使用巨環類抗生素而誘發麥角鹼中毒的病例。目前未有麥角鹼與azithromycin之潛在交互作用資料，然而，基於麥角鹼中毒之理論可能性，azithromycin與麥角鹼衍生物不可併用。
+和任何的抗生素製劑一樣，建議應密切監控是否出現任何抗藥性微生物(包括黴菌)感染的跡象。
+困難腸梭菌相關腹瀉(Clostridium difficile-associated diarrhea, CDAD)
+幾乎所有的抗生素(包括azithromycin)，都有使用後發生困難腸梭菌相關腹瀉(CDAD)的報告，程度由輕度腹瀉至致命性的結腸炎不等。抗生素治療會改變正常結腸菌叢，引起困難腸梭菌(Clostridium difficile)過度生長。
+困難腸梭菌會產生毒素A與B，造成腹瀉；其中屬於超毒素(hypertoxin)的困難腸梭菌菌株，造成致病率及死亡率增高，因為此類感染通常難以使用抗生素治療，往往需要進行結腸切除術。若病人接受抗生素治療後發生腹瀉，均應考慮與困難腸梭菌相關腹瀉的可能性。此外，也必須詳盡詢問病史，因為也曾有抗生素治療超過2個月後，仍出現困難腸梭菌相關腹瀉的報告。
+QT間距延長
+使用巨環類藥物治療(包括azithromycin)的病人，曾發現心電圖中心臟再極化時間與QT間距延長，造成心律不整與torsade de pointes的風險(參見第8.1節臨床重要副作用/不良反應)，因此下列情形可能造成心室性心律不整的風險增加(包括torsade de pointes)，而導致心跳停止，對於具有致心律不整(proarrhythmic conditions)的病人，應謹慎使用azithromycin (特別是婦女與老年病人)。下列病人屬於危險族群，應衡量臨床效益及風險：
+• 先天或病歷記載有QT間距延長的病人。
+• 目前正在接受其他藥物治療，其活性成分會使QT間距延長者，如第IA類(quinidine與procainamide)與第III類抗心律不整藥物(dofetilide amiodarone與sotalol)、cisapride、terfenadine、抗精神病藥物(如pimozide)、抗憂鬱劑(如citalopram)，以及fluoroquinolone類藥物(如moxifloxacin、levofloxacin、chloroquine)，以及hydroxychloroquine。
+• 電解質濃度異常的病人，尤其是低血鉀症與低血鎂症。
+• 罹患具臨床意義之心搏過緩、心律不整或重度心功能不全的病人。
+• 可能對藥物引起之QT間距變化較敏感之婦女與老年病人。
+接受azithromycin療法的病人，曾有重症肌無力症狀惡化，以及肌無力症狀開始發作的報告(參見第8.1節臨床重要副作用/不良反應)。
+本口服懸液用粉劑含蔗糖
+本口服懸液用粉劑中，每5毫升的泡製後懸浮液含蔗糖3.87克。糖尿病病人服用本用藥時須將此列入考量。
+5.3
+操作機械能力
+沒有證據顯示azithromycin會影響駕駛交通工具或機械操作之能力。
+6 特殊族群注意事項
+《依文獻記載》
+6.1
+懷孕
+研究人員曾以最高達到中度母體毒性濃度的劑量進行動物生殖研究。在這些研究中，並未發現任何顯示azithromycin會對胎兒造成危險的證據。動物之生殖毒性試驗顯示azithromycin會穿過胎盤，但未發現致畸胎性。在懷孕期間暴露於azithromycin，相較於在同⼀時期中不使⽤抗⽣素或使⽤另⼀種抗⽣素，已經有來⾃數個國家進⾏觀察性研究的⼤量數據。雖然⼤多數研究並未顯⽰與胎兒不良反應(例如主要先天性畸形或⼼⾎管畸形)有關，但僅有有限之流⾏病學證據顯⽰懷孕早期暴露於azithromycin後流產風險增加。
+Azithromycin只有在臨床需要時並且預期治療的效益將超過其任何可能存在的微幅之風險，才能在懷孕期間使⽤。
+6.2
+哺乳
+根據目前已發表的有限文獻資訊指出，azithromycin會出現在人體乳汁中，估計最高每日劑量中位數為0.1到0.7毫克/公斤/天。未曾觀察到接受母乳哺餵的嬰兒出現azithromycin嚴重的不良反應，然而，未有azithromycin對年齡在6個月以下嬰兒的安全性報告。因此，在衡量哺餵母乳對孩子的益處與接受療法對婦女的益處後，必須在停止授乳或是終止/放棄 azithromycin 治療兩者間作出抉擇。
+6.3
+有生育能力的女性與男性
+生殖力
+大鼠的生殖力試驗顯示，投予azithromycin會降低生殖率。尚未知此發現是否與人類具相關性。
+6.7
+腎功能不全
+在GFR < 10 mL/min的病人中，觀察到azithromycin的全身暴藥量會升高33%(參見第11節藥物動力學特性)。
+7 交互作用
+《依文獻記載》
+制酸劑
+一項探討將制酸劑與azithromycin同時服用之影響的藥物動力學研究報告指出，azithromycin的生體可用率並不會受到任何影響，但觀察到其最高血清濃度會降低約25%。因此，接受azithromycin與制酸劑治療的病人絕對不可同時服用這兩種藥物。
+Cetirizine
+對健康志願者投予5天療程的azithromycin，並於穩定狀態下合併投予cetirizine 20毫克之後，並未發生任何藥物動力學交互作用，QT間距也沒有任何明顯的變化。
+Didanosine
+曾以六名HIV陽性病人進行研究，發現相較於安慰劑，併用每日劑量azithromycin 1200毫克與didanosine 400毫克，不影響穩定狀態的didanosine藥物動力學。
+Digoxin和colchicine (P-醣蛋白受質)
+曾有報告指出，當巨環類抗生素(包括azithromycin)與digoxin和colchicine等P-醣蛋白受質併用時，會造成P-醣蛋白受質的血清濃度升高。因此，若併用azithromycin與P-醣蛋白受質(如digoxin)時，應將digoxin血清濃度增加的可能性列入考量。在投予azithromycin治療期間與停藥後，應進行臨床監測和可能的digoxin血清濃度監測。
+麥角鹼
+由於存在發生痙攣性麥角鹼中毒的可能性，因此並不建議將azithromycin與麥角鹼衍生物同時使用(參見第5.1節 警語/注意事項)。
+Zidovudine
+在單次1000毫克或多次1200毫克或600毫克的劑量下，azithromycin對zidovudine或其葡萄糖醛酸代謝物之血中藥物動力學特性或尿液排泄作用的影響極微。不過，投予azithromycin會升高磷酸化zidovudine (具臨床活性的代謝物)在周邊血液單核細胞中的濃度。目前並不確知此項發現的臨床意義，但可能對病人有益。Azithromycin並不會和肝臟細胞色素P450系統發生明顯的交互作用。一般並不認為本品會發生在erythromycin及其它巨環類藥物中所見的藥物動力學藥物交互作用。透過形成細胞色素-代謝物複合體而對肝臟細胞色素P450產生誘導或去活化作用的現象並不會發生於azithromycin。
+曾針對azithromycin與下列已知會明顯透過細胞色素P450之作用代謝的藥物進行藥物動力學研究。
+HMG-CoA還原酶抑制劑(Statin類藥物)
+併用atorvastatin (10毫克/日)與azithromycin (500毫克/日)，不會改變atorvastatin之血漿濃度(依據抑制HMG CoA還原酶之分析)，因此不會造成HMG CoA還原酶活性改變。但曾有併用azithromycin與statin類藥物治療的病人，發生橫紋肌溶解症的上市後報告。
+Carbamazepine
+一項針對健康志願者所進行的藥物動力學交互作用研究發現，在同時使用azithromycin的受試者中，carbamazepine或其活性代謝物的血中濃度並未受到明顯的影響。
+Cimetidine
+在一項探討單劑cimetidine (於投予azithromycin前2小時給藥)對azithromycin藥物動力學研究中，並未發現azithromycin的藥物動力學特性有任何的改變。
+Cyclosporine
+一項針對健康志願者連續3天投予500毫克/日口服劑量之azithromycin再投予單劑10毫克/公斤口服劑量之cyclosporine的藥物動力學研究發現，cyclosporine的C
+max
+與AUC
+0-5
+有明顯升高的現象。因此，在考慮同時投予這些藥物之前應審慎評估。如果必須合併使用這些藥物，則應監視cyclosporine的濃度，並據以調整劑量。
+Efavirenz
+併用每日一劑azithromycin (600毫克)與efavirenz (400毫克)共7天，不會造成臨床顯著的藥物動力學交互作用。
+Fluconazole
+單次投予azithromycin (1200毫克)，不會改變單次投予fluconazole (800毫克)的藥物動力學。併用fluconazole不會影響azithromycin之總暴露時間與半衰期，會降低C
+max
+，但降低幅度不具臨床意義(18%)。
+Indinavir
+單次投予azithromycin (1200毫克)，併用indinavir 800毫克每日三次，共五天，對indinavir的藥物動力學沒有統計顯著的影響。
+Methylprednisolone
+一項針對健康志願者所進行的藥物動力學交互作用研究顯示，azithromycin對methylprednisolone的藥物動力學特性並不會造成任何明顯的影響。
+Midazolam
+在健康志願者中，和連續3天每天500毫克的azithromycin併用並不會使單劑15毫克之midazolam的藥物動力學特性與藥效學特性發生具臨床意義的影響。
+Nelfinavir
+併用azithromycin (1200毫克)與穩定狀態的nelfinavir (750毫克每日三次)，會提高azithromycin濃度。但未曾發現有臨床意義的不良反應，亦無需調整劑量。
+Rifabutin
+Azithromycin和rifabutin併用並不會影響任一藥物的血中濃度。在同時使用azithromycin和rifabutin治療的受試者中，曾發現嗜中性白血球減少的現象。目前已知嗜中性白血球減少的現象和使用rifabutin有關，但其和併用azithromycin間的
+因果關係尚未確立(參見第8.1節臨床重要副作用/不良反應)。
+Sildenafil
+針對健康男性自願受試者進行研究，azithromycin (500毫克/日，共3天)不會影響sildenafil的AUC、C
+max
+，或主要的血液循環代謝物。
+Theophylline
+對健康志願者合併投予azithromycin及theophylline時，並無任何證據顯示其間有具臨床意義的藥物動力學交互作用。
+Terfenadine
+藥物動力學研究的結果並未發現azithromycin與terfenadine之間有任何的交互作用。在合併使用azithromycin與terfenadine治療的病人中，曾有極少數發生交互作用的病例報告，但其因果關係尚無法確立或排除，然而，並無科學證據證實曾發生這類交互作用。
+Triazolam
+在14位健康志願者中，於第1天投予azithromycin 500毫克，第2天投予250毫克，並於第2天合併投予0.125毫克的triazolam，和triazolam加安慰劑相比較，並不會對triazolam的任何藥物動力學變量產生明顯的影響。
+Trimethoprim/sulfamethoxazole
+併用trimethoprim/sulfamethoxazole (160毫克/800毫克)與azithromycin (1200毫克)共7天後，在第7天時，trimethoprim與sulfamethoxazole的最大濃度、暴露時間，或尿液排出量，皆未發現任何重大影響。Azithromycin的血清濃度，與其他試驗結果類似。
+Coumarin類抗凝血劑
+一項藥物動力學交互作用研究顯示，azithromycin並不會改變對健康志願者投予單劑15毫克之warfarin後的抗凝血作用。在上市後期間曾接獲於合併使用azithromycin與coumarin類口服抗凝血劑後出現抗凝血作用增強之現象的報告。雖然其因果關係尚未確立，但建議對正在接受coumarin類口服抗凝血劑治療的病人投予azithromycin時，仍應考慮經常監測凝血酶原時間。
+Hydroxychloroquine
+應謹慎使用azithromycin於正在服用已知會延長QT間距之藥品的病人，如hydroxychloroquine，因可能增加心律不整風險。
+8 副作用/不良反應
+《依文獻記載》
+8.1
+臨床重要副作用/不良反應
+臨床試驗與上市後使用經驗的不良反應，依系統器官與發生率分類列於下表。上市後使用經驗的不良反應以斜體字型表示。發生率定義如下：極常見(≥1/10)、常見(≥1/100,<1/10)、不常見(≥1/1,000,<1/100)、罕見(≥1/10,000,<1/1,000)、極罕見(<1/10,000)、未知(發生率依現有資料無法估計)。各發生率下，再依嚴重度由高至低列出不良反應。
+臨床試驗與上市後使用經驗中，可能與azithromycin相關的不良反應
+系統器官類別
+不良反應
+頻率
+感染及寄生蟲
+念珠菌感染、陰道感染、肺炎、黴菌感染、細菌感染、咽炎、腸胃炎、呼吸道疾病、鼻炎、口腔念珠菌症
+不常見
+偽膜性結腸炎（參見第5.1節 警語/注意事項）
+未知
+血液淋巴系統疾患
+白血球減少、嗜中性白血球減少、嗜酸性球增多
+不常見
+血小板減少、溶血性貧血
+未知
+免疫系統疾患
+血管水腫、過敏
+不常見
+急性全身性過敏反應（參見第5.1節 警語/注意事項）
+未知
+代謝營養疾患
+厭食
+不常見
+精神疾患
+神經緊張、失眠
+不常見
+躁動
+罕見
+攻擊性焦慮、譫妄、幻覺
+未知
+神經系統疾患
+頭痛
+常見
+暈眩、嗜睡、味覺異常、感知異常
+不常見
+昏厥、抽搐、感覺遲鈍、精神運動過度活化、嗅覺喪失、味覺喪失、嗅覺異常、重症肌無力（參見第5.1節 警語/注意事項）
+未知
+眼部疾患
+視力受損
+不常見
+耳部及內耳疾患
+耳疾、眩暈
+不常見
+聽力受損，包括耳聾及/或耳鳴
+未知
+心臟疾患
+心悸
+不常見
+Torsade de pointes（參見第5.1節 警語/注意事項）、心律不整（參見第5.1節 警語/注意事項），包括心電圖發現心室心博過速、QT間距延長（參見第5.1節 警語/注意事項）
+未知
+血管疾患
+熱潮紅
+不常見
+低血壓
+未知
+呼吸道、胸腔及縱膈異常
+呼吸困難、鼻出血
+不常見
+胃腸道疾患
+腹瀉
+極常見
+嘔吐、腹痛、噁心
+常見
+便祕、脹氣、消化不良、胃炎、吞嚥困難、腹脹、口乾、打嗝、口腔潰瘍、唾液分泌增加
+不常見
+胰臟炎、舌頭變色
+未知
+肝膽疾患
+肝功能異常、膽汁鬱積性黃疸
+罕見
+肝衰竭（罕見情況下會致命）（參見第5.1節 警語/注意事項）、猛爆性肝炎、肝臟壞死
+未知
+皮膚及皮下組織疾患
+出疹、搔癢、蕁麻疹、皮膚炎、皮膚乾燥、多汗
+不常見
+光敏感反應、急性全身發疹性膿皰病(AGEP)
+§
+、嗜酸性球增多症合併全身症狀的藥物反應（DRESS）
+§
+罕見
+Stevens-Johnson症候群、毒性表皮壞死性溶解症、多形性紅斑
+未知
+肌肉骨骼與結締組織疾患
+骨關節炎、肌肉疼痛、背痛、頸部疼痛
+不常見
+關節痛
+未知
+腎臟及泌尿系統疾患
+排尿困難、腎臟疼痛
+不常見
+急性腎衰竭、間質性腎炎
+未知
+生殖系統及乳房發生異常
+子宮出血、睪丸疾病
+不常見
+全身性疾患與注射部位症狀
+水腫、無力、全身不適、疲勞、面部水腫、胸痛、發熱、疼痛、周邊水腫
+不常見
+檢查數據
+淋巴球減少、嗜酸性球增加、血中重碳酸鹽濃度降低、嗜鹼性球增加、單核球增加、嗜中性球增加
+常見
+天門冬胺酸轉胺酶增加、丙胺酸轉胺酶增加、血中膽紅素增加、血中尿素氮增加、血中肌酸酐濃度增加、血鉀異常、血中鹼性磷酸酶增加、血中氯濃度增加、血糖增加、血小板增加、血球容積減少、血中重碳酸鹽濃度增加、血鈉濃度異常
+不常見
+損傷與中毒和因醫療處置造成的併發症
+術後併發症
+不常見
+§
+不良反應的頻率由“Rule of 3”方法計算95%信賴區間之上限而得。
+9 過量
+《依文獻記載》
+在高於建議之劑量下所發生的不良事件和在正常劑量下所見者大致相同。萬一用藥過量時，應視需要採取一般性的症狀療法與支持療法。
+10 藥理特性
+《依文獻記載》
+10.1
+作用機轉
+Azithromycin會與50S核糖體次單元中的23S rRNA相結合，抑制蛋白質合成過程中的轉肽/轉位(transpeptidation/translocation)期，並抑制50S核醣體次單元組裝，從而阻斷蛋白質合成。
+10.2
+藥效藥理特性
+藥物治療分類：全身用抗菌劑–巨環類，ATC代碼J01FA10。
+Azithromycin乃是一種被稱為azalides類之巨環類抗生素中第一個問世的產品，且其化學結構並不同於erythromycin。在化學結構上，它是在erythromycin A的內酯環中插入一個氮原子所形成的化合物。其化學名為9-deoxy-9a-aza-9a-methyl-9a-homoerythromycin A。其分子量為749.0。
+心臟電生理學：
+一項隨機、安慰劑對照、平行試驗以研究QTc間距延長，共有116名健康的受試者，單獨使用chloroquine (1000mg)，或者併用azithromycin治療（500 mg、1000 mg、1500 mg，每日一次）。結果顯示併用azithromycin造成QTc間距延長，且與劑量及濃度有關。併用azithromycin 500mg、1000mg、1500mg組，QTcF的最大平均值（95%信賴區間上限），比單獨使用chloroquine組分別增加5毫秒(10)、7毫秒(12)、9毫秒(14)。
+抗藥性機轉：
+對於巨環內酯(macrolide)類(包括azithromycin)兩種最常確定的抗藥性機轉為作用目標的改變(極常經由23S rRNA甲基化所造成)和主動排出。這些抗藥性機轉的發生，可依不同菌種而異，且抗藥性頻率也會依地理位置而異。
+造成巨環內酯結合力降低的最重要核醣體改變為細菌之
+erm
+(erythromycin ribosomal methylase)甲基化酶促成在23S rRNA的核苷酸在A2058位置(
+E.coli
+編號系統)進行腺嘌呤(N)-6後轉錄甲基化。
+核醣體改變經常導致對其他抗生素類別的交叉抗藥性(MLS
+B
+表現型)，這些抗生素類別的核醣體結合位與巨環內酯類的核醣體結合位重疊：lincosamides (包括 clindamycin)和B類型Streptogramins (舉例來說，包括quinupristin，quinupristin/dalfopristin的成分)。不同的菌種有各種不同的
+erm
+基因，特別是streptococci和staphylococci。對巨環內酯類的敏感性也可能受到在核苷酸A2058和A2059的較少見突變所影響，以及在23S rRNA的某些其他位置，或者在較大次單元的核醣體蛋白質L4和L22。
+許多菌種都有排出幫浦，像是革蘭氏陰性菌，例如
+Haemophilus influenzae
+(可能本質上就有較高的最小抑菌濃度[MIC])和staphylococci。在staphylococci和enterococci中，辨識14和15環之巨環內酯類(分別包括erythromycin和azithromycin)的排出幫浦為
+mef
+(A)基因所編碼。
+在體外判定細菌對azithromycin敏感度的方法學
+敏感性測試必須使用標準實驗室方法執行，例如臨床與實驗室標準協會(Clinical and Laboratory Standards Institute, CLSI)所描述者，其中包括稀釋法(判定MIC)和紙錠感受性法。
+CLSI和歐洲抗微生物藥敏試驗委員會(The European Committee on Antimicrobial Susceptibility Testing, EUCAST)提供這些方法的判讀標準。
+根據若干的研究結果，建議在好氧環境中執行azithromycin體外測試，以確保維持生長培養基的生理pH值。對於streptococci和厭氧菌，經常會將二氧化碳分壓調高，但有時會對其他菌種造成培養基pH降低，如此會對azithromycin和其他巨環內酯類的表觀效價造成顯著負面效果。
+EUCAST也確立了基於MIC判定的azithromycin敏感性臨界點。EUCAST敏感性判斷標準如下表所列。
+Azithromycin感受性臨界點
+MIC （mg/L）
+感受性
+抗藥性
+Staphylococcus
+屬
+≤ 1
+> 2
+Streptococcus pneumoniae
+≤ 0.25
+> 0.5
+Haemolytic β streptococcus
+a
+≤ 0.25
+> 0.5
+Haemophilus influenzae
+≤ 0.12
+> 4
+Moraxella catarrhalis
+≤ 0.25
+> 0.5
+Neisseria gonorrhoeae
+≤ 0.25
+> 0.5
+a
+包括A、B、C、G族。
+EUCAST = 歐洲抗微生物藥敏試驗委員會(European Committee on Antimicrobial Susceptibility Testing)；MIC =最小抑制濃度(Minimal Inhibiting Concentration)。
+抗菌範圍：
+特定菌種後天抗藥性之盛行狀況可依地理位置和時間而異，因此建議要有當地的抗藥性資訊，特別是在治療嚴重感染時。如果依據當地的抗藥性菌株盛行狀況，一旦無法肯定抗菌藥物是否對某些感染類型有效，必要時即應諮詢專家建議。
+Azithromycin已證實對erythromycin抗藥的革蘭氏陽性菌有交叉抗藥性。如前所述，某些核醣體的改變會導致與其他抗生素類別的交叉抗藥性，其中這些抗生素類別的核醣體結合位與巨環內酯類的核醣體結合位重疊：lincosamides (包括clindamycin)、B類型Streptogramin (舉例來說，包括quinupristin，quinupristin/dalfopristin的成分)。曾觀察到有些菌種對於巨環內酯類的敏感性降低，特別是
+Streptococcus pneumoniae
+和
+Staphylococcus aureus
+，此外也在
+viridans
+族鏈球菌和
+Streptococcus agalactiae
+中觀察到此現象。
+通常對azithromycin產生敏感性的微生物包括：
+革蘭氏陽性兼性需氧菌(對erythromycin具感受性的菌株)：
+S. aureus、Streptococcus agalactiae*、S. pneumoniae*、Streptococcus pyogenes*
+、其他溶血性β streptococci (C、F、G族)、
+viridans
+族鏈球菌。對於巨環內酯類具抗藥性的細菌較常在革蘭氏陽性兼性需氧菌中分離出來，特別是對methicillin具抗藥性的
+S. aureus
+(MRSA)和對penicillin具抗藥性的
+S. pneumoniae
+(PRSP)。
+革蘭氏陰性兼性需氧菌
+Bordetella pertussis、Campylobacter jejuni、Haemophilus ducreyi*、Haemophilus influenzae*、Haemophilus parainfluenzae*、Legionella pneumophila、Moraxella catarrhalis*和Neisseria gonorrhoeae*
+。雖然azithromycin曾用於治療
+Salmonella enterica
+感染，但
+Pseudomonas
+屬和大多數
+Enterobacteriaceae
+本質上對azithromycin具抗藥性。
+厭氧菌：
+Clostridium perfringens、Peptostreptococcus
+屬和
+Prevotella bivia
+。
+其他菌種：
+Borrelia burgdorferi、Chlamydia trachomatis、Chlamydophila pneumoniae*、Mycoplasma pneumoniae*、Treponema pallidum
+和
+Ureaplasma urealyticum
+。
+與HIV感染有關的伺機性病原體。鳥分枝桿菌複合族(MAC)*以及真核微生物
+Pneumocystis jirovecii
+和
+Toxoplasma gondii
+。
+*臨床研究已證實azithromycin對抗上述菌種的療效。
+10.3
+臨床前安全性資料
+在高劑量動物研究中曾經發現，於較臨床使用高出40倍的藥物濃度下，azithromycin會導致可逆的磷脂質沉積症，但通常沒有明顯可辨的中毒表現。
+這種影響已證實在停止使用azithromycin之後即可逆轉。目前並不確知此項發現對動物及人類的意義。
+11 藥物動力學特性
+《依文獻記載》
+吸收
+在胃中的酸鹼值之下，azithromycin要比erythromycin穩定。
+口服進入人體之後，azithromycin會快速而廣泛地分佈到全身。達到尖峰血中濃度的時間為2-3小時。
+分佈
+在動物研究中，曾在吞噬細胞中觀察到極高的azithromycin濃度。在實驗模型中，和未受刺激的吞噬細胞相比較，吞噬作用活躍期間的吞噬細胞會釋出較高濃度的azithromycin。
+動物模型研究顯示，這種現象會促使高濃度的azithromycin被傳送到感染部位。
+藥物動力學研究顯示，azithromycin的組織中濃度要比血中濃度高（最高可達所觀察到之最高血中濃度的50倍），這表示此藥會與組織高度結合。口服一劑500毫克的劑量之後，在目標組織（如：肺、扁桃腺和前列腺）中所達到的濃度即可超過各種可能致病原的MIC
+90
+。
+排除
+血漿終端排除半衰期幾可完全反映其組織排空半衰期（2-4天）。
+靜脈注射一劑之後，約有12%的劑量會在3天後（大部分在最初24小時期間）以原形藥物的形式經由尿液排出。口服投藥之後，azithromycin經由膽汁排出體外乃是未改變之原形藥物的主要排除途徑。曾在人類膽汁中發現極高濃度的原形藥物，另外還有10種經由氮位和氧位去甲基化、desosamine和aglycone環羥化、以及cladinose接合位置裂解等作用所形成的代謝物。針對組織的HPLC分析與微生物學分析進行比較的結果顯示，這些代謝物並未參與azithromycin的抗微生物作用。
+在特殊族群中的藥物動力學表現
+老年人
+在老年志願者中（> 65歲），經過5天療程後所測得的AUC值要略高於年輕的志願者（< 40歲），但一般並不認為這些差異具有臨床意義，因此也不建議調整劑量。
+腎功能不全
+口服投予單劑1克的azithromycin之後，在GFR 10-80 mL/min之病人中沒有發現對藥物動力學特性的影響。GFR < 10 mL/min組和GFR > 80 mL/min組之間在AUC
+0-120
+（分別為8.8 μg x hr/mL與11.7 μg x hr/mL）、C
+max
+分別為1.0 μg/mL與1.6 μg/mL）及CLr（分別為2.3 mL/min/kg與0.2 mL/min/kg）等方面有具統計意義的差異。
+肝功能不全
+對併有輕（A級）至中度（B級）肝功能不全的病人，並無任何證據顯示azithromycin的血清藥物動力學特性會發生異於肝功能正常者的明顯改變。在這些病人中，azithromycin的尿液廓清率會出現升高的現象，這可能是對肝臟廓清率降低產生代償作用的結果。
+12 臨床試驗資料
+《依文獻記載》
+目前尚無資訊。
+13 包裝及儲存
+13.1
+包裝
+1000公克以下HDPE塑膠瓶裝。
+13.2
+效期
+效期請詳見產品外盒標示。
+13.3
+儲存條件
+儲存於25℃以下。
+13.4
+儲存注意事項
+泡製後的口服懸浮液在室溫下可保持穩定10天。
+14 病人使用須知
+容器的性質與內容物
+HDPE塑膠瓶，並附有針筒及量杯各一。
+內含可供取用600毫克的活性主成分，泡製後的懸浮液應含有200毫克/5毫升的藥物。
+15 其他
+不相容性
+無

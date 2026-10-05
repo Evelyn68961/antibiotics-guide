@@ -1,0 +1,36 @@
+Source: TFDA 藥品仿單查詢平台, 衛署藥製字第034900號
+Detail page: https://mcp.fda.gov.tw/im_detail_1/%E8%A1%9B%E7%BD%B2%E8%97%A5%E8%A3%BD%E5%AD%97%E7%AC%AC034900%E8%99%9F
+PDF (latest, uploaded 2017-05-17, DOP-D_04-106-05-17): https://mcp.fda.gov.tw/insert/pdfcasefile/i_edef98a6-602d-4623-8078-ae6972f7e267
+(Older PDF DOP-D_03-105-09-12, uploaded 2016-09-12: https://mcp.fda.gov.tw/insert/pdfcasefile/i_6ed80a18-d6a3-46dc-915d-391cc2c7645a)
+Note: PDF is a scanned image (no text layer); text below was transcribed manually from the rendered image.
+
+衛署藥製字第034900號
+廣效性口服抗生素
+"培力" 獨克士黴素 膠囊100毫克(去氧羥四環素)
+DOXYCYCLINE Capsules 100mg "P.L."
+
+【成分】每粒膠囊中含有：Doxycycline (as Hydrochloride) 100mg (Potency)
+【賦形劑】Lactose, Colloid Silicon Dioxide, Magnesium Stearate
+  膠囊殼：Gelatin, Sodium Lauryl Sulfate, Purified Water, Brilliant Blue FCF, Titanium Dioxide, Tartrazine/Glycerol
+【用法用量】本藥須由醫師處方使用。
+  一般感染：成人於治療開始之首日服用1次2粒(力價200mg)或每12小時服用1粒(力價100mg)，此後服用維持量每日1次1粒(力價100mg)。小兒首日劑量以每公斤體重4.4mg(力價)計服用1次或平分2次服用。此後每日劑量以每公斤體重2.2mg(力價)計1日1次。
+  嚴重感染：成人每日以200mg(力價)之劑量，小兒每日以每公斤體重4.4mg(力價)之劑量分1～2次服用，直到病癒為止。
+【適應症】革蘭氏陽性，陰性菌，立克次氏體及巨型濾過性病毒引起之感染症。
+【注意事項】
+ 1. 本品之治療應繼續至病狀及熱度消失為止，同時並應注意本品停止服用後其有效抗菌效能仍能持續24~36小時。
+ 2. 本品與氫氧化鋁凝膠為禁忌，因後者可減低四環素類之吸收。
+ 3. 本品可能導致嚴重的肝及腎變壞，甚至導致死亡，尤以孕婦及具肝腎疾病患者之長期治療為然，故在使用本品前及使用期間應作肝、腎機能及血中尿素氮檢查，在發現對肝腎有副作用發生時即應停止使用或予適當治療則可恢復正常。
+ 4. 發現有過敏現象時即應立即停止使用。
+ 5. 治療期間同時觀察有否促成抗生素通有之無感受性菌生長（尤其白色念珠菌之感染），如發現則酌量服用或藉他法防止之。
+ 6. 本品限由醫師處方使用。
+【特性】
+ 1. 抗菌範圍廣對革蘭氏陽性菌，革蘭氏陰性菌及立克次氏體及巨型濾過性病毒有效。
+ 2. 用量最少，是治療第一天後，唯一每日只需服用一粒的廣效口服抗生素。
+ 3. 通常治療中斷後，治療濃度至少可持續24到36小時。
+ 4. 在口服後的第一個小時，血液中已達有效治療濃度。
+ 5. 口服後吸收完全，不受Penicillinase(盤尼林分解酶)的作用，不會妨礙抗菌治療。
+ 6. 副作用小，消化不良的副作用遠較其他四環素小。
+ 7. 服用本品可不必顧及用餐之時間，因食物之消化不足以妨礙本品之吸收，此與其他四環素不同。
+【儲存】25℃以下，於原包裝儲存。
+【包裝】2~1000粒塑膠瓶裝、鋁箔盒裝。
+培力藥品工業股份有限公司 台中市西屯區工業區六路11號  DOP-D_04

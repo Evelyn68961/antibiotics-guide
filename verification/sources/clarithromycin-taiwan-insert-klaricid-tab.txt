@@ -1,0 +1,1614 @@
+Source: TFDA 藥品仿單查詢平台 (mcp.fda.gov.tw), 開羅理黴素膜衣錠 KLARICID FILM-COATED TABLETS 500MG, 衛署藥輸字第022420號, 美商亞培股份有限公司台灣分公司; manufacturer AbbVie S.r.l. (Italy). Derived from FJUH NHI code BC22420100 (FJUH KLA02). Insert version: 歷史仿單 latest 113/12/03 (2024-12-03), version 4. Fetched 2026-10-05.
+URL: https://mcp.fda.gov.tw/im_detail_1/%E8%A1%9B%E7%BD%B2%E8%97%A5%E8%BC%B8%E5%AD%97%E7%AC%AC022420%E8%99%9F
+
+1 性狀
+1.1
+有效成分及含量
+含有 Clarithromycin 500 mg
+1.2
+賦形劑
+錠劑體
+:
+Croscarmellose Sodium, Cellulose Microcrystalline, Silicon dioxide, Povidone, Stearic acid, Magnesium stearate, Talc
+膜衣層
+ (
+色素及膜衣
+):
+Hypromellose, Sorbitan mono-oleate, Propylene glycol, Hydroxypropylcellulose, Titanium dioxide, Vanillin, Quinoline Yellow (E104 aluminium lake), Sorbic acid
+1.3
+劑型
+膜衣錠 
+1.4
+藥品外觀
+黃色卵圓形膜衣錠
+2 適應症
+上、下呼吸道有感受性細菌所引起之感染症
+，可與
+omeprazole
+併用治療與幽門螺旋桿菌
+(H. pylori)
+有關之十二指腸潰瘍。
+說明：
+Clarithromycin
+適用於治療因受下列有感受性微生物所引起之感染症：
+(1) 
+下呼吸道感染
+ (
+如，支氣管炎、肺炎
+)
+(2)
+上呼吸道感染
+ (
+如，咽炎
+, 
+鼻竇炎
+)
+(3)
+皮膚及軟組織感染
+ (
+如，毛囊炎、蜂窩組織炎、丹毒
+) 
+(4)
+由禽結核桿菌
+ (
+Mycobacterium avium
+) 
+或細胞內分枝桿菌
+ (
+Mycobacterium intracellulare
+) 
+所引起之散發性或局部分枝桿菌感染。由龜鼈結核桿菌
+ (
+Mycobacterium chelonae
+)
+、偶然結核分枝桿菌
+ (
+Mycobacterium fortuitum
+) 
+或堪薩斯分枝桿菌
+ (
+Mycobacterium kansasii
+) 
+引起之局部感染
+(5)
+適用於預防散佈型禽結核分枝桿菌群
+ (
+Mycobacterium avium
+) 
+感染發生在
+CD4 
+淋巴球數目小於或等於
+100/mm
+3
+且受
+HIV
+感染的病人
+(6)
+在制酸劑的存在下可用於幽門螺旋桿菌
+ (
+H. pylori
+) 
+的根除，減少十二指腸潰瘍的復發
+ (
+請參閱
+”
+進一步說明
+”)
+(7)
+治療齒源性感染
+3 用法及用量
+3.1
+用法用量
+成人：
+Clarithromycin 
+之成人及
+12
+歲以上兒童一般建議劑量為
+250 mg
+膜衣錠，每天二次，每次一錠。較嚴重之感染，劑量可增加至
+500 mg
+每天二次。一般療程為
+5-14
+天，但社區型的肺炎和鼻竇炎的治療需治療
+6-14
+天。
+受分枝桿菌感染之病人：受分枝桿菌感染的成人其建議劑量為
+500 mg
+每天二次。
+只要有顯示出臨床及微生物學上的效益，治療受散播型禽結核分枝桿菌群
+ (MAC) 
+感染之
+AIDS
+病人應持續使用。
+Clarithromycin
+與其他抗分枝桿菌藥物一起使用。
+其他非結核分枝桿菌的治療，應在醫師之判斷下繼續治療。
+禽結核分枝桿菌群預防劑量：
+Clarithromycin
+之成人建議劑量為
+500 mg
+每天二次。
+用於治療齒源性感染之治療，
+clarithromycin 
+之劑量為每次一錠
+250 mg
+膜衣錠，每天二次，使用
+5
+天。
+根除幽門螺旋桿菌之建議劑量範圍為：
+三合一療法
+Clarithromycin 500 mg 
+每天二次併服
+lansoprazole 30 mg 
+每天二次及
+amoxicillin 1000 mg
+每天二次使用
+10-14
+天。
+Clarithromycin 500 mg 
+每天二次、
+amoxicillin 1000 mg
+每天二次及
+omeprazole 20 mg
+每天二次一起服用
+10-14
+天。
+二合一療法
+Clarithromycin 500 mg 
+每天三次和
+omeprazole 
+每天
+40 mg
+，一起服用
+14
+天，接下來的
+14
+天每天服用
+omeprazole 20 mg
+或
+40 mg
+。
+Clarithromycin 500 mg 
+每天三次與
+lansoprazole
+每天
+60 mg
+一起服用
+14
+天。要完全的使潰瘍復原，則可能需要進一步的酸抑制。
+腎功能不全病人：
+肌酸酐廓清率低於
+30 mL/min
+之腎功能不全病人，
+clarithromycin
+之劑量須減半，即
+250 mg
+每天一次，或在較嚴重的感染以
+250 mg
+每天兩次。這些病人不得連續使用超過
+14
+天。
+兒童
+本
+clarithromycin
+速放劑型尚未對小於
+12
+歲之兒童進行研究。
+4 禁忌
+Clarithromycin 禁用於已知對大環內酯 (macrolide) 抗生素或任何賦形劑過敏之病人 (請參閱”1.2 賦形劑”節)。
+Clarithromycin不得與下列藥物同時投與：如astemizole、cisapride、pimozide、terfenadine、domperidone，因為可能會造成QT 延長及心律不整，包括心室心搏過速、心室纖維顫動及torsades de pointes (請參閱 “7. 交互作用”)。
+Clarithromycin禁止與麥角生物鹼( ergot alkaloids)類藥品 (如，ergotamine 、 dihydroergotamine、ergometrine(ergonovine)、methylergometrine(methylergonovine)) 併用，因可能增加麥角中毒風險。(請參閱”7. 交互作用”說明)。
+Clarithromycin不應使用於有QT 延長 (先天性或曾有QT延長紀錄者) 或心室心律不整病史，包括torsades de pointes (多型性心室心律不整) 病史的病人 
+(
+請參閱 ”警語及注意事項” 和”7. 交互作用” 說明
+)
+。
+Clarithromycin不應使用於有電解質紊亂的病人(低血鉀或低血鎂)(有造成QT延長的風險)。
+Clarithromycin不應使用於有嚴重肝衰竭伴有腎功能不全的病人。
+Clarithromycin 不應與經由CYP3A4廣泛代謝之HMG-CoA還原酶抑制劑 (statins) 如lovastatin或simvastatin併用，因為可能會有增加發生肌肉病變 (myopathy)，包括橫紋肌溶解症的風險。
+(
+請參閱 ”警語及注意事項”
+)
+。
+Clarithromycin (與其他強效CYP3A4抑制劑) 不應與colchicine併用 
+(
+請參閱 ”5. 警語及注意事項” 和”7. 交互作用” 說明
+)
+。
+Clarithromycin不應與ticagrelor、ivabradine或ranolazine併用。
+Clarithromycin禁止與 Lomitapide併用。
+5 警語及注意事項
+5.1
+警語/注意事項
+Clarithromycin應避免使用於有低血鉀症且未校正的病人 (有QT 延長的風險)。
+使用任何抗微生物治療，如clarithromycin，來治療幽門螺旋桿菌 
+(H. pylori) 
+感染，對抗藥性微生物會有選擇性。
+在未對懷孕婦女小心衡量治療效益及危險性，特別是在懷孕的前3個月內，醫師不應對懷孕婦女開clarithromycin的處方。
+和其他的抗生素一樣，長期使用可能導致不具感受性的細菌及真菌菌落數目增加。
+如果發生雙重感染 (superinfection)，應施以適當的治療。
+Clarithromycin 主要由肝臟代謝。因此，對肝功能不全之病人應謹慎使用此種抗生素。對中度至重度腎功能不全之病人亦應謹慎使用此種抗生素。
+對重度腎功能不全的病人應謹慎使用。 
+曾有報導使用clarithromycin而發生肝功能不良，包括肝功能指數升高和肝細胞毒性和/或膽汁阻塞性肝炎 (有或無黃疸) 的報告。此肝功能不良可能是嚴重的且通常是可逆的。曾報導有一些肝臟衰竭導致死亡的案例，通常與嚴重的潛在疾病和/或併用藥物有關。如果發生肝炎症狀與徵候，如食慾缺乏、黃疸、深茶色尿液、搔癢、腹部觸痛，應立即停用clarithromycin。
+幾乎所有的抗菌製劑，包括大環內酯抗生素，都有關於偽膜性結腸炎 (Pseudomembranous colitis) 的報告，嚴重程度從輕微到危及生命皆有可能。幾乎使用所有的抗菌製劑，包括clarithromycin，都有產生與難治梭狀芽胞桿菌 (
+Clostridioides difficile) 
+相關的腹瀉 (CDAD) 的報告，嚴重程度從輕微腹瀉到危及生命的結腸炎皆有可能。使用抗生素治療改變了結腸正常菌群生態，而可能導致
+C. difficile
+的過度生長。
+所有使用抗生素治療後產生腹瀉的病人，皆必須考慮可能為CDAD。應注意醫療病史，因為曾有報導在投與抗生素後超過兩個月才發生CDAD的報告。
+秋水仙素 (Colchicine)
+上市後之報告指出，同時投與clarithromycin與colchicine會產生colchicine毒性，特別是對年長病人，其中一些是發生在腎功能不全的病人。這些病人曾有死亡的報告 (請參閱”7. 交互作用-Colchicine”說明)。併用clarithromycin和秋水仙素是禁止的 (請參閱”4. 禁忌”) 。
+Clarithromycin與triazolobenzodiazepines類藥品
+，
+如triazolam和注射或口腔粘膜投與 midazolam，併用時應謹慎 (請參閱”7.交互作用”)。
+心血管事件
+已被發現使用大環內酯類藥物包括clarithromycin 治療會延長心臟再極化和QT間隔，可能造成心律不整和 torsades de pointes的風險 (請參閱”8. 副作用/不良反應” )。因此，由於以下幾種情況可能導致心室性心律不整的風險增加（包括torsades de pointes），clarithromycin應謹慎用於以下病人:
+用於病人患有冠狀動脈疾病、嚴重心臟功能不全傳導障礙或臨床相關之心搏徐緩。
+Clarithromycin 不應給與低血鉀症或低血鎂症的病人 (請參閱”4.禁忌”)。
+病人併用其他可能造成QT 延長相關的藥物時，須謹慎使用（請參閱”7. 交互作用”）。
+Clarithromycin禁止併用astemizole、cisapride、pimozide、terfenadine、domperidone (請參閱”4. 禁忌”)。
+Clarithromycin不應使用於病人有先天性或記錄曾有QT間隔延長或心室性心律不整的病史（請參閱”4. 禁忌”）。
+由於潛在的心血管事件和心血管死亡率的風險有增加，對於任何正在服用hydroxychloroquine或chloroquine的病人，在處方Clarithromycin之前應仔細考慮利益和風險的平衡（請參閱 ”7. 交互作用”）。
+調查巨環類抗生素（Macrolides）在心血管不良效果之風險的流行病學研究顯示出多樣的結果。在某些觀察性研究已確定出和巨環類抗生素包括Clarithromycin相關的心律不整、心肌梗塞及心血管死亡率的罕見短期風險。處方Clarithromycin時，應衡量這些發現的顧慮與治療益處。
+肺炎
+有鑑於肺炎鏈球菌 (
+Streptococcus pneumoniae) 
+對大環內酯抗生素出現抗藥性，處方 clarithromycin 以治療社區感染性肺炎時，進行敏感性測試是很重要的。用於治療院內感 染的肺炎時，clarithromycin 應與其他適當的抗生素併用。
+皮膚及軟組織之輕微至中度感染
+這類感染通常大多是由金黃色葡萄球菌 
+(Staphylococcus aureus)
+及釀膿鏈球菌(
+Streptococcus pyogenes) 
+所引起，這兩種細菌都可能對大環內酯抗生素具抗藥性所以進行敏感性測試很重要。在無法使用乙型內醯胺酶 (如：對藥物過敏) 的情況下，其他抗生素如：clindamycin，可做為首選藥物。目前認為大環內酯抗生素只在某些皮膚與軟組織感染扮演角色，如：微小棒狀桿菌 (
+Corynebacterium minutissimum) 
+引起的尋常痤瘡和丹毒，以及無法使用 penicillin 治療的狀況。
+如發生嚴重的過敏反應，如：全身性過敏反應、嚴重皮膚過敏反應(severe cutaneous adverse reactions, SCAR) (例如：急性廣泛性發疹性膿疱症(Acute generalized exanthematous pustulosis, AGEP)、Stevens-Johnson症候群、毒性表皮壞死溶解、嗜伊紅血球過多性藥疹與全身症狀(DRESS)及過敏性紫斑症(Henoch-Schonlein purpura))，應立即停用 clarithromycin，並立即以適當療法進行治療。
+Clarithromycin 與誘發細胞色素 CYP3A4 酵素的藥物併用時，須小心使用 (詳閱”7. 交互作用”)。
+使用 clarithromycin 與其他大環內酯類藥物，以及lincomycin和clindamycin可能會有交叉抗藥性產生，應特別注意。
+HMG-CoA 還原酶抑制劑 (statins)
+Clarithromycin禁止與lovastatin與simvastatin併用 (請參閱4. 禁忌)。當處方clarithromycin與其他statins 時應謹慎小心。曾有使用clarithromycin的病人併用這些statins藥物時發生橫紋肌溶解症之報告。若使用clarithromycin治療無法避免在治療期間使用statin時，應監測病人重症肌無力的症狀與癥候。建議處方最低核准劑量之statin。應考慮使用非經CYP3A 代謝的statin類藥物 (如，fluvastatin) (詳閱”7. 交互作用”)。
+口服降血糖藥/胰島素
+當clarithromycin與口服降血糖藥(如sulphonylurias)及/或胰島素併用時，可能造成顯著的低血糖症。建議應小心監測血糖。
+口服抗凝血劑
+當clarithromycin與warfarin併用時，有嚴重出血及國際標準化比值 (INR) 與凝血酶原時間(prothrombin time) 顯著升高的風險。當病人同時接受clarithromycin與口服抗凝血劑時，應頻繁地監測國際標準化比值與凝血酶原時間。
+當clarithromycin併用直接作用型口服抗凝血劑（例如dabigatran, rivaroxaban , apixaban及edoxaban）特別是當病人處於出血的高風險時，應謹慎使用（請參閱 ”7. 交互作用”）。
+5.3
+操作機械能力
+目前並無 clarithromycin 對駕駛與操作機械能力的影響之相關資料。病人於駕駛或操作機械前，應將使用本品可能造成頭昏、眩暈、精神混亂及定向力障礙的潛在風險列入考量。
+6 特殊族群注意事項
+6.1
+懷孕
+Clarithromycin用於懷孕的安全性尚未建立。根據來自動物實驗及人體使用經驗的多樣性結果顯示，無法排除對於胚胎發育可能產生的不良作用。某些觀察性研究評估在第一孕期及第二孕期期間暴露於Clarithromycin相較於未使用抗生素或是使用其他抗生素已通報流產的風險增加。現有流行病學研究對於懷孕期間使用包括Clarithromycin在內的macrolides類抗生素與重大先天性畸形的風險提供不一致的結果。因此，若未仔細衡量利益與風險，本品不建議使用於懷孕婦女。
+6.2
+哺乳
+Clarithromycin會少量分泌到人類母乳中。一個純母乳哺餵的嬰兒會接受到母親體重調整劑量約1.7％的Clarithromycin。Clarithromycin用於授乳期間的安全性尚未建立。
+6.3
+有生育能力的女性與男性
+在大鼠，沒有任何來自生育力研究的證據顯示對於生育能力具有損害（請參閱 ”10.3 臨床前安全性資料”）。
+7 交互作用
+於可能產生嚴重的藥物交互作用，嚴格禁止併用下列藥物：
+Cisapride、pimozide、astemizole、terfenadine、domperidone
+曾有同時投與cisapride與clarithromycin的病人其cisapride的血中濃度升高的報告。這可能會導致QT間隔延長及心律不整包括心室性心搏過速、心室纖維顫動和torsades de pointes (多型性心室心律不整)。相似的作用亦在併服clarithromycin與pimozide的病人觀察到 (請參閱 ”4. 禁忌” 說明)。
+大環內酯類曾被報導會改變terfenadine的代謝而使terfenadine濃度上昇， 此現象偶而與心律不整，如QT間隔延長、心室心搏過速、心室纖維顫動和torsades de pointes有關 (請參閱 ”4.禁忌” 說明) 。在一14位健康受試者之試驗中，同時投予clarithromycin與terfenadine，結果血清中的terfenadine的酸性代謝物濃度增加2-3倍且QT間隔延長，但未產生任何臨床上可偵測到的作用。相似的作用亦在併服astemizole和其他大環內酯類觀察到。
+麥角生物鹼(Ergot alkaloids)類藥品(
+如ergotamine 、 dihydroergotamine、ergometrine(ergonovine)、methylergometrine(methylergonovine)):
+同時投與 clarithromycin 及麥角生物鹼類藥品， 可能增加麥角生物鹼類藥品之血中濃度，引起罕見但嚴重之血管攣縮以致顱部及/或四肢缺血之風險。Clarithromycin 禁止與麥角生物鹼( ergot alkaloids)類藥品併用 (請參閱 ”4.禁忌”說明)。
+口服Midazolam
+Midazolam與clarithromycin錠劑 (500毫克，一天二次) 併用時，midazolam的AUC在口服後增加7倍。禁止口服併用midazolam和clarithromycin (請參閱 “4. 禁忌” 說明)。
+HMG-CoA 還原酶抑制劑 (statins)
+Clarithromycin禁止與lovastatin與simvastatin併用 (請參閱4. 禁忌)，因為這些statins 經由CYP3A4廣泛代謝，若與clarithromycin併用治療會增加它們的血中濃度，進而增加肌肉病變的風險，包括橫紋肌溶解症。曾有使用clarithromycin的病人併用這些statins藥物時發生橫紋肌溶解症之報告。若使用clarithromycin治療無法避免，在治療期間應停用lovastatin或simvastatin。
+當處方clarithromycin與statins 時應謹慎小心。應考慮使用非經CYP3A 代謝的statin類藥物 (如，fluvastatin)。
+當併用clarithromycin與非列為禁忌之statins治療無法避免的情況下，建議處方最低核准劑量之statin，且atorvastatin不可超過每日20 mg，pravastatin不可超過每日40 mg之建議劑量。應監測病人重症肌無力的症狀與癥候。
+Lomitapide
+Clarithromycin禁止與Lomitapide併用，因為可能會造成轉氨酶顯著地上升（請參閱 ”4. 禁忌”）。
+其他
+Clarithromycin禁止與主要經由CYP3A4代謝的ticagrelor, ivabradine及ranolazine併用。（請參閱”4.禁忌”）
+其他藥物對clarithromycin的影響
+能誘導CYP3A 活性的藥物 (如：rifampicin、phenytoin、carbamazepine、phenobarbital及St John’s Wort) 可能會促進clarithromycin的代謝，使其濃度降至治療濃度以下而減損藥效。此外，可能需要監測 CYP3A 誘導劑的血中濃度，因 clarithromycin 會抑制 CYP3A 而可能使這些藥物的濃度升高 (請參閱所服用的 CYP3A4誘導劑之相關產品資訊)。同時服用rifabutin與clarithromycin可能造成rifabutin血中濃度增加，而clarithromycin血中濃度降低，且升高葡萄膜炎的風險。
+下列藥物為已知或懷疑會影響clarithromycin在循環系統中的濃度；可能需要調整clarithromycin的劑量或考慮其他替代治療。
+Efavirenz、nevirapine、rifampicin、rifabutin及rifapentine
+諸如efavirenz、nevirapine、rifampicin、rifabutin及rifapentine等藥物為細胞色素P450代謝系統的強誘導劑，可能會加速clarithromycin的代謝，因而降低clarithromycin的血漿濃度，同時會提高一種也具有抗菌活性的代謝物 14 (R)-hydroxy-clarithromycin (14-羥基-clarithromycin) 之濃度。因為clarithromycin與14-羥基-clarithromycin對不同細菌的抗菌活性並不相同，當clarithromycin與酵素誘導劑併用，會影響預期的治療效果。
+Etravirine
+Etravirine 會降低 clarithromycin 的暴露量，但會使其活性代謝物 14-OH-clarithromycin 濃度增加。由於 14-OH-clarithromycin 對抗禽結核分枝桿菌群(
+Mycobacterium avium 
+complex,
+ MAC
+) 的活性較低，藥物對抗此病原的整體活性可能因而改變，因此，應考慮以其他藥物代替 clarithromycin 以治療抗禽結核分枝桿菌群 (
+MAC
+)。
+Fluconazole
+21位健康自願受試者，同時投與fluconazole每天200 mg與clarithromycin每天兩次、每次500 mg，導致clarithromycin平均穩定狀態最小濃度 (C
+min
+) 增加33%，而曲線下面積 (AUC) 增加18%。併用fluconazole對於活性代謝物14-羥基-clarithromycin 的穩定狀態濃度並無顯著影響。不需調整clarithromycin劑量。
+Ritonavir
+由一每8小時投與ritonavir 200 mg及每12小時投與clarithromycin 500 mg之藥物併用的藥物動力學試驗結果顯示，clarithromycin的代謝明顯被抑制。倂服ritonavir會使clarithromycin 的C
+max
+增加31%，C
+min
+增加182%及AUC增加77%，14-羥基-clarithromycin的形成被完全抑制。由於 clarithromycin 的治療劑量區間廣泛，腎功能正常的病人不需要調整劑量。然而，腎功能不全的病人就須考慮以下劑量之調整：病人的肌酸酐廓清率(CL
+CR
+) 介於30-60 mL/min，clarithromycin的劑量需減少50%。病人的CL
+CR
+小於30 mL/min，clarithromycin 的劑量需減少75%。Clarithromycin 的劑量超過每天1 gm時，不應與ritonavir倂服。
+以 ritonavir 做為藥動學促進劑且併用其他 HIV 蛋白酶抑制劑 (包括atazanavir 與 saquinavir) 用於治療腎功能不佳的病人時，應考慮以類似方式調整劑量( 請參閱下節”雙向藥物交互作用”)。
+Clarithromycin對其他藥物的影響
+抗心律不整藥物
+曾有上市後報導併用clarithromycin與quinidine或disopyramide而發生torsades de pointes的報告。當這些藥物與clarithromycin併用時，應監測心電圖觀察是否發生QT間隔延長。使用clarithromycin治療期間應監測這些藥物的血清濃度。
+已有併用clarithromycin與disopyramide發生低血糖的上市後報導。因此，併用clarithromycin與disopyramide期間要進行血糖濃度的監測。
+口服降血糖藥/胰島素
+當與某些降血糖藥 (如，nateglinide、pioglitazone、repaglinide 及 rosiglitazone) 併用時，clarithromycin可能與抑制CYP3A 酶有關而造成低血糖症。建議應小心監測血糖。
+以CYP3A為基礎的交互作用
+已知clarithromycin會抑制CYP3A，當與其他主要經由CYP3A代謝的藥物併用時，可能導致這些併用藥物的濃度升高而增加或延長藥物的治療效果以及不良反應。
+病人接受其他已知為CYP3A酵素受質的藥物進行治療時，尤其當此CYP3A受質的安全濃度範圍狹窄 (如carbamazepine)，及/或此受質是藉由CYP3A廣泛代謝時，使用clarithromycin應特別小心。
+當病人同時併用clarithromycin時，可能須考慮調整劑量，且當可行時，應密切監測主要藉由CYP3A代謝的藥物之血清濃度。
+Corticosteroids
+由於有增加皮質類固醇全身性暴露的可能性，clarithromycin與主要經由CYP3A代謝的全身性及吸入性皮質類固醇併用時，應特別小心。 如果病人有併用的情形，應密切監測全身性皮質類固醇的不良反應。
+下列為已知或懷疑經由同一CYP3A異構酶代謝之藥物或藥品分類：alprazolam、astemizole、carbamazepine、cilostazol、cisapride、cyclosporine、disopyramide、麥角鹼、lovastatin、methylprednisolone、midazolam、omeprazole、口服抗凝血劑 (如warfarin、rivaroxaban、apixaban)、非典型抗精神病藥物 (如quetiapine)、 pimozide、quinidine、rifabutin、sildenafil、simvastatin、tacrolimus、terfenadine、triazolam 和 vinblastine等 (此未包括所有藥品在列)。在細胞色素P450系統內，經由其他異構酶以相似的代謝機制而有交互作用之藥物包括：phenytoin、theophylline和valproate。
+直接作用型口服抗凝血劑 (DOACs)
+直接作用型口服抗凝血劑Dabigatran及edoxaban為外排轉運蛋白（efflux transporter）P-gp的受質。Rivaroxaban與 Apixaban經由CYP3A4代謝，也是P-gp的受質。當Clarithromycin併用這些藥物特別是給具有出血高風險的病人時，應謹慎使用（請參閱 ”5. 警語及注意事項”）。
+Omeprazole
+健康成年受試者同時投與clarithromycin (每8小時投與500 mg) 與omeprazole (每天40 mg)。併用clarithromycin時，其omeprazole穩定狀態血漿濃度增加 (C
+max
+、AUC
+0-24
+及T
+1/2
+分別增加30%、89%與34%)。當omeprazole單獨投與時，平均24小時胃中pH值為5.2，當omeprazole與clarithromycin併用時則為5.7。
+Sildenafil、tadalafil及vardenafil
+每一個這些磷酸雙酯酶抑制劑皆由，或至少部份是由CYP3A代謝，當併用clarithromycin可能會抑制CYP3A。當併用clarithromycin與sildenafil、tadalafil或vardenafil時，很可能會造成磷酸雙酯酶抑制劑的暴露增加。當sildenafil、tadalafil及vardenafil與clarithromycin併用時，應考慮降低這些藥物的劑量。
+Theophylline、carbamazepine
+臨床研究結果顯示， 當theophylline或carbamazepine與clarithromycin併服時，其血中濃度會出現不多但具統計意義的增加(p≤0.05)。
+Tolterodine
+Tolterodine的主要代謝途徑是藉由細胞色素P450的2D6異構物 (CYP2D6) 代謝。然而，在缺乏CYP2D6的族群中，是藉由CYP3A路徑代謝。在此族群中，抑制CYP3A會導致tolterodine血清濃度明顯提高。在CYP2D6代謝差的族群，當存在CYP3A抑制劑時 (如clarithromycin)，可能必須降低tolterodine的劑量。
+Triazolobenzodiazepines (如alprazolam、midazolam、triazolam)
+當midazolam與clarithromycin錠劑 (500 mg每天兩次) 併用時，以靜脈投與midazolam，midazolam AUC會增加2.7倍。若clarithromycin併用靜脈投與midazolam，需密切監測病人以便調整劑量。Midazolam經由口腔粘膜的途徑遞送藥物，這可以繞過系統前排除藥物，可能造成與靜脈注射midazolam後(而非以口服給藥) 觀察到類似的相互作用。
+其他以CYP3A代謝的benzodiazepines (包括triazolam與alprazolam) 也適用相同的注意事項。對於並非依賴CYP3A進行排除的benzodiazepines (如，temazepam、nitrazepam、lorazepam)，不大可能與clarithromycin發生臨床上重要的交互作用。
+曾有上市後報告指出，同時併服clarithromycin與triazolam會產生藥物交互作用以及中樞神經系統 (CNS) 作用 (如困倦以及紊亂)。建議監測病人中樞神經系統藥理作用的增加。
+其他藥物交互作用
+Colchicine
+Colchicine是CYP3A及藥物外排轉運蛋白P-醣蛋白 (P-glycoprotein; P-gp) 的受質。已知clarithromycin及其他大環內酯會抑制CYP3A及P-gp。當同時併用clarithromycin及colchicine時，clarithromycin對P-gp及CYP3A的抑制作用，可能導致血中colchicine的含量增加。禁止併用clarithromycin和秋水仙素(請參閱 ”5. 警語及注意事項” 說明)。
+毛地黃 (Digoxin)
+毛地黃被認為是藥物外排轉運蛋白P-醣蛋白 (P-glycoprotein; P-gp) 的受質。已知clarithromycin會抑制P-gp。當同時投與clarithromycin與毛地黃，clarithromycin會抑制P-gp而導致毛地黃的暴露量提高。在上市後監督報告中，也曾有病人同時併服clarithromycin與毛地黃而發生血清毛地黃濃度上升的報導。已有病人產生符合毛地黃毒性的臨床症狀，包括有致死危險的心律不整。當病人同時服用毛地黃與clarithromycin時，應小心監測血清毛地黃濃度。
+Zidovudine
+對被HIV感染的成人病人同時口服投與clarithromycin錠劑及zidovudine，可能會降低zidovudine於穩定狀態的濃度。因為clarithromycin似乎會干擾到同時服用之zidovudine的吸收，此交互作用可藉由安排clarithromycin及zidovudine交錯投藥 (間隔4小時) 而大幅避免。在被HIV感染的病童同時服用clarithromycin懸浮劑和zidovudine或dideoxyinosine，此交互作用並未發生。
+Phenytoin及Valproate
+曾有自發性通報或發表於文獻的報告指出：CYP3A 抑制劑，包含 clarithromycin，會與一般認定非經 CYP3A 代謝的藥物 (如：phenytoin 與 valproate) 產生交互作用。在這些藥物與 clarithromycin同時使用時，建議測定其血中濃度。曾有血中濃度升高的報告。
+雙向藥物交互作用
+Hydroxychloroquine and chloroquine
+觀察性資料顯示，患有類風溼性關節炎的病人共同投與azithromycin及hydroxychloroquine，與增加心血管事件及心血管死亡率相關。由於會有引發心律不整及嚴重心血管不良事件的可能，對於正在服用已知會延長QT 間隔之藥物的病人，應警慎使用clarithromycin。
+Atazanavir
+Clarithromycin及atazanavir都是CYP3A的受質與抑制劑，且已顯示具有雙向藥物交互作用。併用clarithromycin (500 mg每天兩次) 與atazanavir (400 mg每天一次)，結果clarithromycin暴露量增加2倍，14-羥基-clarithromycin的暴露量減少70%，而atazanavir的AUC增加28%。由於 clarithromycin 的治療劑量區間廣泛，腎功能正常的病人不需要調整劑量。然而，中度腎功能不全的病人 (肌酸酐廓清率為30到60 mL/min)，clarithromycin的劑量需減少50%。病人的肌酸酐廓清率小於30 mL/min，應使用適當的clarithromycin配方使clarithromycin 的劑量減少75%。Clarithromycin 的劑量超過每天1000 mg時，不應與蛋白酶抑制劑倂服。
+鈣離子通道阻斷劑
+併用clarithromycin與經由CYP3A4代謝之鈣離子通道阻斷劑 (如，verapamil, amlodipine, diltiazem) 應小心因為有產生低血壓的風險。因為交互作用產生，clarithromycin與鈣離子通道阻斷劑的血中濃度會增加。低血壓、徐緩性心律不整及乳酸中毒曾在併用clarithromycin與verapamil的病人中被發現。
+Itraconazole
+Clarithromycin及itraconazole皆為CYP3A的受質與抑制劑，因而導致雙向藥物交互作用。Clarithromycin可能會增加itraconazole的血漿濃度，同時itraconazole也可能會增加clarithromycin的血漿濃度。病人同時服用itraconazole及clarithromycin時，應密切監控藥理作用所增加或延長的症狀與徵兆。
+Saquinavir
+Clarithromycin及saquinavir皆為CYP3A的受質與抑制劑，且已顯示具有雙向藥物交互作用。12位健康受試者，同時投與clarithromycin (每天兩次，每次500 mg) 與saquinavir (軟膠囊，1200 mg每天三次)，結果saquinavir的穩定狀態AUC與C
+max
+值較單獨使用saquinavir時分別提高177%與187%。Clarithromycin的AUC與C
+max
+值則較單獨使用clarithromycin時提高約40%。在劑量/配方研究有限的時間內，併用兩種藥物不需要調整劑量。使用軟膠囊配方進行藥物交互作用研究所觀察到的結果可能無法代表使用saquinavir硬膠囊時會產生的影響。單獨使用saquinavir進行藥物交互作用研究所觀察到的結果可能也無法代表saquinavir/ritonavir合併治療時會產生的影響。當saquinavir併用ritonavir時，應考慮ritonavir對clarithromycin的潛在影響 (參照7. 交互作用)。
+冠狀動脈疾病
+冠狀動脈疾病病人在使用Clarithromycin治療後一至十年內全因死亡率分析：
+在一項評估Clarithromycin治療冠狀動脈疾病病人結果的臨床試驗中，觀察到隨機分配到接受Clarithromycin治療的病人在治療結束後一年或更長時間內全因死亡風險增加。Clarithromycin用於治療冠狀動脈疾病並不是一個被核准的適應症。風險增加的原因尚未確定。其他評估這種風險的流行病學研究顯示出不同的結果。
+考慮在懷疑或確診冠狀動脈疾病的病人處方Clarithromycin時，應衡量這種潛在風險與治療益處。
+8 副作用/不良反應
+8.1
+臨床重要副作用/不良反應
+使用 clarithromycin 發生頻率最高與最常見的不良反應，在成人及兒童皆為：腹痛、腹瀉、噁心、嘔吐及味覺錯亂。這些不良反應通常症狀輕微，且和目前已知的大環內酯抗生素之安全性概況一致。
+在臨床試驗中，比較早已存有分枝桿菌感染的病人與先前未曾感染的病人，發現兩族群的胃腸道副作用發生率並無明顯差異
+。
+下表為 clarithromycin 速效錠、口服懸液用顆粒劑、靜脈注射劑、持續性藥效錠及緩釋錠在臨床試驗中與上市後使用經驗所報告的的不良反應。
+經認定為可能與使用 clarithromycin 有關的反應，以器官系統分類及頻率以下列方式表示：非常常見(≥1/10)、常見(≥1/100 至 ＜1/10)、不常見(≥1/1000 至 ＜1/100) 及未知 (在上市後使用經驗所報告的副作用；由現有資料無法估算)。發生頻率相同的不良反應再依嚴重度由重至輕依序排列。
+Clarithromycin 的不良反應報告
+身體器官分類
+非常常見
+≥ 1/10 
+常見 
+≥ 1/100 to < 1/10 
+不常見 
+≥ 1/1,000 to < 1/100 
+未知
+(無法由現有資料估算) 
+感染與寄生蟲
+蜂窩性組織炎
+1
+、念珠菌感染、胃腸炎
+2
+、感染
+3
+、陰道感染
+偽膜性結腸炎、丹毒
+血液與淋巴系統異常
+白血球減少、嗜中性球減少
+4
+、血小板增多
+3
+、嗜伊紅血球增多
+4
+顆粒性白血球缺乏、血小板減少
+免疫系統異常
+類全身性過敏反應
+1
+、過敏
+全身性過敏反應、血管性水腫
+代謝與營養異常
+厭食、食慾減低
+精神病學異常
+失眠
+焦慮、神經質
+3
+精神失調、精神紊亂、人格解離、憂鬱、定向力障礙、妄想、異常的夢境、狂躁症
+神經系統異常
+味覺障礙、頭痛
+喪失意識
+1
+、運動困難
+1
+、頭昏、嗜睡、顫抖
+抽搐、喪失味覺(局部或全部)、嗅覺障礙或錯亂、喪失嗅覺、感覺異常
+耳朵與內耳迷路異常
+眩暈、聽力受損、耳鳴
+耳聾
+心臟異常
+心跳停止
+1
+、心房纖維顫動
+1
+、心電圖QT間隔延長、期外收縮
+1
+、心悸
+Torsade de pointes、心室心搏過速、心室顫動
+血管異常
+血管擴張
+1
+出血
+呼吸、胸廓與縱隔異常
+氣喘
+1
+、鼻出血
+2
+、肺栓塞
+1
+胃腸異常
+腹瀉、嘔吐、消化不良、噁心、腹痛
+食道炎
+1
+、胃食道逆流
+2
+、胃炎、肛門痛
+2
+、口腔炎、舌炎、腹脹
+4
+、便秘、口乾、打嗝、脹氣
+急性胰臟炎、舌頭變色、牙齒變色
+肝膽異常
+肝功能檢查異常
+膽汁鬱積
+4
+、肝炎
+4
+、丙氨酸轉胺酶 (alanine aminotransferase) 升高、天門冬胺酸轉胺酶 (aspartate aminotransferase) 升高、g-麩氨酸轉移酶 (gamma-glutamyl transferase)  升高
+4
+肝衰竭、肝細胞性黃疸
+皮膚與皮下組織異常
+出疹、多汗症
+水泡性皮膚炎
+1
+、搔癢、蕁麻疹、斑丘疹
+3
+嚴重皮膚過敏反應( SCAR) (例如：急性廣泛性發疹性膿疱症(AGEP)、Stevens-Johnson 症候群、毒性表皮壞死溶解、嗜伊紅血球過多性藥疹與全身症狀(DRESS))、青春痘
+骨骼肌與結締組織異常
+肌肉痙攣
+3
+、骨骼肌僵硬
+1
+、肌肉疼痛
+2
+橫紋肌溶解症
+2
+、**肌肉病變
+腎臟與泌尿系統異常
+血液肌酸酐升高
+1
+、血中尿素濃度升高
+1
+腎衰竭、間質性腎炎
+全身性異常與用藥部位問題
+注射部位靜脈炎
+1
+注射部位疼痛
+1
+、注射部位發炎
+1
+心神不安
+4
+、發燒
+3
+、無力、胸痛
+4
+、畏寒
+4
+、疲勞
+4
+實驗室數據
+白蛋白球蛋白比例異常
+1
+、血中鹼性磷酸酶升高
+4
+、血中乳酸去氫酶升高
+4
+國際標準化比值 (INR) 升高、凝血時間延長、尿液顏色異常
+* 由於這些反應為自發性通報，無法得知母數大小，因此其發生頻率的估算結果可能不能盡信，亦無法完全依此判定不良反應與用藥治療的因果關係。據估計，clarithromycin 的總治療數超過10億病人天。
+** 有些橫紋肌溶解症案例是發生在clarithromycin併用其他已知與產生橫紋肌溶解症有關之藥物 (如statins、fibrates、colchicine 或 allopurinol)。
+1
+僅限於注射用粉劑的ADR 報告
+2
+僅限於緩釋錠的ADR 報告
+3
+僅限於口服懸液用顆粒劑的ADR 報告
+4
+僅限於速放錠的ADR 報告
+免疫受損 (Immunocompromised) 之病人
+以較高劑量clarithromycin長期治療遭分枝桿菌感染之AIDS和其他免疫受損的病人，通常很難區分產生的不良反應是與clarithromycin可能相關、或是HIV疾病的原發性症狀、或併發的疾病。
+在成人病人，以clarithromycin每日總劑量1000 mg治療的病人，最常被報導之副作用包括：噁心、嘔吐、味覺異常、腹痛、腹瀉、紅疹、胃腸脹氣、頭痛、便秘、聽覺障礙、
+血清
+麩草酸轉胺基酶 (SGOT) 和
+血清
+麩焦葡萄酸轉胺基酶
+(SGPT) 值昇高。另外，不常見的副作用包括呼吸困難、失眠和口乾。
+對這些免疫受損的病人評估其超出該檢驗項目嚴重異常標準 (如，極高或極低值)之實驗室數據。基於這個標準，約2-3%以clarithromycin 1000 mg/day 治療之病人，結果產生嚴重的SGOT、SGPT值異常升高及白血球細胞及血小板數目異常降低之情形。少數的病人也有BUN上升的變化。
+9 過量
+報告指出，服食大量之clarithromycin可預期會引起胃腸症狀。一名具有躁鬱症病史的病人服用clarithromycin 8公克之後，顯示出精神狀態改變、偏執行為、低血鉀症以及低血氧症。
+伴隨過量所產生的不良反應必須以立即排除未被吸收的藥品及支持性療法來治療。如同其他大環內酯一樣，血清clarithromycin濃度不認為會受血液透析或腹膜透析而有顯著影響。
+10 藥理特性
+10.1
+作用機轉
+Clarithromycin
+藉由與感受性細菌的
+50S
+核糖體次單位結合，及抑制蛋白質的合成來發揮其對抗細菌的作用。
+10.2
+藥效藥理特性
+藥理治療分類
+: 
+全身性抗菌劑
+Antibacterial
+，大環內酯
+ATC-Code: J01FA09
+Clarithromycin 
+是一種半合成大環內酯
+ (macrolide) 
+抗生素，將
+erythromycin 
+內酯環
+ (lactonic ring)
+上第
+6
+個位置的羥基
+ (hydroxyl
+；
+OH) 
+以
+CH
+3
+O 
+取代所得到的。明確地說
+clarithromycin
+是
+6-O-methyl erythromycin A
+。此具苦味之白色或淡白色抗生素粉末，幾乎沒有氣味，基本上不溶於水，輕微溶解於乙醇、甲醇和
+acetonitrile 
+中。其分子量為
+747.96
+。
+微生物學
+：
+ Clarithromycin
+已證明在體外不論是對標準細菌株或臨床分離株皆具有很好的抗菌活性。對廣泛的菌種如好氧性、厭氧性革蘭氏陽性菌和革蘭氏陰性菌的抗菌作用都很強。一般而言，
+clarithromycin 
+的最低抑菌濃度
+ (minimum inhibitory concentration
+；
+MIC) 
+不到
+erythromycin
+的最低抑菌濃度的一半。
+在體外的數據顯示，
+clarithromycin
+具有很好的對抗嗜肺性退伍軍人桿菌
+ (
+Legionella pneumophila
+) 
+和肺炎黴漿菌
+ (
+Mycoplasma pneumoniae
+) 
+的活性。
+Clarithromycin
+在中性
+pH
+對幽門螺旋桿菌
+ (
+Helicobacter pylori
+) 
+的殺菌活性比在酸性
+pH
+更強。在體外和體內的數據顯示此抗生素對分枝桿菌類的活性具有臨床上的意義。體外數據顯示腸內菌、假單胞菌屬和其他非乳酸發酵革蘭氏陰性菌對
+clarithromycin
+不具感受性。
+Clarithromycin 
+在體外試驗及臨床感染上通常對下列微生物有效，如在
+適應症
+章節所示：
+嗜氧性革蘭氏陽性菌
+：
+金黃葡萄球菌
+ (
+Staphylococcus aureus
+)
+、肺炎鏈球菌
+ (
+Streptococcus pneumoniae
+)
+、釀膿鏈球菌
+ (
+Streptococcus pyogenes
+)
+、單核球增多性李斯特菌
+ (
+Listeria monocytogenes
+)
+。
+嗜氧性革蘭氏陰性菌
+：
+流行感冒嗜血桿菌
+ (
+Haemophilus influenzae
+)
+、副流行感冒嗜血桿菌
+ (
+Haemophilus parainfluenzae
+)
+、
+Moraxella catarrhalis
+、淋病奈瑟菌
+ (
+Neisseria gonorrhoeae
+)
+、嗜肺性退伍軍人桿菌
+ (
+Legionella pneumophila
+)
+。
+其他微生物
+：
+肺炎黴漿菌
+ (
+Mycoplasma pneumoniae
+)
+、肺炎披衣菌
+ (
+Chlamydia pneumoniae
+)
+ (TWAR)
+。
+分枝桿菌屬
+：
+痲瘋分枝桿菌
+ (
+Mycobacterium leprae
+)
+、堪薩斯分枝桿菌
+ (
+Mycobacterium kansasii
+)
+、龜鼈結核桿菌
+ (
+Mycobacterium chelonae
+)
+、偶然結核桿菌
+ (
+Mycobacterium fortuitum)
+、禽結核分枝桿菌群
+ (
+Mycobacterium avium
+ complex-MAC):
+含禽結核分枝桿菌
+ (
+Mycobacterium avium
+) 
+和細胞內分枝桿菌
+ (
+Mycobacterium intracellulare
+)
+。
+乙型內醯胺酶
+ (Beta-lactamase) 
+的產生並不會影響
+clarithromycin
+的活性。
+註解
+：對
+methicillin
+具抗藥性的大部分菌株以及對
+oxacillin
+具抗藥性的金黃色葡萄球菌，對
+clarithromycin
+具有抗藥性。
+螺旋桿菌屬
+：
+幽門螺旋桿菌
+對
+104
+位病人於治療前做細菌培養，分離出幽門螺旋桿菌
+(H. pylori) 
+且測定其
+clarithromycin
+的最低抑菌濃度
+ (MIC)
+。其中有
+4
+位病人有抗藥性菌株，
+2
+位病人有中間感受性菌株，和
+98
+位病人有感受性菌株。　
+有以下的體外資料，
+但其臨床意義尚未知。
+Clarithromycin
+在體外對以下微生物大部份的菌株具有活性；然而，以
+clarithromycin
+治療因這些微生物所引起之臨床感染的安全性及有效性，尚未在適當且控制良好的臨床試驗被確立。
+嗜氧性革蘭氏陽性菌
+：
+無乳鏈球菌
+(Streptococcus agalactiae)
+、鏈球菌屬
+(Streptococci, Group C,F,G)
+、和緩鏈球菌
+(Viridans group streptococci)
+。
+嗜氧性革蘭氏陰性菌
+：
+百日咳球桿菌
+(Bordetella pertussis)
+、鼠敗血病桿菌
+(Pasteurella multocida)
+。
+厭氧性革蘭氏陽性菌
+：
+產氣莢膜梭菌
+ (
+Clostridium perfringens
+)
+、月柬球菌屬
+ (
+Peptococcus niger
+)
+、痤瘡初油酸菌
+ (
+Propionibacterium acnes
+)
+。
+厭氧性革蘭氏陰性菌
+：
+Bacteroides melaninogenicus
+。
+螺旋體屬
+：
+Borrelia burgdorferi
+、梅毒螺旋體
+(Treponema pallidum)
+。
+彎曲桿菌屬
+：
+空腸彎曲菌
+(Campylobacter jejuni)
+。
+Clarithromycin
+在人類及其他靈長類動物體內主要的代謝物
+14-
+羥基
+-clarithromycin
+也具有抗微生物的活性。此代謝物對大部份的有機體而言，具有與原型約相同或比原型藥物低
+1-2
+倍的活性；但流行感冒嗜血桿菌
+ (
+H. influenzae
+) 
+除外，
+14-
+羥基代謝物對它的抗菌活性比原型藥物強兩倍。原型藥物及
+14-
+羥基代謝物在體內和體外試驗中，對流行感冒嗜血桿菌有加成性或協同作用，則視細菌的菌株而定。
+Clarithromycin
+被發現在一些試驗動物感染模式中，其活性比
+erythromycin
+高
+2-10
+倍。例如在老鼠的全身性感染、老鼠皮下膿瘍及由肺炎鏈球菌
+(
+S. pneumoniae
+)
+、金黃葡萄球菌
+ (
+S. aureus
+)
+、釀膿鏈球菌
+ (
+S. pyogenes
+) 
+及流行感冒嗜血桿菌
+ (
+H. influenzae
+) 
+所引起之老鼠呼吸道感染，
+clarithromycin
+已顯示出比
+erythromycin
+更有效。此作用對受退伍軍人桿菌感染的天竺鼠更顯著，腹膜內劑量
+1.6 mg/kg/day
+的
+clarithromycin
+比
+50 mg/kg/day
+的
+ erythromycin
+更有效。
+感受性試驗
+藉由測量抗菌區域直徑之定量方法可最精確的評估細菌對抗生素的感受性。一個建議的程序為使用浸漬
+15 mcg clarithromycin
+之紙錠
+ (disc) 
+來測試感受性
+ (Kirby-Bauer 
+擴散試驗
+)
+；以
+clarithromycin
+之最低抑菌濃度值來解讀與此紙錠試驗測得抑菌圈直徑之關聯。最低抑菌濃度是藉由肉湯
+ (broth) 
+或瓊脂稀釋
+ (agar dilution) 
+方法所測定。
+經由這些試驗步驟，若實驗室報告為：
+”
+具感受性
+”
+，指此致病菌種可能會對治療有反應，若報告為
+ ”
+具抗藥性
+” 
+指此致病菌種可能對治療無反應，
+”
+中度感受性
+” 
+指此致病菌種對治療的效果無法預期或需較高劑量方對此菌種有效
+ (
+亦稱為中間感受性
+)
+。
+請參考國內關於感受性、抗藥性和中度感受性的範圍定義。
+10.3
+臨床前安全性資料
+急性、亞慢性和慢性毒性試驗
+以小白鼠
+ (mice)
+、大鼠
+ (rat)
+、狗及
+/
+或猴子為對象口服投與
+clarithromycin
+進行研究。投與期間為從單一劑量到每日重複口服投與連續六個月。
+在小白鼠和大鼠之急性毒性研究中，當以每公斤體重
+5 g
+單次劑量以胃管灌食後只有一隻大鼠而沒有小白鼠死亡。因此，中間致死劑量，比最高試驗可投與劑量
+ (
+每公斤體重
+5 g) 
+大。
+靈長類動物以
+clarithromycin 100 mg/kg/day
+連續投與
+14
+天或以
+35 mg/kg/day
+連續投與一個月，結果無相關不良反應產生。相似地，當大鼠以
+clarithromycin 75 mg/kg/day
+投與
+1
+個月、
+以
+35 mg/kg/day 
+投與
+3
+個月或以
+8 mg/kg/day
+投與
+6
+個月，結果無相關不良反應產生。狗對
+clarithromycin
+較敏感，可忍受
+50 mg/kg/day 
+達
+14
+天、
+10 mg/kg/day
+達
+1
+個月和
+3
+個月、
+4 mg/kg/day
+達
+6
+個月而無相關不良反應產生。
+在上述這些研究中，毒性劑量的主要臨床症狀包括：嘔吐、虛弱、食量降低、體重減輕、唾液分泌增加、脫水和異常活躍。
+10
+隻猴子中有
+2
+隻在投與
+400 mg/kg/day
+第
+8
+天後死亡；一些被投與
+400 mg/kg/day 
+達
+28
+天而仍存活的猴子曾在一些零星的時候排出顏色為黃色的異常糞便。
+任何種的動物在毒性劑量下之首要標的器官為肝臟。在所有動物肝毒性的發展是以血清中之鹼性磷酸酶
+ (alkaline phosphatase)
+、丙氨酸和天門東胺酸
+ (
+鹽
+) 
+轉胺酶、
+g-
+麩氨酸轉移酶
+(gamma-glutamyl transferase)
+、和
+/
+或乳酸去氫酶
+ (lactic dehydrogenase) 
+的初期濃度提升來評估。停止投藥通常能使這些特定的參數回歸或接近正常濃度。
+在許多的研究中較不常被影響的其他組織包括胃、胸腺及其他淋巴組織，以及腎臟。在投與近於治療劑量之後，結果只有狗產生結膜充血及流淚的現象。於投與
+400 mg/kg/day
+之高劑量，結果一些狗與猴子產生角膜渾濁和
+/
+或水腫。
+生育力、繁殖力和致畸性
+生育力和繁殖力研究顯示，雌性大鼠每日劑量
+150 mg/kg/day (
+使用最高試驗劑量
+)
+，結果對動情週期、生育力、繁殖力和後代的數目及生存能力無不良反應產生。在雄性大鼠中，劑量達到
+250 mg/kg
+，沒有證據顯示會對生育能力有不良毒性。在兩個以
+Wistar
+大鼠
+ (
+口服
+) 
+和
+Sprague Dawley (
+口服和靜脈注射
+) 
+大鼠為對象之致畸胎研究、一個以紐西蘭白兔為對象的研究，和另一以
+cynomolgus
+猴子為對象，均未顯示使用
+clarithromycin
+會有任何畸胎現象產生。僅在一附加的研究中，
+Sprague Dawley
+大鼠在相似劑量及本質上相似的狀況下，確實有發生率
+ (6%) 
+非常低且不具統計意義之心血管異常。這些異常是由於族群基因改變的自然表現。另外兩個以小白鼠為對象的研究，投與人類慣用每日臨床劑量上限
+ (500 mg
+每日二次
+) 
+的
+70
+倍，結果顯示有顎裂異常發生
+ (3-30%) 
+但在人類每日最大臨床劑量
+35
+倍時則沒有，推測有母體與胎兒的毒性但無致畸胎性。
+於妊娠第
+20
+天開始給予大約人類慣用每日臨床劑量上限
+ (500 mg
+每日二次
+) 10
+倍的
+clarithromycin
+，顯示其會造成猴子胚胎流失。此作用被歸因於在非常高劑量下此藥物對母體具有毒性。於一以人類每日最大劑量約
+2.5 - 5
+倍劑量投與懷孕母猴之附加研究試驗，結果顯示對懷孕體無獨特的危害。
+一小白鼠的顯性致死試驗，投與
+clarithromycin 1000 mg/kg/day (
+約為
+70
+倍的人類每日最大臨床劑量
+) 
+明顯的沒有任何致突變活性，而在一個投與高達
+500 mg/kg/day
+劑量於大鼠
+ (
+約
+35
+倍人類每日最大臨床劑量
+) 
+達
+80
+天之研究，並無雄性生殖能力因長期暴露於這些超高劑量的
+clarithromycin
+之下而有功能上的損傷之證據。
+突變
+評估
+clarithromycin
+造成突變的可能性，是使用非活性與活性大鼠肝微粒體測試系統
+ (Ames Test)
+。這些研究結果顯示在濃度
+25 mcg/petri plate
+或更低時，沒有潛在致突變證據。當濃度為
+50 mcg
+時，藥物對所有測試的菌株皆可能誘發突變。
+11 藥物動力學特性
+吸收
+口服投與
+clarithromycin
+的動力學已經在一些種類的動物及成年人作廣泛的研究。這些研究顯示
+clarithromycin
+於腸道中容易且快速被吸收且絕對生體可用率約為
+50%
+。在任何種類的動物投與多次劑量後，只有少許或沒有無法預測的體內藥品蓄積，而且代謝排除並無改變。在進食後立即投藥，會使
+clarithromycin
+的生體可用率平均增加
+25%
+。整體而言，此增加為輕微且對建議投藥方式應該沒有什麼臨床意義。因此
+clarithromycin 
+可與食物併服或空腹投與。
+分佈、生物轉化
+(biotransformation)
+與排除
+體外試驗
+體外研究的結果顯示，當
+ clarithromycin
+的濃度為
+ 0.45-4.5 mcg/mL
+時，它在人體血漿中的蛋白質結合率約平均為
+70%
+。濃度為
+45.0 mcg/mL
+時蛋白質結合率減少至
+41%
+，顯示蛋白質結合處可能已呈飽和狀態，但此現象只發生在濃度遠超過治療的藥物濃度。
+體內試驗
+動物試驗結果顯示，
+clarithromycin
+在所有組織中
+ (
+除中樞神經系統外
+) 
+的濃度，比循環中的藥物濃度高出數倍。最高的濃度通常在肝臟和肺臟被發現，其組織與血漿之濃度比率
+ (T/P) 
+達到
+10-20
+。
+正常受試者
+投與
+clarithromycin 250 mg 
+每日二次，於
+2-3
+天後達穏定狀態血漿濃度，
+ clarithromycin 
+平均約為
+1 mcg/mL
+，
+14-
+羥基
+-clarithromycin 
+為
+0.6 mcg/mL
+，而排除半衰期分別為原型藥物
+3-4
+小時，代謝物
+5-6
+小時。投與
+clarithromycin 500 mg 
+每日二次，在第
+5
+次投藥後可讓
+clarithromycin
+及其羥基代謝物達到穏定狀態之最高血中濃度
+ (C
+max
+)
+。在投與第
+5
+及第
+7
+次劑量後，
+clarithromycin
+之穏定狀態之
+C
+max
+分別為
+2.7
+及
+2.9 mcg/mL
+；其羥基代謝物平均為
+0.88
+及
+0.83 mcg/mL
+。在
+500 mg
+劑量下，原型藥物的半衰期為
+4.5-4.8
+小時，而
+14-
+羥基
+-clarithromycin
+為
+6.9-8.7
+小時。達穩定狀態時
+14-
+羥基
+-clarithromycin
+之血中濃度不會隨
+clarithromycin
+之劑量成比例增加，且
+clarithromycin
+與其羥基代謝物的半衰期在較高劑量下皆有明顯的增長。
+Clarithromycin
+呈現非線性之藥物動力學，再加上在高劑量下會全面減少
+14-
+羥化及
+N-demethylation
+的形成，顯示
+clarithromycin
+之非線性代謝在高劑量時會更顯著。
+成人口服投與單劑量
+clarithromycin 250 mg
+或
+1200 mg
+，較低劑量時的尿液排除率為
+37.9%
+，較高劑量時的尿液排除率為
+46.0%
+。糞便排除率於各別劑量則為
+40.2%
+和
+29.1% (
+此數據包含其中一位受試者之唯一糞便樣品之排除率為
+14.1%)
+。
+病人
+Clarithromycin
+和其
+14-
+羥基代謝物很快的分布於組織和體液中。從少數的病人所得之有限數據，顯示出於口服後，在腦脊髓液中的
+clarithromycin
+未達到臨床上有意義的濃度
+ (
+即，正常血腦障壁的病人，只有血清濃度的
+1-2%
+會出現在腦脊髓液中
+)
+。在組織中的濃度通常比在血清的濃度高出數倍。組織和血清濃度如下例所示：
+濃度
+(
+在每
+12
+小時投與
+250 mg
+後
+)
+組織型態
+組織
+(mcg/g)
+血清
+(mcg/mL)
+扁桃腺
+1.6
+0.8
+肺
+臟
+8.8
+1.7
+肝功能不全
+在一個比較一組健康受試者及一組肝功能不全病人的研究中，連續
+2
+天每日二次投與
+250 mg clarithromycin
+，第
+3
+天投與單劑量
+250 mg
+，
+clarithromycin
+穩定狀態血漿濃度和全身清除率，在兩組間無明顯差異。相較而言，肝功能不全受試者組之
+14-
+羥化代謝物的穩定狀態濃度則明顯較低。此原型化合物因
+14-
+羥基代謝廓清的降低，會因其原型藥物在腎臟廓清的增加而部份抵消，導致在肝功能不全者及健康受試者之原型藥物的穩定狀態濃度相當。這些結果顯示對中度或重度的肝功能不全但腎功能正常者，不需要調整劑量。
+腎功能不全
+在一以正常人與腎功能降低病人受試者，多次口服投與
+clarithromycin 500 mg
+的試驗中，評估與比較其藥物動力學曲線。腎功能不全病人的原型藥物及其
+14-
+羥基代謝物的血漿濃度、半衰期、
+C
+max
+、
+C
+min
+較正常人高，
+且
+AUC
+比正常人大。但
+K
+elim
+和尿液排除率較低。這些參數的差異大小與腎功能不全程度有關；腎功能不全愈嚴重，差異愈明顯
+ (
+請參閱
+ ”
+用法與用量
+” 
+說明
+)
+。
+年長受試者
+有一個研究評估和比較健康年輕成年男性和健康老年男性和女性受試者，多次口服投與
+500 mg clarithromycin
+之安全性與藥物動力學曲線，研究顯示老年人之原型藥物及
+14-
+羥基代謝物的循環血漿濃度比年輕人的高且排除較慢。然而，當腎臟清除率與肌酐酸清除率有關聯性時，此兩族群間無差異。從這些結果所得之結論為
+clarithromycin
+的任何作用與腎功能有關而與受試者本身的年齡無關。
+禽結核分枝桿菌
+ (
+Mycobacterium avium
+) 
+感染
+HIV
+成人病人在每
+12
+小時投與
+500 mg clarithromycin
+，
+clarithromycin
+及
+14-
+羥基
+ clarithromycin
+達穩定狀態時之濃度與正常受試者相似。
+然而，當需要以較高劑量治療禽結核分枝桿菌感染時，
+clarithromycin
+的濃度會比服用一般劑量時高很多。受
+HIV
+感染之成人病人投與
+1000 mg/day
+及
+2000 mg/day
+分二次使用，達穩定狀態時
+C
+max
+分別為
+2-4 mcg/mL
+及
+5-10 mcg/mL
+。與正常人一般投與劑量比較，這些較高劑量之排除半衰期變長。在這些劑量下，有較高的血漿濃度和較長的排除半衰期，此現象與
+clarithromycin
+非線性的藥物動力學一致。
+併服
+Omeprazole
+在一個投與
+clarithromycin 500 mg
+每天三次和
+omeprazole 40 mg
+每天一次之藥物動力學的研究顯示，當每
+8
+小時單獨投與
+clarithromycin 500 mg
+，其達穩定狀態時
+C
+max
+平均約為
+3.8 mcg/mL
+，平均
+C
+min
+約為
+1.8 mcg/mL
+。當投與
+clarithromycin 500 mg
+每天三次，其平均
+AUC
+0-8
+為
+22.9 mcg/hr/mL
+，
+ T
+max
+及半衰期分別為
+2.1
+小時及
+5.3
+小時。
+同一研究顯示，當投與
+clarithromycin 500 mg
+每天三次且同時投與
+omeprazole 40 mg
+每天一次，會增加
+omeprazole
+的半衰期和
+AUC
+0-24
+。評估所有受試者發現，同時投與
+clarithromycin
+和單獨使用
+omeprazole
+比較，
+ omeprazole
+的平均
+AUC
+0-24
+增加
+89%
+，半衰期增加
+34%
+。當達穩定狀態時，
+clarithromycin
+併服
+omeprazole
+之
+C
+max
+、
+C
+min
+及
+AUC
+0-8
+比
+clarithromycin
+同時投與安慰劑時分別多增加
+10%
+、
+27%
+、
+15%
+。
+在穩定狀態時，比較投藥
+6
+小時後，
+clarithromycin
+於胃黏液的濃度，同時投與
+clarithromycin
+和
+omeprazole
+比單獨使用
+clarithromycin
+者高達約
+25
+倍。劑量投與
+6
+小時後胃組織的平均
+clarithromycin
+濃度，同時投與
+omeprazole
+比同時投與安慰劑者高出約
+2
+倍。
+12 臨床試驗資料
+幽門螺旋桿菌與消化性潰瘍疾顯著相關。
+90%-100%
+的十二指腸潰瘍病人是被此病原菌感染。幽門螺旋桿菌的根除顯示可降低十二指腸潰瘍復發的比率，藉此可降低持續制酸劑治療的需求。
+十二指腸潰瘍的三合一療法
+在一對照良好的雙盲試驗，受幽門螺旋桿菌感染的十二指腸潰瘍病人接受三合一療法，即
+clarithromycin 500 mg
+每天二次、
+amoxicillin 1000 mg
+每天二次和
+omeprazole 
+每天
+20 mg
+達
+10
+天或二合一療法，即
+clarithromycin 500 mg
+每天三次和
+omeprazole 
+每天
+40 mg
+使用
+14
+天。
+90%
+使用三合一療法的病人和
+60%
+使用二合一療法的病人可根除幽門螺旋桿菌。
+在一受幽門螺旋桿菌感染的病人接受根除治療的獨立研究中，投與
+clarithromycin 500 mg
+每天二次，併用
+amoxicillin 1000 mg
+每天二次及
+omeprazole
+每天
+20 mg (A
+組
+)
+，或僅併用
+omeprazole 20 mg
+每天二次
+(B
+組
+)
+，使用
+7
+天。這些病人之前未曾接受抗幽門螺旋桿菌治療，結果
+A
+組有
+86% (95% CI=69-95)
+的病人幽門螺旋桿菌被根除，
+B
+組則有
+75% (95% CI=62-85)
+被根除。
+在一開放標籤研究，幽門螺旋桿菌感染的十二指腸潰瘍病人或非潰瘍性消化不良症病人
+ (NUD) 
+以
+clarithromycin 500 mg
+每天二次、
+lansoprazole 30 mg 
+每天二次再加上
+amoxicillin 1000 mg
+每天二次治療達
+10
+天。分析全部接受治療之病人，結果有
+91%
+的病人可根除幽門螺旋桿菌。
+十二指腸潰瘍的二合一療法
+在幽門螺旋桿菌感染的十二指腸潰瘍病人接受根除治療之對照、雙盲試驗中，投與
+clarithromycin 500 mg
+每天三次和
+omeprazole 
+每天
+40 mg 14
+天後，接下來的
+14
+天使用
+omeprazole
+每天
+40 mg (
+試驗
+A) 
+或使用
+omeprazole
+每天
+20 mg (
+試驗
+B
+、
+C
+和
+D)
+；每一試驗之對照組之病人皆單獨投與
+omeprazole 28
+天。在試驗
+A
+中，有超過
+80%
+併用
+clarithromycin 
+和
+omeprazole
+的病人，其幽門螺旋桿菌被根除，而僅接受
+omeprazole
+的對照組病人僅有
+1%
+被根除。在試驗
+B
+、
+C
+和
+D
+中，在同時投與
+clarithromycin 
+和
+omeprazole
+的病人其綜合根除率超過
+70% (
+臨床評價分析
+)
+，單獨投與
+omeprazole
+的病人其根除率小於
+1%
+。在每一試驗中，同時投與
+clarithromycin 
+和
+omeprazole
+的病人在六個月後的潰瘍復發率明顯低於單獨投與
+omeprazole
+的病人。
+在一個單盲
+ (investigator-blind) 
+試驗，受幽門螺旋桿菌感染的病人以
+clarithromycin 500 mg
+每天三次合併使用
+lansoprazole 60 mg/day
+一次或分次服用達
+14
+天之根除治療，結果合併使用之根除率超過
+60%
+。
+13 包裝及儲存
+13.1
+包裝
+500 mg tablet
+，
+4-1000
+錠鋁箔盒裝
+13.2
+效期
+詳見外盒
+13.3
+儲存條件
+以密封之原包裝避光儲存於30℃以下 。
+15 其他
+譯自 RDCCDS000046/11  (05-Mar-2024) & 20240822 TFDA request
+INS100L21401
+ATC Code
+主次
+代碼
+英文名
+主
+J01FA09
+clarithromycin
+✖
+1 性狀
+2 適應症
+3 用法及用量
+4 禁忌
+5 警語及注意事項
+6 特殊族群注意事項
+7 交互作用
+8 副作用/不良反應
+9 過量
+10 藥理特性
+11 藥物動力學特性
+12 臨床試驗資料
+13 包裝及儲存
+15 其他
+製造廠
+藥商
+驗證碼：
+重新產生
+播放驗證碼語音
+送出
+✖
+:::
+本網站所刊出內容之著作權屬於衛生福利部食品藥物管理署所有，未經本署之同意或授權，任何人不得以任何形式重製、轉載、散佈、引用、變更、播送或出版該內容之全部或局部，亦不得為其他任何違反本署著作權之行為。
+ 服務專線：02-7737-2958
+ 服務信箱：mcp@tradevan.com.tw
+ 服務時間：週一～週五08:30~17:30
+Copyright © 2019 衛生福利部食品藥物管理署
+Food and Drug Administration, Ministry of Health and Welfare.
+All rights reserved.
+登入
+-->
+登入
+帳
+號：
+密
+碼：
+驗證碼：
+重新產生
+播放驗證碼語音
+登入
+忘記密碼
+會員註冊
+✖

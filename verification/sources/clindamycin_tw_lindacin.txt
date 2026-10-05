@@ -1,0 +1,25 @@
+SOURCE: TFDA 藥品仿單查詢平台 — 利達信黴素膠囊150公絲"信東" LINDACIN CAPSULES 150MG (CLINDAMYCIN) "S.T."
+Licence 衛署藥製字第043991號 (信東生技; mfr 榮民製藥). Insert file: 40419100 Lindacin Capsules 150mg (Lit)-(印刷版次3)-104-12-25 (uploaded 2015-12-25)
+Page: https://mcp.fda.gov.tw/im_detail_1/%E8%A1%9B%E7%BD%B2%E8%97%A5%E8%A3%BD%E5%AD%97%E7%AC%AC043991%E8%99%9F
+PDF:  https://mcp.fda.gov.tw/insert/pdfcasefile/i_24ea12f5-ce70-461c-bcc6-3d1a2172829b
+NOTE: PDF is a scanned image (pdftotext returns nothing; no OCR tool installed). Key sections below were transcribed manually from the rendered page images; verify against the PDF before quoting verbatim.
+
+【適應症】鏈球菌、葡萄球菌、肺炎雙球菌等所引起之感染症。
+ (說明 lists URTI, LRTI incl. lung abscess, SSTI, bone/joint (osteomyelitis, septic arthritis), gynecologic infections incl. PID (with Gram-neg agent), intra-abdominal (with Gram-neg agent), septicaemia/endocarditis, dental infections, AIDS toxoplasmic encephalitis (with pyrimethamine), AIDS PCP (with primaquine), malaria (P. falciparum, alone or with quinine/amodiquine).)
+
+【用法用量】
+ 成人口服 clindamycin hydrochloride 膠囊: 每 6 小時 150~450 mg。
+ 一月齡以上兒童: 每日 8~25 mg/kg 平分 3 或 4 次投藥。
+ PID (住院): clindamycin phosphate 900 mg IV q8h + gentamicin 2 mg/kg then 1.5 mg/kg q8h, IV ≥4 days and ≥48 h after improvement, then PO clindamycin 450 mg q6h to complete 10-14 days.
+ 子宮頸砂眼披衣菌: PO 450 mg QID x 10-14 days.
+ AIDS toxoplasmic encephalitis: PO 600-1200 mg q6h x 2 wk, then 300-600 mg q6h; total 8-10 wk; + pyrimethamine 25-75 mg daily (+ folinic acid 10-20 mg/day).
+ AIDS PCP: PO 300-400 mg q6h x 21 days + primaquine 15-30 mg daily x 21 days.
+ 急性鏈球菌性扁桃腺炎/咽炎: PO 300 mg BID x 10 days.
+
+【注意事項】警告: CDAD/pseudomembranous colitis (may occur 2-3 weeks after stopping); avoid antiperistaltics; caution in GI/colitis history; does not reach CSF adequately — not for meningitis; neuromuscular-blocking properties (caution with NMBAs).
+ 有腎疾之患者不必調整 clindamycin 之劑量。中度至嚴重肝疾: 半衰期延長，但每 8 小時投予 1 次罕有積蓄，故肝病患者不必考慮降低劑量。
+【禁忌】對 clindamycin 或 lincomycin 有過敏病歷者。
+【副作用】GI: 腹痛、噁心、嘔吐、下痢、口服後食道炎; 過敏: 斑狀丘疹/蕁麻疹 (most common: generalized mild-moderate morbilliform rash), rare erythema multiforme/SJS, anaphylactoid; 肝: jaundice, LFT abnormalities; skin/mucosa: pruritus, vaginitis, rare exfoliative/vesiculobullous dermatitis; 血液: transient neutropenia, eosinophilia, agranulocytosis, thrombocytopenia.
+【懷孕與哺乳】用於孕婦的安全性尚未確立。乳汁濃度 0.7~3.8 µg/mL。
+【交互作用】與 erythromycin 有拮抗作用。
+【藥動學】PO ~90% absorbed; 150 mg -> peak 2.5 µg/mL at 45 min; food does not significantly reduce absorption. t1/2 ~1.5-3.5 h, slightly prolonged in marked hepatic/renal impairment; no dose change needed in mild-moderate hepatic/renal disease. Urine 10-20% active, feces 4%. No CSF penetration even with meningitis.

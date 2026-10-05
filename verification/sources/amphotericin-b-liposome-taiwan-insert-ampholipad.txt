@@ -1,0 +1,1745 @@
+Source: https://mcp.fda.gov.tw/im_detail_pdf/%E8%A1%9B%E7%BD%B2%E8%97%A5%E8%A3%BD%E5%AD%97%E7%AC%AC057982%E8%99%9F
+TFDA insert, 衛署藥製字第057982號, 安畢黴微脂粒凍晶注射劑50毫克 Ampholipad Liposome for Injection 50mg (台灣微脂體 TLC; mfr 永信 YungShin). Text from insert PDFs 81202_AHIa Insert P1/P2-003 (uploaded 2017-11-07): https://mcp.fda.gov.tw/insert/pdfcasefile/i_0e403a14-6615-4eb5-bdaa-cfe8c476135d and .../i_a6b83fe5-63ae-4185-a8b3-de6d5915332c. A later draft (05_變更後仿單擬稿, uploaded 2019-07-23, .../i_e634a5dc-b8ec-46dc-a884-c8dc2914e6d2) is image-only and was not text-extracted. Fetched 2026-10-05.
+
+===== P1 =====
+← 40.5cm →
+AHIa-003
+衛署藥製字第 057982 號
+本藥限由醫師使用
+保存方法：25℃以下
+有效期限：參照外盒
+
+安畢黴 ® 微脂粒凍晶注射劑 50 毫克
+Ampholipad ® Liposome for Injection 50 mg
+
+【說明】依文獻記載
+安畢黴®微脂粒凍晶注射劑50毫克(Ampholipad)是一種無菌、無熱原
+冷凍乾燥靜脈輸注劑，每一瓶含Amphotericin B 50mg，其被包覆在
+約含hydrogenated soy phosphatidylcholine 213mg，cholesterol 52mg，
+distearoylphosphatidylglycerol 84mg，alpha tocopherol 0.64mg的脂層
+內，加入sucrose 900mg及disodium succinate hexahydrate 27mg作為緩
+衝劑，攙入注射用水後，為pH值在5.0-6.0的懸浮液。Ampholipad為
+一單一雙層微脂粒(Liposomal)藥品傳送作用方式，微脂粒由特定比
+例的兩染性(amphophilic)物質如磷脂和膽固醇混合而成的一種密封
+式球囊，因此溶於水中時，親脂質物質會自行進入雙層薄膜中，然
+後以均質器將很多單層囊泡以微乳化方式形成單一雙層的微脂粒，
+Ampholipad即是以Amphotericin B嵌合在此單一雙層的微脂粒膜中。
+兩染性(amphophilic)物質的本質和數量，以及Amphotericin B分子的
+脂溶性部份佔了Ampholipad微脂粒結構的全部。Ampholipad含有直
+徑小於100nm的真正微脂粒。微脂粒概述圖解如下：
+
+少的癌症病患和骨髓移植患者為對象，這些患者接受 1-2 小時靜
+脈 注 射， 給 予 1.0-5.0mg/kg/day 的 劑 量， 連 續 投 與 3-20 天。 投 與
+Amphotericin B Liposome for Injection 後的 Amphotericin B 呈非線性
+藥動學變化，投與劑量從 1 mg/kg/day 增加至 5 mg/kg/day，但其血
+清濃度以大於比例的方式增加。第一次投與後及達穩定狀態時之總
+Amphotericin B 藥動參數如下表：
+Amphotericin B Liposome for Injection 的藥動參數
+劑量 (mg/kg/day)
+日期
+
+1.0
+第一天
+n=8
+
+最後一天
+n=7
+
+藥動參數
+Cmax (mcg/ml)
+
+7.3 ± 3.8
+
+12.2 ± 4.9
+
+AUC0-24(mcg.hr/ml)
+
+27 ± 14
+
+60 ± 20
+
+t1/2(hr)
+
+10.7 ± 6.4
+
+7.0 ± 2.1
+
+Vss(l/kg)
+
+0.44 ± 0.27
+
+0.14 ± 0.05
+
+C1(ml/hr/kg)
+
+39 ± 22
+
+17 ± 6
+
+劑量 (mg/kg/day)
+日期
+
+第一天
+n=7
+
+最後一天
+n=7
+
+2155984
+
+343
+
+344
+
+總體成功率
+
+171(49.9%)
+
+169(49.1%)
+
+在嗜中性白血球減少期間退燒
+
+199(58.0%)
+
+200(58.1%)
+
+無黴菌感染之至療
+
+300(87.5%)
+
+301(87.7%)
+
+治療後至少存活 7 天
+
+318(92.7%)
+
+308(89.5%)
+
+未因毒性或缺乏療效而過早中止藥物 *
+
+294(85.7%)
+
+280(81.4%)
+
+Cmax (mcg/ml)
+
+17.2 ± 7.1
+
+31.4 ± 17.8
+
+AUC0-24(mcg.hr/ml)
+
+65 ± 33
+
+197 ± 183
+
+t1/2(hr)
+
+8.1 ± 2.3
+
+6.3 ± 2.0
+
+* 兩組中分別有 8 位及 10 位病患，因過早中止藥物而評估為治療失敗。
+
+Vss(l/kg)
+
+0.40 ± 0.37
+
+0.16 ± 0.09
+
+C1(ml/hr/kg)
+
+51 ± 44
+
+22 ± 15
+
+這兩組療效相當，和實驗前使用其他抗黴菌的藥物預防及 GCSF
+無明顯關係。下表中列出兩組藥物的黴菌感染率，Amphotericin B
+Liposome for Injection 和 Amphotericin B 在黴菌感染的總數上也是相
+當的。
+發燒且嗜中性白血球減少患者的經驗療法
+( 黴菌感染發生率 )
+
+5.0
+
+日期
+
+第一天
+n=12
+
+最後一天
+n=9
+
+Amphotericin B Liposome for Injection
+病患人數 ( 至少接受一劑實驗用藥 )
+
+藥動參數
+
+黴菌學上確定有黴菌感染
+
+Amphotericin B
+
+343
+
+344
+
+11(3.2%)
+
+27(7.8%)
+
+Cmax (mcg/ml)
+
+57.6 ± 21.0
+
+83.0 ± 35.2
+
+臨床診斷出有黴菌感染
+
+32(9.3%)
+
+16(4.7%)
+
+AUC0-24(mcg.hr/ml)
+
+269 ± 96
+
+555 ± 311
+
+黴菌感染總數
+
+43(12.5%)
+
+43(12.5%)
+
+在 實 驗 開 始 時， 黴 菌 學 上 確 定 有 黴 菌 感 染 者，Amphotericin B
+Liposome for Injection 組 有 11 位， 治 癒 8 位，Amphotericin B 組 有
+10 位，治癒 7 位。實驗 97-0-034 為一隨機、雙盲、比較性、多中
+心 試 驗， 評 估 Amphotericin B Liposome for Injection (3 和 5mg/kg/
+day) 和 Amphotericin B 脂 化 複 合 物 (5mg/kg/day) 對 於 202 位 成 人
+及 42 位孩童嗜中性白血球減少患者，經驗療法之安全性。166 位
+病患使用 Amphotericin B Liposome for Injection (85 位投與 3mg/kg/
+day，81 位投與 5mg/kg/day)，78 位病患使用 Amphotericin B 脂化複
+合物。這些患者高熱不退且已接受至少 72 小時廣效性抗菌劑的治
+療，此實驗主要觀察藥物安全性，未對療效做一有意義的統計上結
+論，事實上 Abeltcet (Amphotericin B 脂化複合物 ) 也未有此一適應
+症。另外有兩個展望性、隨機、開放式、比較性、多中心試驗，比
+較 Amphotericin B Liposome for Injection 兩種劑量 (1 和 3mg/kg/day)
+和 Amphotericin B deoxycholate (1mg/kg/day) 對於嗜中性白血球減少
+且假設有黴菌感染之病患的療效評估，這些病患經歷骨髓移植所伴
+隨的化學療法或是血液疾病。實驗 104-10 有 134 位成人病患參與，
+實驗 104-14 採納 214 位孩童病患，此二實驗皆證實 Amphotericin B
+Liposome for Injection 和 Amphotericin B 做為發燒且嗜中性白血球減
+少患者之治療，其效果相當。
+
+t1/2(hr)
+
+6.4 ± 2.1
+
+6.8 ± 2.1
+
+Vss(l/kg)
+
+0.16 ± 0.10
+
+0.10 ± 0.07
+
+C1(ml/hr/kg)
+
+21 ± 14
+
+11 ± 6
+
+分佈：投與 Amphotericin B Liposome for Injection 後，在給藥間隔（24
+小時）內測量 Amphotericin B 總濃度為基礎，其平均半衰期為 7-10
+小時。然而，以投與 Amphotericin B Liposome for Injection 後一直測
+到第 49 天之總 Amphotericin B 濃度為基礎，其平均半衰期為 100153 小時，這麼長的半衰期可能是組織中一種緩慢再分佈。一般在
+投與後 4 天內可達穩定狀態。在 1.0~5.0mg/kg/day 的劑量範圍內，
+重複投與同劑量，造成 Amphotericin B 平均血清濃度雖有變異但仍
+相當的一致，指出在血清中無顯著地藥物積蓄作用。
+代謝：投與 Amphotericin B Liposome for Injection 後 Amphotericin B
+之代謝途徑未知。
+排泄：達穩定狀態之平均廓清率不因劑量而異，投與 Amphotericin
+B Liposome for Injection 後的 Amphotericin B 之排泄尚未研究。
+特殊族群的藥動學：
+腎臟受損病患：投與 Amphotericin B Liposome for Injection 後，對腎
+臟受損病患的影響尚未研究出。總之，Amphotericin B Liposome for
+Injection 可以成功地用於腎臟受損的病人（參閱臨床研究）。
+肝臟受損病患：對肝臟受損病患的影響尚未未知。
+兒童及老人病患：對兒童及老人病患之藥動學尚未被研究。總之，
+（參
+Amphotericin B Liposome for Injection 已被用於兒童及老人病患。
+閱臨床研究）。
+性別與種族：投與 Amphotericin B Liposome for Injection 後，性別與
+種族對 Amphotericin B 藥動的影響未知。
+【適應症】
+1. 骨髓移植後併發腎毒性出現侵入性黴菌感染。
+2. 腎功能不全之麴菌屬、念珠菌屬或囊球菌屬類的菌種感染病患。
+3. 治療感染囊球菌腦膜炎的 HIV 患者（參閱臨床研究）
+4. 治療麴菌屬、念珠菌屬或是囊球菌屬類的菌種感染，或是無法用
+Amphotericin B deoxycholate 治癒的病患，或是腎功能不全或無法耐
+受 Amphotericin B deoxycholate 所產生的毒性之病患。
+5. 治療臟器的利時曼氏病。在免疫不全且患有臟器的利時曼氏病之
+患者使用 Amphotericin B Liposome for Injection 治療，在初期寄生蟲
+清除後仍有高復發率。（參閱臨床研究）參閱用法用量中之適應症
+建議劑量。
+6. 對發燒的重度嗜中性白血球缺乏症患者可能罹患黴菌感染症之經
+驗療法。
+說明：發燒的重度嗜中性白血球缺乏症係指嗜中性白血球絕對值小
+於 500 cell/mm3 以下或白血球小於 1000 cells/mm3 以下，持續達 96
+小時，引起發燒 (>38℃ ) 之現象。
+【臨床研究】依文獻記載
+11 個臨床實驗証實 Amphotericin B Liposome for Injection 的療效及
+安全性，這些實驗包括對照組及非對照組實驗，共有 2171 位病人參
+與，包括全身性黴菌感染的病患，經驗性治療的病患及臟器的利時
+曼氏病患者，其中 1280 位患者（302 位小孩及 978 位成人）產生的
+
+治療感染囊球菌腦膜炎的 HIV 患者：
+實 驗 94-0-013 為 一 隨 機、 雙 盲、 比 較 性、 多 中 心 試 驗， 評 估
+Amphotericin B Liposome for Injection ( 3.0 和 6.0 mg/kg/day ) 和
+Amphotericin B deoxycholate (0.7 mg/kg/day) 用來治療囊球菌腦膜炎
+之療效，病患包括 266 位成人及 1 位孩童且皆為 HIV 陽性之病患
+（ 孩 童 接 受 Amphotericin B deoxycholate）。 這 267 病 患 中，86 位
+使用 Amphotericin B Liposome for Injection 3 mg/kg/day，94 位使用
+6mg/kg/day， 另 87 位 使 用 Amphotericin B deoxycholate， 而 這 三 組
+病患，從腦脊髓液 (CSF) 培養中，確定有囊球菌腦膜炎感染者分別
+有 73、85 及 76 位。在為期 11-21 天的開始期，病患使用實驗藥品
+一天一次，接著所有成人病患轉用口服 ﬂuconazole 400mg/day，幼
+童（小於 13 歲）為 200 mg/day，共 10 星期。在黴菌學上定義為可
+評估的病患，則此病患至少接受一劑實驗用藥，並且開始時 CSF 培
+養為陽性反應，且隨後還有做一次 CSF 培養。在第二個星期（14± 4
+天），如果 CSF 培養變為陰性反應，則評估為成功的案例。下表為
+Amphotericin B Liposome for Injection 和 Amphotericin B 在第二個星
+期時所評估的成功率。
+二星期後的成功率（CSF 培養反轉）
+實驗 94-0-013
+Amphotericin Amphotericin
+B Liposome for B Liposome for Amphotericin B
+Injection
+Injection
+(0.7mg / kg)
+(3 mg / kg)
+(6 mg / kg)
+35/60(48%)
+29/61(47.5%)
+第二個星期的成功率 35/60(58.3%)
+97.5%C11=
+97.5%C11=
+-9.4%,+31.0% -18.8%,+19.8%
+1
+
+治療 10 星期後的成功率則定義為在第 10 星期臨床的成功加上 CSF
+培 養 陰 性（ 在 第 10 星 期 或 是 更 早 ）， 下 表 列 出 Amphotericin B
+Liposome for Injection (6 mg/kg/day) 和 Amphotericin B deoxycholate
+對於囊球菌陽性反應的病患在第 10 星期的成功率，二者的效果相
+當，這些數據無法證實使用 Amphotericin B Liposome for Injection（3
+mg/kg/day）和 Amphotericin B deoxycholate 有相當的療效。下表也
+列出在 10 星期後病患的存活率。
+第 10 星期的成功率及存活率
+實驗 94-0-13
+Amphotericin
+B Liposome
+for Injection
+(3 mg / kg)
+
+Amphotericin
+B Liposome
+for Injection
+(6 mg / kg)
+
+Amphotericin B
+(0.7mg / kg)
+
+成功率（這些病 27/73(37%)
+患已確定有囊球 97.5%C11=
+-33.7%+2.4%
+菌腦膜炎）
+
+42/85(49%)
+97.5%C11=
+-20.9%,+14.5%
+
+40/76(53%)
+
+74/86(86%)
+97.5%C11=
+-13.8%,+8.9%
+
+85/97(90%)
+97.5%C11=
+-8.3%,+12.2%
+
+77/87(89%)
+
+存活率
+
+1
+
+Amphotericin B Liposome for Injection Amphotericin B
+病患人數 ( 至少接受一劑實驗用藥 )
+
+Amphotericin B 成功率及存活率之差異，Amphotericin B 偏向負值，
+Amphotericin B Liposome for Injection 偏向正值。
+
+97.5% 信 賴 區 間 做 為 Amphotericin B Liposome for Injection 和
+
+97.5% 信 賴 區 間 做 為 Amphotericin B Liposome for Injection 和
+Amphotericin B 成功率及存活率之差異，Amphotericin B 偏向負值，
+Amphotericin B Liposome for Injection 偏向正值。
+
+使用 Amphotericin B Liposome for Injection 的病患比使用 Amphotericin
+B deoxycholate 的病患產生較少因靜注引起的副作用，以及心血管方
+面、腎臟方面的不良反應（參閱不良反應部份），因此，為病患選
+擇治療處方時，Amphotericin B 不同劑型的優、缺點應列入考慮。
+特別是用來治療麴菌屬、念珠菌屬或是囊球菌屬類的菌種感染，或
+是無法用 Amphotericin B deoxycholate 治癒的病患，或是病患腎功能
+不全無法耐受 Amphotericin B deoxycholate 所產生的毒性。
+Amphotericin B Liposome for Injection 曾 在 一 同 情 性 實 驗 用 來 評
+估全身性黴菌感染的住院病患，這些病患無法用 Amphotericin B
+deoxycholate 治癒，是因為無法耐受 Amphotericin B deoxycholate，
+或是早已存在腎功能不佳的問題。133 位患者，評估發生的 140 次
+之感染症狀，其中 53 次為黴菌學上的反應，另外 91 次為臨床上的
+結果，某些患者確定有麴菌、念珠菌或是囊球菌感染，治療後獲得
+臨床上的成功及菌種的根除。
+臟器的利時曼氏病之治療：
+Amphotericin B Liposome for Injection 用來研究治療在地中海區域因
+Leishmania infantum 確定感染或可能感染所引起的臟器的利時曼氏
+病。臨床研究資料尚無法顯示對 L . donovani 或 L.chagasi 的效果。
+Amphotericin B Liposome for Injection 對 於 免 疫 正 常 的 患 者， 使 用
+12-30mg/kg 的劑量，可達到快速且高效率的寄生蟲清除效果，在接
+下來的 6 個月或者更久，這些免疫正常的患者皆無復發產生。對於
+免疫不全的患者，使用 30-40mg/kg 的劑量，可達到急速的寄生蟲清
+除率，但在治療完成後 6 個月大部份患者有復發的現象。其中 21 位
+免疫不全患者，有 17 位感染 HIV 且約半數 HIV 感染者為 AIDS。
+下表比較免疫正常及免疫不全的患者，在地中海區域感染臟器的利
+時曼氏病而用 Amphotericin B Liposome for Injection 治療之效果，
+這些患者先前無任何治療或是停用先前的治療，療效由治療完成時
+（End Of Therapy, EOT）的急速寄生蟲清除率和總體成功率（清除
+且未復發）來表示，而總體成功率的觀察期間（Follow-Up period, F/
+U）達 6 個月以上。
+Amphotericin B Liposome for Injection 對臟器的利時曼氏病的療效
+免疫正常患者
+病患數
+87
+
+寄生蟲清除率 (%) EOT 總體成功率（% ) F/U
+86/87 (98.9)
+83/86 (96 .5)
+
+免疫不全患者
+處方
+總劑量
+寄生蟲清除（% ) EOT 總體成功率（% ) F/U
+100mg/day × 21days 29.0-38.9mg/kg
+10/10 (100)
+2/10 (20.0)
+4mg/day,dsys1-5,
+40mg/kg
+8/9 (88.9)
+0/7(0.0)
+and l0,17,24,31,38
+總數
+18/19 (94.7)
+2/17 (11.8)
+
+當 治 療 6 個 月 或 6 個 月 以 上， 免 疫 正 常 患 者 的 總 體 成 功 率 是
+96.5%，而免疫不全者由於大部份病患有復發的情形，總體成功率為
+11.8%。有案例報告顯示可能可用在長期療程去預防同時感染 HIV
+者之復發 (Lopez-Dupla, et al, J. Antimicrob. Chemother., 1993; 32:657659)。 至 今 尚 無 文 獻 指 出 重 複 使 用 Amphotericin B Liposome for
+Injection，對於免疫不全患者維持性治療的效果和安全性。
+【禁 忌】依文獻記載
+Amphotericin B Liposome for Injection 不可用於對 Amphotericin B
+deoxycholate 或其他組成物過敏者，除非在治療醫師的意見下，其
+利益大於其危險性。
+【警 告】依文獻記載
+一般：任何含有 Amphotericin B 的藥物，應由有訓練的醫療人員使
+用，在剛開始給藥期間，病患須有緊密的臨床觀察，Amphotericin
+B Liposome for Injection 比 Amphotericin B deoxycholate 的毒性顯
+著地較低，然而不良反應仍然會發生。
+實驗室檢驗：病患須檢驗腎、肝和血液功能，以及血清中電解質（尤
+其是鎂及鉀）。
+藥物交互作用：無正式臨床研究顯示 Amphotericin B Liposome for
+Injection 和他藥有交互作用，然而下列藥品和 Amphotericin B 有交
+互作用，可能也會影響 Amphotericin B Liposome for Injection。
+抗腫瘤藥物：同時使用抗腫瘤藥物可能會增加腎毒性、氣管痙攣和
+低血壓的可能性，同時使用抗腫瘤藥物時應特別小心。
+皮質脂及親皮質素 (ACTH)：同時使用皮質脂及親皮質素時可能增
+加低血鉀症的發生，造成病患心臟功能不佳，故同時使用時，應嚴
+密監測血清中電解質及心臟功能。
+毛地黃配醣體：同時使用會誘發低血鉀症，可能增加毛地黃的毒性，
+
+當同時使用時需嚴密監測血清中鉀離子值。
+Flucytosine：同時使用 Flucytosine 時，因為增加腎臟細胞的回收或
+是降低排除功能而導致 Flucytosine 的毒性增加。
+Azoles (e.g.ketoconazole、miconazole、clotrimazole、fluconazole.
+etc)：
+在 體 外 及 體 內 的 動 物 實 驗 顯 示， 同 時 併 用 Amphotericin B 及
+imidazoles 類藥物，imidazoles 可能誘發黴菌對 Amphotericin B 產
+生抗藥性，併用治療須謹慎，尤其是對於免疫不全的病患。
+白血球輸液：有報告顯示，同時使用 Amphotericin B 和白血球輸液
+發生急性肺臟毒性。
+其他具腎毒性藥物：同時併用 Amphotericin B 和其他具腎毒性的藥
+物，可能會增加其腎毒性的產生，當併用這些具腎毒性的藥物時，
+須嚴密監測腎功能。
+骨骼肌肉鬆弛藥：Amphotericin B 誘發的低血鉀，會增加肌肉鬆弛
+劑的類似箭毒反應 (e.g. tubocurarine)， 當併用時血清中鉀離子值需
+嚴密監測。
+致癌性、突變性、生育力損害：
+對於 Amphotericin B Liposome for Injection 的致癌性，並無做長期
+的動物實驗，Amphotericin B Liposome for Injection 也未被測試其
+致突變的可能性。在老鼠生殖階段 I 的實驗中發現，高劑量投藥 (10
+和 15mg/kg，根據成人體表面積算法，相當於人類的的劑量是 1.6
+和 2.4mg/kg)，造成不正常的青春週期（延長停慾期）和閉鎖性黃體
+數目的減少，Amphotericin B Liposome for Injection 不影響繁殖力
+和交合天數，也無影響男性的生殖功能。
+懷孕分類：B
+尚無充足的資料研究 Amphotericin B Liposome for Injection 用在
+懷孕的婦人，曾有 Amphotericin B deoxycholate 成功地治療全身
+性黴菌感染的懷孕婦人，但是案例仍然很少。在老鼠和兔子的階
+段 II 實驗結論 Amphotericin B Liposome for Injection 在這些動物
+上無致畸胎的可能性，Amphotericin B Liposome for Injection 對於
+老鼠母體非毒性的預估劑量為 5mg/kg （相當於 0.16 到 0.8 倍人體
+劑量範圍 1~5mg/kg），而使用於兔子 3mg/kg（相當於 0.2 到 1 倍
+於人體的劑量，主要是根據體表面積算法）。兔子使用較高劑量
+的 Amphotericin B Liposome for Injection（ 相 當 於 0.5~2 倍 人 類
+的劑量），則比對照組有較高的自發性墮胎發生，Amphotericin B
+Liposome for Injection 僅在利益大於危險時才使用於懷孕的婦人。
+哺乳婦女：
+很多藥物能從母乳中排出，然而，尚未知 Amphotericin B Liposome
+for Injection 是否從母乳中排出，由於可能對餵母乳的嬰見造成嚴重
+不良反應，所以，必需由此藥對母親的重要性來決定是否停止哺乳
+或停止此藥。
+幼兒用藥：
+Amphotericin B Liposome for Injection 曾成功地治療過 1 個月到 16
+歲的孩童病患，包括假設黴菌感染者（經驗療法），確定全身性黴
+菌感染者，或是臟器的利時曼氏病患者，在這些臨床實驗包括 302
+位孩童病患用 Amphotericin B Liposome for Injection 治療，在效果
+和安全性與成人比較，無任何差異，因為孩童病患和成人一樣根據
+體重來給藥，故不需再做劑量的調整。對於 1 個月以下的嬰兒尚未
+建立其安全性和療效之資料。（參考臨床研究 - 發燒且嗜中性白血
+球減少患者的經驗療法，以及用法、用量部份）
+年長者：
+Amphotericin B Liposome for Injection 用在 72 位年長患者（65 歲
+或 65 歲以上）之經驗，無須調整劑量，就如同大部份其他藥物，年
+長者使用 Amphotericin B Liposome for Injection 時也須小心監測。
+體重較重者：
+若使用劑量為 6.0 mg/kg/day，且體重超過 126 公斤之病人，需注意
+超過每日最大可接觸溶劑之風險。
+【不良反應】依文獻記載
+下 列 不 良 反 應 以 592 位 成 人 病 患（295 位 使 用 Amphotericin B
+Liposome for Injection 治療，297位使用Amphotericin B deoxycholate
+治療），及 95 位小兒科病患（48 位使用 Amphotericin B Liposome
+for Injection 治療，47 位使用 Amphotericin B deoxycholate 治療）
+之反應為基礎，此實驗 94-0-002 屬隨機、雙盲、多中心試驗，研
+究發燒且嗜中性白血球減少之病人，Amphotericin B Liposome for
+Injection 及 Amphotericin B deoxycholate 皆輸注超過 2 小時。
+Amphotericin B Liposome for Injection 及 Amphotericin B
+deoxycholate 的一般不良反應（發生率 10％或大於），且不考慮研究
+藥品之關聯，列於下表中：
+經驗性治療實驗 94-0-002
+一般不良反應
+全身系統之不良反應
+
+Amphotericin B
+Liposome for Injection
+n=343
+%
+
+Amphotericin B
+n=344
+%
+
+19.8
+13.1
+12.0
+18.4
+47.5
+11.1
+14.0
+14.0
+
+21.8
+10.8
+7.3
+18.6
+75.9
+9.3
+12.8
+11.3
+
+12.0
+7.9
+14.3
+13.4
+
+11.6
+16.3
+21.5
+20.9
+
+30.3
+9.9
+39.7
+31.8
+
+27.3
+11.3
+38.7
+43.9
+
+全身性
+下腹痛
+虛弱
+背痛
+輸注血液產品反應
+發冷
+感染
+痛
+敗血症
+心血管系統
+胸痛
+高血壓
+低血壓
+心搏過速
+消化系統
+腹瀉
+胃腸出血
+嗯心
+嘔吐
+代謝及營養的障礙
+
+← 28cm →
+
+【臨床藥理學】依文獻記載
+藥 動 學： 投 與 Amphotericin B Liposome for Injection 後， 血 清 中
+Amphotericin B 含量的測定方法，無法區別哪些 Amphotericin B 是
+和 phospholipids 結 合 的， 哪 些 是 未 結 合 的。 在 投 與 Amphotericin
+B Liposome for Injection 後 Amphotericin B 之 藥 動 學 性 質 係 以
+Amphotericin B 的總血清濃度為基礎，並以發燒且嗜中性白血球減
+
+對發燒且嗜中性白血球減少患者的經驗性療法 :
+實 驗 94-0-002 為 一 隨 機、 雙 盲、 比 較 性、 多 中 心 試 驗， 評
+估 Amphotericin B Liposome for Injection (1.5-6.0 mg/kg/day) 和
+Amphotericin B deoxycholate(0.3-1.2mg/kg/day) 經 驗 性 治 療 687 位 (
+包括成人及孩童 ) 嗜中性白血球減少患者。這些病患高熱不退且已
+接受 96 小時廣效性抗菌劑的治療，以下幾種情形可列為治療上的成
+功 : a) 在嗜中性白血球減少期間退燒， b) 無黴菌感染出現，c) 病人
+在治療後至少存活 7 天，d) 未因毒性或缺乏療效而中止治療，e) 在
+試驗中產生的黴菌感染解除。Amphotericin B Liposome for Injection
+和 Amphotericin B deoxycholate 總體的成功率是相當的，資料總括在
+下表中。( 注意 : 成功率的次項目中，病患有重複計算 )
+
+2.5
+
+劑量 (mg/kg/day)
+
+【微生物學】依文獻記載
+作 用 機 轉：Amphotericin B Liposome for Injection 的 主 成 分
+Amphotericin B 與細胞膜的 sterol 成份結合，進而改變細胞滲透性及
+使細胞死亡，Amphotericin B 對黴菌細胞的 ergosterol 成份具較高的
+親和力，亦可與哺乳動物細胞的 cholesterol 成份結合產生細胞毒素。
+Amphotericin B Liposome for Injection 是 Amphotericin B 的 Liposomal
+製劑，它可滲透至具感受性的黴菌細胞壁其內側 (intracellular) 及外
+側 (extracellular)。
+體 內 及 體 外 作 用： 體 外 作 用 顯 示 Amphotericin B Liposome for
+Injection 和 Amphotericin B 對抗下列細菌的效果是可相比的：
+麴 菌 屬 Aspergillus species ( 薰 煙 色 麴 菌 A.fumigatus, 黃 麴 菌
+)， 念 珠 菌 屬 Candida species ( 白 色 念 珠 菌 C.albicans,
+C.krusei,C.lusitaniae, 附 禿 髮 念 珠 菌 C.parapsilosis, 熱 帶 念 珠 菌
+C.tropicalis)， 新 形 囊 球 菌 Cryptococcus neoformans 及 皮 炎 芽 生
+菌 Blastomyces dermatitidis， 總 之， 對 抗 黴 菌 劑 感 受 性 試 驗 的 標
+準 技 術 尚 未 確 立， 及 此 類 研 究 與 臨 床 結 果 無 關。Amphotericin B
+Liposome for Injection 在 動 物 體 內 具 活 性， 其 可 對 抗 薰 煙 色 麴 菌
+Aspergillus fumigatus，白色念珠菌 Candida albicans, Candida krusei,
+Candida lusitaniae, 新 形 囊 球 菌 Cryptococcus neoformans， 皮 炎 芽
+生 菌 Blastomyces dermatitidis， 粗 球 黴 菌 Coccidiodes immitis， 莢
+膜 組 織 漿 菌 Histoplasma capsulatum， 巴 西 釀 母 菌 Paracoccidioides
+brasiliensis， 黑 熱 病 原 蟲 Leishmania donovani， 幼 兒 萊 什 曼 原 蟲
+Leishmania infantum，投與 Amphotericin B Liposome for Injection 到
+這些試驗動物後，顯示已受感染的動物其生命延長，目標器官中之
+微生物量減少、或在肺部的重量減輕。
+藥品抗藥性：對 Amphotericin B 產生抗藥性的突變菌種，可由培養
+基中連續接種或是由長期投與此藥的病患中分離出來，從體內及體
+外的實驗得知，和 Imidazoles 類藥品併用會誘發菌種對 Amphotericin
+B 抗藥性的產生。總之，臨床上有關藥品抗藥性資料尚未建立。
+
+有 3 個包含對照組的實驗，使用經驗性療法，比較 Amphotericin B
+Liposome for Injection 和 Amphotericin B 的療效和安全性。一組為
+孩童病患、一組為成人、而第三組為 2 歲以上患者。此外，另一對
+照實驗為 2 歲以上患者，比較 Amphotericin B Liposome for Injection
+和 Abelcet (Amphotericin B 脂化複合物 ) 的安全性。還有一組對照實
+驗比較 Amphotericin B Liposome for Injection 和 Amphotericin B 用在
+HIV 感染且有囊球菌腦膜炎患者之療效及安全性。尚有一同情組實
+驗，採用的患者是對 Amphotericin B dexycholate 治療無效或是腎功
+能不佳無法使用者。
+
+687 位發燒且嗜中性白血球減少患者的經驗療法
+( 隨機、雙盲試驗 )
+
+藥動參數
+
+注意：
+和未作處理的藥物比較，微脂粒膠囊化的形成或是混入脂化複合物
+會影響藥品本身的作用性質，此外，即使是同一藥物，但因微脂粒
+或脂化複合物的不同，也會使其化學組成及物理形態不一樣，這些
+差異皆會影響藥物的作用性質。Amphotericin B 是由 Streptomyces
+nodosus 產生的一種巨環多鏈抗黴菌抗生素，Amphotericin B 之化學
+式如下：
+[1R-(1R*,3S*,5R*,6R*,9R*,11R*,15S*,16R*,17R*,18S*,19E,21E,
+23E,25E,27E,29E,31E,33R*,35S*,36R*,37S*)]-33-[(3-Amino-3,6dideoxy-β-D-mannopyranosyl)oxy]-1,3,5,6,9,11,17,37-octahydroxy15,16,18-trimethyl-13-oxo-14,39-diox-abicyclo[33.3.1]nonatriaconta19,21,23,25,27,29,31-heptaene-36-carboxylic acid (CAS No. 1397-89-3).
+Amphotericin B 分子式：C47H73NO17，分子量：924.09，其結構如下：
+
+1946 種症狀，用來評估此藥的療效。
+
+===== P2 =====
+← 40.5cm →
+Alkaline Phosphatase 增加
+ALT(SGPT) 增加
+AST(SGOT) 增加
+膽紅素血症
+BUN 增加
+肌氨酸酐增加 (creatinine)
+水腫
+高血糖症
+高血鈉症
+多血症
+低血鈣症
+低血鉀症
+低血鎂症
+末梢水腫
+
+22.2
+14.6
+12.8
+18.1
+21.0
+22.4
+14.3
+23.0
+4.1
+12.2
+18.4
+42.9
+20.4
+14.6
+
+19.2
+14.0
+12.8
+19.2
+31.1
+42.2
+14.8
+27.9
+11.0
+15.4
+20.9
+50.6
+25.6
+17.2
+
+13.7
+11.4
+19.8
+17.2
+
+11.0
+13.4
+20.9
+14.2
+
+17.8
+23.0
+14.9
+7.6
+17.8
+12.5
+11.1
+
+21.8
+29.1
+20.1
+14.8
+17.4
+9.6
+11.0
+
+搔癢
+發疹
+發汗
+
+10.8
+24.8
+7.0
+
+10.2
+24.4
+10.8
+
+泌尿生殖系統
+血尿
+
+14.0
+
+14.0
+
+神經系統
+焦慮
+困惑
+頭痛
+呼吸系統
+呼吸困難
+鼻血
+氧不足
+肺障礙
+皮膚及附件
+發疹
+
+全身系統之不良反應
+
+皮膚及附件
+
+經驗療法實驗 97-0-034
+一般不良反應
+
+全身性
+下腹痛
+虛弱
+發冷
+敗血症
+敗血反應
+心血管系統
+胸痛
+高血壓
+低血壓
+心搏過速
+消化系統
+腹瀉
+噁心
+嘔吐
+
+Amphotericin
+Amphotericin
+Amphotericin B
+B Liposome for B Liposome for
+脂質複合物
+Injection
+Injection
+5mg/kg/day
+3mg/kg/day
+5mg/kg/day
+n=78
+n=85
+n=81
+%
+%
+%
+12.9
+8.2
+40.0
+12.9
+10.6
+
+9.9
+6.2
+48.1
+7.4
+8.6
+
+11.5
+11.5
+89.7
+11.5
+5.1
+
+8.2
+10.6
+10.6
+9.4
+
+11.1
+19.8
+7.4
+18.5
+
+6.4
+23.1
+19.2
+23.1
+
+15.3
+25.9
+22.4
+
+17.3
+29.6
+25.9
+
+14.1
+37.2
+30.8
+
+代謝及營養的障礙
+Alkaline Phosphatase 增加
+膽紅素血症
+BUN 增加
+肌氨酸酐增加 (creatinine)
+水腫
+高血糖症
+多血症
+低血鈣症
+低血鉀症
+低血鎂症
+肝功能檢查不正常
+
+7.1
+16.5
+20.0
+20.0
+12.9
+8.2
+8.2
+10.6
+37.6
+15.3
+10.6
+
+2155984
+
+8.6
+11.1
+18.5
+18.5
+12.3
+8.6
+11.1
+4.9
+43.2
+25.9
+7.4
+
+17.6
+10.6
+7.1
+14.1
+
+22.2
+8.6
+6.2
+13.6
+
+23.1
+14.1
+20.5
+15.4
+
+23.5
+
+22.2
+
+14.1
+
+12.8
+11.5
+28.2
+48.7
+12.8
+14.1
+14.1
+5.1
+39.7
+15.4
+11.5
+
+Amphotericin B Liposome
+for Injection
+n=343
+
+反應
+低血壓
+
+12(3.5%)
+
+28(8.1%)
+
+心搏過速
+
+8(2.3%)
+
+43(12.5%)
+
+高血壓
+
+8(2.3%)
+
+39(11.3%)
+
+血管擴張
+
+18(5.2%)
+
+2(0.6%)
+
+呼吸困難
+
+16(4.7%)
+
+25(7.3%)
+
+換氣過度
+
+4(1.2%)
+
+17(4.9%)
+
+氧不足
+
+1(0.3%)
+
+22(6.4%)
+
+病 人 接 受 治 療 或 預 防 輸 注 相 關 反 應 藥 物（ 如：Acetaminophen，
+diphenhydramine，meperidine，hydrocortisone） 之 比 例， 使
+用 Amphotericin B Liposome for Injection 治 療 之 病 人 較 使 用
+Amphotericin B deoxycholate 之病人少。
+經驗治療實驗 97-0-034，第一天皆沒有給予預先藥物處理下，在
+全 部 發 生 輸 注 相 關 反 應 中， 投 與 Amphotericin B Liposome for
+Injection 之病人發冷明顯較投與 Amphotericin B 脂質複合物之病人
+低。發燒、發冷、氧不足在每一組使用 Amphotericin B Liposome
+for Injection 之病人明顯低於使用 Amphotericin B 脂質複合物之病
+人。氧不足之輸注相關反應，在使用 Amphotericin B 脂質複合物之
+病人中記錄為 11.5%，投與 Amphotericin B Liposome for Injection
+3mg/kg 之病人為 0%，使用 Amphotericin B Liposome for Injection
+5mg/kg 之病人為 1.2%。
+
+Amphotericin B Liposome for
+Injection
+
+實驗 94-0-002 其腎毒性之實驗室數值
+
+Amphotericin B
+0.7mg/kg/day
+n=87
+%
+
+7.0
+12.8
+8.1
+
+7.4
+11.7
+9.6
+
+10.3
+6.9
+10.3
+
+9.3
+
+10.6
+
+25.3
+
+發冷之病人 ( 第一天 )
+
+14.0
+15.1
+10.5
+16.3
+10.5
+
+9.6
+14.9
+16.0
+21.3
+213
+
+11.5
+20.7
+10.3
+25.3
+20.7
+
+有其他顯注反應之病人：
+
+26.7
+15.1
+5.8
+
+47.9
+17.0
+12.8
+
+43.7
+17.2
+6.9
+
+0
+9.3
+18.6
+9.3
+12.8
+31.4
+29.1
+11.6
+12.8
+
+8.5
+7.4
+39.4
+12.8
+17.0
+51.1
+48.9
+8.5
+4.3
+
+12.6
+10.3
+43.7
+17.2
+13.8
+48.3
+40.2
+9.2
+9.2
+
+神經系統
+暈眩
+失眠
+呼吸系統
+咳嗽增加
+皮膚及附件
+發疹
+
+7.0
+22.1
+
+8.5
+17.0
+
+10.3
+20.7
+
+8.1
+
+2.1
+
+10.3
+
+4.7
+
+11.7
+
+4.6
+
+輸注之相關反應：
+實驗 94-0-002，為一大型、雙盲臨床實驗，研究發燒且嗜中性白血
+球減少之成人及孩童病患，在給予第一次劑量的研究用藥之前（day
+1），並無預先藥物處理。在第一天使用 Amphotericin B Liposome
+for Injection 治療之病人與使用 Amphotericin B deoxycholate 之病
+人比較，輸注相關反應有較低之發生率，發燒（17% 比 44%），發
+冷（18% 比 54%），嘔吐（6% 比 8%）。
+小兒科及成人病患在第一天發生輸注相關反應，概述於下列表中：
+第一天發生輸注相關反應 (IRR)
+依據病人年齡
+小兒科病人
+( ≤ 16 歲 )
+Amphotericin
+B Liposome for
+Injection
+
+成人病患
+(>16 歲 )
+
+Amphotericin B
+
+Amphotericin
+B Liposome for
+Injection
+
+Amphotericin B
+
+至少接受一劑實驗用藥
+之總病人數
+
+48
+
+47
+
+295
+
+297
+
+* 發燒增加≥ 1℃之病人
+
+6(13%)
+
+22(47%)
+
+52(18%)
+
+128(43%)
+
+發冷之病人
+
+4(8%)
+
+22(47%)
+
+59(20%)
+
+165(56%)
+
+噁心之病人
+
+4(8%)
+
+4(9%)
+
+38(13%)
+
+31(10%)
+
+嘔吐之病人
+
+2(4%)
+
+7(15%)
+
+19(6%)
+
+21(7%)
+
+其他反應之病人
+
+10(21%)
+
+13(28%)
+
+47(16%)
+
+69(23%)
+
+*（在靜注第一天所增加之體溫和靜注前 1 小時的體溫做比較，或是
+高於最低靜注值）。
+在所有研究藥品輸注期間，心臟呼吸之反應，除了血管擴張（潮紅）
+外，使用 Amphotericin B 之病人較為時常發生，概述於下列表中：
+發生輸注相關之心臟呼吸反應
+
+除了上述罕見副作用外於上市監視中曾報告有下列罕見副作用：
+血管水腫、皮膚發紅、蕁麻疹、支氣管痙攣、發紺 / 換氣不足、肺
+水腫、粒性白血球缺乏症及出血性膀胱炎。
+
+第一天發生發冷輸注相關反應 (IRR)
+經驗治療實驗 97-0-034
+
+Amphotericin
+B Liposome for
+Injection
+6mg/kg/day
+n=94
+%
+
+膽紅素血症
+BUN 增加
+肌氨酸酐增加
+高血糖症
+低血鈣症
+低血鉀症
+低血鎂症
+低血鈉症
+肝功能檢查不正常
+
+酸脫氫酵素增加、非蛋白氮值增加 (NPN) 及呼吸鹼血症。
+* 骨骼肌肉系統 -- 關節痛、骨頭疼痛、肌緊張不足、肌痛及僵硬。
+* 神經系統 -- 精神激昂、昏迷、痙攣、咳嗽、抑鬱、感覺遲鈍、暈眩、
+幻覺、緊張、感覺倒錯、嗜睡、思想異常及震顫。
+* 呼吸系統 -- 氣喘、肺膨脹不全、咳血、打嗝、換氣過度、流行性
+感冒症狀、肺水腫、咽炎、肺炎、呼吸不足、呼吸衰竭及鼻竇炎。
+* 皮膚及附屬部分 -- 禿頭、皮膚乾燥、單純疱疹、注射部位發炎、
+斑疹及丘疹之搔癢、紫斑症、皮膚褪色、皮膚疾病、皮膚潰瘍、蕁
+麻疹及囊狀水泡疹。
+* 特殊感官 -- 結膜炎、眼乾及眼出血。
+* 泌尿生殖系統 -- 不正常之腎功能、急性腎衰竭、排尿困難、腎衰
+竭、尿毒、尿失禁及陰道出血。
+
+臨床試驗數值：依文獻記載
+Amphotericin B Liposome for Injection 對於腎功能、肝功能及血清電
+解質影響之評估是來自於 94-0-002 試驗重複測量得來之實驗室值。
+Amphotericin B Liposome for Injection 與 Amphotericin B 對 於 肝 之
+異常測試的頻率及重要性是相似的。腎毒性的界定，在小兒方面是
+creatinine 值增加 100% 或超過治療前的 creatinine 值，成人病患方面
+其 creatinine 值增加 100% 或超過治療前的高峰濃度 (>1.2mg/dL)。
+低血鉀的界定是於治療期間其鉀值 ( ≤ 2.5mmol/L)。在隨機雙盲試
+驗中，腎毒性的發生率、平均血清 creatinine 高峰濃度、平均血清
+creatinine 變化值、及低血鉀的發生率於 Amphotericin B Liposome for
+Injection 群組裏較低，總結如下表：
+
+Amphotericin
+B Liposome for
+Injection
+3mg/kg/day
+n=86
+%
+
+全身性
+下腹痛
+感染
+處置併發症
+心血管系統
+靜脈炎
+消化器官
+食慾減低
+便秘
+腹瀉
+噁心
+嘔吐
+血液及淋巴系統
+貧血
+白血球減少
+血小板減少
+代謝及營養的障礙
+
+Amphotericin B
+n=344
+
+病人總數
+
+發燒、體溫上升 ( ≥ 1℃ )
+噁心
+嘔吐
+高血壓
+心搏過速
+呼吸困難
+氧不足
+
+BOTH
+
+Amphotericin B 脂質
+複合物
+5mg/kg/day
+
+166
+
+78
+
+19
+(23.5%)
+
+35
+(21.1%)
+
+62
+(79.5%)
+
+20(23.5%) 16(19.8%)
+9(10.6%)
+7(8.6%)
+5(5.9%)
+5(6.2%)
+4(4.7%)
+7(8.6%)
+2(2.4%)
+8(9.9%)
+4(4.7%)
+8(9.9%)
+0
+1(1.2%)
+
+36(21.7%)
+16(9.6%)
+10(6.0%)
+11(6.6%)
+10(6.0%)
+12(7.2%)
+1(<1%)
+
+45(57.7%)
+9(11.5%)
+11(14.1%)
+12(15.4%)
+14(17.9%)
+8(10.3%)
+9(11.5%)
+
+3
+5
+mg/kg/day mg/kg/day
+85
+81
+16
+(18.8%)
+
+Amphotericin B
+Liposome for Injection
+
+Amphotericin B
+
+343
+64(18.7%)
+1.24mg/dL
+0.48mg/dL
+23(6.7%)
+
+344
+116(33.7%)
+1.52mg/dL
+0.77mg/dL
+40(11.6%)
+
+受試人數 ( 至少接受一劑試驗用藥 )
+
+腎毒性
+平均 creatinine 高峰值
+平均 creatinine 變化值
+低血鉀
+
+對 於 此 實 驗 成 人 患 者 之 腎 功 能，Amphotericin B Liposome for
+Injection(3mg/kg/day) 的療效與 Amphotericine B 0.6mg/kg/day 的療效
+相比較如下圖：
+94-0-002 試驗之廓清率平均變動值
+
+Amphotericin
+
+Amphotericin
+
+B Liposome for
+
+B Liposome for
+
+Amphotericin B
+
+Injection 3mg/kg Injection 6mg/kg
+
+至少接受一劑實驗用藥之總病人數
+發燒增加≥ 1℃之病人
+發冷之病人
+噁心之病人
+嘔吐之病人
+呼吸不良反應
+
+86
+6(7%)
+5(6%)
+11(13%)
+14(16%)
+0
+
+94
+8(9%)
+8(9%)
+13(14%)
+13(14%)
+1(1%)
+
+87
+24(28%)
+42(48%)
+18(20%)
+16(18%)
+8(9%)
+
+投與 Amphotericin B Liposome for Injection 時曾有一些伴隨潮紅、
+背痛帶著或有或無胸悶、胸痛之報告，有時很嚴重。這些顯著的症
+狀，在開始輸注的幾分鐘後發生反應，當輸注停止後迅速消失。當
+緩慢輸注給藥時，這些症狀不會每次皆發生且通常不會再發生。
+毒性及停止給藥：在實驗 94-0-002，發現 Amphotericin B Liposome
+for Injection 組比 Amphotericin B 組顯著降低 3 或 4 級毒性的發生。
+此外許多投與 Amphotericin B 之病人因毒性而須減低劑量，或因輸
+注相關反應而停藥的案例 3 倍於投與 Amphotericin B Liposome for
+Injection 者。
+在經驗性療法實驗 97-0-034 中，Amphotericin B 脂質複合物組中由
+於不良反應而中止試驗用藥的病人比 Amphotericin B Liposome for
+Injection 組多了許多。
+罕見副作用：
+在 6 個 比 較 性 臨 床 試 驗 中 報 告， 以 Amphotericin B Liposome for
+Injection 治療接受化療或有 HIV 感染者，2%-10% 的患者發生下列
+的不良反應：
+* 全身性 -- 腹部變大、過敏反應、蜂窩性組織炎、細胞性免疫反應、
+臉部水腫、移植物抗宿主反應、倦怠、頸部疼痛及處置併發症。
+* 心血管系統 -- 心律不整、心房纖維顫動、心跳徐緩、心跳停止、
+心臟肥大、出血、姿勢性低血壓、瓣膜心臟疾病、血管疾病及血管
+擴張（潮紅）。
+* 消化系統 -- 食慾喪失、便秘、口乾 / 鼻乾、消化不良、吞嚥困難、
+曖氣、大小便失禁、氣脹、痔瘡、牙齦 / 口腔出血、嘔血、肝細胞
+損害、肝腫大、肝功能值不正常、腸塞、黏膜炎、直腸病症、口腔炎、
+潰瘍性口炎及靜脈閉塞之肝病。
+* 血液及淋巴系統 -- 貧血、凝血疾病、斑狀出血、液體超負荷、瘀斑、
+凝血酵素原減少、凝血酵素原增加、血小板減少症。
+* 新陳代謝及營養疾病 -- 酸毒症、澱粉酶增加、高血氯症、高血鉀
+症、高血鎂症、高血磷症、低血鈉症、低血磷症、低蛋白血症、乳
+
+在實驗 97-0-34 的資料中顯示，以血清 creatinine 的增加值來監測腎
+毒性，使用 Amphotericin B Liposome for Injection 的患者（單一劑量
+和合併劑量）發生率顯著的比使用 Amphotericin B liqid complex 的
+患者低。
+腎毒性發生率
+97-0-034 治療資料
+3mg/kg/day
+
+5mg/kg/day
+
+BOTH
+
+Amphotericin B
+脂質複合物
+5mg/kg/day
+
+85
+
+81
+
+166
+
+78
+
+1.5 倍血清 creatinine 值
+
+25
+(29.4%)
+
+21
+(25.9%)
+
+46
+(27.7%)
+
+49
+(62.8%)
+
+2 倍血清 creatinine 值
+
+12
+(14.1%)
+
+12
+(14.8%)
+
+24
+(14.5%)
+
+33
+(42.3%)
+
+Amphotericin B Liposome for Injection
+
+病患人數
+
+2 倍的血清 creatinine 值
+
+30(35%)
+12(14%)
+
+44(47%)
+20(21%)
+
+52(60%)
+29(33%)
+
+【過量】依文獻記載
+對於 Amphotericin B Liposome for Injection 過量之中毒尚未被界
+定。臨床試驗於小兒病患方面 10mg/kg 之最高每日重覆劑量，成人
+方面 15mg/kg 之最高每日重覆劑量，尚未有劑量中毒之報告。
+處理措施：若有過量情形發生應立即停止用藥，並著手於症狀上改
+善，特別需注意監視腎功能。血液透析及腹膜透析不會顯著地影響
+Amphotericin B Liposome for Injection 的排除。
+【用法用量】
+Amphotericin B Liposome for Injection 應以靜脈注射投予並配合控制
+輸注器使用，注射時間約超過 120 分鐘。
+於注射 Amphotericin B Liposome for Injection 時可於靜脈注射管內加
+置濾膜，其濾膜孔徑不可小於 1.0 micron。
+注 意： 若 以 已 有 之 靜 脈 注 射 管 輸 注 Amphotericin B Liposome for
+Injection， 於 輸 注 Amphotericin B Liposome for Injection 前 應 以 5%
+Dextrose 注射液沖洗，若無法如此做，應使用另一條靜脈管注射投
+與。
+若病人的耐受性良好，其輸注時間可減至約 60 分鐘。倘若病人於輸
+注時感覺不適則可增加輸注時間。
+對於各適應症其兒童與成人之 Amphotericin B Liposome for Injection
+建議起始劑量如下：
+適應性
+全身性黴菌感染：
+麴菌
+念珠菌
+囊球菌
+囊 球 菌 腦 膜 炎 於 HIV 感染之病
+人 ( 請見臨床研究部分 )
+
+劑量 (mg/kg/day)
+3.0-5.0
+
+6.0
+
+對於特定病人因個別需求不同，為達最大療效同時使毒性及副作用
+減至最小，其劑量及輸注速度應依個別情況而有所不同。
+對於臟器的利時曼氏病之建議劑量如下：
+臟器的利時曼氏病
+免疫正常病人
+免疫不全病人
+
+劑量 (mg/kg/day)
+3.0( 第 1-5 日 ) 及
+3.0( 第 14, 21 日 )
+4.0( 第 1-5 日 ) 及
+4.0( 第 10,17,24,31,38 日 )
+
+對於免疫正常病人若無法完全去除寄生蟲，重覆治療可能會有所幫
+助，對於免疫不全的病人，若無法完全去除寄生蟲或者再復發，專
+家建議再作進一步的治療。（請詳見臨床研究報告部分）
+
+（在靜注第一天所增加之體溫和靜注前 1 小時的體溫做比較，或是
+高於最低靜注值。在第一天輸注研究用藥之前，病人沒有投與預先
+藥物處理來預防輸注相關反應。）
+在 實 驗 94-0-013， 隨 機、 雙 盲、 多 中 心 試 驗， 比 較 使 用
+Amphotericin B Liposome for Injection 及 Amphotericin B
+deoxycholate 治療初期的囊球菌性腦膜炎之病人。使用預先藥物處
+理來預防輸注相關反應是被允許的。使用 Amphotericin B Liposome
+for Injection 治療的病人較少發生發燒、發冷及呼吸上之不良反應，
+概述於下列表中：
+實驗 94-0-013 發生輸注相關反應
+
+1.5 倍的血清 creatinine 值
+
+產生腎毒性者
+
+根據另一同情性實驗顯示（如下圖）所有病人的平均血清 creatinine
+濃 度 均 比 治 療 前 下 降， 特 別 是 於 治 療 前 有 較 高 creatinine（ 大 於
+1.7mg/dL）濃度的病人。
+Mean Creatinine Concentrations Over Time
+
+溶液配製、過濾及稀釋：
+配製溶液前請詳實閱讀此注意事項。
+Amphotericin B Liposome for Injection 須使用 USP 規格（不含抑菌劑）
+之無菌注射用水配製。
+每瓶含 50mg Amphotericin B 的 Amphotericin B Liposome for Injection
+請依下列方法配製。
+配製方法
+1. 於每瓶 Amphotericin B Liposome for Injection 加入 12ml 無菌注射
+用水，使每 ml 含 4mg 的 Amphotericin B。
+注意 : 請勿與鹽液調和或加入鹽液或與其它藥物混合。若以非上
+述建議之溶液配製或其溶液含抑菌劑，可能會造成 Amphotericin B
+Liposome for Injection 的沉澱。
+2. 加入注射用水後立刻用力搖晃 30 秒使 Amphotericin B Liposome
+for Injection 完全分散，Amphotericin B Liposome for Injection 為黃色
+半透明懸液，以肉眼觀察並繼續搖晃直到微粒物質完全分散。
+過濾及稀釋
+3. 計算攙水調和後之含量（4mg/ml 的 Amphotericin B Liposome for
+Injection），以備再進一步稀釋。
+4. 以無菌注射針管抽出 Amphotericin B Liposome for Injection 之配製
+溶液。
+5. 裝上 5micron 過濾器於針管上，注入含正確的 5% Dextrose 溶液（每
+瓶 Amphotericin B Liposome for Injection 只用一個過濾器）。
+6. 注射之前，Amphotericin B Liposome for Injection 需以 5% Dextrose
+溶液稀釋至 1.0-2.0 mg/ml 之濃度，對於幼兒及較小孩童其濃度可減
+至 0.2-0.5 mg/ml。未用完的部分應丟棄。
+【儲存】
+未開封之凍晶物質需儲存在 25°C 以下（77°F）
+已攙水調和濃縮液之儲存：
+已用無菌注射用水溶解的濃縮液在 2°- 8°C 下可存放 24 小時，請勿
+冷凍。
+
+在比較性實驗 94-0-013 中顯示，對於囊球菌腦膜炎的患者，使用
+Amphotericin B Liposome for Injection 群組腎毒性的發生率較低，如
+下表所示：
+實驗 94-0-013 其腎毒性之實驗數值
+Amphotericin
+Amphotericin
+B Liposome for B Liposome for
+Injection
+Injection
+3mg/kg
+6mg/kg
+至少接受一次劑量之病患數
+
+產生腎毒性者 (%)
+
+86
+
+94
+
+Amphotericin B
+
+87
+
+稀釋溶液之儲存：
+以 5% Dextrose 溶液稀釋之 Amphotericin B Liposome for Injection 需
+於 6 小時內用完。如同所有的注射藥品，Amphotericin B Liposome
+for Injection 之配製溶液於投與前均需以肉眼仔細觀察是否有微粒
+物質或變色情形，或有任何沉澱物及外來物質，均不可使用。由於
+Amphotericin B Liposome for Injection 本身及其配製溶液與稀釋溶液
+所用之物質均無菌製劑，因此在所有的處理過程中，無菌的技術需
+嚴格地監控。
+【包裝】
+50 毫克小瓶，100 支以下盒裝。( 每一瓶均附有已裝置好之可棄式
+5micro 過濾器 )。
+委託者：台灣微脂體股份有限公司
+地 址：台北市南港區園區街 3 號 11 樓之 1
+台灣總代理及製造廠：永信藥品工業股份有限公司台中幼獅廠
+廠 址：台中市大甲區日南里工九路 27 號
+
+← 28cm →
+
+Amphotericin B Liposome for Injection 具 有 良 好 的 耐 受 性，
+Amphotericin B Liposome for Injection 比 Amphotericin B
+deoxycholate 較 少 發 生 發 冷、 高 血 壓、 低 血 壓、 心 搏 過 速、 氧 不
+足、 低 血 鉀 症， 及 各 種 與 降 低 腎 功 能 有 關 之 不 良 反 應。 在 此 雙
+盲 試 驗 的 小 兒 科 病 人 中（ 小 於 或 等 於 16 歲 ），Amphotericin B
+Liposome for Injection 比 Amphotericin B deoxycholate 在 低 血
+鉀 症（37% 比 55%）、 發 冷（29% 比 68%）、 嘔 吐（27% 比
+55%）、高血壓（10% 比 21%）之發生率較低。實驗 104-14 屬開
+放、隨機納入 205 位發燒且嗜中性白血球減少之小兒科病人（141
+位 使 用 Amphotericin B Liposome for Injection 治 療，64 位 使 用
+Amphotericin B deoxycholate 治療），也發現同樣發生率降低的驅
+勢。這些小兒科病患對 Amphotericin B deoxycholate 引起之腎毒性，
+比成人病患，似乎有較佳之耐受性。下列不良反應以 244 位病人之
+經驗為基礎（202 位成人及 42 位小兒科病人），其中 85 位病患使
+用 Amphotericin B Liposome for Injection 3mg/kg 治療，81 位病患
+使用 Amphotericin B Liposome for Injection 5mg/kg 治療，78 位病
+人使用 Amphotericin B 脂質複合物 5mg/kg 來治療。實驗 97-0-034
+屬隨機、雙盲、多中心試驗，研究發燒且嗜中性白血球減少之病人，
+使 用 Amphotericin B Liposome for Injection 及 Amphotericin B 脂
+質複合物，皆超過 2 小時。
+不考慮研究藥品之關聯，發生一個或一個以上不良反應，發生率超
+過 10%，概述於下列表格中：
+
+全身系統之不良反應
+
+9.0
+3.8
+10.3
+
+治療囊球菌性腦膜炎實驗 94-0-013
+一般不良反應
+
+呼吸系統
+咳嗽增加
+呼吸困難
+鼻血
+氧不足
+肺障礙
+肋膜積水
+鼻炎
+
+7.4
+8.6
+17.3
+
+下列不良反應以 267 位病人之經驗為基礎，（266 位成人病患及 1
+位小兒科病患），其中 86 位病人使用 Amphotericin B Liposome for
+Injection 3mg/kg 治 療，94 位 病 人 使 用 Amphotericin B Liposome
+for Injection 6 mg/kg 治 療，87 位 病 人 使 用 Amphotericin B
+deoxycholate 0.7mg/kg 治療，此實驗 94-0-013 屬隨機、雙盲、多中
+心試驗，在治療患有囊球菌性腦膜炎之 HIV 陽性病人。
+不考慮研究藥品之關聯，發生一個或一個以上不良反應，發生率超
+過 10%，概述於下列表格中：
+
+神經系統
+焦慮
+困惑
+頭痛
+失眠
+
+10.6
+12.9
+9.4
+
+

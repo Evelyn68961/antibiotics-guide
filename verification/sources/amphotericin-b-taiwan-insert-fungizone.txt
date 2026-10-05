@@ -1,0 +1,70 @@
+Taiwan package insert (仿單) — 防治黴靜脈凍晶注射劑 FUNGIZONE Intravenous Injection (Amphotericin B, deoxycholate)
+Licence: 衛署藥輸字第012258號 (applicant 裕利股份有限公司; manufacturer DELPHARM SAINT REMY, France)
+Source: TFDA insert platform https://mcp.fda.gov.tw/im_detail_1/%E8%A1%9B%E7%BD%B2%E8%97%A5%E8%BC%B8%E5%AD%97%E7%AC%AC012258%E8%99%9F
+PDF (latest, uploaded 2023-02-06; leaflet draft 16.02.2022, material 90002841/12, footer "Fungizone CCDS 02-Jun-2011, add excipient"):
+  https://mcp.fda.gov.tw/insert/pdfcasefile/i_fc98beb7-e474-4ca5-a89f-8df7b30688a5
+Older version (uploaded 2021-09-28): https://mcp.fda.gov.tw/insert/pdfcasefile/i_39de4b8c-210a-4332-97bb-971d9beb0f3b
+NOTE: PDF text is not extractable (pdftotext returns only the artwork header); the key sections below were
+transcribed by reading the rendered pages (2026-10-05). Verify against the PDF before quoting verbatim.
+
+1 成分: 50 mg amphotericin B per vial with sodium desoxycholate (+ phosphate buffer); lyophilized, for IV infusion.
+
+2 適應症 (heading): 黴菌病性感染症、對發燒的重度嗜中性白血球缺乏症患者可能罹患黴菌感染症之經驗療法
+  說明: for progressive, potentially life-threatening fungal infections; not for non-invasive forms (oral thrush,
+  vaginal/oesophageal candidiasis in patients with normal neutrophil counts). Specifically: aspergillosis,
+  cryptococcosis (torulosis), North American blastomycosis, systemic candidiasis, coccidioidomycosis,
+  histoplasmosis, zygomycosis incl. mucormycosis (Absidia, Mucor, Rhizopus), Conidiobolus/Basidiobolus,
+  sporotrichosis. May be useful in American mucocutaneous leishmaniasis but not drug of choice.
+  "發燒重度嗜中性白血球缺乏症" = ANC <500/mm3 or WBC <1000/mm3 for 96 h with fever >38 C.
+  (Empirical febrile-neutropenia indication is in the TW insert, not in the US X-Gen label or UK SmPC 4.1.)
+
+3 用法用量: ** 確認產品名稱與劑量 ** Never exceed 1.5 mg/kg/day total (overdose -> cardiac/cardiopulmonary arrest).
+  Slow IV infusion over 2-6 h; recommended infusion concentration 0.1 mg/mL (1 mg/10 mL).
+  Test dose 1 mg in 20 mL D5W over 20-30 min; record vitals q30min for 2-4 h.
+  Good cardio-renal function + tolerated test dose: start 0.25 mg/kg/day; severe rapidly progressive infection: start 0.3 mg/kg/day.
+  Impaired cardio-renal function or severe test-dose reaction: start 5-10 mg/day.
+  Increase by 5-10 mg/day per cardio-renal status to final 0.5-0.7 mg/kg/day. Up to 1.0 mg/kg/day, or up to 1.5 mg/kg on alternate days.
+  Sporotrichosis up to 9 months, total up to 2.5 g. Aspergillosis up to 11 months, total up to 3.6 g.
+  Rhinocerebral phycomycosis: cumulative >=3 g recommended (3-4 g may cause lasting renal impairment).
+  Empirical therapy in febrile severe neutropenia: text says "推薦靜脈輸注濃度為 1 mg/kg/day (1 mg/10 mL)" (sic —
+    mixes a dose with a concentration; likely translation error), with close monitoring of infusion reactions and nephrotoxicity.
+  Reconstitution: 10 mL sterile water without preservative -> 5 mg/mL; dilute 1:50 in D5W (pH >4.2; add phosphate buffer
+    if lower) -> 0.1 mg/mL. Do NOT reconstitute with saline or bacteriostatic diluents (precipitation). In-line filter pore >=1.0 micron.
+  (Storage text omitted deliberately.)
+
+4 禁忌: hypersensitivity to amphotericin B or any component, unless life-threatening condition treatable only with amphotericin B.
+
+5.1 警告: IV only, under close supervision. Avoid overdose; verify product name and dose if >1.5 mg/kg.
+  Acute infusion reactions: chills, fever, anorexia, nausea, vomiting, headache, myalgia, arthralgia, hypotension.
+  Rapid infusion (<1 h) associated with hyperkalaemia and arrhythmia, esp. in renal impairment -> avoid.
+  Leukoencephalopathy reported in patients receiving total-body irradiation.
+  Monitor renal function regularly; also LFTs, serum electrolytes (esp. Mg and K), blood counts; adjust per labs.
+  If interrupted >7 days, restart at 0.25 mg/kg and titrate again.
+5.2 懷孕與哺乳: animal studies no harm; successful use in pregnancy reported (few cases); use only if benefit > risk (no letter category stated).
+  Lactation: unknown if excreted; advise to discontinue breastfeeding given potential toxicity.
+5.3 兒童: safety/efficacy not established by controlled trials; systemic fungal infections treated in children without unusual AEs.
+
+6 交互作用: other nephrotoxic drugs (cisplatin, pentamidine, aminoglycosides, ciclosporin) — increased nephrotoxicity.
+  Leukocyte transfusion: acute pulmonary reactions — separate infusions as far as possible, monitor lung function.
+  Hypokalaemia may potentiate digitalis glycosides, skeletal muscle relaxants, antiarrhythmics.
+  Corticosteroids/ACTH may potentiate amphotericin-induced hypokalaemia. Flucytosine toxicity may increase.
+
+7 不良反應: most common — fever (+/- rigors 15-20 min after start), malaise, weight loss; anorexia, nausea, vomiting,
+  diarrhoea, dyspepsia, epigastric cramping; normochromic normocytic anaemia; injection-site pain/phlebitis/thrombophlebitis;
+  generalized pain (muscle/joint); headache; renal: decreased renal function — azotaemia, raised creatinine, hypokalaemia,
+  hyposthenuria, renal tubular acidosis, nephrocalcinosis; usually improve after stopping, but permanent impairment often,
+  esp. cumulative >5 g. Sodium supplementation/repletion may reduce nephrotoxicity.
+  Also reported: flushing; anaphylactoid reactions; cardiac arrest, arrhythmias incl. VF, cardiac failure, hyper/hypotension, shock;
+  rash, pruritus, exfoliative dermatitis, TEN, very rare SJS; abnormal LFTs, jaundice, acute liver failure, haemorrhagic
+  gastroenteritis, melaena; agranulocytosis, coagulation defects, thrombocytopenia, leukopenia, eosinophilia, leukocytosis;
+  convulsions, hearing loss, tinnitus, vertigo, blurred/double vision, peripheral neuropathy, encephalopathy; dyspnoea,
+  bronchospasm, non-cardiogenic pulmonary oedema, hypersensitivity pneumonitis; hypomagnesaemia, hyperkalaemia, acute
+  renal failure, anuria, oliguria; nephrogenic diabetes insipidus (post-marketing).
+  Pre-medication (antipyretics, antihistamines, antiemetics, meperidine 25-50 mg IV for rigors, low-dose corticosteroid),
+  heparin 1000 U/infusion, alternate-day dosing may reduce phlebitis.
+
+8 過量: cardiac/cardiorespiratory arrest; stop, monitor, supportive care. NOT removed by haemodialysis.
+
+9.2 藥動學: 0.5 mg/kg/day -> mean peak 0.5-2 mcg/mL, plateau ~0.5 mcg/mL; >90% protein bound, poorly dialysable;
+  CSF levels rarely >2.5% of plasma; initial plasma t1/2 ~24 h, elimination t1/2 ~15 days; 2-5% excreted unchanged in urine,
+  detectable in urine for weeks after stopping. No renal dose-adjustment table in the insert.
