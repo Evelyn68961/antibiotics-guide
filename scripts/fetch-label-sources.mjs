@@ -3,13 +3,16 @@
 //
 // Sources:
 //   - DailyMed (US FDA label): newest SPL for the generic name, split into
-//     numbered label sections (1 Indications, 2 Dosage, 8.1 Pregnancy, ...)
-//   - UK eMC SmPC: the first SmPC listed for the name, split into sections
+//     numbered label sections (1 Indications, 2 Dosage, 8.1 Pregnancy, ...),
+//     or by section title for older labels without numbered headings
+//   - UK eMC SmPC: the first SmPC listed for the name (or for an optional
+//     second argument, e.g. a UK brand name), split into sections
 //     (4.2 Posology, 4.5 Interactions, 4.6 Pregnancy/lactation, ...)
 //   - LactMed: the correct NCBI Bookshelf ID for the drug (the page itself
 //     sits behind a CAPTCHA, so only the ID and link are collected)
 //
 // Usage: npm run fetch-sources -- meropenem
+//        npm run fetch-sources -- colistimethate colomycin
 
 import { writeFileSync, mkdirSync } from 'node:fs'
 import { dirname, resolve } from 'node:path'
@@ -21,9 +24,12 @@ const UA = { 'User-Agent': 'Mozilla/5.0 (antibiotics-guide verifier)' }
 
 const drug = process.argv[2]?.toLowerCase()
 if (!drug) {
-  console.error('Usage: node scripts/fetch-label-sources.mjs <generic name>')
+  console.error(
+    'Usage: node scripts/fetch-label-sources.mjs <generic name> [UK SmPC search term]',
+  )
   process.exit(1)
 }
+const smpcQuery = process.argv[3] ?? drug
 
 // ------- Helpers -------
 
@@ -97,6 +103,12 @@ async function fetchDailyMed() {
   // Skip the highlights box so sections start at the full prescribing info.
   const text = htmlToText(xml)
   const fullStart = text.indexOf('FULL PRESCRIBING INFORMATION')
+  let sections = splitSections(
+    fullStart >= 0 ? text.slice(fullStart) : text,
+    FDA_HEADINGS,
+  )
+  // Older labels have no numbered headings; use the SPL section titles.
+  if (!Object.keys(sections).length) sections = splitByTitles(xml)
   return {
     source: 'DailyMed (US FDA label)',
     title: newest.title,
@@ -104,11 +116,23 @@ async function fetchDailyMed() {
     version: newest.spl_version,
     published: newest.published_date,
     url: `https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=${newest.setid}`,
-    sections: splitSections(
-      fullStart >= 0 ? text.slice(fullStart) : text,
-      FDA_HEADINGS,
-    ),
+    sections,
   }
+}
+
+// Each SPL <section> carries a <title>; the text up to the next title is
+// that section's own content (sub-sections become their own entries).
+function splitByTitles(xml) {
+  const sections = {}
+  const titles = [...xml.matchAll(/<title>([\s\S]*?)<\/title>/g)]
+  titles.forEach((m, k) => {
+    const name = htmlToText(m[1])
+    if (!name) return
+    const end = k + 1 < titles.length ? titles[k + 1].index : xml.length
+    const body = htmlToText(xml.slice(m.index + m[0].length, end))
+    if (body) sections[name] = sections[name] ? `${sections[name]} ${body}` : body
+  })
+  return sections
 }
 
 // ------- UK eMC SmPC -------
@@ -131,7 +155,7 @@ const SMPC_HEADINGS = [
 
 async function fetchSmpc() {
   const search = await get(
-    `https://www.medicines.org.uk/emc/search?q=${encodeURIComponent(drug)}`,
+    `https://www.medicines.org.uk/emc/search?q=${encodeURIComponent(smpcQuery)}`,
   )
   const id = search.match(/\/emc\/product\/(\d+)\/smpc/)?.[1]
   if (!id) return null
