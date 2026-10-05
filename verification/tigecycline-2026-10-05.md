@@ -12,17 +12,17 @@ Review rule: an indication counts as approved if the FDA **or** UK label lists i
 
 Legend: ✅ matches · ❌ contradicts or misses something in an official source · ⬜ field empty
 
-## Needs correction
+## Corrections (all applied in Notion 2026-10-05)
 
 | # | Field | Notion says | Source says | Status |
 |---|---|---|---|---|
-| 1 | Notes / properties | No mention of the boxed warning | FDA **boxed warning**: all-cause mortality ↑ (4.0% vs 3.0%; risk difference 0.6%). Reserve for when alternatives are unsuitable. SmPC 4.1: same restriction | ❌ Only in the page body. Should be in Notes |
-| 2 | Indications | Includes generic `Pneumonia` | FDA §1.4: **not indicated for HAP/VAP** (greater mortality, lower cure). Only CAP is approved (FDA). SmPC: cSSTI and cIAI only | ❌ Remove the `Pneumonia` tag; keep `CAP` |
-| 3 | Side Effects | `LFT↑` only | Most common: **nausea 21%, vomiting 13%** (SmPC 4.8). FDA §5: **hypofibrinogenemia/coagulopathy**, **pancreatitis** (fatal cases), anaphylaxis, CDAD. SmPC: thrombocytopenia, SJS; tetracycline class: photosensitivity, tooth discoloration | ❌ Add `GI`, `coagulopathy`, `thrombocytopenia`, `SJS/TEN`, `photosensitivity`. Put pancreatitis in Notes (no tag exists) |
-| 4 | Adult dose: high-dose regimen | "target: MDROs (ex: CRKP)" | IDSA AMR 2026: high dose (200 mg → 100 mg q12h) is described for **CRAB**. For CRE (incl. KPC/NDM) tigecycline is an *alternative*, and **not for bloodstream or urinary infections** | ❌ Reword the target |
-| 5 | Adult dose | No duration or infusion time | FDA §2.1: cSSSI/cIAI **5–14 d**, CAP **7–14 d**; infuse over 30–60 min | ❌ Missing |
+| 1 | Notes / properties | No mention of the boxed warning | FDA **boxed warning**: all-cause mortality ↑ (4.0% vs 3.0%; risk difference 0.6%). Reserve for when alternatives are unsuitable. SmPC 4.1: same restriction | ✅ Fixed 2026-10-05 (was: Only in the page body. Should be in Notes) |
+| 2 | Indications | Includes generic `Pneumonia` | FDA §1.4: **not indicated for HAP/VAP** (greater mortality, lower cure). Only CAP is approved (FDA). SmPC: cSSTI and cIAI only | ✅ Fixed 2026-10-05 (was: Remove the `Pneumonia` tag; keep `CAP`) |
+| 3 | Side Effects | `LFT↑` only | Most common: **nausea 21%, vomiting 13%** (SmPC 4.8). FDA §5: **hypofibrinogenemia/coagulopathy**, **pancreatitis** (fatal cases), anaphylaxis, CDAD. SmPC: thrombocytopenia, SJS; tetracycline class: photosensitivity, tooth discoloration | ✅ Fixed 2026-10-05 (was: Add `GI`, `coagulopathy`, `thrombocytopenia`, `SJS/TEN`, `photosensitivity`. Put pancreatitis in Notes (no tag exists)) |
+| 4 | Adult dose: high-dose regimen | "target: MDROs (ex: CRKP)" | IDSA AMR 2026: high dose (200 mg → 100 mg q12h) is described for **CRAB**. For CRE (incl. KPC/NDM) tigecycline is an *alternative*, and **not for bloodstream or urinary infections** | ✅ Fixed 2026-10-05 (was: Reword the target) |
+| 5 | Adult dose | No duration or infusion time | FDA §2.1: cSSSI/cIAI **5–14 d**, CAP **7–14 d**; infuse over 30–60 min | ✅ Fixed 2026-10-05 (was: Missing) |
 
-## Empty fields that the labels can fill
+## Empty fields (filled in Notion 2026-10-05 with the text below)
 
 | # | Field | Proposed text (source) |
 |---|---|---|
@@ -43,11 +43,13 @@ Legend: ✅ matches · ❌ contradicts or misses something in an official source
 - **No Pseudomonas or Proteus in the tags:** correct. SmPC 5.1 says *P. aeruginosa* and *Proteus/Providencia/Morganella* are less susceptible because of efflux pumps.
 - **Page body:** mechanism, spectrum, boxed warning, HAP/VAP and diabetic-foot limits, and the under-8 restriction all match. "Children over 8" matches the UK label.
 
-## Coverage tags that could be added (FDA §1 / §12.4)
+## Coverage tags added 2026-10-05 (FDA §1 / §12.4)
 
 MSSA, E. coli, E. faecalis (vancomycin-susceptible), Haemophilus, Legionella (CAP), Anaerobes/Bacteroides, Stenotrophomonas (in-vitro only).
 
 ## Other notes
 
-- The page has no references section. Its Chinese summary is credited to "@enoki.rx", which is a personal note, not an official source.
-- The Meropenem page cites the IDSA AMR guidance as "2024". A newer version was published 2026-07-30.
+- A References section citing the FDA label, UK SmPC, IDSA AMR 2026 and LactMed was added 2026-10-05. Before that the page had none. Its Chinese summary is credited to "@enoki.rx", which is a personal note, not an official source.
+- The Meropenem page cites the IDSA AMR guidance as "2024". A newer version was published 2026-07-30; the reference was updated 2026-10-05.
+
+- Renewed date set to 2026-10-05.
