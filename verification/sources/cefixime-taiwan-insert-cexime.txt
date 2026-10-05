@@ -1,0 +1,42 @@
+Source: TFDA 藥品仿單查詢平台 https://mcp.fda.gov.tw/im_detail_pdf/%E8%A1%9B%E7%BD%B2%E8%97%A5%E8%A3%BD%E5%AD%97%E7%AC%AC048892%E8%99%9F (retrieved 2026-10-05)
+PDF: https://mcp.fda.gov.tw/insert/pdfcasefile/i_efd8ff70-f51e-4186-ac7c-ab9b2f2b29bc
+File: "54031519 Cexime Capsules 100mg (Lit)-(印刷版次3)-104-12-25(廠商自行上傳).pdf", uploaded 2015-12-25 (印刷版次3, ROC 104-12-25)
+NOTE: the PDF is a scanned image with no text layer (pdftotext returns nothing; no OCR installed). The text below is a manual visual transcription of the key sections, not a complete copy.
+
+中文品名: "信東"賜信膠囊 100 毫克
+英文品名: Cexime Capsules 100 mg (Cefixime)
+許可證號: 衛署藥製字第048892號 (有效日期 116-07-17); 申請商/製造廠: 信東生技股份有限公司(觀音廠)
+限制項目: 監視期滿學名藥, 國產; 須由醫師處方使用
+成分: 每粒膠囊含 Cefixime 100 mg (力價). Capsule: 淺橘色不透明, imprint "ST 089" / "100mg", 4號膠囊.
+
+【適應症】
+Streptococcus spp., S. pneumoniae, N. gonorrhoeae, Branhamella catarrhalis, E. coli, Klebsiella spp., Serratia spp., Proteus spp., H. influenzae 菌屬中，由 Cefixime 感受性菌引起之下述感染症：支氣管炎、支氣管擴張症(感染時)、慢性呼吸系疾病的繼發性感染、肺炎、腎盂腎炎、膀胱炎、淋菌性尿道炎、膽囊炎、膽管炎、猩紅熱、中耳炎、副鼻竇炎。
+
+【用法・用量】依文獻記載
+本藥須由醫師處方使用。
+通常，對於成人及體重 30kg 以上的小兒，以 Cefixime 1 次 50~100 mg(力價)，一日口服 2 次。
+但可依年齡、體重、症狀適宜增減之。重症或推測效果不彰之病例，以 Cefixime 1 次 200 mg(力價)，一日口服 2 次。
+
+【關於用法・用量，使用上之注意事項】
+1. 為防止耐藥菌產生，原則上應確認為感受性細菌，治療在必要最小期間。
+2. 重度腎障礙之患者因血中濃度會蓄積，應視腎臟損害程度而降低劑量或調整給藥間隔時間(參考【藥物動態】)。
+   (No numeric CrCl cut-offs or doses are given in this insert.)
+
+【使用上之注意事項】
+1. 禁忌: 有過因本藥之成分而引起休克病史之患者。
+2. 原則禁忌: 對本藥之成分或 Cephem 類抗生素有過敏病史之患者。
+3. 慎重給藥: Penicillin 類抗生素過敏史; 本人或家族易發生支氣管氣喘、發疹、蕁麻疹等過敏體質; 重度腎障礙; 經口攝取不良/非經口營養/全身狀態不良(可能出現維他命K缺乏症); 老年人。
+4. 可能會有出現休克之虞，故須詳細問診。
+5. 交互作用(併用注意): Warfarin — 有增強 warfarin 作用之虞(抑制腸內細菌產生維他命K)。
+6. 副作用: 總病例數 12,879 例中，副作用 294 例(2.28%)；主要為腹瀉、胃部不適等消化系統症狀 112 例(0.87%)、發疹等皮膚症狀 29 例(0.23%)；實驗室: GPT 上升 78 例(0.61%)、GOT 上升 58 例(0.45%)、嗜伊紅性白血球增多 26 例(0.20%)。
+   重大副作用(<0.1%): 休克; 類過敏性休克症狀; 皮膚障礙(Stevens-Johnson, Lyell/TEN); 血液障礙(無顆粒性白血球症、溶血性貧血、血小板減少); 腎障礙(急性腎衰竭等); 大腸炎(偽膜性大腸炎等); 間質性肺炎、PIE 症候群。
+   其他(0.1~5%): 發疹、蕁麻疹、紅斑; 嗜伊紅白血球增多; GOT/GPT/AL-P 上升; 腹瀉、胃部不適。(<0.1%): 搔癢、發熱、浮腫; 顆粒性白血球減少; 黃疸; BUN 上昇; 噁心、嘔吐、腹痛等; 口內炎、念珠菌症; 維他命K缺乏症、維他命B群缺乏症; 頭痛、眩暈。
+7. 老年人: 生理機能低下易發現副作用；可能出現維他命K缺乏症。
+8. 孕婦、產婦、餵乳婦: 有關懷孕中給藥的安全性尚未確立，限於判斷其治療上的有益性超越危險性時才可給藥。
+9. 小兒: 對新生兒和早產兒之安全性尚未確立(沒有使用經驗)。
+10. 實驗室檢查: 尿糖 (Benedict, Fehling, Clinitest) 可能偽陽性; 直接 Coombs 試驗可能陽性。
+
+【藥物動態】
+(1) 健康成人空腹口服 50/100/200 mg，約 4 小時達最高血中濃度 0.69/1.13/1.95 μg/mL，半衰期 2.3~2.5 小時。
+(2) 腎功能障礙 (100 mg): 中度(30≦Ccr<60 mL/min) Cmax 2.04 μg/mL (6h); 高度(10≦Ccr<30 mL/min) 2.27 μg/mL (8h); 半衰期分別約 4.15 及 11.05 小時。
+排泄: 主要經腎臟排泄; 正常人 0~12 小時尿中排泄率約 20~25%。

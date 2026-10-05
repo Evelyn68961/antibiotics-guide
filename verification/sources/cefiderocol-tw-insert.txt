@@ -1,0 +1,700 @@
+藥品仿單查詢平台-仿單資料
+抱歉！您的瀏覽器不支援javascript，某些功能將無法正常運作。
+抱歉！您的瀏覽器不支援javascript，某些功能將無法正常運作。
+關閉
+跳到主要內容
+:::
+|
+網站導覽
+|
+登入
+|
+註冊
+:::
+公告訊息
+仿單查詢
+批次訂閱
+訂閱清單
+藥品外觀資料查詢
+:::
+字級
+小
+中
+大
+中文品名
+伏驖佳注射劑1公克
+英文品名
+FETROJA for Injection 1g
+許可證號
+衛部藥輸字第028637號
+藥品類別
+限由醫師使用
+劑型
+凍晶乾燥注射劑
+申請商名稱
+台灣塩野義製藥股份有限公司
+申請商地址
+臺北市中山區松江路106號4樓(B戶)
+發證日期
+113-01-30
+有效日期
+118-01-30
+監視期限
+118-01-30
+通關簽審文件編號
+DHA05202863707
+限制項目
+,免除銜接性試驗,輸 入
+包裝
+14毫升玻璃小瓶裝
+100支以下盒裝
+主製造廠
+製造廠名稱
+Shionogi Pharma Co., Ltd. Kanegasaki Plant　(製程：成品製造廠)
+製造廠地址
+7, MORIYAMA, NISHINE, KANEGASAKI-CHO, ISAWA-GUN, IWATE 029-4503, JAPAN (Japan)
+匯出PDF
+外盒/標籤
+歷史仿單查詢
+ATC code查詢
+詳細處方成分
+授權使用
+＋訂閱
+全部展開
+1 性狀
+1.1
+有效成分及含量
+Fetroja®含有1公克Cefiderocol (相當於1.6公克的Cefiderocol Sulfate Tosylate)。
+Cefiderocol Sulfate Tosylate為白色至淡黃色粉末，可完全溶於N,N-dimethylformamide及甲醇，略溶於水及乙醇，幾乎不溶於acetonitrile。
+Cefiderocol Sulfate Tosylate之化學名：
+Tris[(6R,7R)-7-[(2Z)-2-(2-amino-1,3-thiazol-4-yl)-2-{[(2-carboxypropan-2-yl)oxy]imino}acetamido]-3-({1-[2-(2-chloro-3,4-dihydroxybenzamido)ethyl]pyrrolidin-1-ium-1-yl}methyl)-8-oxo-5-thia-1-azabicyclo[4.2.0]oct-2-ene-2-carboxylate] tetrakis(4-methylbenzenesulfonate) monosulfate hydrate
+Cefiderocol Sulfate Tosylate之分子式：
+3C30H34ClN7O10S2·4C7H8O3S·H2SO4·xH2O
+Cefiderocol Sulfate Tosylate之化學結構式：
+1.2
+賦形劑
+Sucrose、Sodium Chloride、Sodium Hydroxide
+1.3
+劑型
+凍晶注射劑
+1.4
+藥品外觀
+白色至米白色粉末
+2 適應症
+適用於治療成人病人對Fetroja®具有感受性之革蘭氏陰性微生物(susceptible Gram-negative microorganisms)所引起的下列感染：
+複雜性泌尿道感染(Complicated Urinary Tract Infections, cUTI)，包含腎盂腎炎(Pyelonephritis)
+院內感染型肺炎(Hospital-acquired Bacterial Pneumonia, HABP)和呼吸器相關肺炎(Ventilator-associated Bacterial Pneumonia, VABP)
+2.1適應症相關說明
+為減少抗藥性細菌以及維持Fetroja®與其他抗生素的有效性，Fetroja®應僅用於治療已證實或強烈懷疑由具感受性細菌引起的感染。當有培養結果及感受性方面的資訊時，應依據這些資訊來選擇或調整抗生素療法。若缺乏上述資訊，當地流行病學資料與感受性態樣可做為經驗療法選擇的依據。
+3 用法及用量
+3.1
+用法用量
+Fetroja®為靜脈注射，建議劑量需根據腎功能調整，請參考表3-1，對於接受連續腎臟替代療法(CRRT)病人之建議劑量請參考表3-2，因投與劑量需根據腎功能調整，治療過程中需定期監測腎功能。建議治療持續時間為7至14天，取決於病人實際臨床狀況。
+表3-1 建議劑量(依據腎功能)
+腎功能
+劑量(g)
+投與頻率
+輸注時間
+腎臟清除率增強(CrCL ≥ 120 mL/min)
+2g
+Q6H
+3小時
+正常腎功能
+(CrCL ≥ 90至 < 120 mL/min)
+2g
+Q8H
+3小時
+輕度腎功能不全
+(CrCL ≥ 60至 < 90 mL/min)
+2g
+Q8H
+3小時
+中度腎功能不全
+(CrCL ≥ 30至 < 60 mL/min)
+1.5g
+Q8H
+3小時
+重度腎功能不全
+(CrCL ≥ 15至 < 30 mL/min)
+1g
+Q8H
+3小時
+ESRD
+(CrCL < 15 mL/min)
+0.75g
+Q12H
+3小時
+間歇性血液透析病人a
+0.75g
+Q12H
+3小時
+縮寫：CrCL，creatinine clearance肌酐酸清除率(採Cockcroft-Gault公式計算)。ESRD，end stage renal disease末期腎臟疾病。
+a：Cefiderocol會因血液透析而被排出，因此在血液透析結束後請盡早投與。
+表3-2 接受連續性腎臟替代療法(CRRT)病人的建議劑量
+流出液速率b
+劑量(g)
+投與頻率(小時)
+輸注時間
+2 L/hr
+1.5g
+Q12H
+3小時
+2.1~3 L/hr
+2g
+Q12H
+3小時
+3.1~4 L/hr
+1.5g
+Q8H
+3小時
+4.1 L/hr以上
+2g
+Q8H
+3小時
+b：流出液速率於CVVH (continuous venovenous hemofiltration)是指超過濾速率(Ultrafiltrate Flow Rate)，於CVVHD (continuous venovenous hemodialysis)是指透析速率(Dialysis Flow Rate)，於CVVHDF (continuous venovenous hemodiafiltration)指的是超過濾速率加上透析速率(Ultrafiltrate Flow Rate 加 Dialysis Flow Rate)。
+3.2
+調製方式
+注入10 mL的0.9%生理食鹽水或5%葡萄糖液於小瓶(vial)中，並輕輕振搖使之溶解，靜置直到表面泡沫消失(通常於2分鐘內)，配製完成的溶液約為11.2 mL。(注意：此配製而成的溶液不能直接注射)
+接著依據表3-3，從已配製完成的小瓶(vial)中抽取適當體積的溶液， 並將其注入一內含 100 mL 的0.9%生理食鹽水或5%葡萄糖液的輸液袋中，完成製備。使用前應目視檢查此稀釋後之輸注液是否有懸浮顆粒或變色的情形，請勿使用已變色或含有懸浮顆粒的輸注液。
+表3-3 Cefiderocol劑量的調製
+Cefiderocol的劑量
+配製所需Fetroja®瓶數
+需於配製vial(s)抽取的體積
+配製溶液的總體積，(用於稀釋成至少100 mL的輸注液)
+2g
+2瓶
+每瓶抽取11.2 mL
+22.4 mL
+1.5g
+2瓶
+第一瓶抽取11.2 mL與第二瓶抽取5.6 mL
+16.8 mL
+1g
+1瓶
+抽取11.2 mL
+11.2 mL
+0.75g
+1瓶
+抽取8.4 mL
+8.4 mL
+每瓶Fetroja®僅能單次使用。
+輸注液的調製及投與須使用標準無菌技術，任何未使用的藥品或醫療廢棄物的丟棄須符合衛生主管機關之規定。
+3.3
+特殊族群用法用量
+老年人
+無需依據年齡調整劑量 (請見11. 藥物動力學特性)。
+老年人與年輕族群之間，沒有安全性或療效上的顯著差異。
+腎功能不全或腎臟清除率增強
+輕度腎功能不全 (CrCL ≥ 60 至 < 90 mL/min)
+輕度腎功能不全病人無需調整劑量。
+中度、重度腎功能不全 (CrCL < 60 mL/min) 與間歇性血液透析病人
+中度或重度腎功能不全、末期腎臟疾病(ESRD)、接受血液透析(HD)，需調整劑量或投與頻率。Cefiderocol會因血液透析而排除，因此血液透析日結束透析後請盡早投與 (請見3.1 用法用量及11. 藥物動力學特性)。需定期監測腎功能並調整劑量，因為治療過程中腎功能可能會改變。
+接受連續性腎臟替代療法 (CVVH、CVVHD或CVVHDF)的病人
+接受連續性腎臟替代療法(CVVH、CVVHD或CVVHDF)的病人，需調整劑量或投與頻率 (請見3.1 用法用量及11. 藥物動力學特性)。在CRRT期間，病人的殘餘腎功能(residual renal function) 可能會改變。殘餘腎功能的增強或降低可能需要調整劑量。
+腎臟清除率增強的病人 (CrCL ≥ 120 mL/min)
+腎臟清除率增強的病人應調整投與頻率 (請見3.1用法用量及11.藥物動力學特性)。需定期監測腎功能並調整劑量，因為治療過程中腎功能可能會改變。
+肝功能不全
+肝功能不全病人無需調整劑量 (請見11.藥物動力學特性)。
+小兒
+Cefiderocol於小兒病人的安全性及療效尚未建立。
+4 禁忌
+本藥品禁用於已知對Cefiderocol及本品中任何賦形劑產生嚴重過敏反應的病人。
+5 警語及注意事項
+5.1
+警語/注意事項
+5.1.1
+Carbapenem-Resistant革蘭氏陰性菌感染 (CRGNB Infections)之死亡率增加
+在一項多國、隨機、開放標籤，針對Carbapenem-Resistant革蘭氏陰性菌感染之瀕危病人的試驗結果顯示，Cefiderocol相較最佳可行療法 (Best Available Therapy, BAT)的全因死亡率較高。試驗包括了院內肺炎、血流感染、敗血症或複雜性尿路感染的病人。最佳可行療法(BAT)因不同中心實際臨床實務而有不同治療組合，包含 1 ~ 3 種治療革蘭氏陰性菌的抗生素。多數BAT治療組合皆包含colistin。
+在此試驗中，院內肺炎、血流感染(Bloodstream Infections, BSI)/敗血症的病人顯示較高的死亡率。28天全因死亡率結果顯示Cefiderocol試驗組相較於BAT對照組高  [25/101 (24.8%)對9/49 (18.4%)，治療差異6.4%，95 % CI (-8.6,19.2)]。在第 49 天，Cefiderocol試驗組之全因死亡率仍高於BAT對照組 [34/101 (33.7%) 對10/49 (20.4%)，治療差異 13.3%，95% CI (-2.5, 26.9)]。
+在試驗組中，死亡率與不動桿菌屬(Acinetobacter spp.)所引起的感染相關，而非發酵菌(non-fermenters)感染中多為不動桿菌屬。另一方面，在其他非發酵菌所引起的感染中，試驗組的死亡率並無高於對照組病人。死亡率差異的原因尚未確立。一般而言，死亡為感染惡化、感染併發症、或本身共病惡化之結果。
+需密切監測複雜性泌尿道感染、院內感染型肺炎和呼吸器相關肺炎病人對治療的臨床反應。
+5.1.2
+過敏反應
+曾有報告指出使用β-lactams類抗生素的病人發生嚴重和偶發的致死性過敏反應(如過敏性休克)。在臨床試驗中曾觀察到接受Cefiderocol治療的病人發生過敏反應(請見8.2 臨床試驗經驗)。這些反應可能發生在對β-lactams類抗生素有過敏史/或對多重過敏原有過敏史的病人。有報告指出對penicillin有過敏史的病人接受cephalosporins治療曾出現嚴重過敏反應。因此，在開始使用本品前，應仔細詢問病人是否對cephalosporins、penicillins或其他 β-lactams類抗生素曾發生過敏反應。如果發生過敏反應，應立即停藥並採取適當處置。
+5.1.3
+由Clostridioides difficile引起之腹瀉
+幾乎所有的全身性抗菌藥物都曾被報告過因Clostridium difficile 引起腹瀉(Clostridioides difficile-associated diarrhea，簡稱CDAD)的案例，包含Cefiderocol，且其嚴重度涵蓋了輕度腹瀉至致死性腸炎。使用抗菌藥物進行治療時會改變大腸正常菌群，並可能導致C. difficile過度生長。C. difficile產生的toxin A及toxin B會造成CDAD。產生Hypertoxin的C. difficile菌株會增加發病率和死亡率，因為這類感染很難以抗菌藥物治療甚至可能需要進行結腸切除術。當病人在使用抗生素後出現腹瀉情形時，就必須考慮CDAD的可能性。曾有報告指出病人在投與抗菌藥物後，CDAD的症狀可能持續 2 個月以上，因此應特別注意病人的病史。
+如果懷疑或確定為CDAD時，可能需要停用非針對C. difficile的抗菌藥物。此時應維持體液和電解質的平衡、適度攝取蛋白質、投與治療C. difficile的抗生素，並評估是否應以外科手術處理。
+5.1.4
+癲癇及其他中樞神經系統的不良反應
+所有cephalosporins包括Cefiderocol皆可能引發癲癇(請見8.2 臨床試驗經驗)。曾有報告指出使用cephalosporins後出現非抽蓄性的癲癇重積狀態（nonconvulsive status epilepticus, NCSE）、腦病變、昏迷、撲翼樣震顫(asterixis)、神經肌肉興奮和肌陣攣(myoclonia)，特別是有癲癇病史或因腎功能不全而投與超過cephalosporins建議劑量的病人。如有需要，需依據病人腎功能調整Cefiderocol的劑量(請見3.1用法用量)。已知患有癲癇症的病人應繼續使用抗癲癇藥物。如果發生包含癲癇發作在內的 CNS 不良反應，病人應進行神經學評估以決定是否停用Cefiderocol 。
+5.1.5
+抗藥性菌株之形成
+使用本品在證據能力不足或並未高度懷疑細菌感染時，並不能有益於病人，並且會增加抗藥性菌株產生的風險 (請見 2.1 適應症相關說明)。
+5.3
+操作機械能力
+使用本品對於駕駛能力或操作機械能力並無影響。
+5.4
+實驗室檢測
+Fetroja®可能使dipstick tests (尿蛋白、ketones或潛血)產生偽陽性的結果。臨床檢驗需使用替代檢測方法來確認是否為陽性反應。Fetroja®治療期間可能會出現直接或間接Coombs試驗陽性。
+6 特殊族群注意事項
+6.1
+懷孕
+風險總結
+目前尚無資料評估關於孕婦使用Cefiderocol與重大先天性缺陷、流產或母嬰不良結果間的藥物相關風險。數十年來已發表的前瞻性世代研究、病例系列和病例報告尚未確立孕婦使用頭孢子菌素與重大先天性缺陷風險、流產，或母體或胎兒不良結果間的藥物相關風險。
+在動物生殖試驗中，未觀察到對發育造成的影響 (請見動物數據)。
+動物數據
+在胚胎-胎兒發育試驗中，靜脈注射最高至 1000 mg/kg/day (相當於最大人體建議劑量的0.9倍血漿AUC暴露量)的雌性大鼠(懷孕第6天到第17天)，或皮下注射最高至 2000 mg/kg/day (相當於最大人體建議劑量的1.3倍血漿AUC暴露量)的雌性小鼠(懷孕第6天到第15天)，並未觀察對胚胎-胎兒於器官形成發育毒性或與治療相關的畸形或胎兒存活率極低。在一項產前和產後的發育研究中，對雌性大鼠(懷孕第6天直至斷奶)靜脈注射最高至 1000 mg/kg/day之劑量，未觀察到對於分娩、母體功能或幼鼠產前和產後的發育和生存率的影響。
+在懷孕的大鼠中發現14C-Cefiderocol可以通過胎盤，但在胎兒中檢測到的量極少 (< 0.5%)。
+6.2
+哺乳
+風險摘要
+目前尚無證據顯示 Cefiderocol 是否會分泌至人類乳汁中；靜脈投與放射性 Cefiderocol 於哺乳期大鼠後，可於其 乳 汁 中 測 得 Cefiderocol 衍 伸 的 放 射 性(Cefiderocol-derived radioactivity)。當一藥物可出現於動物乳汁時，該藥物很可能也會出現於人類乳汁中。目前尚無關於 Cefiderocol 對受母乳哺餵的嬰兒或產乳量影響的資料。
+應同時考量哺乳對嬰兒發育和健康之效益，與哺乳期婦女對 Cefiderocol 的臨床需求，以及 Cefiderocol 與哺乳期婦女狀況可能對嬰兒造成的任何潛在不良反應。
+數據
+哺乳期大鼠靜脈給藥後，可在乳汁中檢測到 Cefiderocol衍生的放射性。大鼠乳汁中的藥物最高濃度約為血中藥物最高濃度的 6%。
+6.3
+有生育能力的女性與男性
+Cefiderocol對於人類生殖能力的影響尚無資料。根據動物研究資料，沒有證據顯示Cefiderocol對於雄性或雌性動物生殖能力有影響 (請見10.3 臨床前安全性資料)。
+7 交互作用
+Cefiderocol對其他藥物的影響
+在臨床相關濃度的體外試驗中，Cefiderocol不會抑制大部分的CYPs酵素，且並未發現對於CYP1A2、2B6、2C8、2C9、2C19、2D6、2E1及3A4有濃度依賴或時間依賴的抑制作用，也不會誘導CYP1A2、2B6及3A4。
+Cefiderocol胃腸道、腎臟或肝臟中的藥物運轉蛋白(包含運轉蛋白OATP1B1、MATE1、P-gp、BCRP或BSEP) 並無抑制作用。
+同時投與2g Cefiderocol Q8H與furosemide(為OAT1與OAT3的受質)或是metformin(為OCT1、OCT2和MATE2-K的受質)不會影響furosemide及metformin的藥物動力學特性。
+同時投與2g Cefiderocol Q8H與rosuvastatin(為一種OATP1B3的受質)會增加其AUC 21%，但此在臨床上不具意義。
+其他藥物對Cefiderocol的影響
+Cefiderocol主要以原型由尿液排除(>90%)，幾乎不經肝臟代謝，且其非藥物運輸蛋白(如OAT1、OAT3、OCT2、MATE1、MATE2-K、P-gp或BCRP)的受質。
+8 副作用/不良反應
+8.1
+臨床重要副作用/不良反應
+最常見副作用為腹瀉(8.2%)，嘔吐(3.6%)，噁心(3.3%)及咳嗽(2%)。
+下列嚴重不良反應在「5.1警語/注意事項」有更為詳盡的說明：
+Carbapenem-Resistant革蘭氏陰性菌感染 (CRGNB Infections)之死亡率
+過敏反應
+由Clostridioides difficile引起之腹瀉
+癲癇和其他中樞神經系統的不良反應
+8.2
+臨床試驗經驗
+由於臨床試驗進行的條件差異極大，在一種藥物臨床試驗中所觀察到的不良反應發生率不可直接與另一種藥物在臨床試驗中的發生率進行比較，也可能無法反映實務上所觀察到的發生率。
+8.2.1
+複雜性泌尿道感染(cUTI)，包括腎盂腎炎
+在一項第二期、活性對照、雙盲、隨機分配的臨床試驗中，評估Cefiderocol在cUTI (包括腎盂腎炎)病人的安全性 (試驗APEKS- cUTI)。在此試驗中，有300名病人接受每8小時2g Cefiderocol 靜脈輸注1小時，148名病人接受每8小時1g Imipenem/1g cilastatin 靜脈輸注1小時，皆視情況依據腎功能調整劑量 。接受治療的病人年齡中位數為 65 歲 (範圍：18 -93 歲)，其中年齡超過或等於 65 歲約53%。約 96% 的病人為白人，大多數來自歐洲，55% 為女性。治療時間中位數為 9 天。
+嚴重不良事件及導致停藥的不良事件
+在試驗APEKS- cUTI中，接受Cefiderocol治療的病人有4.7% (14/300) 發生嚴重不良反應，接受Imipenem/cilastatin治療的病人則有8.1% (12/148 )。接受Cefiderocol治療的病人有0.3% (1/300) 死亡，而接受Imipenem/cilastatin治療的病人則無死亡。接受Cefiderocol治療的病人有1.7% (5/300)因不良反應導致停藥，而接受Imipenem/cilastatin治療的病人則有 2.0% (3/148)。接受Cefiderocol治療的病人發生導致停藥的不良反應包含腹瀉 (0.3%)、藥物過敏 (0.3%)及肝臟酵素上升 (0.3%)。
+8.2.2
+院內感染型肺炎及呼吸器相關肺炎(HABP/VABP)
+在一項第三期、活性對照、雙盲、隨機分配的的臨床試驗中，評估Cefiderocol在HABP/VABP病人的安全性 (試驗APEKS-NP)。在此試驗中，有148名病人接受每8小時2g Cefiderocol 靜脈輸注3小時，150位接受每8小時2g Meropenem靜脈輸注3小時，皆視情況依據腎功能調整劑量。接受治療的病人年齡中位數為67歲，其中年齡超過65歲約59%，69%為男性，68%為白人。在隨機分組時，60% 的病人有使用呼吸器，其中41%為 VABP，14%為HABP有使用呼吸器。平均APACHE II評分為16分。所有的病人皆接受至少5天的Linezolid作為革蘭氏陽性菌經驗治療。
+嚴重不良事件及導致停藥的不良事件
+在試驗APEKS-NP中，接受Cefiderocol和接受Meropenem治療的病人分別有 36.5 % (54/148)和30 % (45/150)發生嚴重不良反應。接受Cefiderocol和Meropenem治療的病人分別有26.4 % (39/148)和23.3 % (35/150)因不良反應導致死亡。接受Cefiderocol治療的病人有8.1 % (12/148) 因不良反應導致停藥，而接受Meropenem治療的病人則有9.3 % (14/150)。在兩組中最常見導致停藥的不良反應為肝臟檢驗值升高。
+8.2.3
+碳青黴烯類抗生素抗藥性(Carbapenem Resistant)之革蘭氏陰性菌感染
+在一項第三期、活性對照、開放標籤、隨機分配的臨床試驗中，評估Cefiderocol在Carbapenem-resistant革蘭氏陰性菌感染病人的安全性(試驗CREDIBLE-CR)。在此試驗中，有101名病人接受每8小時2g Cefiderocol 靜脈輸注3小時，49名病人接受最佳可行療法 (Best Available Therapy, BAT)，最佳可行療法由試驗醫師應病原體種類和感染部位而定，包含1~3種抗生素。病人年齡中位數為69歲，其中超過65歲約57%，67 %為男性，63 %為白人。基準期時的臨床診斷包含HABP/VABP/醫療照護相關肺炎(healthcare-associated pneumonia, HCAP) (45 %)、BSI/敗血症 (31 %)及cUTI (24 %)。大多數病人 (64 %)治療時間為7至14天。
+嚴重不良反應及導致停藥的不良反應
+在試驗CREDIBLE-CR中，接受Cefiderocol治療和接受BAT治療的病人分別有49.5 % (50/101)和46.9 % (23/49)發生嚴重不良反應。接受Cefiderocol治療的病人有9.9 % (10/101)因不良反應導致停藥，而接受BAT治療的病人則有6.1 %(3/49)。接受Cefiderocol治療的病人最常見導致停藥的不良反應為敗血性休克。
+接受Cefiderocol治療的病人有33.7 % (34/101)、接受BAT治療的病人有18.4 % (9/49)因不良反應導致死亡(包含試驗結束時因嚴重不良事件導致的死亡)。
+不良反應列表
+Cefiderocol在臨床試驗中報告的不良反應如表8。不良反應以發生頻率和器官系統分類(System organ class, SOC)，發生頻率定義為： 非常常見（≥1/10）；常見（≥1/100 至 <1/10）；不常見（≥1/1,000 至 <1/100) ;罕見（≥1/10,000 至 <1/1000）；非常罕見（<1/10,000）；未知（無法以現有數據評估）。在每個器官系統類別中，不良反應依照嚴重度遞減的順序呈現。
+表8 不良反應
+器官系統分類
+常見（≥ 1/100 至 < 1/10）
+不常見（≥ 1/1,000 至
+< 1/100)
+未知
+感染與寄生蟲感染
+念珠菌症，包含口腔念珠菌症、外陰陰道念珠菌症、念珠菌菌尿症、念珠菌感染。
+Clostridioides difficile結腸炎，包含偽膜性結腸炎、C. difficile感染
+血液淋巴系統疾病
+嗜中性球低下症
+免疫系統疾病
+過敏，包含皮膚反應和搔癢
+呼吸系統、胸腔和縱膈疾病
+咳嗽
+胃腸疾病
+腹瀉、噁心、嘔吐
+皮膚及皮下組織
+紅疹，包括丘疹、斑性丘疹、紅斑疹、藥物疹
+注射部位相關
+輸注部位反應、包含輸注部位疼痛、注射部位疼痛、輸注部位紅斑、注射部位靜脈炎
+檢驗值異常
+Alanine aminotransferase (ALT)升高、γ-glutamyltransferase (GGT)升高、Aspartate Aminotransferase(AST)升高、肝功能異常，包含肝功能檢測值增加、肝臟酵素增加、肝臟轉氨酶增加、肝功能檢測異常、血中肌酸酐增加
+血中尿素增加
+9 過量
+關於Cefiderocol投藥過量於臨床症狀上尚無資料。若病人使用高於建議的劑量且發生和Cefiderocol相關的非預期事件，需小心監測病人狀況並提供支持性治療，甚至考慮停藥。經由3~4小時的血液透析，大約60% Cefiderocol會被排除。
+10 藥理特性
+10.1
+作用機轉
+Cefiderocol為一種抗菌藥物。請見「10.2 藥效藥理特性：作用機轉」。
+10.2
+藥效藥理特性
+作用機轉
+Cefiderocol為一種對革蘭氏陰性好氧菌具有抗菌作用的頭孢子菌素。Cefiderocol含有嗜鐵蛋白並與細胞外游離的鐵離子（三價鐵）結合。除了透過孔道蛋白的被動擴散，Cefiderocol也能利用細菌的嗜鐵機制與細胞外的鐵離子結合，主動運輸通過細菌外膜上的鐵運輸系統，再與青黴素結合蛋白(penicillin-binding proteins, PBPs)結合，抑制細菌細胞壁的合成而達到殺菌效果。
+然而，Cefiderocol對革蘭氏陽性菌和厭氧菌幾乎無體外抗菌作用。
+藥效學
+在受到Enterobacterales、 Pseudomonas aeruginosa 和 Acinetobacter baumannii 感染的動物模型感染研究顯示，與其他β-lactam類抗生素一樣， Cefiderocol之非結合型血中濃度超過感染菌株之最低抑菌濃度(MIC)的時間百分比(%Tf>MIC)已被證實與療效有極大相關性。超過閾值濃度的時間是用於預測Cefiderocol在體內療效的重要參數。在動物模型感染研究顯示，每8小時投與2g Cefiderocol輸注3小時可有效清除Enterobacterales、Pseudomonas aeruginosa 和Acinetobacter baumannii (含carbapenem-resistant strains)。
+在動物感染模型中的抗菌活性
+在嗜中性白血球低下小鼠大腿感染的模型中，使用模擬相當於人類每8小時2 g Cefiderocol的劑量，結果顯示Cefiderocol對大部分的E. coli、K. pneumoniae、A. baumannii、S. maltophilia及部分產生carbapenemase (KPC, OXA-23, OXA-24/40, OXA-58) 的P. aeruginosa菌株 (MIC ≤ 4 mcg/mL)，可減少1 log10倍的bacterial burden。
+在免疫活性大鼠肺炎模型中，使用模擬相當於人類的Cefiderocol藥物暴露量，觀察到受感染動物肺部細菌數量減少，包含：K. pneumoniae (MIC ≤ 8 mcg/mL)、A. baumannii (MIC ≤ 2 mcg/mL)及P. aeruginosa (MIC ≤ 1 mcg/mL，包含carbapenemase-producing分離菌株 (KPC、NDM 和 IMP))。
+在免疫健全小鼠泌尿道感染的模型中，Cefiderocol可減少腎臟中的細菌數量，包含：E. coli、K. pneumoniae及P. aeruginosa (MIC ≤ 1 mcg/mL)。在一個免疫功能低下小鼠全身性感染的模型中，與未治療的小鼠相比，Cefiderocol 增加感染E. cloacae、S. maltophilia及Burkholderia cepacian (MIC ≤ 0.5 mcg/mL)的小鼠之存活率。在另一個免疫功能低下小鼠全身性感染的模型中，與未治療的小鼠相比，Cefiderocol 增加感染S. marcescens及P. aeruginosa (MIC ≤ 1 mcg/mL)的小鼠之存活率。
+上述在動物感染模型中觀察到的結果，尚無明確臨床意義。
+體外試驗及臨床試驗中的抗菌活性
+Cefiderocol已證實在體外試驗及臨床感染中對下列細菌具有活性： (請見 2. 適應症)
+複雜性泌尿道感染，包括腎盂腎炎：
+革蘭氏陰性菌
+Escherichia coli
+Enterobacter cloacae complex
+Klebsiella pneumoniae
+Proteus mirabilis
+Pseudomonas aeruginosa
+院內感染型肺炎及呼吸器相關肺炎：
+革蘭氏陰性菌
+Acinetobacter baumannii complex
+Escherichia coli
+Enterobacter cloacae complex
+Klebsiella pneumoniae
+Pseudomonas aeruginosa
+Serratia marcescens
+目前已有以下細菌的體外試驗資料，但其臨床意義尚不明確。下列各細菌在體外至少有90 %對Cefiderocol的MIC小於或等於相似屬或生物組之分離菌株的感受性臨界點。然而，Cefiderocol用於治療這些細菌引起之臨床感染的療效，尚未在適當且控制良好的臨床試驗中獲得確立：
+革蘭氏陰性菌
+Achromobacter spp.
+Burkholderia cepacia complex
+Citrobacter freundii complex
+Citrobacter koseri
+Klebsiella aerogenes
+Klebsiella oxytoca
+Morganella morganii
+Proteus vulgaris
+Providencia rettgeri
+Stenotrophomonas maltophilia
+抗藥性
+在體外試驗中，MIC增加可能會導致革蘭氏陰性菌對Cefiderocol產生抗藥性，相關機轉可能包含多種β-lactamase、PBPs的修飾及影響嗜鐵蛋白表現的轉錄調節子之突變。
+Cefiderocol不會誘導P. aeruginosa 和 E. cloacae產生AmpC β-lactamase。將革蘭氏陰性菌(包含會產生carbapenemase者）暴露於10倍Cefiderocol最低抑菌濃度(MIC)下，其形成抗藥性菌株的機率範圍為 10-6 至 < 10-8。
+目前並未發現與其他類別的抗菌藥物會產生交叉抗藥性；因此，對其他抗菌藥物具有抗藥性的分離菌株仍可能對本品具有感受性。
+體外試驗顯示對於Meropenem、Ciprofloxacin、Amikacin、Cefepime、Ceftazidime/avibactam及Ceftolozane/tazobactam具有抗藥性的S. maltophilia分離株、腸桿菌(Enterobacterales)和P. aeruginosa分離株Cefiderocol具有抗菌活性。對於 Meropenem、 Ciprofloxacin和Amikacin具有抗藥性的A. baumannii complex Cefiderocol也具有抗菌活性。Cefiderocol對具有mcr-1基因的colistin-resistant E.coli菌株有抗菌作用。
+體外試驗證實Cefiderocol對於含有以下β-lactamases基因的腸桿菌亞群具有抗菌活性：ESBLs (TEM、SHV、 CTX-M、oxacillinase [OXA])、AmpC、AmpC-type ESBL (CMY)、serine-carbapenemases (例如KPC、 OXA-48)及metallo-carbapenemases (例如 NDM 和 VIM)。Cefiderocol也證實對含有VIM、IMP、 GES、 AmpC基因的P. aeruginosa亞群及含有OXA-23、OXA-24/40、 OXA-51、 OXA-58和AmpC的A. baumannii亞群具有抗菌活性。對於含有metallo-­carbapenemase (L1)和serine β-lactamases (L2)的S. maltophilia亞群同樣具有活性。
+體外試驗中，Cefiderocol對於孔道蛋白通道缺失 (OmpK35/36)的K. pneumoniae仍有抗菌活性，對於孔道蛋白通道缺失 (OprD) 及排出幫浦過度調節 (MexAB-OprM、MexCD-OprJ、MexEF-OprN 和 MexXY) 的P. aeruginosa也具有活性。
+在體外試驗中，合併添加 β-lactamases 抑制劑 (如avibactam, clavulanic acid及dipicolinic acid) 會導致一些MIC較高 (範圍 2 至 256 mcg/mL）的臨床分離菌株對Cefiderocol的MIC降低。
+與其他抗菌藥物的交互作用
+體外試驗顯示本品與amikacin、ceftazidime/avibactam、ceftolozane/tazobactam、ciprofloxacin、clindamycin、colistin、daptomycin、linezolid、meropenem、metronidazole、tigecycline或 vancomycin之間並無拮抗作用。
+經體外試驗證實合併使用Cefiderocol與amikacin、ceftazidime/avibactam、ceftolozane/tazobactam、meropenem、ciprofloxacin或colistin，對治療Enterobacterales、Pseudomonas aeruginosa 與 Acinetobacter baumannii  (包含多重抗藥性菌株)具有加成或協同作用。
+心臟電生理學
+臨床相關研究顯示使用2g和4g Cefiderocol皆不會延長QT間隔。
+10.3
+臨床前安全性資料
+10.3.1
+致癌性、致突變性及生育力損傷
+致癌性
+目前尚未進行Cefiderocol的致癌性測試。
+致突變性
+Cefiderocol 在體外細菌基因突變試驗的結果為陰性，而在體外哺乳類細胞染色體變異及體外鼷鼠淋巴瘤 tk 分析試驗(mouse lymphoma tk assay, MLA)的結果皆為陽性。然而，在體內大鼠骨髓微核與大鼠肝臟彗星試驗中，分別使用最高達2000與 1500 mg/kg/day (相當於最大人體建議劑量的 36倍與27 倍 Cmax)的劑量，顯示 Cefiderocol 不具有基因毒性。此外，在體外次黃嘌呤-鳥糞嘌呤磷酸核醣基轉換酶基因突變試驗 (hypoxanthine-guanine phosphoribosyltransferase gene mutation assay)中，未觀察到 MLA 試驗所觀察到的點突變效應。
+生育力損傷
+在一項生育力試驗中，對大鼠靜脈注射最高至 1000 mg/kg/day (相當於最大人體建議劑量的 0.9 倍血漿 AUC [血漿濃度-時間曲線下面積]暴露量)，並未觀察到對雌性或雄性生育力的影響。
+10.3.2
+動物毒理試驗
+對中樞系統的影響
+在三個月重覆劑量毒性試驗，對大鼠靜脈注射 1000 mg/kg/day或更高劑量，曾發生抽蓄及續發性死亡的案例。在另一項三個月重覆劑量毒性試驗、腦電圖和行為試驗的結果顯示，沒有觀察到抽蓄不良影響的最高劑量(NOEL)為 750 mg/kg/day (相當於最大人體建議劑量的 15~16 倍Cmax)。
+11 藥物動力學特性
+cUTI病人、HABP/VABP 病人和健康受試者的Cefiderocol暴露量 (Cmax 和每日AUC) 總結於表11-1中。Cefiderocol 的Cmax 和 AUC 隨劑量成比例增加。
+表11-1 Cefiderocol在CrCL ≥ 60 mL/min的病人和健康受試者的平均暴露量(±標準差)
+PK 參數
+cUTI病人a
+(N=21)
+HABP/VABP a病人
+(N=146)
+健康受試者b
+(N=43)
+Cmax (mg/L)
+115 (±57)
+111 (±56)
+91.4 (±17.9)
+AUC0-24hr (mg‧hr/L)
+1944 (±1097)
+1773 (±990)
+1175 (±203)
+Cmax = 最高血中濃度
+AUC0-24 hr = 0-24 小時之濃度-時間曲線下面積
+a 每8小時重複投與2 g Cefiderocol (靜脈輸注3小時) 或根據腎功能調整後的劑量
+b 單次投與2 g Cefiderocol (靜脈輸注3小時)
+11.1
+分佈
+Cefiderocol的分佈體積平均值(±標準差)為18.0 L(± 3.36)。血漿蛋白的結合率為40%~60%。主要與白蛋白結合。投與2 g Cefiderocol (依據腎功能調整劑量)靜脈輸注3小時於使用呼吸器的肺炎病人達穩定態後，在輸注甫結束時Cefiderocol於上皮內襯液體 (epithelial lining fluid, ELF) 的濃度為3.10~20.7mg/L，在輸注結束後2小時的濃度為7.2~15.9 mg/L。
+11.2
+排除
+Cefiderocol的末端排除半衰期為2~3小時，平均清除率( ± 標準差)約為5.18( ± 0.89) L/hr。
+代謝
+Cefiderocol被代謝的量極少 [單次投與放射性標記的1 g Cefiderocol (0.5倍建議劑量) 輸注1 小時，僅有不到10% 被代謝]。
+排泄
+Cefiderocol主要由腎臟排泄，單次投與1 g 14C-Cefiderocol (0.5倍建議劑量) 輸注1小時，排除至尿液中的量約為投與劑量總放射性的98.6% (其中90.6%以原型排出)，而排泄至糞便中約為2.8%。
+11.3
+特殊族群
+Cefiderocol的藥物動力學在不同年齡 (18~93歲）、性別或種族間並無藥動學上的臨床顯著差異。目前尚無研究評估肝功能不全對Cefiderocol藥動學的影響。
+腎功能不全
+在進行3-4小時血液透析後，大約60%的Cefiderocol被移除。腎功能不全病人和正常腎功能病人(CrCL ≥ 90 至 < 120 mL/min) 的Cefiderocol AUC變化比較如表11-2。
+表11-2 腎功能不全對Cefiderocola AUC的影響
+CrCL (mL/min)
+Cefiderocol AUC
+幾何平均數比 (90% CI)b
+≥ 60 至 <90 (N = 6)
+1.37 (1.15, 1.62)
+≥ 30 至 <60 (N = 7)
+2.35 (2.00, 2.77)
+≥ 15 至 <30 (N = 4)
+3.21 (2.64, 3.91)
+< 15 (N = 6)
+4.69 (3.95, 5.56)
+CI = 信賴區間
+a 單次投與1 g Cefiderocol  (0.5倍建議劑量)
+b 和CrCL ≥ 90至 <120 mL/min (N = 12)受試者的AUC相比
+接受CRRT的病人
+在體外試驗中，流出液流速 (effluent flow rate) 是CRRT中最主要影響Cefiderocol清除的因素，變數包含流出液流速、CRRT的模式 (CVVH或CVVHD)、過濾器種類和稀釋的位置 (過濾前或後稀釋)。根據流出液流速調整建議劑量(請見表3-2)，以達到和未接受CRRT病人投與每8小時2 g Cefiderocol有相當的藥物暴露量 (請見 3.1 用法用量)。
+CrCL ≥ 120 mL/min的病人
+在 CrCL ≥ 120 mL/min的病人中觀察到Cefiderocol清除率增加。 在 CrCL ≥ 120 mL/min病人中，每6小時投與Cefiderocol 2 g  (輸注 3 小時) 的藥物暴露量與 CrCL ≥ 90 至 <120mL/min 病人的藥物暴露量相當 (請見 3.1用法用量)。
+肝功能不全
+目前尚無研究評估肝功能不全對Cefiderocol藥動學的影響，肝功能不全預期不會影響 Cefiderocol的排除，因經肝臟的代謝/排泄途徑僅佔Cefiderocol排除的極少部分，所以肝功能不全病人無需調整劑量。
+11.4
+藥物交互作用研究
+臨床研究
+Furosemide (有機陰離子轉運蛋白[OAT]1和OAT3的受質)、Metformin (有機陽離子轉運蛋白[OCT]1、OCT2 以及多種藥物和毒素排出蛋白 [MATE]2-K 的受質) 和Rosuvastatin (一種有機陰離子轉運多肽 [OATP]1B3的受質) 與Cefiderocol併用時，藥動學上並無臨床顯著差異。
+尚未在臨床上進一步評估潛在藥物交互作用的體外試驗
+Cytochrome P450 (CYP) 酵素：Cefiderocol不是CYP1A2、 CYP2B6、CYP2C8、CYP2C9、CYP2C19、CYP2D6、CYP2E1 或CYP3A4的抑制劑；也不是CYP1A2、CYP2B6或CYP3A4的誘導劑。
+轉運蛋白系統：Cefiderocol不是OATP1B1、MATE1、P-glycoprotein (P-gp)、乳癌抗藥性蛋白(BCRP)或膽鹽排出幫浦轉運蛋白的抑制劑。Cefiderocol不是OAT1,、OAT3、OCT2、MATE1、MATE2-K、P-gp或BCRP的受質。
+12 臨床試驗資料
+12.1
+複雜性泌尿道感染(cUTI )，包括腎盂腎炎
+在一項第二期、多國、雙盲、隨機分配的臨床試驗(APEKS- cUTI)中，共有448 名受試者經2:1隨機分配接受治療，用於評估Cefiderocol在具有cUTI (包括腎盂腎炎)住院成人病人之療效與安全性。在此試驗中，有300名受試者接受每8小時2g Cefiderocol 靜脈輸注1小時，148名受試者接受每8小時1g Imipenem/1g cilastatin靜脈輸注1小時；治療時間為7至14天。此試驗不允許從靜脈注射轉為口服抗生素治療。
+在此試驗中，微生物意圖治療 (Microbiological Intent-to-treat, Micro-ITT)群體包含接受至少 1 劑試驗藥物且於納入試驗時具有革蘭氏陰性病原體的受試者。主要療效指標為Micro-ITT 分析群體在治癒檢測時間點(Test-of-cure, TOC)之臨床治癒率與微生物學清除率的複合療效指標。
+Micro-ITT群體由371名病人組成，其中25%病人患有合併腎盂腎炎的cUTI，48%則為無合併腎盂腎炎的cUTI，27%患有急性非複雜性腎盂腎炎。複雜性情況包含阻塞性泌尿道疾病、導尿和腎結石。年齡中位數為66 歲，24% 的病人年齡超過 75歲，55% 為女性。治療時間中位數為 9 天 (範圍：1-14天)。371名病人於基準期的肌酸酐清除率CrCL：CrCL > 50-80 mL/min有32%、CrCL 30-50 mL/min有17%、CrCL< 30 mL/min有3%。7%病人有伴隨革蘭氏陰性菌之菌血症。在 Micro-ITT群體中，基準期最常見的病原體為E. coli和K. pneumoniae.。
+表12-1顯示TOC (試驗藥物末次給藥後7±2天) 的微生物學清除率 (所有革蘭氏陰性泌尿道病原體之濃度由基準期≥ 105 CFU/mL皆下降至 < 104 CFU/mL）和臨床治癒率 (臨床症狀改善或緩解且無新的症狀）。試驗結果顯示於TOC時，Cefiderocol組的複合療效指標反應率(微生物清除率和臨床治癒率)高於Imipenem/cilastatin組，Cefiderocol組的臨床治癒率與Imipenem/cilastatin組相似。大多數在 TOC 時微生物學治療失敗的病人都不需要接受進一步的抗菌藥物治療。表12-2顯示依基準期病原體分析之複合療效指標的結果與整體族群一致。依照年齡、性別、腎功能不全、伴隨菌血症、有無合併腎盂腎炎或急性非複雜性腎盂腎炎進行次族群分析，與整體族群的結果一致。
+表12-1 試驗APEKS-cUTI 複雜性泌尿道感染病人於TOC時的複合療效指標、微生物學清除率和臨床治癒率 (Micro-ITT分析群體)
+試驗指標
+Cefiderocol n/N (%)
+Imipenem/cilastatin n/N (%)
+治療差異 (95% CI)a
+複合療效指標反應率
+183/252 (72.6%)
+65/119 (54.6%)
+18.6 (8.2,28.9)
+微生物學清除率
+184/252 (73.0%)
+67/119 (56.3%)
+17.3 (6.9, 27.6)
+臨床治癒率
+226/252 (89.7%)
+104/119 (87.4%)
+2.4 (-4.7, 9.4)
+CI=信賴區間，Micro-ITT= Microbiological Intent-to-treat微生物意圖治療，TOC=Test of Cure 治癒檢測期
+a 95%信賴區間是根據Cochran-Mantel-Haenzel method 。
+表12-2 試驗APEKS-cUTI 複雜性泌尿道感染病人於TOC時，依基準期病原體a分析之複合療效指標 (Micro-ITT分析群體)
+病原體
+Cefiderocol n/N (%)
+Imipenem/cilastatin n/N (%)
+Escherichia coli
+113/152 (74.3)
+45/79 (57.0)
+Klebsiella pneumoniae
+36/48 (75.0)
+12/25 (48.0)
+Proteus mirabilis
+13/17 (76.5)
+0/2 (0.0)
+Pseudomonas aeruginosa
+8/18 (44.4)
+3/5 (60.0)
+Enterobacter cloacae complex
+8/13 (61.5)
+3/3 (100.0)
+a 病人在基準期的尿液培養中可能有不止一種病原體。
+在此試驗的分離菌株中，Cefiderocol組有61 (24.2%) ESBL菌株，Imipenem/cilastatin組有 32 (26.9%) ESBL菌株。於 TOC時，具有ESBL 分離菌株病人的複合療效指標反應率與整體結果一致。
+12.2
+院內感染型肺炎和呼吸器相關肺炎 (HABP/VABP)
+在一項第三期、多中心、雙盲、隨機分配的臨床試驗 (APEKS-NP）中，共有 298 名受試者經1:1隨機分配接受治療，用於評估Cefiderocol在患有 HABP/VABP 住院成人病人之療效與安全性。此試驗比較每8小時接受Cefiderocol 2g 靜脈輸注3小時，與每8小時接受2g Meropenem靜脈輸注 3 小時；劑量根據腎功能調整。受試者在試驗前皆接受至少5天每12小時600mg Linezolid 作為革蘭氏陽性菌的經驗治療。此試驗允許病人在隨機分組前的 72 小時期間，可使用可能有效的活性抗菌藥物治療最多24小時，但不允許於TOC(治療結束後 7 天)之前合併使用其他全身性抗菌藥物。改良式意圖治療 (modified intent-to-treat, mITT) 群體是療效的主要分析群體，包含接受至少 1 劑試驗藥物且證實為細菌性肺炎，排除僅由厭氧菌或革蘭氏陽性菌所引起的肺炎。
+mITT群體由 292 名病人組成，年齡中位數為67歲，58% 的人年齡超過或等於 65 歲，29% 的病人年齡超過或等於75 歲。大多數病人為男性 (68%)、白人 (69%) 及來自歐洲 (67%)。APACHE II 評分中位數為15，並有29% 受試者的基準期APACHE II 評分大於或等於 20。在隨機分配時，有68% 的病人已住進 ICU，60% 的病人使用呼吸器。在292名病人於基準期的肌酸酐清除率CrCL：CrCL > 50-80 mL/min有27% 、CrCL 30-50 mL/min有20%、CrCL < 30 mL/min有14%。腎臟清除率增強CrCL > 120 mL/min有16%。6%病人在基準期時有革蘭氏陰性菌菌血症。在兩個治療組中，大多數受試者 (70%) 治療天數為 7 至 14 天，18% 的受試者治療天數為 15 至 21 天。
+表12-3 顯示第 14 天和第 28 天的全因死亡率，以及 TOC 時的臨床治癒率。主要療效指標為第 14 天 mITT群體的全因死亡率，結果顯示Cefiderocol組不劣於Meropenem組。臨床治癒定義為肺炎相關的徵兆與症狀完全消退或明顯改善，TOC時無需接受額外的抗生素治療。
+表12-3 試驗APEKS-NP院內感染型肺炎和呼吸器相關肺炎病人於TOC時的全因死亡率和臨床治癒率 (mITT分析群體)
+試驗指標
+Cefiderocol
+n/N (%)
+Meropenem
+n/N (%)
+治療差異a (95% CI)
+第14天全因死亡率
+18/145 (12.4)
+18/147 (12.2)
+0.2 (-7.2, 7.7)
+第28天全因死亡率
+32/145 (22.1)
+31/147 (21.1)
+1.1 (-8.2, 10.4)
+TOC時臨床治癒率
+94/145 (64.8)
+98/147 (66.7)
+-2.0 (-12.5, 8.5)
+CI=信賴區間，TOC=Test of Cure 治癒檢測期
+a   調整後的治療差異（Cefiderocol組減去Meropenem組）和相關的 95% CI 是根據Cochran-Mantel-Haenszel stratum-weighted method。生存狀態未知的受試者被視為死亡。第14天的全因死亡率，1 名Meropenem受試者狀態未知；第28天的全因死亡率，1 名Meropenem受試者和 2名 Cefiderocol受試者的狀態未知。
+在mITT 分析群體中，依基準期具有Meropenem感受性的下呼吸道(LRT) 病原體，分析第14天和第28天全因死亡率(表12-4)以及TOC時的臨床治癒率(表12-5)。基準期共有 51 名病人培養出A. baumannii complex，其中 17 名 (33.3%)分離出具有Meropenem感受性的菌株 (MIC ≤ 8 mcg/mL，依據Meropenem 2g Q8H)。在基準期培養出A. baumannii complex的 51 名病人中，Cefiderocol組和Meropenem組的第 14 天全因死亡率分別為19.2% (5/26)及16.0% (4/25)，第 28 天全因死亡率分別為34.6% (9/26)及24.0% (6/25)，TOC 時的臨床治癒率分別為53.8% (14/26)，及60.0% (15/25)。
+表12-4 試驗APEKS-NP，院內感染型肺炎和呼吸器相關肺炎病人，依基準期具有Meropenem感受性*的病原體分析之全因死亡率 (mITT分析群體)
+基準期病原體
+第14天全因死亡率
+第28天全因死亡率
+Cefiderocol
+n/N (%)
+Meropenem
+n/N (%)
+Cefiderocol
+n/N (%)
+Meropenem
+n/N (%)
+Klebsiella pneumoniae
+4/38 (10.5)
+4/36 (11.1)
+8/38 (21.1)
+9/36 (25.0)
+Pseudomonas aeruginosa
+2/20 (10.0)
+4/17 (23.5)
+2/20 (10.0)
+5/17 (29.4)
+Acinetobacter baumannii complexa
+1/8 (12.5)
+0/9 (0.0)
+3/8 (37.5)
+0/9 (0.0)
+Escherichia coli
+3/18 (16.7)
+3/21 (14.3)
+5/18 (27.8)
+4/21 (19.0)
+Other Enterobacteralesb
+2/16 (12.5)
+2/14 (14.3)
+4/16 (25.0)
+3/14 (21.4)
+排除基準期病原體Meropenem MIC > 8 mcg/mL 或 MIC 未知的受試者。生存狀態未知的受試者被視為死亡。
+*對meropenem有感受性定義為MIC of ≤ 8 mcg/mL
+a 包含A. baumannii、A. nosocomialis及A. pittii.
+b 包含Enterobacter cloacae complex (E. cloacae、E. asburiae及E. kobei)與Serratia marcescens.
+表12-5 試驗APEKS-NP院內感染型肺炎和呼吸器相關肺炎病人，依基準期具有Meropenem感受性*的病原體分析之臨床治癒率 (mITT分析群體)
+基準期病原體
+臨床治癒率
+Cefiderocol
+n/N (%)
+Meropenem
+n/N (%)
+Klebsiella pneumoniae
+24/38 (63.2)
+23/36 (63.9)
+Pseudomonas aeruginosa
+13/20 (65.0)
+13/17 (76.5)
+Acinetobacter baumannii complexa
+6/8 (75.0)
+7/9 (77.8)
+Escherichia coli
+12/18 (66.7)
+13/21 (61.9)
+Other Enterobacteralesb
+10/16 (62.5)
+8/14 (57.1)
+排除基準期病原體Meropenem MIC > 8 mcg/mL 或 MIC 未知的受試者。
+* 對meropenem有感受性定義為MIC of ≤ 8 mcg/mL
+a 包含A. baumannii、A. nosocomialis及A. pittii.
+b 包含Enterobacter cloacae complex (E. cloacae、E. asburiae及E. kobei)與Serratia marcescens.
+在此試驗中，Cefiderocol組有45 名（31%）病人分離出ESBL菌株， Meropenem組有 42 名（28.6%）。具有ESBL分離菌株病人第 14 天和第 28 天的全因死亡率與整體結果一致。
+13 包裝及儲存
+13.1
+包裝
+14 毫升透明玻璃小瓶，使用氯丁基橡膠塞和鋁膜密封，附有掀開式塑膠蓋。10支一盒裝。
+13.2
+效期
+效期標示於外盒及標籤上。
+13.3
+儲存條件
+在2°C ~ 8°C下冷藏保存。避光儲存，使用前請存放於外盒中。
+小瓶中的配製液：
+小瓶中的配製液須立即使用。若無法立即使用，小瓶中的配製液儲存於25°C不可超過1小時。
+輸液袋中的輸注液：
+輸液袋中的輸注液儲存於25°C不可超過6小時。
+輸液袋中的輸注液儲存於2°C ~ 8°C 與避光下不可超過24小時，使用前應使其回溫至室溫，且於25°C 下6小時內應完成輸注。
+ATC Code
+主次
+代碼
+英文名
+主
+J01DI04
+cefiderocol
+✖
+歷史仿單
+✖
+民眾用藥資訊
+項次
+檔案名稱
+上傳日期
+✖
+紙本仿單樣式(自行上傳)
+項次
+檔案名稱
+上傳日期
+✖
+外盒標籤清單
+項次
+檔案名稱
+上傳日期
+1
+衛部藥輸字第028637號-20240216-001.pdf
+2024-02-16 15:25
+✖
+詳細處方成分
+處方標示
+Each vial contains
+成分類別
+成分代碼
+成分名稱
+含量描述
+含量
+單位
+主成分
+0812310410
+Cefiderocol Sulfate Tosylate
+1563.800000
+MG
+✖
+授權使用
+***衛部藥輸字第028637號***
+被授權廠商
+簽審文件編號
+核准文號
+授權起始日
+授權終止日
+查無資料
+✖
+訂閱
+匯出PDF
+全部選擇
+1 性狀
+2 適應症
+3 用法及用量
+4 禁忌
+5 警語及注意事項
+6 特殊族群注意事項
+7 交互作用
+8 副作用/不良反應
+9 過量
+10 藥理特性
+11 藥物動力學特性
+12 臨床試驗資料
+13 包裝及儲存
+製造廠
+藥商
+驗證碼：
+重新產生
+播放驗證碼語音
+送出
+✖
+:::
+本網站所刊出內容之著作權屬於衛生福利部食品藥物管理署所有，未經本署之同意或授權，任何人不得以任何形式重製、轉載、散佈、引用、變更、播送或出版該內容之全部或局部，亦不得為其他任何違反本署著作權之行為。
+服務專線：02-7737-2958                           		      服務信箱：mcp@tradevan.com.tw
+服務時間：週一～週五08:30~17:30
+Copyright © 2019 衛生福利部食品藥物管理署
+Food and Drug Administration, Ministry of Health and Welfare.
+All rights reserved.
+登入
+-->
+登入
+帳號：
+密碼：
+驗證碼：
+重新產生
+播放驗證碼語音
+登入
+忘記密碼
+會員註冊
+✖

@@ -1,0 +1,20 @@
+Source: TFDA 藥品仿單查詢平台, licence 衛署藥製字第001853號
+Detail page: https://mcp.fda.gov.tw/im_detail_1/%E8%A1%9B%E7%BD%B2%E8%97%A5%E8%A3%BD%E5%AD%97%E7%AC%AC001853%E8%99%9F
+PDF: https://mcp.fda.gov.tw/insert/pdfcasefile/i_f87fe441-fe10-4930-90d7-250bb0fcbf57  (仿單(5)-112-11-01, uploaded 2023-11-01; code 4-032-37-9(5))
+Older: https://mcp.fda.gov.tw/insert/pdfcasefile/i_275602de-841d-4b62-8fb4-dcad20737526 (說明書 104-09-07)
+PDF text is vector outlines (pdftotext empty); transcribed manually from a 200-dpi render on 2026-10-05.
+Applicant/manufacturer: 永豐製藥股份有限公司 (新莊工廠). Licence valid to 117-05-25.
+
+安博黴素注射劑500毫克 AMPOLIN Injection 500mg
+成分: 每小瓶含 Ampicillin Sodium 500 mg (力價)
+特點: 以IM方式使用時，易達到血中最高濃度，且保持時間長久，約可達6小時。
+適應症: 葡萄球菌、鏈球菌、肺炎雙球菌、腦膜炎球菌及其他對青黴素具有感受性細菌引起之感染症。
+用法用量: 通常成人一回250~500 mg 一日2~4次肌注，小兒體重在20 kg以下，以25~60 mg(力價)/kg(一日量)計算，分3~4肌注或靜注，限由醫師使用。依年齡、症狀、劑量加以適當增減之。
+ 呼吸道、皮膚及軟組織感染: 成人 250~500 mg q6h；小孩體重50 kg以下 25~50 mg/kg/day 分四次 q6h。
+ 泌尿生殖感染(尿道炎、產褥膿毒病、淋病): 成人 250~500 mg q6h；小孩體重40 kg以下 25~50 mg/kg/day 分四次 q6h。
+ N. gonorrhoeae 尿道炎: 成人 500 mg q12h。
+ 細菌性腦膜炎: 成人 8~14 g/day，以 I.V. 點滴；小孩 100~200 mg/kg/day。此類以I.V.點滴給藥，併以每3~4小時用I.M.方式給藥。
+注意事項: 有Penicillin過敏症前歷之患者不宜服用本劑。治療中有非感受性微生物(Aerobacter aerogenes, Pseudomonas, Candida)之過度繁殖症狀出現時，應立即停藥，改用適當之療法。治療期間應定期作肝、腎及造血機能檢查(尤其是兒童及嬰兒)。
+使用法注意: IM — 500 mg/vial 以注射用水 1.8 mL 溶解；IV — 500 mg/vial 以注射用水 5 mL 溶解；全部抽出並須在1小時內用完。IV點滴稀釋液安定性表 (NS 8 h; D5W, D5-0.45NS(0.4%), 10% invert sugar, M/6 sodium lactate 4 h; 各約10% activity loss)。
+儲存: 25°C以下。包裝: 500 mg 小瓶 / 100支以下盒裝。
+No renal-impairment dosing, pregnancy, lactation, or adverse-reaction section in this insert.
