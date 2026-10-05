@@ -26,20 +26,20 @@ Legend: ✅ matches an official source · ❌ contradicts an official source · 
 | # | Field | Notion says | Source says | Status |
 |---|---|---|---|---|
 | 6 | Coverage / "Not reliably covered" | *Enterococcus* spp. not covered | FDA §1.1 and §12.4 list ***E. faecalis* (vancomycin-susceptible)** as clinically active in cSSSI | ✅ Fixed 2026-10-05: label caveat added; still listed as not recommended |
-| 7 | Breastfeeding | "Compatible" | FDA §8.2: excreted in milk, no data on infant effects, weigh benefit vs risk. SmPC 4.6: "should not be used… unless the potential benefit justifies the potential risk" | ✅ Fixed 2026-10-05: sourced to LactMed + label wording added. Confirm LactMed text manually (CAPTCHA) |
+| 7 | Breastfeeding | "Compatible" | FDA §8.2: excreted in milk, no data on infant effects, weigh benefit vs risk. SmPC 4.6: "should not be used… unless the potential benefit justifies the potential risk" | ✅ LactMed text confirmed by reviewer 2026-10-05 (rev. Jan 2021: RID 0.13–0.18%, low milk levels) |
 | 8 | Drug Interactions: valproate magnitude | "↓66% within 24 h; breakthrough seizures in ~55%" | FDA §7.2: reduction "may drop below therapeutic range". SmPC 4.5: "**60–100%** decrease in about **two days**… should be avoided" | ✅ Fixed 2026-10-05: now 60–100% within 1–3 days, seizures ↑26% (SmPC; Chai 2021, PMID 33322967) |
 
-## Not in either label: needs a reference
+## Not in either label: sourced from literature (2026-10-05)
 
 | # | Field | Notion says | Label position | Status |
 |---|---|---|---|---|
-| 9 | HD dose | 500 mg q24h after HD; *also* "supplemental 500 mg post-HD" | FDA §2.2: "inadequate information" for HD/PD. SmPC: dialyzable, give the dose **after** HD, no dose stated | ✅ Wording fixed 2026-10-05: one dose q24h, after HD. 500 mg dose still needs a source |
-| 10 | Peritoneal dialysis | 500 mg q24h | SmPC 4.2: "**no established dose** recommendations" | ⚠️ |
-| 11 | CRRT | 1 g q8–12h; up to 2 g q8h | Not in either label | ⚠️ Needs a source |
+| 9 | HD dose | 500 mg q24h after HD; *also* "supplemental 500 mg post-HD" | FDA §2.2: "inadequate information" for HD/PD. SmPC: dialyzable, give the dose **after** HD, no dose stated | ✅ Sourced 2026-10-05: equals the label CrCl <10 dose; ~50% removed per HD (Thalhammer 2000, PMID 11069213) |
+| 10 | Peritoneal dialysis | 500 mg q24h | SmPC 4.2: "**no established dose** recommendations" | ✅ Reworded 2026-10-05: no established IV dose (SmPC); IP 750 mg daily for PD peritonitis (PMID 37131320) |
+| 11 | CRRT | 1 g q8–12h; up to 2 g q8h | Not in either label | ✅ Sourced 2026-10-05: SMARRT 2025 (PMID 40801954); Blood Purif 2023 review (PMID 37231811) |
 | 12 | Coverage tags: *Acinetobacter*, *Burkholderia* | Covered | Not in the FDA §12.4 lists. SmPC names *Acinetobacter* only as "less susceptible" (needs 2 g) | ✅ Qualified 2026-10-05: Acinetobacter susceptible only/not CRAB; B. pseudomallei reliable, B. cepacia variable |
 | 13 | Interactions: live vaccines | ↓ vaccine efficacy | Not in either label (general principle for live *bacterial* vaccines, e.g. oral typhoid) | ⚠️ Fine to keep; note the source |
 | 14 | Mechanism: "T>MIC ≥40%" | ≥40% | FDA §12.2 confirms %T>MIC drives efficacy; the 40% target is from literature | ⚠️ |
-| 15 | Monitoring: TDM targets | Cmin 8–32 mg/L; toxicity >44 / >64 mg/L | Not in labels | ⚠️ Toxicity thresholds verified (Imani 2017, PMID 29091190: 44.45 / 64.2 mg/L). Target 8–32 mg/L: source unknown |
+| 15 | Monitoring: TDM targets | Cmin 8–32 mg/L; toxicity >44 / >64 mg/L | Not in labels | ✅ Fixed 2026-10-05: unsourced 8–32 mg/L target replaced by 100% fT>MIC (ESICM/ESCMID 2020, PMID 32383061); toxicity thresholds cited (Imani 2017, PMID 29091190) |
 
 ## Verified ✅
 
