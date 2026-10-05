@@ -64,3 +64,20 @@ Legend: ✅ matches an official source · ❌ contradicts an official source · 
 
 - **Sanford Guide, UpToDate:** subscription only. Items marked ⚠️ that Notion attributes to them need manual review.
 - **Taiwan FDA package inserts:** the site doesn't respond from outside Taiwan.
+
+## Taiwan package insert (added 2026-10-05)
+
+Source: 美平乾粉注射劑 Mepem® IV 0.25 g / 0.5 g (衛署藥輸字第 022115 號), PDF dated 2016-08-26, hosted by Cardinal Tien Hospital ([PDF](https://www.cth.org.tw/public/medi_news/0a28f193d1d635775c324a4f3fe2c1e8.pdf)). Text saved in `sources/meropenem-taiwan-insert-mepem.txt`. This is one Taiwan-licensed brand (Japanese-origin label); the hospital's own product may differ.
+
+| Topic | Notion | Mepem Taiwan insert |
+|---|---|---|
+| Adult dose | 1 g q8h (3 g/day); meningitis 2 g q8h (6 g/day) | **0.5–1 g/day** in 2–3 doses; severe/refractory up to **2 g/day** |
+| Pediatric dose | 10–20 mg/kg q8h; meningitis 40 mg/kg q8h | 30–60 mg/kg/day in 3 doses; severe up to 120 mg/kg/day, max 2 g/day |
+| Duration | by indication | "In principle 14 days"; reassess on day 3 |
+| Renal | >50 normal; 26–50 q12h; 10–25 half q12h; <10 half q24h | **Same bands** (26–50 usual dose q12h; 10–25 half q12h; <10 half q24h) ✅ |
+| HD | after dialysis | Give after HD (removed by HD) ✅ |
+| Valproate | AVOID | **Contraindicated** (併用禁忌) ✅ (stronger wording) |
+| Monitoring | LFT | LFTs if given >1 week ✅ |
+| Indications | approved FDA/EMA list | Any infection due to susceptible bacteria; list includes meningitis, peritonitis, pneumonia, osteomyelitis, sepsis, pelvic infections ✅ |
+
+The main difference is the **maximum daily dose**: this Taiwan label (Japanese dosing, 2016) caps adults at 2 g/day, while the FDA/UK labels and the Notion entry use up to 6 g/day. Not changed in Notion; needs the reviewer's decision.

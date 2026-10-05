@@ -76,3 +76,7 @@ UK and Taiwan indications include **CAPD peritonitis**, **surgical prophylaxis**
 ## Child page notes
 - Its content (NRCS-A *S. capitis*, catheter management, "nephrotoxicity at trough ≥60 mg/L", "thrombocytopenia at ≥40 mg/L", "3,377 patients") has no references and was not checked against a source.
 - Its interaction list matches SmPC 4.5, except that it omits colistin and amphotericin B.
+
+## Changes made in Notion (2026-10-05)
+
+Renal column follows the **Taiwan insert** (reviewer's choice): CrCl 40–60 half, <40 and HD one-third, from day 4; UK cut-offs noted alongside. Adult dose (loading doses × 3 / × 3–5, durations, trough targets by assay, surgical prophylaxis), pediatric dose, Category, Mechanism, Drug Interactions, Pregnancy, Breastfeeding, Notes filled. Side Effects tags added. Indications + Bacteremia, Peritonitis, CDI, Surgical prophylaxis. Coverage: `Bacillus` removed; Corynebacterium, Listeria, Anaerobes added. References section added. Child page: trough table now by assay (FPIA/HPLC) with source; interaction list adds colistin and amphotericin B. Renewed date 2026-10-05.
