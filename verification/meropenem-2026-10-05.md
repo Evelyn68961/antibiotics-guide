@@ -11,15 +11,15 @@ Review rule: an indication counts as approved if the US FDA label **or** the UK/
 
 Legend: ✅ matches an official source · ❌ contradicts an official source · ⚠️ not in either label, so it needs a guideline or reference check by a pharmacist
 
-## Needs correction
+## Corrections (all resolved 2026-10-05)
 
 | # | Field | Notion says | Source says | Status |
 |---|---|---|---|---|
-| 1 | References: LactMed link | `NBK501099` | NBK501099 is LactMed **Smallpox Vaccine**. Meropenem is **NBK501017** | ❌ Wrong link |
+| 1 | References: LactMed link | `NBK501099` | NBK501099 is LactMed **Smallpox Vaccine**. Meropenem is **NBK501017** | ✅ Fixed in Notion 2026-10-05 |
 | 2 | Page → Indications, "FDA-approved" | cIAI, **cUTI**, meningitis (peds ≥3 mo), cSSSI | FDA §1: cSSSI (adults + peds ≥3 mo), cIAI (adults + peds), meningitis (peds ≥3 mo). cUTI is approved in the EU/UK (SmPC 4.1) | ✅ Accepted by reviewer (2026-10-05): approval by any regulator counts. Optional: relabel the heading "Approved (FDA/EMA)" |
-| 3 | Page → Administration, stability | "0.9% NaCl: stable 3 h room temp, 24 h refrigerated" | FDA §2: infusion in 0.9% NaCl **1 h at ≤25 °C or 15 h at ≤5 °C**. Bolus in sterile water: 3 h / 13 h. D5W: use immediately. SmPC bolus: 3 h / 12 h. No source supports 24 h | ❌ Check against the brand your hospital stocks |
-| 4 | Side Effects / Monitor | No rhabdomyolysis; no CPK | FDA §5.3: **Rhabdomyolysis**. Discontinue if muscle pain/weakness, dark urine or elevated CPK | ❌ Missing. Add `rhabdomyolysis` tag (and `CPK` to Monitor) |
-| 5 | Pregnancy (property) | "Category B; use if clearly needed" | FDA §8.1 no longer uses letter categories (PLLR): "insufficient human data… no fetal toxicity in rats/monkeys". SmPC 4.6: "as a precautionary measure, it is **preferable to avoid** use during pregnancy" | ❌ Outdated wording. The page body correctly says "Former Category B" |
+| 3 | Page → Administration, stability | "0.9% NaCl: stable 3 h room temp, 24 h refrigerated" | FDA §2: infusion in 0.9% NaCl **1 h at ≤25 °C or 15 h at ≤5 °C**. Bolus in sterile water: 3 h / 13 h. D5W: use immediately. SmPC bolus: 3 h / 12 h. No source supports 24 h | ✅ Storage line removed from Notion 2026-10-05 |
+| 4 | Side Effects / Monitor | No rhabdomyolysis; no CPK | FDA §5.3: **Rhabdomyolysis**. Discontinue if muscle pain/weakness, dark urine or elevated CPK | ✅ Fixed 2026-10-05: `rhabdomyolysis` tag, `CPK` monitor and a page bullet added |
+| 5 | Pregnancy (property) | "Category B; use if clearly needed" | FDA §8.1 no longer uses letter categories (PLLR): "insufficient human data… no fetal toxicity in rats/monkeys". SmPC 4.6: "as a precautionary measure, it is **preferable to avoid** use during pregnancy" | ✅ Fixed 2026-10-05: property now reads "No FDA letter category (PLLR)… (UK SmPC: preferably avoid)" |
 
 ## Differs from the label: clinical judgement call
 
