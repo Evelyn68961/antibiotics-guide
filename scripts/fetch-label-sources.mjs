@@ -13,6 +13,10 @@
 //
 // Usage: npm run fetch-sources -- meropenem
 //        npm run fetch-sources -- colistimethate colomycin
+//        npm run fetch-sources -- "imipenem and cilastatin" imipenem --exclude=relebactam
+//
+// --exclude=<word> skips US labels and UK SmPCs whose title contains the word
+// (e.g. a combination product that shares the generic name).
 
 import { writeFileSync, mkdirSync } from 'node:fs'
 import { dirname, resolve } from 'node:path'
@@ -22,14 +26,21 @@ const __dirname = dirname(fileURLToPath(import.meta.url))
 const OUT_DIR = resolve(__dirname, '..', 'verification', 'sources')
 const UA = { 'User-Agent': 'Mozilla/5.0 (antibiotics-guide verifier)' }
 
-const drug = process.argv[2]?.toLowerCase()
+const args = process.argv.slice(2)
+const excludes = args
+  .filter((a) => a.startsWith('--exclude='))
+  .map((a) => a.slice('--exclude='.length).toLowerCase())
+const [drugArg, smpcArg] = args.filter((a) => !a.startsWith('--'))
+const drug = drugArg?.toLowerCase()
 if (!drug) {
   console.error(
-    'Usage: node scripts/fetch-label-sources.mjs <generic name> [UK SmPC search term]',
+    'Usage: node scripts/fetch-label-sources.mjs <generic name> [UK SmPC search term] [--exclude=word]',
   )
   process.exit(1)
 }
-const smpcQuery = process.argv[3] ?? drug
+const smpcQuery = smpcArg ?? drug
+const isExcluded = (title) =>
+  excludes.some((w) => (title ?? '').toLowerCase().includes(w))
 
 // ------- Helpers -------
 
@@ -92,9 +103,10 @@ async function fetchDailyMed() {
     `https://dailymed.nlm.nih.gov/dailymed/services/v2/spls.json?drug_name=${encodeURIComponent(drug)}&pagesize=100`,
     'json',
   )
-  if (!list.data?.length) return null
+  const labels = (list.data ?? []).filter((l) => !isExcluded(l.title))
+  if (!labels.length) return null
   // Newest published label is the most likely to reflect current labeling.
-  const newest = list.data.sort(
+  const newest = labels.sort(
     (a, b) => new Date(b.published_date) - new Date(a.published_date),
   )[0]
   const xml = await get(
@@ -157,12 +169,27 @@ async function fetchSmpc() {
   const search = await get(
     `https://www.medicines.org.uk/emc/search?q=${encodeURIComponent(smpcQuery)}`,
   )
-  const id = search.match(/\/emc\/product\/(\d+)\/smpc/)?.[1]
+  const ids = [
+    ...new Set([...search.matchAll(/\/emc\/product\/(\d+)\/smpc/g)].map((m) => m[1])),
+  ]
+  // Take the first listed SmPC whose product name is not excluded.
+  let id, text, name
+  for (const candidate of ids.slice(0, 8)) {
+    const page = htmlToText(
+      await get(`https://www.medicines.org.uk/emc/product/${candidate}/smpc`),
+    )
+    const candidateName = page.match(
+      /1\. Name of the medicinal product (.{0,120}?) 2\./,
+    )?.[1]
+    if (isExcluded(candidateName)) continue
+    ;[id, text, name] = [candidate, page, candidateName]
+    break
+  }
   if (!id) return null
   const url = `https://www.medicines.org.uk/emc/product/${id}/smpc`
-  const text = htmlToText(await get(url))
-  const name = text.match(/1\. Name of the medicinal product (.{0,120}?) 2\./)?.[1]
-  const revised = text.match(/10\. Date of revision of the text (\S+)/)?.[1]
+  const revised = text.match(
+    /10\. Date of revision of the text (\d{1,2} \w+ \d{4}|\d{1,2}\/\d{1,2}\/\d{4}|\d{1,2}\/\d{4}|\S+)/,
+  )?.[1]
   return {
     source: 'UK eMC SmPC',
     title: name ?? null,
@@ -175,7 +202,8 @@ async function fetchSmpc() {
 // ------- LactMed (ID lookup via NCBI E-utilities) -------
 
 async function fetchLactMed() {
-  const term = `${drug}[title] AND lactmed[book]`
+  // Search by the first word; the exact chapter title is matched below.
+  const term = `${drug.split(' ')[0]}[title] AND lactmed[book]`
   const search = await get(
     `https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=books&retmode=json&term=${encodeURIComponent(term)}`,
     'json',
@@ -218,7 +246,7 @@ for (const [key, fn] of Object.entries({
 }
 
 mkdirSync(OUT_DIR, { recursive: true })
-const outPath = resolve(OUT_DIR, `${drug}.json`)
+const outPath = resolve(OUT_DIR, `${drug.replace(/[^a-z0-9]+/g, '-')}.json`)
 writeFileSync(
   outPath,
   JSON.stringify({ drug, fetched: new Date().toISOString(), ...results }, null, 2),
