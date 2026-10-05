@@ -6,7 +6,7 @@
   - **FDA:** US FDA label via DailyMed, PRIMAXIN IV (Merck), SPL v34, published 2025-11-17. [Link](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f41d8abd-7792-4918-1b93-bd83ea01955e)
   - **UK SmPC:** none. eMC lists only Recarbrio (imipenem/cilastatin/relebactam), a different product.
   - **Taiwan insert for Culin:** not found online.
-  - **LactMed:** Imipenem and Cilastatin, NBK500987 ([link](https://www.ncbi.nlm.nih.gov/books/NBK500987/)). Not read (CAPTCHA).
+  - **LactMed:** Imipenem and Cilastatin, NBK500987, last revision 2024-11-15 ([link](https://www.ncbi.nlm.nih.gov/books/NBK500987/)). Text pasted by the reviewer.
 
 Legend: ✅ matches · ❌ contradicts or misses something in the label · ⚠️ unsupported
 
@@ -52,7 +52,7 @@ US label §1: lower respiratory tract, UTI (complicated and uncomplicated), intr
 | Pediatric dose | ≥3 months: 15–25 mg/kg q6h. <3 months (≥1,500 g): 4 wk–3 mo 25 mg/kg q6h; 1–4 wk 25 mg/kg q8h; <1 wk 25 mg/kg q12h. Max 4 g/day. Not for CNS infections; not if <30 kg with renal impairment |
 | Drug Interactions | Valproic acid/divalproex: ↓ VPA, breakthrough seizures, generally not recommended. Ganciclovir: generalized seizures, avoid unless benefit outweighs risk. Probenecid: ↑ imipenem levels, not recommended |
 | Pregnancy | Insufficient human data; no malformations in animals; ↑ embryonic loss in monkeys at human dose |
-| Breastfeeding | Insufficient data on milk levels or infant effects; weigh benefit vs risk (LactMed not yet read) |
+| Breastfeeding | Low milk levels (imipenem <1 mg/L; cilastatin undetectable); **acceptable** (LactMed 2024). Monitor infant for diarrhea/thrush. US label: insufficient data, weigh benefit vs risk |
 | Notes | Max 4 g/day; seizure risk (renal impairment, CNS disease); avoid in meningitis; CrCl <15 only if HD within 48 h; slow infusion if nausea |
 
 ## Verified ✅
