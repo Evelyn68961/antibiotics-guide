@@ -7,6 +7,8 @@
   - **SmPC:** UK SmPC, Meronem IV 1 g (Pfizer), revised 03/2026. [Link](https://www.medicines.org.uk/emc/product/9834/smpc)
   - **LactMed:** NIH LactMed, Meropenem, NBK501017. [Link](https://www.ncbi.nlm.nih.gov/books/NBK501017/). The page shows a CAPTCHA to scripts, so its text was **not** read automatically.
 
+Review rule: an indication counts as approved if the US FDA label **or** the UK/EU SmPC lists it.
+
 Legend: ✅ matches an official source · ❌ contradicts an official source · ⚠️ not in either label, so it needs a guideline or reference check by a pharmacist
 
 ## Needs correction
@@ -14,7 +16,7 @@ Legend: ✅ matches an official source · ❌ contradicts an official source · 
 | # | Field | Notion says | Source says | Status |
 |---|---|---|---|---|
 | 1 | References: LactMed link | `NBK501099` | NBK501099 is LactMed **Smallpox Vaccine**. Meropenem is **NBK501017** | ❌ Wrong link |
-| 2 | Page → Indications, "FDA-approved" | cIAI, **cUTI**, meningitis (peds ≥3 mo), cSSSI | FDA §1: cSSSI (adults + peds ≥3 mo), cIAI (adults + peds), meningitis (peds ≥3 mo) only. cUTI is **not** a US indication; it is an EU/UK indication (SmPC 4.1) | ❌ |
+| 2 | Page → Indications, "FDA-approved" | cIAI, **cUTI**, meningitis (peds ≥3 mo), cSSSI | FDA §1: cSSSI (adults + peds ≥3 mo), cIAI (adults + peds), meningitis (peds ≥3 mo). cUTI is approved in the EU/UK (SmPC 4.1) | ✅ Accepted by reviewer (2026-10-05): approval by any regulator counts. Optional: relabel the heading "Approved (FDA/EMA)" |
 | 3 | Page → Administration, stability | "0.9% NaCl: stable 3 h room temp, 24 h refrigerated" | FDA §2: infusion in 0.9% NaCl **1 h at ≤25 °C or 15 h at ≤5 °C**. Bolus in sterile water: 3 h / 13 h. D5W: use immediately. SmPC bolus: 3 h / 12 h. No source supports 24 h | ❌ Check against the brand your hospital stocks |
 | 4 | Side Effects / Monitor | No rhabdomyolysis; no CPK | FDA §5.3: **Rhabdomyolysis**. Discontinue if muscle pain/weakness, dark urine or elevated CPK | ❌ Missing. Add `rhabdomyolysis` tag (and `CPK` to Monitor) |
 | 5 | Pregnancy (property) | "Category B; use if clearly needed" | FDA §8.1 no longer uses letter categories (PLLR): "insufficient human data… no fetal toxicity in rats/monkeys". SmPC 4.6: "as a precautionary measure, it is **preferable to avoid** use during pregnancy" | ❌ Outdated wording. The page body correctly says "Former Category B" |
