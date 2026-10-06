@@ -1,0 +1,74 @@
+Source: TFDA 藥品仿單查詢平台 (mcp.fda.gov.tw), 淨核膠囊150毫克 MYCOBUTIN, 衛署藥輸字第020999號, 輝瑞大藥廠股份有限公司; manufacturer PFIZER ITALIA S.R.L. Derived from FJUH NHI code BC20999100 (FJUH MYC07). Insert version: CDS 20250611-1 (歷史仿單 list: 113/04/15 v3). Fetched 2026-10-06.
+URL: https://mcp.fda.gov.tw/im_detail_1/%E8%A1%9B%E7%BD%B2%E8%97%A5%E8%BC%B8%E5%AD%97%E7%AC%AC020999%E8%99%9F
+
+ 1 性狀 
+ 1.1 
+ 有效成分及含量 
+ 每膠囊含 rifabutin 150mg 
+ 1.2 
+ 賦形劑 
+ Microcrystalline cellulose、sodium lauryl sulfate、magnesium stearate、silica gel、gelatin、titanium dioxide、red iron oxide。 
+ 1.3 
+ 劑型 
+ 口服膠囊劑。 
+ 1.4 
+ 藥品外觀 
+ 不透明、紅色-棕色硬明膠 0 號膠囊。 
+ 2 適應症 
+ 預防免疫抑制病人細胞內禽結核分枝桿菌(MAC：Mycobacteria avium intracellulare complex)感染。 治療肺結核桿菌所引起之感染症。 <說明>  Mycobutin 可預防 CD4 低於或等於 200/mcl 的免疫抑制病人的 MAC 感染。  由 MAC 與其他非典型分枝桿菌引起之感染，如 M.xenopi，Mycobutin 已被證實對免疫傷害病人的局部性與瀰漫性疾病均有效。  在治療結核病上，Mycobutin 已被證實對最近診斷出的肺結核病與先前對 Rifampicin 抗藥性之結核分枝桿菌種引起的對多種藥物抗藥性之慢性肺結核均有效。  根據治療分枝桿菌屬感染的一般準則，Mycobutin 應與非 Rifamycin 類的抗分枝桿菌藥物合併使用。  
+ 3 用法及用量 
+ 3.1 
+ 用法用量 
+ Mycobutin口服投予，一天一次，兩餐間服用。 成人 Mycobutin單一療法： - 預防免疫抑制病人的MAC感染：300 mg (2粒膠囊)。 Mycobutin合併療法： - 非結核分枝桿菌：450～600 mg (3～4粒膠囊)治療6個月直到無培養菌產生。 - 對多種藥物抗藥性之慢性結核：300～450 mg (2～3粒膠囊)治療6個月直到無培養菌產生。 - 最近診斷出的肺結核：150 mg (1粒膠囊)治療6個月。 
+ 3.3 
+ 特殊族群用法用量 
+ 兒童 Mycobutin無足夠資料於兒童使用。   老年人 對老年人並無改變劑量的特別建議。 
+ 4 禁忌 
+ 禁用於對Rifabutin、Rifamycin類 (如Rifamycin)有過敏史之病人。   禁止與含rilpivirine的持續性藥效注射懸浮劑併用 (見7節)。 
+ 5 警語及注意事項 
+ 5.1 
+ 警語/注意事項 
+ Mycobutin會使尿液、皮膚與人體分泌物呈橘紅色。隱形眼鏡可能永久染色，尤其是軟性隱形眼鏡。   根據被一般分枝桿菌感染治療標準，Mycobutin應該與其他不屬於rifamycin類的抗分枝桿菌藥物併用。   用於嚴重肝功能不全病人應考慮減低劑量。輕度肝功能不全則不需修改劑量。   嚴重腎功能不全(肌酸酐清除率Creatinine Clearance低於30ml/min)，劑量需減半，輕度或中度腎功能不全不需調整劑量。   建議在治療期間須定期偵測白血球，血小板數目與肝酵素。 當Mycobutin與Clarithromycin併用以治療MAC感染時建議減低Mycobutin之劑量，因為Mycobutin的血中濃度會升高。(見3.1與7節)當Mycobutin與Clarithromycin(或其他巨環類藥物)及/或Fluconazole(及相關化合物)併用時，可能會發生葡萄膜炎(uveitis)，應小心監測。若不幸發生，應尋求眼科醫師治療，經考量需要時可暫停Mycobutin治療。(見8.1與7節) HIV蛋白酶抑制劑是由CYP450 3A4介導之代謝的受質或抑制劑。由於蛋白酶抑制劑與rifabutin之間有顯著的藥品交互作用，應該根據對病人與病人特定用藥的整體評估來併用二者 (見7節) 。 Rifabutin是CYP450 3A誘導劑。因此，不建議與抗反轉錄病毒藥物（包括但不限於bictegravir、elvitegravir、口服rilpivirine或doravirine）以及抗C型肝炎 (HCV) 藥物（包括但不限於sofosbuvir [單獨使用或合併其他藥物使用]）併用，因為預期抗反轉錄病毒藥物及抗HCV藥物的血漿濃度會降低，而可能造成喪失病毒反應且可能發展出抗藥性（見7節）。 更多進一步的建議，請參見最新的抗反轉錄病毒藥物處方資訊或聯絡該製造商。 幾乎所有的抗菌劑在使用後都有發生艱難梭菌相關性腹瀉 (Clostridium difficile associated diarrhea，CDAD) 的報告，包括rifabutin 在內，其嚴重程度從輕度腹瀉到致死性結腸炎。使用抗菌劑治療會改變大腸內的正常菌叢，導致C. difficile過度生長。 C. difficile會製造毒素A與毒素B，而促進CDAD的發生。因為抗菌劑難以控制治療這些感染，C. difficile菌株所製造超毒素會增加罹病率與死亡率，而可能需要結腸切除。對於使用抗生素之後出現腹瀉症狀的病人，必須考慮CDAD的發生可能。因為曾有停用抗菌劑之後兩個月發生CDAD的報告，使用時需要仔細詢問病史。 使用抗肺結核藥物已通報曾發生嚴重皮膚不良反應 (SCAR)，例如Stevens Johnson症候群 (SJS)、毒性表皮壞死溶解症 (TEN)、藥物疹合併嗜酸性白血球增多及全身症狀 (DRESS)，以及急性廣泛性發疹性膿皰症 (AGEP) (見8.1節)。如果病人出現皮疹，應密切監測，且如果病灶惡化時停用可疑的藥物。由於同時開立了多種抗結核藥物，因此很難確定特定藥物。具體來說，針對 DRESS（一種影響多系統器官且潛在威脅生命的SCAR）其症狀發作的時間可能會延遲。DRESS是一種臨床診斷，其臨床表現仍是決策的基礎。基於此症候群的死亡率和內臟侵犯（例如肝臟、骨髓或腎臟），儘早停用可疑的藥物至關重要。  
+ 5.3 
+ 操作機械能力 
+ 沒有報告Mycobutin對於駕駛與操作機械能力有不良影響。 
+ 6 特殊族群注意事項 
+ 6.1 
+ 懷孕 
+ 沒有對懷孕婦女進行適當且有良好控制的研究。 曾對大鼠和兔子給予高達200 mg/kg的劑量（人體每日建議劑量的40倍）進行生殖研究，結果皆未觀察到致畸性。對大鼠給予200 mg/kg/天的劑量會使胎兒的生存能力降低。對大鼠給予rifabutin 40 mg/kg/天（人體每日建議劑量的8倍）會使胎兒的骨骼變異增加。對兔子給予rifabutin 80 mg/kg（人體每日建議劑量的16倍）會引起母體毒性，並且使胎兒骨骼異常增多。因為動物生殖研究未必能預測人體反應，所以rifabutin只有在可能得到的效益超過對胎兒可能造成的風險時方可使用。   
+ 6.2 
+ 哺乳 
+ 沒有對授乳婦女進行適當且有良好控制的研究。 
+ 7 交互作用 
+ 多劑量的Rifabutin被證實會誘發CYP450 3A亞科的肝臟代謝酵素。Rifabutin的主要代謝產物(25-desacetyl rifabutin；LM 565) 也會促成此種效應。Rifabutin的代謝誘導作用可能會使同時投予的藥物的血中濃度降低(尤其是經由CYP450 3A途徑代謝的藥物)。動力學數據提示rifabutin在300至600mg的範圍內，所引起的酵素誘導在5天內完成，而且與劑量無關。同樣地，競爭性抑制CYP450 3A活性的併用藥物會增加rifabutin的血中濃度。 表1摘要rifabutin相關的藥品交互作用的評估結果與重要性。這些交互作用的臨床相關性與隨後的劑量調整均應根據所研究的族群、疾病嚴重程度疾病、病人用藥概況、對風險/效益比可能造成的影響加以判斷。 雖然rifabutin和rifampin的結構類似，它們的物理化學性質（例如電離與分配係數）提示它們在生體分佈和CYP450酵素誘導可能性有顯著的差異。Rifabutin的酵素誘導性質比rifampin弱。數據提示rifabutin的酵素誘導作用比rifampin弱2至3倍。因此，如果藥物血中濃度的變化影響病人的反應，與rifabutin同時給藥可能發生的藥品交互作用的臨床影響可能比rifampin來得小。 吸收不良：進行性HIV疾病導致的胃酸pH值變化與某些HIV陽性病人所使用的藥品（例如rifampin, isoniazid)吸收不良有關。從嚴重程度不一的AIDS病人(根據CD4+計數)的藥物血清濃度數據提示rifabutin的吸收不受進行性HIV疾病的影響。 表1 Rifabutin交互作用研究* 併用藥物 對 Rifabutin 的影響 對併用藥物的影響 備註   抗反轉錄病毒藥物 Amprenavir  AUC ↑ 2.9 倍 C max ↑ 2.2 倍 動力學無顯著變化 與 amprenavir 併用時，建議將 rifabutin 的劑量降低 50% 。應當增加對不良反應的監測。 Atazanavir/Ritonavir Rifabutin 的 AUC   ↑ 48% C max ↑ 149%   25‑O‑desacetyl‑rifabutin 的 AUC ↑ 990% C max ↑ 677%   動力學無顯著變化 建議將 rifabutin 的劑量降低 75% ( 例如 150 mg 隔天一次或每周三次 ) ，需增加對 rifabutin 相關不良反應 ( 包括嗜中性白血球減少症 ) 的監測。 Bictegravir ND AUC ↓ 38% C min ↓ 56% C max ↓ 20% 儘管未進行研究，但不建議將 rifabutin 與 Biktarvy (bictegravir/emtricitabine/tenofovir alafenamide) 併用，因為除了報告指出 bictegravir 濃度會下降以外，也預期 tenofovir alafenamide  濃度會降低。 Darunavir/Ritonavir Rifabutin 的動力學無顯著變化   25‑O-desacetyl‑rifabutin 的 AUC ↑ 881%  C max ↑ 377%   Darunavir 的 AUC ↑ 57% C max ↑ 42%   Ritonavir 的 AUC ↑ 66% C max ↑ 68%   建議將 rifabutin 的劑量降低 75% ( 亦即最高劑量為 150 mg 每兩日一次 ) ，應當增加對不良反應的監測，並可能須進一步降低 rifabutin 的劑量。   Delavirdine  ND 口服清除率 ­  ↑ 5 倍，以致平均血漿濃度谷值顯著降低 (18±15 至 1.0±0.7  μM ) 對感染 HIV-1 的病人進行的研究。接受 delavirdine mesylate 400 mg  治療的病人不建議使用 rifabutin 。 Didanosine  動力學無顯著變化 穩定狀態動力學無顯著變化   Dolutegravir ND   Dolutegravir 的 穩定狀態動力學無顯著變化   Doravirine ND AUC ↓ 50% C 24  ↓ 68% C max ↔ 如果需要併用，請按照含 doravirine 藥品處方資訊增加 doravirine 的劑量。   Elvitegravir/ Cobicistat Rifabutin 的動力學無顯著變化   25‑O-desacetyl‑rifabutin 的 AUC ↑ 6.3 倍 C max ↑ 4.8 倍   除了 elvitegravir 的血漿濃度谷值( C trough ) ↓ 67%  以外，沒有其他變化   Cobicistat 的暴露量無變化 不建議併用 rifabutin 與 elvitegravir/cobicistat ，因為預期 elvitegravir 的暴露量會下降 ( 見 5.1 節 )。   Etravirine Rifabutin 的動力學無顯著變化   AUC  ↓   37% C max   ↓   37% 且 C min   ↓  35% 若rifabutin僅與etravirine併用，且未併用ritonavir的情況下，無須調整rifabutin劑量。將 etravirine 和一種療效增強的蛋白酶抑制劑及 rifabutin 合併使用時應謹慎，因為會有 etravirine 暴露量降低以及 rifabutin 與 25-O-desacetyl-rifabutin 之暴露量升高的風險。建議嚴密監視病毒學治   療反應，以及是否發生 rifabutin 相關的不良反應。關於 rifabutin 的劑量調整方式，請參見該種療效增強之蛋白酶抑制劑的產品資訊。 Fosamprenavir/ ritonavir AUC ↑ 64% **   AUC ↑ 35% ， C max   ↑ 36% ， C trough   無影響 (amprenavir) 與 fosamprenavir 併用時，建議將 rifabutin  的劑量降低至少 75% ( 降至 150 mg  隔天一次或每週三次 ) 。 Indinavir  AUC ↑ 173%, C max ↑ 134% AUC ↓ 33%; C max ↓ 25% rifabutin 與 Indinavir 併用時，建議將 rifabutin  的劑量降低一半，增加 indinavir 劑量由 800mg 至 1000 mg 每 8 小時一次。 Lopinavir/ritonavir AUC ↑ 5.7 倍， C max ↑ 3.4 倍 ** lopinavir  動力學無顯著變化 建議將 rifabutin 一天 300 mg 的一般劑量降低至少 75% ( 亦即給予 150 mg  之最高劑量，隔天一次或每週三次 ) 。增加對不良反應的監測是正當的。可能需要進一步降低 rifabutin 的劑量。 Saquinavir  ND AUC ↓ 40%   Rilpivirine ND AUC ↓ 42% C min   ↓ 48% C max   ↓ 31% 儘管未進行研究，但不建議將 rifabutin 與 rilpivirine/tenofovir alafenamide/emtricitabine 併用，因為除了報告指出 rilpivirine 濃度會下降以外，也預期 tenofovir alafenamide  濃度會降低 ( 見 5.1 節 ) 。 禁止併用 rifabutin 與 cabotegravir/rilpivirine 持續性藥效注射懸浮劑 ( 見 4 節 ) 。 Ritonavir  AUC  增加 4 倍， C max   增加 2.5 倍 ND Ritonavir 存在時，隨後發生副作用的風險，包括葡萄膜炎可能會增加。接受 rifabutin 治療的病人，倘若需要使用蛋白酶抑制劑，應該考慮 ritonavir 以外的藥物。 ( 參見 5.1 節 ) 。 Tipranavir/ritonavir AUC ↑ 2.9 倍， C max ↑ 1.7 倍 tipranavir 的動力學無顯著變化 建議進行 rifabutin 治療藥物監測 Zidovudine 動力學無顯著變化 C max   與 AUC 約 ↓ 32% 一項大型對照性臨床試驗顯示這些變化沒有臨床上意義。 抗 HCV 藥物 Sofosbuvir ND C max   ↓  36% 且 AUC  ↓   24% 不建議併用 rifabutin 與 sofosbuvir  ( 單獨使用或合併其他藥物使用 )( 見 5.1 節 )。 抗黴菌劑 Fluconazole  AUC ↑ 82% 穩定狀態血漿濃度無顯著變化 應小心監測併用 rifabutin 與 fluconazole 的病人 ( 見 5.1 節 ) 。 Itraconazole  ND C max 與 AUC ↓ 70% 至 75% 一個病例報告提示，當 itraconazole 存在時，動力學交互作用使得血清中的 rifabutin 濃度及發生葡萄膜炎的風險增加。 Posaconazole 31% ↑ C max , 72% ↑ AUC C max ↓ 43% ， AUC ↓ 49% 如果同時給藥，應監測病人是否出現與給予 rifabutin 有關的不良反應。 Voriconazole C max ↑ 195% ， AUC ↑ 331%*** Rifabutin (300 mg  一天一次 )  使 voriconazole 200 mg  一天二次的 C max 和 AUC 分別 降低 69% 和 78% 。與 rifabutin   同時給藥時， voriconazole 350 mg  一天二次的 C max 和 AUC 是單獨給予 200 mg  一天二次的 96% 和 68% 。 Voriconazole   的劑量為 400 mg  一天二次時， C max 和 AUC 分別比單獨使用 voriconazole 200 mg 一天二次高出 104% 和 87% 。 如果效益大於風險， rifabutin 或可與 voriconazole 併用， voriconazole 的維持劑量可增至 5 mg/kg 靜脈注射，或口服 200 mg~350 mg/12 小時一次 ( 體重不滿 40 公斤的病人，則口服 100mg~200 mg/12 小時一次 ) 。當 rifabutin 與 voriconazole 同時給藥，建議小心監測全血球計數及 rifabutin 的不良事件 ( 例如葡萄膜炎 ) 。 抗 PCP 藥物 ( 卡氏肺囊蟲肺炎 Pneumocystis carinii pneumonia) Dapsone ND AUC 約 ↓ 27%-40% 對感染 HIV   的病人進行的研究 ( 快速與緩慢乙醯化代謝者 ) 。 Sulfamethoxazole- Trimethoprim C max 與 AUC 無顯著變化 AUC 約 ↓  15%-20% 在另一項研究中，只有 trimethoprim ( 不是 sulfamethoxazole) 的 AUC↓  14% ， C max  ↓ 6% ，但這些變化在臨床上並不顯著。 抗 MAC  藥物 (Mycobacterium avium intracellulare complex) Azithromycin  無藥動學交互作用 無藥動學交互作用   Clarithromycin AUC 約 ↑ 77%  AUC 約 ↓ 50% 對感染 HIV   的病人進行的研究。 Clarithromycin 存在時應調整 rifabutin 的劑量。 ( 見 3.1 與 5.1 節 ) 。 抗結核藥物 (Tuberculosis) Ethambutol ND AUC 或 C max 無顯著變化   Isoniazid  ND 藥動學不受影響   Pyrazinamide AUC 或 C max 無顯著變化 AUC 或 C max 無顯著變化 不需調整劑量 Bedaquiline ND Bedaquiline 的動力學無變化   Bedaquiline M2 代謝物  ↑  1.4 倍 ，M3 代謝物  ↑  約 3.0 倍 應避免將 rifabutin 與 bedaquiline 合併投予。   口服避孕藥 Ethinylestradiol/ Norethindrone ND Ethinylestradiol: C max   ↓ 20% AUC  ↓   35%    Norethindrone: C max   ↓   32% AUC  ↓   46% 應勸告病人使用其他額外的非荷爾蒙避孕方式。 其他 Methadone  ND 無顯著影響 Rifabutin 對 methadone 的最高濃度或根據 AUC 算出的全身暴露量沒有明顯的影響。未評估 rifabutin  的動力學。 Tacrolimus  ND ND 作者報告 rifabutin 會使 tacrolimus 的濃度谷值降低。 Theophylline  ND 與基準值相比， AUC  或 C max 沒有顯著變化。     * ND – 無資料 AUC – 濃度對時間曲線下面積 C max – 最高血清濃度 ** - 藥物加活性代謝產物 *** - voriconazole 劑量為 400 mg 一天二次       
+ 8 副作用/不良反應 
+ 8.1 
+ 臨床重要副作用/不良反應 
+ 多重藥物療法中Mycobutin之耐受性曾於免疫功能正常或不良之病人感染結核菌或非結核分枝桿菌時，以每日600毫克之劑量進行長期治療之臨床研究中評估過。 Mycobutin在這些研究中常為合併療法中之一項藥物，故難以確定藥物與事件間的明確因果關係。只有在極少數的例子才需要停藥。經由臨床試驗或上市後監視確認的不良反應依照器官系統分類（SOC）列舉於下： - 血液與淋巴系統障礙：全血球減少、白血球障礙（包括顆粒性白血球缺乏、白血球減少、淋巴球減少、顆粒性白血球數降低、嗜中性白血球減少、白血球數降低、嗜中性白血球計數降低）、血小板減少、血小板數降低、貧血。 - 免疫系統障礙：休克、過敏反應、支氣管痙攣、皮膚疹、嗜伊紅血球增多。 - 眼障礙：葡萄膜炎、角膜沉積物。 - 腸胃障礙：艱難梭菌相關性腹瀉(Clostridium difficile–associated diarrhea，CDAD)、噁心、嘔吐。 - 肝膽障礙：黃疸、肝酵素數值上升。 - 皮膚與皮下組織障礙：皮膚變色。 - 肌肉骨骼與結締組織障礙：關節痛與肌肉疼痛。 - 全身性障礙與投藥部位狀況：發燒。 發燒、皮膚疹與其他罕見的過敏反應如嗜伊紅血球增多、支氣管痙攣及休克等可能發生，如同在其他抗生素之所見。曾有少數發生皮膚變色的病例報告。 與併用Mycobutin與clarithromycin來預防MAC相比，以單一Mycobutin 300毫克預防MAC時，中度到重度可逆性葡萄膜炎的病例報告較為少見(見5.1節)。接受包含Mycobutin之多重藥物療法來預防MAC的HIV陽性小兒科病人，曾有在常規眼科檢查時發現角膜沉積物的報告。沉積物很小，幾乎是透明、無症狀的周邊與中央角膜沉積物，不會損害視力。 抗結核藥 SCARs 使用抗結核藥可能會導致發生藥物疹合併嗜酸性白血球增多及全身症狀(DRESS)，以及其他例如 SJS、TEN和AGEP等的 SCAR(見5.1節)。   
+ 9 過量 
+ 需以洗胃與利尿劑等方式進行處理。支持療法與症狀療法治療是必要的。 
+ 10 藥理特性 
+ 10.1 
+ 作用機轉 
+ Rifabutin已被證實在敏感的原核細胞菌株 (大腸桿菌[Escherichia Coli] 和枯草桿菌[Bacillus subtilis]) 會抑制依賴DNA的RNA聚合酶 (DNA dependent RNA polymerase)，但在哺乳類之細胞並未有此作用。它在對rifampicin有抗藥性的結核分枝桿菌 (M. tuberculosis)抑制胸腺嘧啶 (thymidine) 合併到DNA內，所以rifabutin可能也會抑制DNA合成，如此可以解釋它對於對rifampicin有抗藥性之菌種依然具有活性。 
+ 10.2 
+ 藥效藥理特性 
+ Rifabutin在體外試驗中對於實驗菌種與臨床上分離出來的結核分枝桿菌非常有效。在體外實驗，到目前為止結果顯示有1/3～1/2對rifampicin有抗藥性的結核分枝桿菌對Rifabutin極敏感，顯示這兩種抗生素間之交叉抗藥性並不完全。 Rifabutin對結核分枝桿菌引起感染的活體內實驗活性約為Rifampicin在體外實驗的10倍。 Rifabutin對非結核的 (非典型的) 分枝桿菌屬有效，其療效來自包括體外實驗及免疫功能有缺陷之老鼠感染M. avium-intracellular complex (MAC)之動物體內實驗得到佐證。Rifabutin的抗菌範圍包括革蘭氏陽性與革蘭氏陰性細菌。 藥物敏感性試驗 (臨界點) 有關本藥品經美國食品藥物管理局認可之藥物敏感性測試規範，以及相關測試方法及品質控制標準，請參閱https://www.fda.gov/STIC。 
+ 10.3 
+ 臨床前安全性資料 
+ 毒理學 臨床前的安全性研究指明，rifabutin用在囓齒類動物和猴子有良好的安全範圍 (margin of safety)。對大鼠投予高達5 g/kg之口服劑量，對米格魯獵犬 (beagle dogs) 和食蟹獼猴投予2至4 g/kg之口服劑量等實驗研究顯示，rifabutin的急性毒性低，且未造成死亡。對大鼠的口服LD 50 在雄鼠為4.8 g/kg，而在雌鼠則為3.3 g/kg。在反覆投藥的研究中，只有在高於人體治療建議劑量所達血中濃度的劑量下，才能辨識出主要受損器官的損傷。小鼠、大鼠和猴子主要受損器官是肝、胃、性腺，而紅血球受影響的程度比較少。體外和體內實驗都顯示rifabutin沒有基因毒性。 致癌性/致畸性 在接受最高耐受劑量治療超過二年的大鼠和小鼠實驗中，並沒有rifabutin致癌作用之報告。 生殖 在所有的生殖研究中，rifabutin對生殖無影響的劑量為40-50 mg/kg。Rifabutin在各種劑量下都沒有致畸性。在高劑量時見到的生育能力或胎兒發育變化分別與生殖器官之損傷和藥物對母體的毒性作用有關。   
+ 11 藥物動力學特性 
+ 在人體，Rifabutin口服後被快速吸收，約2～4小時到達最高血漿濃度。當以300, 450與600 mg投予健康志願者時，Rifabutin的藥效動力學呈線性分佈。投予上述劑量時，最高血漿濃度範圍為0.4～0.7μg/ml。血漿濃度維持超過結核菌之MIC的時間達三十小時左右。Rifabutin除腦部外廣泛地分佈在動物不同的器官。人體肺組織、膽囊、及腸壁的濃度比血漿濃度高數倍。 Rifabutin的細胞穿透力極高，從細胞內／細胞外濃度比值範圍在人體嗜中性白血球是9；而在人體單核白血球的比值是15即可得到佐證。 Rifabutin在對抗細胞內病原菌如分枝桿菌屬的效力中，其細胞內高濃度之特性可能扮演重要角色。Rifabutin與其代謝產物主要由尿道排除。其代謝產物有五種，主要是25-O-deacetyl衍生物和31-hydroxy 衍生物。Rifabutin的半衰期 (t 1/2 β)大約為35～40小時。   
+ 12 臨床試驗資料 
+ 目前尚無資訊。 
+ 13 包裝及儲存 
+ 13.1 
+ 包裝 
+ 2-1000粒盒裝。 
+ 13.2 
+ 效期 
+ 參閱外盒說明。 
+ 13.3 
+ 儲存條件 
+ 25℃以下儲存。 
+ 13.4 
