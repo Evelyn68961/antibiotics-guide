@@ -1,0 +1,1035 @@
+Source: TFDA 藥品仿單查詢平台 https://mcp.fda.gov.tw/im_detail_1/%E8%A1%9B%E9%83%A8%E8%97%A5%E8%BC%B8%E5%AD%97%E7%AC%AC027505%E8%99%9F (衛部藥輸字第027505號 安以斯膜衣錠 Odefsey; licence holder 嬌生 Janssen; insert history latest update 114/01/06 = 2025-01-06 v4; text version line 'EUSmPC Feb2023+USPI Aug2017+HA request May2024_v2402'). Licence inferred from NHI code BC27505100 (FJUH ODE01). Fetched 2026-10-06.
+藥品仿單查詢平台-仿單資料
+抱歉！您的瀏覽器不支援javascript，某些功能將無法正常運作。
+抱歉！您的瀏覽器不支援javascript，某些功能將無法正常運作。
+關閉
+跳到主要內容
+:::
+|
+網站導覽
+|
+登入
+|
+註冊
+:::
+公告訊息
+仿單查詢
+批次訂閱
+訂閱清單
+藥品外觀資料查詢
+:::
+字級
+小
+中
+大
+中文品名
+安以斯膜衣錠
+英文品名
+Odefsey Film-coated tablets
+許可證號
+衛部藥輸字第027505號
+藥品類別
+須由醫師處方使用
+劑型
+膜衣錠
+申請商名稱
+嬌生股份有限公司
+申請商地址
+台北市中山區民生東路三段2號10樓及11樓
+發證日期
+107-09-17
+有效日期
+117-09-17
+監視期限
+112-09-17
+通關簽審文件編號
+DHA05202750501
+限制項目
+成品已完成元素不純物評估(Option 3)
+包裝
+2-1000錠塑膠瓶裝(HDPE)
+仿單上傳類型
+自行上傳
+主製造廠
+製造廠名稱
+ROTTENDORF PHARMA GMBH　(製程：成品製造廠)
+製造廠地址
+OSTENFELDER STRASSE 51-61 59320 ENNIGERLOH, GERMANY (Germany)
+次製造廠
+製造廠名稱
+JANSSEN-CILAG SPA　(製程：包裝)
+製造廠地址
+VIA C. JANSSEN, B.GO SAN MICHELE, 04100 LATINA, ITALY (Italy)
+製造廠名稱
+Rottendorf Pharma GmbH　(製程：分裝)
+製造廠地址
+Am Fleigendahl 3, 59320 Ennigerloh, Germany (Germany)
+製造廠名稱
+裕利股份有限公司　(製程：二級包裝廠)
+製造廠地址
+桃園市大園區和平里1鄰開和路91號 (TAIWAN， ROC)
+匯出PDF
+外盒/標籤
+藥品外觀
+歷史仿單查詢
+ATC code查詢
+與前一版比對
+詳細處方成分
+授權使用
+＋訂閱
+全部展開
+1 性狀
+1.1
+有效成分及含量
+每顆膜衣錠含有200毫克emtricitabine、相當於25毫克rilpivirine的rilpivirine hydrochloride、以及相當於25毫克tenofovir alafenamide的tenofovir alafenamide fumarate。
+1.2
+賦形劑
+具已知作用的賦形劑
+每顆錠劑含有180.3毫克的乳糖(相當於189.8毫克的單水乳糖)。
+完整的賦形劑清單
+錠劑核心
+Croscarmellose sodium、Lactose(as monohydrate)、Magnesium stearate、Microcrystalline cellulose、Polysorbate 20、Povidone
+膜衣
+Macrogol、Polyvinyl alcohol、Talc、Titanium dioxide(E171)、Iron oxide black(E172)
+1.3
+劑型
+膜衣錠。
+1.4
+藥品外觀
+灰色膠囊形狀的膜衣錠，大小為15毫米×7毫米，錠劑的一面刻有“GSI”字樣，錠劑另一面刻有“255”字樣。
+2 適應症
+先前未曾使用過抗病毒藥物治療之愛滋病毒(HIV-1)感染之完整治療，且在治療開始時其病毒量HIV-1 RNA ≤ 100,000 copies/mL之12歲以上(體重至少35公斤)患者；適用於特定正穩定接受抗反轉錄病毒療法，且治療開始時已達病毒學抑制狀態(HIV-1 RNA < 50 copies/mL)的患者，取代其現有的抗反轉錄病毒療法。對emtricitabine／rilpivirine／tenofovir的任一成分，患者過去或現在應無抗藥性病史才適用。
+3 用法及用量
+應由熟悉HIV感染之處置的醫師進行治療。
+3.1
+用法用量
+劑量
+每日一次隨食物口服一錠(參見第11節)。
+如果病人在原本服藥時間的12小時內漏服一劑Odefsey®，則應盡快隨食物服用Odefsey®，並於隔天恢復原本的服藥時間。如果病人漏服一劑Odefsey®超過12小時以上，則不應服用該劑漏服的藥物，只要依原本的服藥時間重新開始服藥即可。
+如果病人在服用Odefsey®後4小時內發生嘔吐，則應另外再隨食物服用一錠。如果病人在服用Odefsey®超過4小時之後發生嘔吐，則不須另外再服一劑Odefsey®，直到下一個原本排定的服藥時間再服藥。
+用法
+口服。
+Odefsey®應每日一次隨食物口服(參見第11節)。建議不可嚼碎、磨碎或剝開本膜衣錠。
+3.3
+特殊族群用法用量
+老年人
+老年人應謹慎使用，rilpivirine臨床研究中所收錄65歲(含)以上的受試者並不足以確認他們的療效反應是否不同於較年輕的受試者。
+腎功能不全
+對肌酸酐廓清率(CrCl)估計值≥30毫升/分鐘的成人或青少年(年齡至少12歲且體重至少35公斤)，不須調整Odefsey®的劑量。對CrCl估計值在治療期間下降至低於30毫升/分鐘的病人，應停用Odefsey®(參見第11節)。
+對進行慢性血液透析之末期腎病(CrCl估計值< 15 毫升/分鐘)的成人，不須調整Odefsey®的劑量；然而，通常應避免使用Odefsey®，只有在考量潛在效益大於潛在風險時可謹慎使用於這些病人(參見第5.1與11節)。在血液透析當日，Odefsey®應在血液透析完成後服用。
+對CrCl估計值≥ 15毫升/分鐘和<30毫升/分鐘的病人，或<15毫升/分鐘且沒有進行慢性血液透析的病人，應避免使用Odefsey®，因為Odefsey®對此族群病人的安全性尚未確立。
+對18歲以下有末期腎病的兒童，目前尚無資料可供劑量建議。
+肝功能不全
+對輕度(Child Pugh A級)或中度(Child Pugh B級)肝功能不全的病人，不須調整Odefsey®的劑量。對中度肝功能不全的病人，使用Odefsey®時應謹慎。目前尚未針對重度肝功能不全(Child Pugh C級)的病人進行過Odefsey®的研究；因此，Odefsey®不建議用於重度肝功能不全的病人(參見第5.1與11節)。
+兒童族群
+Odefsey®用於12歲以下或體重<35公斤之兒童的安全性與療效尚未確立。目前並無資料。
+4 禁忌
+對活性成分或對第1.2節中所列之任何賦形劑過敏。
+Odefsey®不可與會導致rilpivirine血中濃度明顯降低的藥物併用(因細胞色素P450 [CYP]3A酵素誘導作用或因胃中pH值升高所致)，這可能會導致Odefsey®的療效減弱(參見第7節)，這些藥物包括：
+carbamazepine、oxcarbazepine、phenobarbital、phenytoin
+rifabutin、rifampicin、rifapentine
+omeprazole、esomeprazole、dexlansoprazole、lansoprazole、pantoprazole、rabeprazole
+dexamethasone(口服與注射劑型)，除非僅使用單一劑量治療
+St. John’s wort (聖約翰草)(Hypericum perforatum)
+5 警語及注意事項
+5.1
+警語/注意事項
+病毒學治療失敗與抗藥性產生
+目前並無足夠的資料可證明本品可用於先前曾使用NNRTI治療失敗的病人。應依據抗藥性檢測及/或病史抗藥性的資料使用Odefsey®(參見第10.2節)。
+在兩項針對成人所進行之第3期臨床研究(C209 [ECHO]與C215 [THRIVE])的整合療效分析中，在96週期間，使用emtricitabine/tenofovir disoproxil fumarate+rilpivirine治療且基礎病毒含量> 100,000 HIV-1 RNA copies/mL的病人發生病毒學治療失敗的風險(rilpivirine組為17.6%，efavirenz組為7.6%)要高於基礎病毒含量≤100,000 HIV-1 RNA copies/mL的病人(rilpivirine組為5.9%，efavirenz組為2.4%)。在使用emtricitabine/tenofovir disoproxil fumarate+rilpivirine治療的病人中，第48週與第96週的病毒學治療失敗率分別為9.5%與11.5%，在emtricitabine/tenofovir disoproxil fumarate+efavirenz治療組中則分別為4.2%與5.1%。在rilpivirine組與efavirenz組之間，第48週至第96週分析之新病毒學治療失敗率的差異並不具統計意義。在基礎病毒含量>100,000 HIV-1 RNA copies/mL且發生病毒學治療失敗的病人中，於治療期間出現NNRTI類藥物抗藥性的比例較高。和efavirenz組的病毒學治療失敗病人相比較，在rilpivirine組的病毒學治療失敗病人中，有較多病人產生lamivudine/emtricitabine相關抗藥性(參見第10.2節)。
+在研究C213之青少年(12歲至未滿18歲)中的發現和這些資料大致相同(參見第10.2節)。
+只有被認定對抗反轉錄病毒治療可能具良好順從性的青少年才可使用rilpivirine治療，因為順從性不佳會導致產生抗藥性，未來的治療選擇也會減少。
+心血管
+在高於治療劑量下(75毫克每日一次與300毫克每日一次)，rilpivirine曾與心電圖(ECG)的QTc間期延長相關(參見第7與9節)。
+在Rilpivirine 25毫克每日一次的建議劑量下，對QTc並不會造成具臨床關聯性的影響。將Odefsey®與已知有尖端扭轉型室性心搏過速(Torsade de Pointes)之風險的藥物併用時應謹慎。
+合併感染HIV與B型或C型肝炎病毒的病人
+在接受抗反轉錄病毒治療的慢性B型或C型肝炎病人中，發生嚴重及可能致命之肝臟不良反應的風險會升高。
+Odefsey®用於合併感染HIV-1與C型肝炎病毒(HCV)之病人的安全性與療效尚未確立。
+Tenofovir alafenamide具有對抗B型肝炎病毒(HBV)的活性。對合併感染HIV與HBV的病人，停止使用Odefsey®治療可能與肝炎嚴重急性惡化相關。對合併感染HIV與HBV並停用Odefsey®的病人，在停止治療後應予以嚴密監視，並進行臨床與實驗室追蹤至少數月。
+肝臟疾病
+Odefsey®用於有重大肝臟疾病之病人的安全性與療效尚未確立。
+在進行複合式抗反轉錄病毒治療(CART)期間，原先已有肝臟功能障礙(包括慢性活動性肝炎)的病人發生肝功能異常的頻率會升高，應依據標準常規進行監視。這類病人如果出現肝臟疾病惡化的現象，應考慮中斷或停止治療。
+體重與代謝參數
+在抗反轉錄病毒治療期間，可能會出現體重增加及血脂值與血糖值升高的現象。這類變化可能有部分和疾病控制及生活型態有關。在血脂方面，有些案例有證據顯示是治療的影響，在體重增加方面則無任何有力的證據顯示其和任何特定治療有關。血脂與血糖的監測應參照已確立的HIV治療指引。在臨床適當的情況下，應針對血脂異常的現象加以控制。
+出生前暴露於藥物後的粒線體功能障礙
+核苷(酸)類似物可能會對粒線體功能產生不同程度的影響，其中以stavudine、didanosine及zidovudine最為顯著。在出生前及/或出生後曾暴露於核苷類似物的HIV陰性嬰兒中，曾有發生粒線體功能障礙的報告；這些案例主要都和使用含有zidovudine的療法治療有關。通報的主要不良反應為血液學異常(貧血、嗜中性白血球減少症)與代謝異常(高乳酸鹽血症、高解脂酶血症)。這些事件通常為暫時性的。曾有晚發性神經學異常(肌張力過高、痙攣、行為異常)的罕見報告。目前並不確知這類神經學異常是暫時性還是永久性的。對任何出生前曾暴露於核苷(酸)類似物並出現不明原因之嚴重臨床表現(尤其是神經學表現)的嬰兒，都應將這些發現納入考慮。這些發現並不影響目前的對懷孕女性使用抗反轉錄病毒治療以預防HIV垂直傳染的國家建議。
+免疫再活化症候群
+嚴重免疫功能不全的HIV感染病人在開始CART治療時，可能會因無症狀或殘餘的伺機性致病原而出現發炎反應，從而引發嚴重的臨床症狀或使既有症狀更加惡化。此類反應通常都是於開始進行CART的最初幾週或幾個月內發現。相關的實例包括巨細胞病毒視網膜炎、泛發性及/或病灶性分枝桿菌感染、以及卡氏肺囊蟲肺炎(Pneumocystis jirovecii pneumonia)。任何發炎症狀都應進行評估，並於必要時給予治療。
+在免疫再活化的情況下也曾有自體免疫疾病(如Graves氏病和自體免疫性肝炎)的報告；不過，報告中的開始發生時間較不一定，這些事件也可能在開始治療數個月後才發生。
+伺機性感染
+接受Odefsey®的病人可能會繼續發生伺機性感染及其他的HIV感染併發症，因此，應由孰悉治療HIV相關疾病病人的醫師持續進行嚴密的臨床觀察。
+骨壞死
+雖然一般認為致病因素有很多(包括使用皮質類固醇、喝酒、嚴重免疫功能抑制、身體質量指數較高)，也曾有骨壞死的案例報告，尤其是患有後期HIV疾病及/或長期暴露於CART的病人。應囑咐病人如果出現關節疼痛、關節僵硬或行動困難的現象，應尋求醫療建議。
+腎毒性
+曾有在使用含tenofovir alafenamide成分藥品後發生腎功能不全的上市後案例，包括急性腎衰竭、近端腎小管病變(proximal renal tubulopathy，PRT)及Fanconi氏症候群。雖然大部分的案例具有可能導致該腎臟事件之潛在干擾因子的特徵，但這些因子也可能使病人易產生tenofovir相關不良事件。
+使用tenofovir前驅藥治療且腎功能不全的病人，以及使用腎毒性藥物 (包括非類固醇抗發炎藥)治療的病人，發生腎臟相關不良反應的風險都會升高。
+無法排除因慢性暴露於投予tenofovir alafenamide形成之低濃度tenofovir而引發腎毒性的潛在風險(參見第10.3節)。
+建議所有病人在開始使用Odefsey®之前或開始治療時，以及使用Odefsey®治療期間，都應依臨床上適合的時程評估血清肌酸酐、估計肌酸酐廓清率、尿糖及尿蛋白。如果病人發生具臨床意義的腎功能顯著下降、近端腎小管病變或Fanconi氏症候群的病人，則應停用Odefsey®.
+進行血液透析之末期腎病病人
+通常應避免使用Odefsey®，只有在考量潛在效益大於潛在風險時，可謹慎使用於進行慢性血液透析之末期腎病(CrCl估計值<15毫升/分鐘)的成人(參見第3.3節)。
+在針對進行慢性血液透析之末期腎病(CrCl估計值<15毫升/分鐘)之HIV-1感染成人使用emtricitabine+tenofovir alafenamide合併elvitegravir+cobicistat固定劑量複方錠劑(E/C/F/TAF)的研究中，療效維持至48週，但emtricitabine暴露量明顯高於腎功能正常之病人。雖然沒有發現新的安全性事件，仍不確知emtricitabine暴露量增加的意義(參見第8與11節)。
+懷孕
+當懷孕期間服用rilpivirine 25毫克時發現rilpivirine暴露量較低。在第3期研究(C209和C215)，較低rilpivirine暴露量(相似於懷孕期間發現的狀況)和增加病毒學治療失敗風險具有相關性，因此應密切監測病毒量(參見第6.1、10.2與11節)。另外，可考慮轉換到其他抗反轉錄病毒療法。
+併用其他藥物
+有些藥物不可與Odefsey®併用(參見第4與7節)。
+Odefsey®不可併用其他抗反轉錄病毒藥物(參見第7節)。
+Odefsey®不可併用其他含有tenofovir alafenamide、lamivudine、tenofovir disoproxil或adefovir dipivoxil的藥物(參見第7節)。
+賦形劑
+Odefsey®含有單水乳糖。有半乳糖不耐症、總乳糖酶缺乏症或葡萄糖-半乳糖吸收不良等罕見遺傳問題的病人不可使用本藥。
+本品每顆錠劑的鈉含量少於1 mmol (23毫克)，因此含鈉量近乎其微。
+5.3
+操作機械能力
+Odefsey®可能對駕駛及操作機械之能力有些微的影響。應告知病人，曾有在使用Odefsey®之個別成分治療期間出現疲倦、暈眩及嗜睡的報告(參見第8節)。評估病人的駕駛能力或機械操作能力時，應將這點納入考慮。
+6 特殊族群注意事項
+6.1
+懷孕
+目前尚無適當且控制良好的對懷孕女性使用Odefsey®或其個別成分的研究。
+懷孕女性使用tenofovir alafenamide的資料數量有限(少於300個懷孕案例)。在中等數量的懷孕女性資料中(300-1,000個懷孕案例)，並未發現rilpivirine有畸形毒性或胎兒/新生兒毒性(參見第5.1、10.2與11節)。懷孕期間發現rilpivirine暴露量較低；因此應仔細監測病毒量。
+在大量的懷孕女性資料中(超過1,000例曝藥結果)，並未發現任何與emtricitabine有關的畸形毒性或胎兒/新生兒毒性。
+動物研究並未顯示Odefsey®的成分對生殖毒性(參見第10.3節)具有直接或間接的不良影響。
+只有在對胎兒的潛在效益大於潛在風險時才應在懷孕期間使用Odefsey®。
+6.2
+哺乳
+Emtricitabine會分泌進入人類的乳汁。目前並不確知rilpivirine或tenofovir alafenamide是否會分泌進入人類乳汁。動物研究顯示，tenofovir會分泌進入乳汁。
+Rilpivirine會分泌進入大鼠的乳汁。
+在Odefsey®的所有組成對新生兒/嬰兒的影響，目前並無足夠的資料可供參考。
+由於接受哺乳的嬰兒有發生不良反應的可能性，應建議接受Odefsey®的女性不可餵哺母乳。
+為避免HIV傳染給嬰兒，建議感染HIV的女性不要餵哺母乳給他們的嬰兒。
+6.3
+有生育能力的女性與男性
+使用Odefsey®時應採取有效的避孕措施。
+生育力
+目前並無任何Odefsey®對生育力之影響的人體資料。在動物研究中並未發現emtricitabine、rilpivirine hydrochloride或tenofovir alafenamide會對生育力造成有害的影響(參見第10.3節)。
+7 交互作用
+Odefsey®適用於做為一個治療HIV-1感染症的完整療法，且不可併用其他抗反轉錄病毒藥物。因此，在此不提供與其他抗反轉錄病毒藥物之藥物-藥物交互作用的資訊。僅曾針對成人進行過交互作用研究。
+Emtricitabine
+體外及臨床藥物動力學藥物-藥物交互作用研究顯示，emtricitabine與其他藥物發生CYP媒介性交互作用的可能性很低。
+將emtricitabine與透過腎小管主動分泌作用排除的藥物合併投予可能會升高emtricitabine及/或併用藥物的濃度。會降低腎功能的藥物可能會升高emtricitabine的濃度。
+Rilpivirine
+Rilpivirine主要是透過CYP3A代謝。因此，會誘導或抑制CYP3A的藥物可能會影響rilpivirine的廓清(參見第11節)。在體外，rilpivirine會抑制P醣蛋白(P-gp)(50%抑制濃度[IC50]為9.2 μM)。一項臨床研究顯示，rilpivirine對digoxin的藥物動力學並不會造成明顯的影響。此外，一項以對腸內P-gp抑制作用較為敏感之tenofovir alafenamide所進行的臨床藥物-藥物交互作用研究顯示，當同時投予時，rilpivirine並不會影響tenofovir alafenamide的暴露量，這表示rilpivirine在體內並非一種P-gp抑制劑。
+在體外，rilpivirine是運輸蛋白MATE-2K的抑制劑，且IC50為<2.7 nM。此項發現的臨床意義目前仍然不明。
+Tenofovir alafenamide
+Tenofovir alafenamide是透過P-gp與乳癌抗藥蛋白(BCRP)運送。會影響P-gp與BCRP活性的藥物可能會導致tenofovir alafenamide的吸收發生變化(參見表1)。會誘導P-gp活性的藥物(如：rifampicin、rifabutin、carbamazepine、phenobarbital)預期會使tenofovir alafenamide的吸收降低，從而導致tenofovir alafenamide的血中濃度降低，這可能會造成Odefsey®療效喪失及出現抗藥性。併用Odefsey®與其他會抑制P-gp與BCRP活性的藥物(如：ketoconazole、fluconazole、itraconazole、posaconazole、voriconazole、ciclosporin)預期會使tenofovir alafenamide的吸收及血中濃度升高。不確知將tenofovir alafenamide與黄嘌呤氧化酶抑制劑(如：febuxostat)併用是否會升高tenofovir的全身暴露量。
+在體外，tenofovir alafenamide並非CYP1A2、CYP2B6、CYP2C8、CYP2C9、CYP2C19或CYP2D6的抑制劑。在體內，tenofovir alafenamide並非CYP3A的抑制劑或誘導劑。在體外，tenofovir alafenamide是有機陰離子運輸多肽(OATP) 1B1與OATP1B3的作用受質。Tenofovir alafenamide在體內的分佈可能會受到OATP1B1與OATP1B3的活性影響。
+禁止併用
+將Odefsey®與會誘導CYP3A的藥物合併投予時，曾觀察到rilpivirine血中濃度降低，這可能會導致Odefsey®的病毒學反應喪失(參見第4節)，並可能對rilpivirine及NNRTI類藥物產生抗藥性。
+將Odefsey®與質子幫浦抑制劑合併投予時，曾觀察到rilpivirine血中濃度降低(因胃中pH值升高所致)，這可能會導致Odefsey®的病毒學反應喪失(參見第4節)，並可能對rilpivirine及NNRTI類藥物產生抗藥性。
+建議謹慎併用
+CYP酵素抑制劑
+將Odefsey®與會抑制CYP3A酵素活性的藥物合併投予時，曾觀察到rilpivirine血中濃度升高。
+會延長QT間期的藥物
+將Odefsey®與已知有尖端扭轉型室性心搏過速(Torsade de Pointes)風險的藥物併用時應謹慎(參見第5.1節)。
+其他交互作用
+在體外，tenofovir alafenamide並非人類尿苷雙磷酸葡萄糖醛酸基轉移酶(UGT) 1A1的抑制劑。不確知emtricitabine或tenofovir alafenamide是否為其他UGT酵素的抑制劑。在體外，emtricitabine並不會抑制非特異性UGT受質的葡萄糖醛酸化反應。
+Odefsey®或其個別成分與併用藥物間的交互作用列於表1 (升高以“↑”表示，降低以“↓”表示，無任何變化以“↔”表示)。
+表1：Odefsey®或其個別成分與其他藥物間的交互作用
+藥物-依治療領域分列
+對藥物濃度的影響
+AUC、Cmax、Cmin的
+平均變化百分比
+與Odefsey®併用時的建議
+抗感染藥物
+抗黴菌劑
+Ketoconazole(400毫克每日一次)/Rilpivirine1
+Ketoconazole：
+AUC：↓ 24%
+Cmin：↓ 66%
+Cmax：↔
+Rilpivirine：
+AUC：↑ 49%
+Cmin：↑ 76%
+Cmax：↑ 30%
+抑制CYP3A
+預期：
+Tenofovir alafenamide：
+AUC：↑
+Cmax：↑
+抑制P-gp
+尚未與tenofovir alafenamide進行過交互作用研究。與ketoconazole併用預期會升高tenofovir alafenamide的血中濃度(抑制P-gp)。
+不建議併用。
+Fluconazole
+Itraconazole
+Posaconazole
+Voriconazole
+尚未與Odefsey®的任何成分進行過交互作用研究。
+與這些抗黴菌劑併用預期會升高rilpivirine(抑制CYP3A)及tenofovir alafenamide(抑制P-gp)的血中濃度。
+不建議併用。
+抗分枝桿菌劑
+Rifampicin/Rilpivirine
+Rifampicin：
+AUC：↔
+Cmin：N/A
+Cmax：↔
+25-desacetyl-rifampicin：
+AUC：↓ 9%
+Cmin：N/A
+Cmax：↔
+Rilpivirine：
+AUC：↓ 80%
+Cmin：↓ 89%
+Cmax：↓ 69%
+誘導CYP3A
+預期：
+Tenofovir alafenamide：
+AUC：↓
+Cmax：↓
+誘導P-gp
+尚未與tenofovir alafenamide進行過交互作用研究。併用可能會導致tenofovir alafenamide的血中濃度明顯降低(誘導P-gp)。
+禁止併用。
+Rifapentine
+尚未與Odefsey®的任何成分進行過交互作用研究。
+併用可能會導致rilpivirine (誘導CYP3A)及tenofovir alafenamide(誘導P-gp)的血中濃度明顯降低。
+禁止併用。
+Rifabutin (300毫克每日一次)/Rilpivirine1
+Rifabutin：
+AUC：↔
+Cmin：↔
+Cmax：↔
+25-O-desacetyl-rifabutin：
+AUC：↔
+Cmin：↔
+Cmax：↔
+禁止併用。
+Rifabutin (300毫克每日一次)/Rilpivirine
+Rilpivirine：
+AUC：↓ 42%
+Cmin：↓ 48%
+Cmax：↓ 31%
+誘導CYP3A
+預期：
+Tenofovir alafenamide：
+AUC：↓
+Cmax：↓
+誘導P-gp
+尚未與tenofovir alafenamide進行過交互作用研究。併用可能會導致tenofovir alafenamide的血中濃度明顯降低(誘導P-gp)。
+巨環類抗生素
+Clarithromycin
+Erythromycin
+尚未與Odefsey®的任何成分進行過交互作用研究。將Odefsey®與這些巨環類抗生素併用可能會導致rilpivirine (抑制CYP3A)及tenofovir alafenamide(抑制P-gp)的血中濃度升高。
+不建議併用。
+抗病毒劑
+Ledipasvir/Sofosbuvir(90毫克/400毫克每日一次)/Rilpivirine
+Ledipasvir：
+AUC：↑ 2%
+Cmin：↑ 2%
+Cmax：↑ 1%
+Sofosbuvir：
+AUC：↑ 5%
+Cmax：↓ 4%
+Sofosbuvir代謝物GS-331007：
+AUC：↑ 8%
+Cmin：↑ 10%
+Cmax：↑ 8%
+Rilpivirine：
+AUC：↓ 5%
+Cmin：↓ 7%
+Cmax：↓ 3%
+不須調整劑量。
+Ledipasvir/Sofosbuvir(90毫克/400毫克每日一次)/Tenofovir alafenamide
+Tenofovir alafenamide：
+AUC：↑ 32%
+Cmax：↑ 3%
+Sofosbuvir/Velpatasvir(400毫克/100毫克每日一次)/ Rilpivirine2
+Sofosbuvir：
+AUC：↔
+Cmax：↔
+Sofosbuvir代謝物GS-331007：
+AUC：↔
+Cmin：↔
+Cmax：↔
+Velpatasvir：
+AUC：↔
+Cmin：↔
+Cmax：↔
+Rilpivirine：
+AUC：↔
+Cmin：↔
+Cmax：↔
+不須調整劑量。
+Sofosbuvir/Velpatasvir/Voxilaprevir(400毫克/100毫克/100毫克+ 100毫克每日一次)3/ Emtricitabine/Rilpivirine/Tenofovir alafenamide(200毫克/25毫克/25毫克每日一次)
+Sofosbuvir：
+AUC：↔
+Cmin：N/A
+Cmax：↔
+Sofosbuvir代謝物GS-331007：
+AUC：↔
+Cmin：N/A
+Cmax：↔
+Velpatasvir：
+AUC：↔
+Cmin：↔
+Cmax：↔
+Voxilaprevir：
+AUC：↔
+Cmin：↔
+Cmax：↔
+Emtricitabine：
+AUC：↔
+Cmin：↔
+Cmax：↔
+Rilpivirine：
+AUC：↔
+Cmin：↔
+Cmax：↔
+Tenofovir alafenamide：
+AUC：↑52%
+Cmin：N/A
+Cmax：↑32%
+不須調整劑量。
+Sofosbuvir(400毫克每日一次)/Rilpivirine (25毫克每日一次)
+Sofosbuvir：
+AUC：↔
+Cmax：↑ 21%
+Sofosbuvir代謝物GS-331007：
+AUC：↔
+Cmax：↔
+Rilpivirine：
+AUC：↔
+Cmin：↔
+Cmax：↔
+不須調整劑量。
+抗痙攣劑
+Carbamazepine
+Oxcarbazepine
+Phenobarbital
+Phenytoin
+尚未與Odefsey®的任何成分進行過交互作用研究。
+併用可能會導致rilpivirine(誘導CYP3A)及tenofovir alafenamide (誘導P-gp)的血中濃度明顯降低。
+禁止併用。
+糖皮質激素
+Dexamethasone(全身作用性，除了單一劑量使用)
+尚未與Odefsey®的任何成分進行過交互作用研究。預期rilpivirine的血中濃度會明顯具劑量依賴性的降低(誘導CYP3A)。
+禁止併用。
+質子幫浦抑制劑
+Omeprazole(20毫克每日一次)/Rilpivirine1
+Omeprazole：
+AUC：↓ 14%
+Cmin：N/A
+Cmax：↓ 14%
+Rilpivirine：
+AUC：↓ 40%
+Cmin：↓ 33%
+Cmax：↓ 40%
+吸收降低，胃中pH值升高
+禁止併用。
+Lansoprazole
+Rabeprazole
+Pantoprazole
+Esomeprazole
+Dexlansoprazole
+尚未與Odefsey®的任何成分進行過交互作用研究。預期rilpivirine的血中濃度會明顯降低(吸收降低，胃中pH值升高)。
+禁止併用。
+草藥製劑
+聖約翰草(貫葉連翹)
+尚未與Odefsey®的任何成分進行過交互作用研究。
+併用可能會導致rilpivirine (誘導CYP3A)及tenofovir alafenamide (誘導P-gp)的血中濃度明顯降低。
+禁止併用。
+H2受體拮抗劑
+Famotidine(於投予rilpivirine的12小時前投予單劑40毫克)/Rilpivirine1
+Rilpivirine：
+AUC：↓ 9%
+Cmin：N/A
+Cmax：↔
+僅可使用可每日投藥一次的H2受體拮抗劑。應嚴格遵守於投予Odefsey®的至少12小時前或至少4小時後服用H2受體拮抗劑。
+Famotidine(於投予rilpivirine的2小時前投予單劑40毫克)/Rilpivirine1
+Rilpivirine：
+AUC：↓ 76%
+Cmin：N/A
+Cmax：↓ 85%
+吸收降低，胃中pH值升高
+Famotidine(於投予rilpivirine 4小時後投予單劑40毫克)/Rilpivirine1
+Rilpivirine：
+AUC：↑ 13%
+Cmin：N/A
+Cmax：↑ 21%
+Cimetidine
+Nizatidine
+Ranitidine
+尚未與Odefsey®的任何成分進行過交互作用研究。
+併用可能會導致rilpivirine的血中濃度明顯降低(吸收降低，胃中pH值升高)。
+制酸劑
+制酸劑(如：氫氧化鋁、氫氧化鎂、碳酸鈣)
+尚未與Odefsey®的任何成分進行過交互作用研究。
+併用可能會導致rilpivirine的血中濃度明顯降低(吸收降低，胃中pH值升高)。
+僅可於投予Odefsey®的至少2小時前或至少4小時後投予制酸劑。
+口服避孕藥
+Ethinylestradiol(0.035毫克每日一次)/Rilpivirine
+Ethinylestradiol：
+AUC：↔
+Cmin：↔
+Cmax：↑ 17%
+不須調整劑量。
+Norethindrone(1毫克每日一次)/Rilpivirine
+Norethindrone：
+AUC：↔
+Cmin：↔
+Cmax：↔
+Rilpivirine：
+AUC：↔*
+Cmin：↔*
+Cmax：↔*
+*以歷史對照組為依據
+Norgestimate(0.180/0.215/0.250毫克每日一次)/ Ethinylestradiol(0.025毫克每日一次)/
+Emtricitabine/Tenofovir alafenamide(200/25毫克每日一次)
+Norelgestromin：
+AUC：↔
+Cmin：↔
+Cmax：↔
+Norgestrel：
+AUC：↔
+Cmin：↔
+Cmax：↔
+Ethinylestradiol：
+AUC：↔
+Cmin：↔
+Cmax：↔
+不須調整劑量。
+麻醉性鎮痛劑
+Methadone(60-100毫克每日一次，個人化劑量)/Rilpivirine
+R(-)methadone：
+AUC：↓ 16%
+Cmin：↓ 22%
+Cmax：↓ 14%
+S(+)methadone：
+AUC：↓ 16%
+Cmin：↓ 21%
+Cmax：↓ 13%
+Rilpivirine：
+AUC：↔*
+Cmin：↔*
+Cmax：↔*
+*以歷史對照組為依據
+不須調整劑量。
+建議進行臨床監視，因為有些病人可能須要調整methadone的維持治療。
+鎮痛劑
+Paracetamol(單劑500毫克)/Rilpivirine1
+Paracetamol：
+AUC：↔
+Cmin：N/A
+Cmax：↔
+Rilpivirine：
+AUC：↔
+Cmin：↑ 26%
+Cmax：↔
+不須調整劑量。
+抗心律不整藥物
+Digoxin/Rilpivirine
+Digoxin：
+AUC：↔
+Cmin：N/A
+Cmax：↔
+不須調整劑量。
+抗凝血劑
+Dabigatran etexilate
+尚未與Odefsey®的任何成分進行過交互作用研究。
+無法排除dabigatran血中濃度升高的風險(抑制腸內P-gp)。
+併用時應謹慎。
+免疫抑制劑
+Ciclosporin
+尚未與Odefsey®的任何成分進行過交互作用研究。
+預期與ciclosporin併用會升高rilpivirine(抑制CYP3A)及tenofovir alafenamide(抑制P-gp)的血中濃度。
+不建議併用。
+抗糖尿病藥物
+Metformin(單劑850毫克)/Rilpivirine
+Metformin：
+AUC：↔
+Cmin：N/A
+Cmax：↔
+不須調整劑量。
+HMG CO-A還原酶抑制劑
+Atorvastatin(40毫克每日一次)/Rilpivirine1
+Atorvastatin：
+AUC：↔
+Cmin：↓ 15%
+Cmax：↑ 35%
+Rilpivirine：
+AUC：↔
+Cmin：↔
+Cmax：↓ 9%
+不須調整劑量。
+第5型磷酸二酯酶 (PDE-5)抑制劑
+Sildenafil(單劑50毫克)/Rilpivirine1
+Sildenafil：
+AUC：↔
+Cmin：N/A
+Cmax：↔
+Rilpivirine：
+AUC：↔
+Cmin：↔
+Cmax：↔
+不須調整劑量。
+Vardenafil
+Tadalafil
+尚未與Odefsey®的任何成分進行過交互作用研究。這些都屬於同一類的藥物，預期應該會發生類似的交互作用。
+不須調整劑量。
+安眠藥/鎮靜劑
+Midazolam(2.5毫克，口服，單劑)/Tenofovir alafenamide
+Midazolam：
+AUC：↑ 12%
+Cmin：N/A
+Cmax：↑ 2%
+不須調整劑量。
+Midazolam(1毫克，靜脈注射，單劑)/Tenofovir alafenamide
+Midazolam：
+AUC：↑ 8%
+Cmin：N/A
+Cmax：↓ 1%
+N/A=不適用
+1   此項交互作用研究的進行是採用高於建議劑量的rilpivirine hydrochloride，以評估其對併用藥物的最大影響。此用藥建議適用於rilpivirine的建議劑量(25毫克每日一次)。
+2 以emtricitabine/rilpivirine/tenofovir disoproxil fumarate固定劑量複方錠劑進行的研究。
+3 以額外的voxilaprevir 100毫克進行研究，以達到HCV感染病人預期的voxilaprevir暴露量。
+與其他藥物進行的研究
+根據以Odefsey®之個別成分進行的藥物-藥物交互作用研究，將Odefsey®與下列藥物併用時，預期並不會發生具臨床意義的交互作用：buprenorphine、naloxone和norbuprenorphine。
+8 副作用/不良反應
+8.1
+臨床重要副作用/不良反應
+安全性概況摘要
+在針對未曾接受治療之病人使用emtricitabine+tenofovir alafenamide合併elvitegravir+cobicistat的臨床研究中，最常通報的不良反應為噁心(11%)、腹瀉(7%)及頭痛(6%)。在針對未曾接受治療之病人使用rilpivirine hydrochloride合併emtricitabine+tenofovir disoproxil fumarate的臨床研究中，最常通報的不良反應為噁心(9%)、暈眩(8%)、異常做夢(8%)、頭痛(6%)、腹瀉(5%)及失眠(5%)。
+8.2
+臨床試驗經驗
+不良反應列表
+不良反應的評估是依據所有第2期與第3期研究的安全性資料(在這些研究中有病人接受emtricitabine+tenofovir alafenamide合併elvitegravir+cobicistat固定劑量複方錠劑的治療)，在對照研究TMC278-C209與TMC278-C215中接受rilpivirine 25毫克每日一次合併其他抗反轉錄病毒藥物之病人、在研究GS-US-366-1216與GS-US-366-1160中接受Odefsey®之病人、以及上市後使用經驗的整合資料。
+表2中的不良反應係依系統器官類別與所觀察到的最高頻率列出。頻率的定義如下：極常見(≥1/10)、常見(≥1/100至<1/10)或少見(≥1/1,000至<1/100)。
+表2：不良反應列表
+頻率
+不良反應
+血液與淋巴系統異常
+常見：
+白血球計數減少1、血紅素減少1、血小板計數減少1
+少見：
+貧血2
+免疫系統異常
+少見：
+免疫再活化症候群1
+代謝與營養異常
+極常見：
+總膽固醇升高(空腹)1、LDL-膽固醇升高(空腹)1
+常見：
+食慾降低1、三酸甘油脂升高(空腹)1
+精神異常
+極常見：
+失眠1
+常見：
+憂鬱1、異常做夢1,3、睡眠障礙1、憂鬱情緒1
+神經系統異常
+極常見：
+頭痛1,3、暈眩1,3
+常見：
+嗜睡1
+胃腸道異常
+極常見：
+噁心1,3、胰澱粉酶升高1
+常見：
+腹痛1,3、嘔吐1,3、脂肪酶升高1、腹部不適1、口乾1、脹氣3、腹瀉3
+少見：
+消化不良3
+肝膽異常
+極常見：
+轉胺酶(AST及/或ALT)升高1
+常見：
+膽紅素升高1
+皮膚與皮下組織異常
+常見：
+皮疹1,3
+少見：
+有全身性症狀的嚴重皮膚反應4、血管性水腫5,6、搔癢3、蕁麻疹6
+肌肉骨骼與結締組織異常
+少見：
+關節痛3
+全身性異常與投藥部位症狀
+常見：
+疲倦1,3
+1    在rilpivirine的臨床研究中發現的不良反應。
+2   這項不良反應並不是在emtricitabine+tenofovir alafenamide合併elvitegravir+cobicistat的第3期研究或Odefsey®的第3期研究中發現的，而是在emtricitabine與其他抗反轉錄病毒藥物併用的臨床研究或上市後使用經驗中發現的。
+3   在含emtricitabine+tenofovir alafenamide成分藥物的臨床研究中發現的不良反應。
+4   經由emtricitabine/rilpivirine/tenofovir disoproxil fumarate的上市後監視發現的不良反應。
+5   經由含emtricitabine成分藥物的上市後監視發現的不良反應。
+6   經由含tenofovir alafenamide成分藥物的上市後監視發現的不良反應。
+實驗室檢驗異常
+含rilpivirine療法的血清肌酸酐變化
+針對未曾接受治療之病人所進行的第3期TMC278-C209與TMC278-C215研究的整合資料也顯示，在使用rilpivirine治療的96週期間，血清肌酸酐有升高的現象，腎絲球體過濾率(eGFR)估計值有降低的現象。這些肌酸酐升高與eGFR降低的現象大部分都是發生於最初4週的治療期間。在使用rilpivirine治療的96週期間，所觀察到的肌酸酐平均變化為0.1 mg/dL (範圍：-0.3 mg/dL至0.6 mg/dL)，eGFR的平均變化為-13.3  mL/min/1.73m2 (範圍：-63.7 mL/min/1.73m2至40.1  mL/min/1.73m2)。在進入研究時併有輕度或中度腎功能不全的病人中，所觀察到的血清肌酸酐升高現象和腎功能正常的病人大致相當。這些升高現象並非反映實際的腎絲球體過濾率(GFR)變化。
+血脂實驗室檢驗結果的變化
+在針對未曾接受治療之病人使用emtricitabine+tenofovir alafenamide (FTC+TAF)或emtricitabine+tenofovir disoproxil fumarate (FTC+TDF)的研究中(兩者皆投予elvitegravir+cobicistat固定劑量複方錠劑)，第144週時，兩個治療組的空腹血脂參數，總膽固醇、直接低密度脂蛋白(LDL)-與高密度脂蛋白(HDL)-膽固醇、以及三酸甘油脂，都有較基礎值升高的現象。在接受FTC+TAF的病人中，這些參數和基礎值相比較的中位升高幅度要高於接受FTC+TDF的病人(p<0.001，對空腹總膽固醇、直接LDL-與HDL-膽固醇、以及三酸甘油脂在治療組間差異)。第144週時，在接受FTC+TAF的病人中，總膽固醇和HDL-膽固醇比率相較於基礎值之變化中位數(Q1，Q3)為0.2 (-0.3, 0.7)，接受FTC+TDF的病人則為0.1 (-0.4, 0.6) (p=0.006，對治療組間差異)。
+從TDF為基礎的療法轉換成Odefsey®可能會導致血脂參數略為升高。在一項針對達到病毒學抑制並從FTC/RPV/TDF轉換成Odefsey®之病人所進行的研究中(研究GS-US-366-1216)，第96週時，Odefsey®組中的總膽固醇、直接LDL膽固醇、HDL膽固醇及三酸甘油脂的空腹檢測值有較基礎值升高的現象；但在兩個治療組中，總膽固醇和HDL膽固醇比率的中位空腹檢測值和基礎值比較的結果皆無任何具臨床關聯性的變化。在一項針對達到病毒學抑制並從EFV/FTC/TDF轉換成Odefsey®之病人所進行的研究中(研究GS-US-366-1160)，第96週時，Odefsey®組中的總膽固醇和HDL膽固醇的空腹檢測值有較基礎值降低的現象；但在兩個治療組中，總膽固醇和HDL膽固醇比率、直接LDL膽固醇或三酸甘油脂的中位空腹檢測值和基礎值比較的結果皆無任何具臨床關聯性的變化。
+腎上腺皮質素
+在整合針對未曾接受治療之病人所進行的第3期TMC278-C209與TMC278-C215研究中，第96週時，rilpivirine組中的基底腎上腺皮質素和基礎值相比較的整體平均變化為-19.1 (-30.85; -7.37) nmol/L，efavirenz組則為-0.6 (-13.29; 12.17) nmol/L。第96週時，在rilpivirine組中，以ACTH刺激後之腎上腺皮質素濃度和基礎值相比較的平均變化(+18.4 ± 8.36 nmol/L)要低於efavirenz組(+54.1 ± 7.24 nmol/L)。第96週時，在rilpivirine組中，基底腎上腺皮質素及以ACTH刺激後之腎上腺皮質素的平均值都在正常範圍內。這些腎上腺安全性參數的變化並不具臨床關聯性。在成人並未發現任何意味發生腎上腺或性腺功能障礙的臨床徵兆或症狀。
+特定不良反應說明
+代謝參數
+在抗反轉錄病毒治療期間，可能會出現體重增加及血脂值與血糖值升高的現象(參見第5.1節)。
+免疫再活化症候群
+嚴重免疫功能不全的HIV感染病人在開始CART時，可能會對無症狀或殘餘的伺機性感染而出現發炎反應。也曾有發生自體免疫疾病(如Graves氏病和自體免疫性肝炎)的報告；不過，報告中的開始發生時間較不一定，這些事件可能在開始治療數個月後才發生(參見第5.1節)。
+骨壞死
+曾有骨壞死的案例報告，尤其是帶有公認之風險因子、患有後期HIV疾病或長期暴露於CART的病人。目前並不確知此反應的發生頻率(參見第5.1節)。
+嚴重皮膚反應
+在emtricitabine/rilpivirine/tenofovir disoproxil fumarate的上市後使用經驗中，曾有伴有全身性症狀之嚴重皮膚反應的報告，包括伴有發燒、水泡、結膜炎、血管性水腫、肝功能檢驗值升高及/或嗜伊紅性白血球增多的皮疹。
+兒童族群
+有一項為期48週的開放標籤臨床研究(GS-US-292-0106)曾評估emtricitabine+tenofovir alafenamide的安全性，在此研究中共有50位12至<18歲、感染HIV-1且未曾接受治療的兒童病人接受emtricitabine+tenofovir alafenamide合併elvitegravir+cobicistat固定劑量複方錠劑。這項研究顯示，青少年病人的安全性概況和成人相似(參見第10節)。
+Rilpivirine之安全性評估是依據一項針對36位12至<18歲且體重至少32公斤之兒童病人所進行之單組開放標籤研究(TMC278-C213)的第48週資料。並無任何病人因不良反應而停用rilpivirine。和在成人中所見的不良反應相比較，並未發現任何新的不良反應。大部分不良反應為第1或2級。發生頻率為極常見的不良反應(所有等級)為頭痛、憂鬱、嗜睡及噁心。並無任何第3-4級AST/ALT實驗室檢驗異常或第3-4級轉胺酶升高不良反應的報告(參見第10節)。
+其他特殊族群
+腎功能不全病人
+有一項針對248位未曾接受治療(n=6)或達到病毒學抑制(n=242)且併有輕至中度腎功能不全(以Cockcroft-Gault法估算的腎絲球體過濾率估計值[eGFRCG]：30-69 mL/min)之HIV-1感染病人所進行的144週開放標籤臨床研究(GS-US-292-0112)曾評估emtricitabine+tenofovir alafenamide的安全性，在這項研究中，病人接受emtricitabine+tenofovir alafenamide合併elvitegravir+cobicistat固定劑量複方錠劑。輕至中度腎功能不全病人的安全性概況和腎功能正常病人相似(參見第10節)。
+有一項針對55位達到病毒學抑制且進行慢性血液透析之末期腎病(eGFRCG < 15 mL/min)的HIV-1感染病人所進行的48週單組開放標籤臨床研究(GS-US-292-1825)曾評估emtricitabine+tenofovir alafenamide的安全性，在這項研究中，病人接受emtricitabine+tenofovir alafenamide合併elvitegravir+cobicistat固定劑量複方錠劑。在給予elvitegravir+cobicistat固定劑量複方錠劑下，進行慢性血液透析之末期腎病病人接受emtricitabine+tenofovir alafenamide並未發現新的安全性事件(參見第11節)。
+合併感染HIV和HBV的病人
+有一項開放標籤臨床研究(GS-US-292-1249)曾針對72位合併感染HIV/HBV並接受HIV治療的病人評估emtricitabine+tenofovir alafenamide合併elvitegravir+cobicistat固定劑量複方錠劑(elvitegravir/cobicistat/emtricitabine/tenofovir alafenamide [E/C/F/TAF])的安全性，於第48週病人從其它抗反轉錄病毒療法(72位病人中包括69位使用TDF)轉換成E/C/F/TAF。根據此有限的資料，emtricitabine+tenofovir alafenamide合併elvitegravir+cobicistat固定劑量複方錠劑在合併感染HIV/HBV之病人的安全性概況和單獨感染HIV-1之病人相似。
+在合併感染B型或C型肝炎病毒並接受rilpivirine的病人中，肝臟酵素升高的發生率高於未合併感染並接受rilpivirine的病人。Rilpivirine在合併感染之病人的藥物動力學暴露量和未合併感染的病人相當。
+8.3
+上市後經驗
+參見第8.2節臨床試驗經驗。
+通報可疑不良反應
+在藥物獲得核准之後，通報可疑不良反應是重要的。這樣可以持續監視藥物的效益/風險平衡情形。健康照護專業人員應透過國家通報系統通報任何可疑的不良反應。
+9 過量
+如果發生過量的情形，應監視病人是否出現毒性反應的跡象(參見第8節)，並視需要施以標準支持性治療，包括觀察病人的臨床狀態以及監視生命徵象與ECG(QT間期)。
+目前並無任何特別針對Odefsey®使用過量的解毒劑。透過血液透析可移除高達30%的emtricitabine。血液透析可有效移除tenofovir，萃取係數約為54%。目前並不確知emtricitabine或tenofovir是否可透過腹膜透析移除。由於rilpivirine會與蛋白高度結合，透析不太可能達到將此活性物質明顯移除的效果。應依照臨床指示，做進一步的處理。
+10 藥理特性
+10.1
+作用機轉
+作用機制與藥效學作用
+Emtricitabine是一種核苷反轉錄酶抑制劑(NRTI)，也是2’-deoxycytidine的類似物。Emtricitabine會被細胞酵素磷酸化形成emtricitabine triphosphate。Emtricitabine triphosphate會競爭性抑制HIV-1反轉錄酶(RT)的作用，導致去氧核糖核酸(DNA)鏈終止。Emtricitabine具有對抗HIV-1、HIV-2及HBV的活性。
+Rilpivirine是一種可對抗HIV-1的diarylpyrimidine類NNRTI。Rilpivirine是透過對HIV-1 RT的非競爭性抑制作用產生活性。Rilpivirine不會抑制人類細胞的DNA聚合酶α、β及粒線體DNA聚合酶γ。
+Tenofovir alafenamide是一種核苷酸反轉錄酶抑制劑(NtRTI)，也是tenofovir(2’-deoxyadenosine monophosphate類似物)的前驅藥。由於其血漿穩定性較高，並且是在細胞內經組織蛋白酶A水解後活化，tenofovir alafenamide比tenofovir disoproxil fumarate更能有效地將tenofovir集中於周邊血液單核細胞(PBMCs)(包括淋巴球與其他HIV目標細胞)與巨噬細胞。細胞內的tenofovir會再經磷酸化形成活性代謝物tenofovir diphosphate。Tenofovir diphosphate會抑制HIV RT，從而導致DNA鏈終止。Tenofovir具有對抗HIV-1、HIV-2及HBV的活性。
+10.2
+藥效藥理特性
+藥物治療分類：全身性抗病毒劑；用以治療HIV感染之抗病毒劑，複方製劑，ATC編碼：J05AR19。
+體外抗病毒活性
+在細胞培養合併抗病毒活性試驗中，合併emtricitabine、rilpivirine與tenofovir alafenamide並不會對彼此產生拮抗作用，而會產生協同作用。
+曾針對emtricitabine評估其在類淋巴母細胞株、MAGI CCR5細胞株及PBMCs中對實驗室及臨床分離之HIV-1的抗病毒活性。Emtricitabine的50%有效濃度(EC50)值介於0.0013至0.64 μM的範圍內。在細胞培養中，emtricitabine可對HIV-1亞型A、B、C、D、E、F及G產生抗病毒活性(EC50值範圍為0.007至0.075 μM)，對HIV-2亦可產生對抗活性(EC50值範圍為0.007至1.5 μM)。
+在急性感染的T細胞株中，rilpivirine可對野生型HIV-1的實驗室病毒株產生對抗活性，其對HIV-1/IIIB的中位EC50值為0.73 nM(0.27 ng/mL)。Rilpivirine亦可對廣泛的HIV-1 M群(A、B、C、D、F、G、H亞型)主要分離病毒株[EC50值範圍為0.07至1.01 nM(0.03至0.37 ng/mL)]、O群主要分離病毒株[EC50值範圍為2.88至8.45 nM(1.06至3.10 ng/mL)]產生抗病毒活性，對HIV-2也顯示有限的體外對抗活性[EC50值範圍為2,510至10,830 nM(920至3,970 ng/mL)]。
+曾針對tenofovir alafenamide評估其在類淋巴母細胞株、PBMCs、初級單核球/巨噬細胞及CD4+T淋巴球中對實驗室及臨床分離之HIV-1亞型B的抗病毒活性。Tenofovir alafenamide之EC50值範圍為2.0至14.7 nM。細胞培養顯示，tenofovir alafenamide對所有的HIV-1分群(M、N及O)，包括亞型A、B、C、D、E、F及G，都具有抗病毒活性(EC50值範圍為0.10至12.0 nM)，對HIV-2也具有對抗活性(EC50值範圍為0.91至2.63 nM)。
+抗藥性
+考量現有的體外資料及獲自未曾接受治療之病人的資料，當治療前HIV-1 RT出現下列抗藥性相關突變，可能會影響Odefsey®的活性：K65R、K70E、K101E、K101P、E138A、E138G、E138K、E138Q、E138R、V179L、Y181C、Y181I、Y181V、M184I、M184V、Y188L、H221Y、F227C、M230I、M230L以及合併L100I與K103N。
+不能排除上述以外的NNRTI突變(如：單獨出現K103N或L100I突變)所造成的負面影響，因為尚未對足夠數量的病人進行過體內的研究。
+和其他的抗反轉錄病毒藥物一樣，應依據抗藥性檢測及/或病史抗藥性的資料使用Odefsey®(參見第5.1節)。
+體外
+HIV-1 RT的M184V/I突變與對emtricitabine敏感性降低相關。
+曾開始從不同來源和亞型的野生型HIV-1及對NNRTI具抗藥性的HIV-1細胞培養中，篩選出對rilpivirine具抗藥性的病毒株。最常觀察到出現的胺基酸取代包括：L100I、K101E、V108I、E138K、V179F、Y181C、H221Y、F227C及M230I。
+曾在對tenofovir alafenamide之敏感性降低的HIV-1分離病毒株中發現HIV-1 RT帶有K65R突變；此外，也曾短暫在HIV-1 RT中發現K70E突變。
+未曾接受治療的成人病人
+針對未曾使用抗反轉錄病毒治療並於第3期研究GS-US-292-0104與GS-US-292-0111中接受elvitegravir/cobicistat/emtricitabine/tenofovir alafenamide(E/C/F/TAF)之病人所進行的第144週整合分析發現，12/866位(1.4%)使用E/C/F/TAF治療之病人的HIV-1分離病毒株發生一種或多種主要抗藥性相關突變。在12個分離病毒株中，出現的突變包括RT的M184V/I(n=11)與K65R/N(n=2)，以及嵌合酶的T66T/A/I/V(n=2)、E92Q(n=4)、Q148Q/R(n=1)、與N155H(n=2)。
+針對在第3期臨床研究TMC278-C209與TMC278-C215中接受emtricitabine/tenofovir disoproxil fumarate(FTC/TDF)+ rilpivirine hydrochloride之病人所進行的第96週整合分析中，43位病人的HIV-1分離病毒株有與NNRTI(n=39)或NRTI(n=41)抗藥性相關的胺基酸取代。最常發生的NNRTI抗藥性相關突變為：V90I、K101E、E138K/Q、V179I、Y181C、V189I、H221Y及F227C。治療前出現V90I與V189I並不會影響反應。在rilpivirine組中，52%出現突發性抗藥性的HIV-1分離病毒株合併發生NNRTI與NRTI突變，其中以E138K及M184V最常見。在3株或更多之病人分離病毒株發生的NRTI抗藥性相關突變為：K65R、K70E、M184V/I及K219E。
+第96週時，在rilpivirine組中，基礎病毒含量≤100,000 copies/mL的病人發生抗藥性相關取代及/或對rilpivirine的表現型抗藥性(7/288)比基礎病毒含量>100,000 copies/mL的病人(30/262)少。
+達到病毒學抑制的病人
+在一項針對達到病毒學抑制並從含有emtricitabine+tenofovir disoproxil fumarate療法轉換成E/C/F/TAF固定劑量複方(FDC)錠劑的病人所進行的臨床研究中(GS-US-292-0109，n=959)，曾發現一位帶有突發性抗藥性(M184M/I)的病人。
+第96週時，在從emtricitabine/rilpivirine/tenofovir disoproxil fumarate(FTC/RPV/TDF)或efavirenz/emtricitabine/tenofovir disoproxil fumarate(EFV/FTC/TDF)轉換成Odefsey®的病人中(研究GS-US-366-1216與GS-US-366-1160；n=754)，並未檢出治療所引發的抗藥性相關突變。
+合併感染HIV和HBV的病人
+在達到HIV病毒學抑制且合併感染慢性B型肝炎的病人接受E/C/F/TAF治療48週(GS-US-292-1249，n=72)的臨床研究中，有2位病人符合進行抗藥性分析的資格。這2位病人中，在HIV-1或HBV中未發現對E/C/F/TAF任一成分具抗藥性的相關胺基酸取代。
+交叉抗藥性
+帶有M184V/I取代且對emtricitabine具抗藥性的病毒會對lamivudine產生交叉抗藥性，但對didanosine、stavudine、tenofovir、及zidovudine仍具敏感性。
+在一套67個於RT位置發生一種抗藥性相關突變並具有NNRTI抗藥性的HIV-1重組實驗室病毒株中，與對rilpivirine敏感性降低具相關性的單一抗藥性相關突變只有K101P與Y181V/I。單一K103N取代並不會造成對rilpivirine的敏感性降低，但合併K103N與L100I則會造成對rilpivirine的敏感性降低7倍。在另一項研究中，Y188L取代會使臨床分離病毒株對rilpivirine的敏感性降低9倍，並會使定點突變病毒對rilpivirine的敏感性降低6倍。
+在第3期研究中接受rilpivirine hydrochloride合併FTC/TDF的病人(TMC278-C209與TMC278-C215的整合資料)，對rilpivirine具有突發性表現型抗藥性(emergent phenotypic resistance)的HIV-1分離病毒株大部分都會對至少一種其他NNRTI產生交叉抗藥性(28/31)。
+K65R與K70E取代都會造成對abacavir、didanosine、lamivudine、emtricitabine、及tenofovir的敏感性降低，但對zidovudine仍具有敏感性。
+懷孕
+研究TMC114HIV3015曾在19位懷孕女性的第二和三孕期、及產後評估rilpivirine(Odefsey®的其中一個成分)合併一種背景療法。藥物動力學資料顯示，與產後(6-12週)相比，在懷孕期間作為抗反轉錄病毒療法一部分的rilpivirine總暴露量(AUC)降低約30%。在整個研究期間通常可維持病毒學反應：在12位完成研究的病人中，10位病人在研究結束時達到抑制；在另2位僅在產後發現病毒量增加的病人，至少1位病人歸因於懷疑順從性不理想。完成研究且感染HIV的母親所生的全部10名嬰兒皆未發生母嬰傳播。Rilpivirine在懷孕和產後期間皆有良好耐受性。與HIV-1感染成人中已知的rilpivirine安全性概況比較，未有新的安全性發現(參見第5.1與11節)。
+10.3
+臨床前安全性資料
+根據安全性藥理學、重覆投藥毒性、遺傳毒性、致癌潛力、生殖及發育毒性之傳統研究中的emtricitabine非臨床資料，並未發現對人體的特殊風險。
+根據安全性藥理學、藥物動向(drug disposition)、遺傳毒性、致癌潛力、生殖及發育毒性之研究中的rilpivirine hydrochloride非臨床資料，並未發現對人體的特殊風險。在囓齒動物中發現肝毒性與肝臟酵素誘導有相關性。在狗中發現類似膽汁淤積的作用。
+以小鼠和大鼠所進行的rilpivirine致癌性研究曾發現對這些物種具特異性的致腫瘤性，但一般認為這些發現與人類無關。
+以大鼠和狗所進行的tenofovir alafenamide非臨床研究發現，骨骼與腎臟是其毒性作用的主要目標器官。在大鼠和狗中觀察到骨骼毒性(骨質密度降低)時的tenofovir暴露量，比投予Odefsey®後的預期暴露量高出至少四倍。在tenofovir alafenamide與tenofovir的暴露量分別比投予Odefsey®後之預期暴露量高出4倍與17倍時，狗的眼睛曾出現輕微的組織細胞浸潤。
+在傳統的遺傳毒性分析中，tenofovir alafenamide並不具致突變性或致分裂性。
+由於對大鼠與小鼠投予tenofovir alafenamide後所達到的tenofovir暴露量，比投予tenofovir disoproxil fumarate後所達到者低，在致癌性研究與一項大鼠出生前後-出生後研究中僅使用tenofovir disoproxil fumarate進行。在致癌潛力與生殖及發育毒性的傳統研究中，並未發現對人體的特殊風險。大鼠和兔子的生殖毒性研究顯示，對交配能力、生育力、懷孕或胎兒參數皆無影響。不過，一項出生前後-出生後研究中，在母體毒性劑量下tenofovir disoproxil fumarate會降低仔鼠的存活指數和體重。
+11 藥物動力學特性
+吸收
+Odefsey®：對健康受試者(N=82)於進食狀態下投予單劑藥物之後，比較一顆Odefsey® 200/25/25毫克膜衣錠和elvitegravir/cobicistat/emtricitabine/tenofovir alafenamide (150/150/200/10毫克)固定劑量複方錠劑所達到的emtricitabine及tenofovir alafenamide暴露量具有生體相等性。對健康受試者(N=95)於進食狀態下投予單劑藥物之後，比較Odefsey® 200/25/25毫克和一顆rilpivirine(hydrochloride鹽) 25毫克膜衣錠所達到的rilpivirine暴露量具有生體相等性。
+口服給藥之後，emtricitabine會快速而廣泛地被吸收，並會於投藥後1至2小時達到尖峰血中濃度。對20位感染HIV-1的受試者口服投予多個劑量的emtricitabine後，24小時投藥間期的血中濃度-時間曲線下面積(AUC)(平均值±SD)為10.0±3.1 h•μg/mL。投藥後24小時的平均穩定狀態血中低谷濃度等於或大於平均體外抗HIV-1活性的IC90值。200毫克硬膠囊中之emtricitabine的絕對生體可用率預估為93%。將emtricitabine隨食物投予時不會影響emtricitabine的全身暴露量。
+口服給藥之後，通常會於4至5小時內達到rilpivirine的最高血中濃度。目前並不確知rilpivirine的絕對生體可用率。相對於空腹狀態，對健康成人受試者隨食物投予Odefsey®會使rilpivirine的暴露量(AUC)升高13-72%。
+口服給藥之後，tenofovir alafenamide會快速被吸收，並會於投藥後15-45分鐘達到尖峰血中濃度。相對於空腹狀態，對健康成人受試者隨食物投予Odefsey®會使tenofovir alafenamide的暴露量(AUC)升高45-53%。
+建議將Odefsey®與食物併服。
+分佈
+Emtricitabine與人類血漿蛋白的體外結合率為<4%，並且不受濃度在0.02-200 μg/mL範圍的影響。
+Rilpivirine與人類血漿蛋白的體外結合率約為99.7%，以白蛋白為主。
+Tenofovir與人類血漿蛋白的體外結合率為<0.7%，並且不受濃度範圍0.01-25 μg/mL的影響。在臨床研究期間所收集的樣本中，tenofovir alafenamide與人類血漿蛋白的體外結合率約為80%。
+生物轉化
+Emtricitabine的生物轉化包括硫醇基氧化形成3’-sulfoxide diastereomers (約9%的劑量)，以及與葡萄糖醛酸結合形成2’-O-glucuronide(約4%的劑量)。在體外，emtricitabine不會抑制涉及藥物生物轉化之經任何主要人類CYP同功酵素媒介的藥物代謝作用。此外，emtricitabine不會抑制uridine-5’-diphosphoglucuronyl transferase(UGT，負責葡萄糖醛酸化的酵素)。
+體外實驗顯示，rilpivirine hydrochloride主要是透過CYP3A系統的媒介進行氧化代謝。
+在人體內，代謝是tenofovir alafenamide的主要排除途徑，佔>80%的口服劑量。體外試驗顯示，tenofovir alafenamide會透過PBMCs(包括淋巴球與其他HIV目標細胞)與巨噬細胞中的組織蛋白酶A、及肝細胞中的carboxylesterase-1代謝成tenofovir (主要代謝物)。在體內，tenofovir alafenamide會在細胞中水解形成tenofovir(主要代謝物)，再經磷酸化形成活性代謝物tenofovir diphosphate。在人類的臨床研究中，與245毫克口服劑量的tenofovir disoproxil(fumarate鹽)合併emtricitabine、cobicistat及elvitegravir時相比較，10毫克口服劑量的tenofovir alafenamide合併emtricitabine、cobicistat及elvitegravir時，在PBMCs中的tenofovir diphosphate濃度高出>4倍，在血漿中的tenofovir濃度則要降低>90%。
+在體外，tenofovir alafenamide不會透過CYP1A2、CYP2C8、CYP2C9、CYP2C19或CYP2D6進行代謝。極少量的tenofovir alafenamide會透過CYP3A4進行代謝。合併投予中效的CYP3A誘導劑探測藥物efavirenz時，tenofovir alafenamide的暴露量並未受到明顯的影響。投予tenofovir alafenamide後，血中[14C]放射活性會呈現時間依賴性，在最初數小時中含量最多的成分為tenofovir alafenamide，在剩餘期間則為尿酸。
+排除
+Emtricitabine主要是經由腎臟排除，在尿液(約86%)與糞便(約14%)中可達到完全回收所投予的劑量。有13%的emtricitabine劑量是以三種代謝物的形式在尿液中回收。Emtricitabine的全身廓清率平均為307 mL/min。口服給藥之後，emtricitabine的排除半衰期約為10小時。
+Rilpivirine的終端排除半衰期約為45小時。口服投予單劑[14C]-rilpivirine後，分別可於糞便及尿液中檢出平均85%及6.1%的放射活性。在糞便中，原形rilpivirine平均占25%的投予劑量。在尿液中僅檢出微量的原形rilpivirine(<1%的劑量)。
+透過腎臟排除完整的tenofovir alafenamide是一個次要的途徑，<1%的劑量會排入尿液。Tenofovir alafenamide主要是在代謝成tenofovir之後排除。Tenofovir會在腎臟經由腎絲球體過濾與腎小管主動分泌排除。
+特殊族群的藥物動力學
+年齡、性別及種族
+對emtricitabine、rilpivirine或tenofovir alafenamide而言，目前未發現任何可歸因於年齡、性別或種族的臨床相關藥物動力學差異。
+兒童族群
+Rilpivirine在12至<18歲、感染HIV-1、未曾使用抗反轉錄病毒治療並接受rilpivirine 25毫克每日一次之兒童病人中的藥物動力學，和在感染HIV-1、未曾接受治療並接受rilpivirine 25毫克每日一次之成人中的藥物動力學相當。研究C213顯示，和在成人中的觀察結果類似，體重對rilpivirine在兒童病人中的藥物動力學並無任何影響(33至93公斤)。Rilpivirine在<12歲之兒童病人中的藥物動力學目前正在研究中。
+與elvitegravir+cobicistat合併投予時，emtricitabine與tenofovir alafenamide在24位12至<18歲之兒童病人中所達到的暴露量，和在未曾接受治療之成人中所達到的暴露量相似(表3)。
+表3：Emtricitabine與tenofovir alafenamide在未曾接受抗反轉錄病毒治療之青少年與成人中的藥物動力學
+青少年
+成人
+Emtricitabine+tenofovir alafenamide
+Emtricitabine+tenofovir alafenamide
+FTCa
+TAFb
+TFVb
+FTCa
+TAFc
+TFVc
+AUCtau
+(ng•h/mL)
+14,424.4
+(23.9)
+242.8
+(57.8)
+275.8
+(18.4)
+11,714.1
+(16.6)
+206.4
+(71.8)
+292.6
+(27.4)
+Cmax
+(ng/mL)
+2,265.0
+(22.5)
+121.7
+(46.2)
+14.6
+(20.0)
+2,056.3
+(20.2)
+162.2
+(51.1)
+15.2
+(26.1)
+Ctau
+(ng/mL)
+102.4
+(38.9)b
+N/A
+10.0
+(19.6)
+95.2
+(46.7)
+N/A
+10.6
+(28.5)
+FTC=emtricitabine；TAF=tenofovir alafenamide；TFV=tenofovir，N/A=不適用
+數據係以平均值(%CV)表示。
+a   n=24位青少年(GS-US-292-0106)；n=19位成人(GS-US-292-0102)。
+b   n=23位青少年(GS-US-292-0106，族群藥物動力學[PK]分析)。
+c   n=539位(TAF)或841位(TFV)成人(GS-US-292-0111與GS-US-292-0104，族群PK分析)。
+腎功能不全
+在tenofovir alafenamide的第1期研究中，發現健康受試者和嚴重腎功能不全病人(CrCl估計值為≥15至<30 mL/min)之間tenofovir alafenamide或tenofovir的藥物動力學不具任何具臨床關聯性的差異。在其他單獨emtricitabine的研究中，emtricitabine在重度腎功能不全病人(CrCl估計值<30 mL/min)中達到的平均全身暴露量(33.7 μg•h/mL)高於腎功能正常的受試者(11.8 μg•h/mL)。在嚴重腎功能不全病人(CrCl估計值為≥15至<30 mL/min)中emtricitabine + tenofovir alafenamide的安全性尚未確立。
+在GS-US-292-1825研究中接受emtricitabine+tenofovir alafenamide合併elvitegravir+cobicistat固定劑量複方錠劑(E/C/F/TAF)，12位進行慢性血液透析之末期腎病(CrCl估計值<15 mL/min)病人的emtricitabine和tenofovir的暴露量明顯高於腎功能正常的病人。發現進行慢性血液透析之末期腎病病人和腎功能正常的病人之間的tenofovir alafenamide藥物動力學不具任何具臨床關聯性的差異。在給予elvitegravir+cobicistat固定劑量複方錠劑下，進行慢性血液透析之末期腎病病人接受emtricitabine+tenofovir alafenamide並未發現新的安全性事件(參見第8節)。
+在未進行慢性血液透析之末期腎病(CrCl估計值<15 mL/min)病人目前尚無emtricitabine或tenofovir alafenamide的藥物動力學資料。在這些病人中emtricitabine和tenofovir alafenamide的安全性尚未確立。
+目前尚未針對腎功能不全的病人研究過rilpivirine的藥物動力學。極少的rilpivirine會透過腎臟排除。在併有重度腎功能不全或末期腎病的病人中，可能會因腎功能障礙影響藥物的吸收、分佈及/或代謝，而使血中濃度升高。由於rilpivirine會與血漿蛋白高度結合，因此不太可能透過血液透析或腹膜透析將其明顯移除(參見第9節)。
+肝功能不全
+目前尚未針對各種不同程度的肝功能不全病人研究過emtricitabine的藥物動力學；不過， emtricitabine並不會顯著透過肝臟酵素代謝，因此肝功能不全的影響應該有限。
+Rilpivirine hydrochloride主要是在肝臟進行代謝與排除。一項針對8位輕度肝功能不全病人(Child-Pugh A級)與8位條件相符之對照受試者，以及8位中度肝功能不全病人(Child-Pugh B級)與8位條件相符之對照受試者進行比較的研究中，在輕度肝功能不全病人中rilpivirine的多重劑量暴露量會高出47%，在中度肝功能不全病人中則會高出5%。不過，可能不能排除具藥理活性、未結合之rilpivirine在中度肝功能不全的暴露量會明顯升高。目前尚未針對重度肝功能不全病人(Child Pugh C級)進行過rilpivirine的研究(參見第3.3節)。
+在輕度或中度肝功能不全的病人中，並未發現tenofovir alafenamide或其代謝物tenofovir的藥物動力學有任何具臨床關聯性的變化。在重度肝功能不全的病人中，tenofovir alafenamide和tenofovir的總血漿濃度比肝功能正常的病人低。當校正蛋白結合時， 在重度肝功能不全和肝功能正常的tenofovir alafenamide的未結合(自由態)血漿濃度相似。
+合併感染B型及/或C型肝炎病毒
+目前尚未在合併感染B型及/或C型肝炎病毒之病人中充分評估過emtricitabine、rilpivirine與tenofovir alafenamide的藥物動力學。
+懷孕與產後
+服用每日一次rilpivirine 25毫克作為抗反轉錄病毒療法的一部分後，與產後比較，在懷孕期間(相似於第2和3孕期)的rilpivirine總暴露量較低。在懷孕期間，與產後比較，未結合游離部分之rilpivirine(即活性的)所減少的暴露量比rilpivirine總暴露量更不明顯。
+在接受每日一次rilpivirine 25毫克的女性，與產後比較，第2孕期期間平均個體內總rilpivirine Cmax、AUC24h和Cmin值分別降低21%、29%和35%；與產後比較，第3孕期期間Cmax、AUC24h和Cmin值分別降低20%、31%和42%。
+12 臨床試驗資料
+已達HIV-1病毒學抑制的受試者轉換至Odefsey®臨床試驗結果
+在試驗1216中，於已達病毒學抑制的HIV-1感染成人進行隨機、雙盲研究，評估由emtricitabine/rilpivirine/tenofovir disoproxil fumarate(FTC/RPV/TDF)轉換成Odefsey®的療效與安全性。受試者接受基礎療法FTC/RPV/TDF至少6個月達到病毒學抑制(HIV-1 RNA <50 copies/mL)，並且進入研究前未有對FTC、TAF或RPV抗藥性突變的紀錄。受試者以1：1比例隨機分配至轉換成Odefsey® (N=316)每日一次或繼續FTC/RPV/TDF(N=314)每日一次。受試者平均年齡45歲(範圍：23-72)，90%為男性，75%為白人，19%為黑人。平均基礎CD4+細胞數為709 cells/mm3(範圍：104-2527)。
+在試驗1160中，於已達病毒學抑制的HIV-1感染成人進行隨機、雙盲研究，評估由efavirenz/emtricitabine/tenofovir disoproxil(EFV/FTC/TDF)轉換成Odefsey®的療效與安全性。受試者必須接受基礎療法EFV/FTC/TDF至少6個月達到穩定病毒學抑制(HIV-1 RNA <50 copies/mL)，並且進入研究前未有對FTC、TAF或RPV抗藥性突變的紀錄。受試者以1：1比例隨機分配至轉換成Odefsey® (N=438)每日一次或繼續EFV/FTC/TDF(N=437)每日一次。受試者平均年齡48歲(範圍：19-76)，87%為男性，67%為白人，27%為黑人。平均基礎CD4+細胞數為700 cells/mm3(範圍：140-1862)。
+試驗1216和1160的治療結果如表4所示。
+表4：試驗1216和1160中已達病毒學抑制受試者轉換成Odefsey®的第48週a病毒學結果
+試驗1216
+試驗1160
+Odefsey® (N=316)
+FTC/RPV/TDF (N=313)b
+Odefsey® (N=438)
+EFV/FTC/TDF(N=437)
+HIV-1 RNA < 50 copies/mL
+94%
+94%
+90%
+92%
+HIV-1 RNA ≥ 50 copies/mLc
+1%
+0%
+1%
+1%
+無第48週範圍的病毒學資料
+6%
+6%
+9%
+7%
+因不良事件(AE)或死亡⽽中⽌試驗，且最後⼀次檢驗結果為HIV-1 RNA < 50 copies/mL
+2%
+1%
+3%
+1%
+因其他原因⽽中⽌試驗且最後⼀次檢驗結果為HIV-1 RNA < 50 copies/mLd
+4%
+4%
+5%
+5%
+無此時間範圍內的資料，但仍繼續使⽤試驗藥物
+<1%
+1%
+1%
+1%
+a 第48週範圍為第295至378天(含)之間。
+b 療效分析排除一位篩選前未接受FTC/RPV/TDF的受試者。
+c 包括第48週範圍內HIV-1 RNA ≥ 50 copies/mL的受試者、因缺乏或喪失療效而提早中止試驗的受試者、因缺乏或喪失療效以外的原因而提早中止試驗並且中止時病毒值≥ 50 copies/mL的受試者。
+d 包括因AE、死亡、缺乏或喪失療效以外的原因而提早中止試驗的受試者；例如：撤回同意、無法追蹤等。
+13 包裝及儲存
+13.1
+包裝
+容器的材質與內容物
+高密度聚乙烯(HDPE)藥瓶，附有可防兒童開啟的聚乙烯製螺旋瓶蓋，內有感應啟動式鋁箔封膜，每瓶裝有30顆膜衣錠。每個藥瓶內裝有矽膠乾燥劑和聚酯棉團。
+目前有下列包裝規格：每盒1瓶，每瓶裝有30顆膜衣錠。
+13.2
+效期
+3年。
+13.3
+儲存條件
+請存放於30℃以下。
+13.4
+儲存注意事項
+請置於原始包裝中儲存，以避免接觸濕氣。藥瓶請保持密封。
+請置於遠離兒童視線與兒童不及之處。
+特殊處理注意事項
+任何未用完的藥品或廢棄材料都應依據當地的規定處理。
+15 其他
+版　本：EUSmPC Feb2023+USPI Aug2017+HA request May2024_v2402
+ATC Code
+主次
+代碼
+英文名
+主
+J05AR19
+emtricitabine, tenofovir alafenamide and rilpivirine
+次
+J05AG05
+rilpivirine
+次
+J05AF13
+tenofovir alafenamide
+次
+J05AF09
+emtricitabine
+✖
+歷史仿單
+序號
+仿單更新時間
+版次
+-->
+結果
+1
+114/01/06
+4
+-->
+檢視
+2
+113/02/02
+3
+-->
+檢視
+3
+112/08/07
+2
+-->
+檢視
+序號
+結果
+1
+299123_5.1 安以斯膜衣錠_仿單v2201[i_i_050_v1(46043)]_2022-05-27-111-07-27.pdf
+✖
+民眾用藥資訊
+項次
+檔案名稱
+上傳日期
+✖
+紙本仿單樣式(自行上傳)
+項次
+檔案名稱
+上傳日期
+✖
+外盒標籤清單
+項次
+檔案名稱
+上傳日期
+1
+Odefsey_carton_v01-107-12-26.pdf
+2
+Odefsey_label_v01-107-12-26.pdf
+3
+Odefsey_label_v01_new add-108-03-14(廠商自行上傳).pdf
+4
+Odefsey_carton_v01_new add-108-03-14(廠商自行上傳).pdf
+✖
+詳細處方成分
+處方標示
+成分類別
+成分代碼
+成分名稱
+含量描述
+含量
+單位
+主成分
+0818004310
+RILPIVIRINE HYDROCHLORIDE
+27.500000
+(eq to 25mg Rilpivirine)
+MG
+主成分
+0818003700
+EMTRICITABINE
+200.000000
+MG
+主成分
+0818003520
+tenofovir alafenamide fumarate
+28.040000
+eq to 25mg of Tenofovir Alafenamide
+MG
+✖
+授權使用
+***衛部藥輸字第027505號***
+被授權廠商
+簽審文件編號
+核准文號
+授權起始日
+授權終止日
+查無資料
+✖
+訂閱
+匯出PDF
+全部選擇
+1 性狀
+2 適應症
+3 用法及用量
+4 禁忌
+5 警語及注意事項
+6 特殊族群注意事項
+7 交互作用
+8 副作用/不良反應
+9 過量
+10 藥理特性
+11 藥物動力學特性
+12 臨床試驗資料
+13 包裝及儲存
+15 其他
+製造廠
+藥商
+驗證碼：
+重新產生
+播放驗證碼語音
+送出
+✖
+:::
+本網站所刊出內容之著作權屬於衛生福利部食品藥物管理署所有，未經本署之同意或授權，任何人不得以任何形式重製、轉載、散佈、引用、變更、播送或出版該內容之全部或局部，亦不得為其他任何違反本署著作權之行為。
+服務專線：02-7737-2958                           		      服務信箱：mcp@tradevan.com.tw
+服務時間：週一～週五08:30~17:30
+Copyright © 2019 衛生福利部食品藥物管理署
+Food and Drug Administration, Ministry of Health and Welfare.
+All rights reserved.
+登入
+-->
+登入
+帳號：
+密碼：
+驗證碼：
+重新產生
+播放驗證碼語音
+登入
+忘記密碼
+會員註冊
+✖

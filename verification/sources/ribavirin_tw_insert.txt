@@ -1,0 +1,903 @@
+ 藥品仿單查詢平台-仿單資料 
+ .toggle .table td { 
+ /*border: 0.5px #000 solid;*/ 
+ padding: 5px !important; 
+ } 
+ .toggle .table td span { 
+ display: inline-block; 
+ padding: 3px 0 !important; 
+ } 
+ .spread-table > table > tbody > tr > td, 
+ .sub-table > tbody > tr > td { 
+ border: 0; 
+ } 
+ .toggle-title_first { 
+ display: flex !important; 
+ align-items: center; 
+ gap: 6px; /* 元素間距 */ 
+ } 
+ .toggle-check { 
+ margin: 0 !important; 
+ width: 20px !important; 
+ height: 20px !important; 
+ cursor: pointer; 
+ } 
+ .export-verification { 
+ margin-top: 18px; 
+ padding-top: 15px; 
+ border-top: 1px solid #ddd; 
+ } 
+ .export-verification .g { 
+ margin-bottom: 10px; 
+ } 
+ #exportCode { 
+ vertical-align: middle; 
+ margin: 0 8px; 
+ } 
+ .page_name_list h2 { 
+ font-size: 1.2em; 
+ background-color: #C5E7F1; 
+ padding: 5px 10px 5px 20px; 
+ } 
+ $(document).on('click', '.btnsubscribe', function () { 
+ $('#subscribeForm').attr('action', '/pdr_subscibe'); 
+ $('#subscribeForm').submit(); 
+ }); 
+ $(document).on('click', '.btnunsubscribe', function () { 
+ $('#subscribeForm').attr('action', '/pdr_unsubscibe'); 
+ $('#subscribeForm').submit(); 
+ }); 
+ var exportVoiceClick = function () { 
+ const audio = document.getElementById("exportVoice"); 
+ audio.src = "/VerificationCodeSound?s=Export&t=" + Math.random(); 
+ var playPromise = audio.play(); 
+ if (playPromise !== undefined) { 
+ playPromise.then(_ => { 
+ video.pause(); 
+ audio.play(); 
+ }).catch(error => { 
+ audio.play(); 
+ }); 
+ } 
+ }; 
+ var exportChange = function () { 
+ $('#exportCode').attr('src', '/VerificationCode' + '?s=Export&t=' + Math.random()); 
+ }; 
+ $(function () { 
+ $(document).on('click', '#btnExport', function () { 
+ var arr = []; 
+ $('.toggle-all .toggle-check:checked').each(function () { 
+ if ($(this).val()) { 
+ arr.push($(this).val()); 
+ } 
+ }); 
+ if (arr.length === 0) { 
+ alert("請選擇匯出項目"); 
+ return false; 
+ } 
+ $('#txtExportItems').val(arr.join(',')); 
+ var code = $.trim($('#txtCode').val()); 
+ if (code === '') { 
+ alert("請輸入驗證碼"); 
+ $('#txtCode').focus(); 
+ return false; 
+ } 
+ $.ajax({ 
+ url: '/checkExport', 
+ type: 'POST', 
+ data: { 
+ __RequestVerificationToken: $('#exportForm input[name="__RequestVerificationToken"]').val(), 
+ code: code 
+ }, 
+ success: function (data) { 
+ if (data !== "ok") { 
+ alert("驗證碼錯誤，請重新輸入"); 
+ $('#txtCode').val('').focus(); 
+ exportChange(); 
+ return false; 
+ } 
+ $('#txtVerification').val(code); 
+ $('#exportForm').submit(); 
+ $('#popupExportSelect').hide(); 
+ $('#txtCode').val(''); 
+ exportChange(); 
+ }, 
+ error: function () { 
+ alert("系統異常，請稍後再試"); 
+ } 
+ }); 
+ }); 
+ $(document).on('click', '.checkbox-all_content, #checkboxAll', function (e) { 
+ if ($('#checkboxAll').prop('checked')) { 
+ $('#checkboxAll').prop('checked', false); 
+ } else { 
+ $('#checkboxAll').prop('checked', true); 
+ } 
+ checkAll(); 
+ }); 
+ }); 
+ var checkAll = function (source) { 
+ if ($('#checkboxAll').prop('checked')) { 
+ $('.toggle-check').prop('checked', true); 
+ } else { 
+ $('.toggle-check').prop('checked', false); 
+ } 
+ }; 
+ $(document).ready(function () { 
+ checkAll(); 
+ }); 
+ body { 
+ display: block !important; 
+ } 
+ 抱歉！您的瀏覽器不支援javascript，某些功能將無法正常運作。
+ 抱歉！您的瀏覽器不支援javascript，某些功能將無法正常運作。
+ 關閉
+ 跳到主要內容 
+ ::: 
+ | 
+ 網站導覽 
+ | 
+ 登入 
+ | 
+ 註冊 
+ ::: 
+ 公告訊息 
+ 仿單查詢 
+ 批次訂閱 
+ 訂閱清單 
+ 藥品外觀資料查詢 
+ ::: 
+ 字級 
+ 小 
+ 中 
+ 大 
+ 中文品名 
+ 摩舒肝清膠囊 
+ 英文品名 
+ Ribarin Capsules 
+ 許可證號 
+ 衛署藥製字第048027號 
+ 藥品類別 
+ 須由醫師處方使用 
+ 劑型 
+ 膠囊劑 
+ 申請商名稱 
+ 東生華製藥股份有限公司 
+ 申請商地址 
+ 台北市南港區園區街3之1號3樓之1 
+ 發證日期 
+95-06-20 
+ 有效日期 
+120-06-20 
+ 通關簽審文件編號 
+ DHY00104802708 
+ 限制項目 
+委託製造,監視期滿學名藥,國 產,成品已完成元素不純物評估(Option 3) 
+ 包裝 
+6-1000粒塑膠瓶裝
+6-1000粒鋁箔盒裝
+ 仿單上傳類型 
+ 自行上傳 
+ 主製造廠
+ 製造廠名稱 
+ 台灣東洋藥品工業股份有限公司六堵廠 
+ 製造廠地址 
+ 基隆市七堵區工建西路5號 (TAIWAN， ROC) 
+ 匯出PDF 
+ 外盒/標籤 
+ 藥品外觀 
+ 歷史仿單查詢 
+ ATC code查詢 
+ 詳細處方成分 
+ 授權使用 
+ ＋訂閱 
+ 全部展開 
+ 1 性狀 
+ 1.1
+ 有效成分及含量
+Ribarin膠囊內含ribavirin為可溶於水、微溶於酒精的白色晶狀粉末，充填於白色不透明的明膠膠囊中。每一個膠囊含有ribavirin 200 mg。
+ 1.2
+ 賦形劑
+Lactose Monohydrate, Microcrystalline Cellulose (pH 101), Croscarmellose Sodium, Magnesium Stearate。
+【膠囊殼成分】
+Gelatin, Sodium Lauryl Sulfate, Titanium Dioxide, Purified Water
+ 1.3
+ 劑型
+膠囊劑。
+ 1.4
+ 藥品外觀
+本品為白色粉末充填於乳白色膠囊內，膠囊身印有藍色tsh RB字樣。
+ 2 適應症 
+(依文獻記載)
+1.與peginterferon alfa或Interferon alfa併用治療於：
+(1) 曾經使用Interferon alfa單一療法治療後又復發的慢性C型肝炎。
+(2) 首次接受治療的慢性C型肝炎。
+(3) 合併感染臨床穩定HIV的慢性C型肝炎。
+2.與peginterferon alfa併用治療曾以Interferon alfa併用ribavirin治療無效或復發之慢性C型肝炎。
+病人必須達18歲以上且患有代償性肝病。
+Ribarin僅可用於與peginterferon alfa-2b或Interferon alfa-2b注射劑之合併治療。
+(關於peginterferon alfa-2b或Interferon alfa-2b的作用請參見其仿單內容)
+ 3 用法及用量 
+(依文獻記載)
+ 3.1
+ 用法用量
+因為ribavirin單一療法對治療C型肝炎無效，故不可單獨投與Ribarin膠囊。
+Ribarin必須與 peginterferon alfa-2b (1.5 ug/公斤/週)或Interferon alfa-2b (三百萬國際單位（MIU），每週3次(TIW))併用治療。選擇以何種併用的方式，則視病人個別的狀況而定。
+【Ribarin膠囊與peginterferon alfa-2b溶液併用】
+Ribarin的劑量依據病人的體重而定（表一）。Ribarin膠囊每日分二次給與並與食物一同服用（早晨和傍晚）。
+Ribarin的劑量（與peginterferon alfa-2b併用）
+表一 Ribarin的劑量依據體重而定
+Ribarin的劑量（與peginterferon alfa-2b併用）
+表一 Ribarin的劑量依據體重而定
+病人體重（公斤）
+每日Ribarin劑量
+200 mg膠囊顆數
+＜ 65
+800 mg
+4a
+65 – 80
+1,000 mg
+5b
+81 – 105
+1,200 mg
+6c
+＞ 105
+1,400 mg
+7d
+【治療期間】-初次使用之病患
+基因型第一型病人接受Ribarin與peginterferon alfa-2b合併治療，當病患在第12週無法達到至少減少2 log10病毒量或治療24週後HCV-RNA仍可偵測到，則須考慮停藥。
+持續病毒反應的可預測性：病患被基因型第一型病毒感染無法在12週達到病毒反應，將非常不可能成為持續病毒性反應者。
+基因型第一型：對於病患在第12週表現病毒反應，需要再繼續治療9個月(即共48週)。當基因型第一型及低病毒型(＜2百萬copies/ml)在治療第4週成為HCV-RNA陰性反應及第24週維持HCV-RNA陰性反應病患，可在24週後結束治療療程或者另追加24週(即總共48週治療期)。然而，總24週治療期比48週的治療期，可能會與較高復發的危險有關。
+基因型第二或三型：建議所有病患接受24週的治療。除了HCV/HIV合併感染的病患應接受48週的治療。
+基因型第四型：一般而言，病患感染基因型第四型視為較難治療，並且有限的試驗數據(n=66)指出，可列同基因型第一型的治療療程。
+【治療療程】先前治療失敗的再治療(復發和無反應的病患) 
+持續病毒反應的可預測性：所有復發和無反應的病患，不管基因型，在第十二週已顯示偵測不到血清HCV-RNA者，應接受48週的治療。在第十二週無法達到病毒性反應的再治療病患是非常不可能成為持續的病毒反應者(參見臨床試驗)。
+HCV/HIV合併感染
+HCV/HIV合併感染的病患建議給藥期間為48週，無論基因型。
+於HCV/HIV合併感染反應的可預測性和無反應性：於第十二週前早期的病毒性反應，定義為減少2 log10病毒量或偵測不到HCV-RNA值，已經顯示可預測持續性的反應。以Ribarin併用peginterferon alfa-2b治療HIV/HCV合併感染之病患，對持續性反應的負預測值為99% (67/68；試驗1)(請參見臨床試驗)。HIV/HCV合併感染之病患接受併用療法觀察到50% (52/104；試驗1)的正預測值。
+【Ribarin膠囊與interferon alfa-2b溶液併用】
+Ribarin膠囊以口服給予，每天劑量為1000毫克或1200毫克，分兩次服用(早晨和傍晚)，並併以每週三次每次皮下注射三百萬國際單位的interferon alfa-2b注射液(隔天一次)的治療。
+Ribarin膠囊併用interferon alfa-2b治療的建議劑量依照病人的體重而定：
+病人體重≤ 75公斤時，每天應接受1000毫克，早晨兩顆200毫克之膠囊，傍晚服用三顆200毫克之膠囊。
+病人體重> 75公斤時，每天應接受1200毫克，早晨三顆200毫克之膠囊，傍晚服用三顆200毫克之膠囊。
+治療期間：
+持續病毒反應的可預測性：建議治療期間為一年。治療期間依據病人疾病的基本狀態、治療的反應及耐受性而定。在治療六個月後，應評估病毒學上的治療反應。如果治療六個月後，未達到病毒學上的治療反應時，應考慮中止Ribarin併用peginterferon alfa-2b或interferon alfa-2b溶液的治療。
+基因型第一型：六個月治療後呈現HCV-RNA陰性反應的病患應該繼續再治療六個月時間(即合計一年)。
+非基因型第一型：六個月治療後呈現HCV-RNA陰性反應的病患，決定延長治療時間至一年應依據其他預後因子(如年齡大於四十歲，男性，連接性纖維化)。
+針對所有病人的劑量調整
+若於Ribarin併用peginterferon alfa-2b或interferon alfa-2b的治療期間產生嚴重不良反應或實驗室數值不正常時，應適當地調整每一產品的劑量，直至不良反應減少為止。若在調整劑量後，病人仍持續無法耐受，可能必須中止治療。Ribarin療法的劑量調整準則已在臨床試驗中發展得知（請看劑量調整準則表；表二）。並無證據顯示轉換其他alfa interferon可緩和病人的耐受力。
+在合併peginterferon alfa-2b/ Ribarin膠囊治療的病人，如有需要，peginterferon alfa-2b的劑量可由初始劑量1.5 ug/公斤/週至1 ug/公斤/週，然後0.5 ug/公斤/週，以兩階段的方式降低劑量。使用interferon alfa-2b的成人，約調降50%劑量。
+表二 劑量調整準則
+實驗室數值
+僅調整Ribarin膠囊之每日劑量(參見註1)，如果：
+僅調整peginterferon alfa-2b或interferon alfa-2b劑量(參見註2)，如果：
+停止合併療法，如果：
+血紅素
+＜10 g/dl
+－
+＜8.5 g/dl
+具有穩定心臟病病史患者的血紅素
+在任何四週的療程中，如果血紅素含量下降超過2 g/dl（永久的劑量減量）
+在超過四個星期劑量減量的情況下，如果血紅素含量持續少於12
+ g/dl
+白血球細胞
+－
+＜1.5×109/l
+＜1.0×109/l
+嗜中性白血球
+－
+＜0.75×109/l
+＜0.5×109/l
+血小板
+－
+＜50×109/l
+＜25×109/l
+直接型膽紅素
+－
+－
+2.5×ULN*
+間接型膽紅素
+＞5mg/dl
+－
+＞4 mg/dl
+（超過四星期）
+肌酐酸
+－
+－
+＞2.0 mg/dl
+丙氨酸/天冬氨酸轉氨（ALT/AST）
+－
+－
+2倍基礎值以及 ＞10×ULN*
+*正常值的上限(Upper Limit of Normal)。
+註1：第一次降低Ribarin膠囊的劑量為每日200 mg(除服藥1400 mg的病患須降低每日400 mg)。如果必要，第二次降低Ribarin膠囊的劑量再額外多降低每日200 mg。
+註2：第一次降低peginterferon alfa-2b的劑量至1 ug/公斤/週。如果必要，第二次降低peginterferon alfa-2b的劑量至0.5 ug/公斤/週。
+Ribarin併用interferon alfa-2b治療的病人，將interferon alfa-2b的使用劑量減少至一半。
+因為與ribavirin療法有關的溶血反應已被證實，對於有心血管疾病病史之病人提供了不同的用藥準則。在這些病人，在任何四週的療程中，如果血紅素含量下降≥ 2 g/dl，則持久的劑量減量是需要的。此外，在超過四個星期劑量減量的情況下，如果血紅素含量持續少於12 g/dl，則病人應該中斷Ribarin併用peginterferon alfa-2b或interferon alfa-2b注射液的療法（表二）。因為ribavirin單一療法對治療C型肝炎無效，故不可單獨投與Ribarin膠囊。
+Ribarin必須與 peginterferon alfa-2b (1.5 ug/公斤/週)或Interferon alfa-2b (三百萬國際單位（MIU），每週3次(TIW))併用治療。選擇以何種併用的方式，則視病人個別的狀況而定。
+ 3.3
+ 特殊族群用法用量
+用於肝功能受損病人
+病患的肝功能並無明顯的影響ribavirin藥物動力學，因此基於其藥動學的活性，肝功能受損者併用Ribarin與peginterferon alfa-2b或interferon alfa-2b注射液時，不需調整劑量。無代償肝臟疾病與嚴重肝臟疾病是Ribarin膠囊併用peginterferon alfa-2b或interferon alfa-2b注射液治療的禁忌症（請見「4 禁忌」節及「3.1 用法用量」表）。
+用於腎功能受損病人
+由於腎功能不全患者的廓清率下降，因此使用ribavirin於此類患者時，ribavirin藥物動力學活性會改變。因此，建議在開始使用Ribarin治療前，所有的病人皆應先檢測其腎功能。肌酐酸廓清率小於50 ml/min者不可使用Ribarin治療 （請見「4 禁忌」節），腎功能受損和大於五十歲之病患應較小心監測與貧血發展有關方面。如果血清肌酐酸值上升超過2 mg/dl（請見「3.1 用法用量」表），應停止Ribarin併用peginterferon alfa-2b或interferon alfa-2b注射液的治療。
+用於18歲以下病人
+尚未建立此類病人使用本藥的安全性及有效性資料。因此，不建議使用本藥於兒童及18歲以下青少年（請見「2 適應症」及「3.1 用法用量」節）。
+用於年老病人
+Ribavirin並無明顯與年齡相關的藥物動力學改變，然而，與年輕患者一樣，在開始Ribarin治療前，應先評估病人的腎臟功能。
+(關於peginterferon alfa-2b或interferon alfa-2b的用法用量請參見其仿單內容)
+ 4 禁忌 
+(依文獻記載)
+額外禁忌症請參見peginterferon alfa-2b或interferon alfa-2b處方資訊。
+對ribavirin 或Ribarin膠囊中的任何成分曾有過敏的病史。
+具有先前已存在嚴重的心血管疾病之病史，包括先前的六個月中曾發生不穩定或未受控制的心血管疾病（請見「5.1 警語/注意事項」節）。
+懷孕婦女；直到驗孕結果證實為陰性為止，不可開始Ribarin合併療法。
+女伴懷孕中的男性。
+哺乳的婦女。
+異常血色素疾病（如：地中海型貧血、鐮刀型貧血）。
+嚴重的身體虛弱狀況，包括慢性腎衰竭或肌酸酐廓清除率小於50 ml/minute。
+曾有嚴重精神疾病之病史，尤其是嚴重的抑鬱、自殺念頭或企圖自殺。
+嚴重的肝臟功能失調(Child-Pugh分類B或C)或代償不良性肝硬化。
+自體免疫性肝炎；或具有自體免疫疾病的病史。(額外禁忌症請參見peginterferon alfa-2b或interferon alfa-2b處方資訊)
+ 5 警語及注意事項 
+（依文獻記載）
+ 5.1
+ 警語/注意事項
+根據臨床研究的結果，使用ribavirin作為單一治療的方式並無效，因而Ribarin膠囊不得單獨使用。將Ribarin膠囊與peginterferon alfa-2b或interferon alfa-2b注射液一起使用的合併療法，其安全性和有效性均已建立。劑量、投予方式和不良反應的差異因干擾素種類的不同而存在。因此，只有peginterferon alfa-2b或interferon alfa-2b注射液可以與Ribarin膠囊合併使用。
+[致畸胎危險因子]
+臨床前實驗的數據：進行足夠的研究之後，在所有的實驗動物中已經證實ribavirin 只需人類使用劑量的十分之一至二十分之一即具有明顯的致畸胎性和/或胚胎致死的能力。並觀察到會造成頭骨、上顎、眼睛、頷骨、四肢、骨骼及腸胃道變形。致畸胎作用的發生率及嚴重性會隨著ribavirin劑量的增加而上升。胎兒及下一代的存活率亦下降。在動物實驗中，ribavirin在低於臨床使用的劑量下，即可造成精子的改變。
+女性病患：Ribavirin療法不可用在懷孕婦女（請見「4 禁忌」節），在女性病患應特別小心避免懷孕。直至治療之前所進行的懷孕檢測報告出來證實為陰性反應，才可開始Ribarin膠囊的治療。具有懷孕能力的婦女及其男性伴侶在治療期間和其後的六個月必須採取有效的避孕措施；在這期間每個月需定期進行懷孕檢測（請見「6.1懷孕」及「6.2 哺乳」節）。在治療期間和其後的六個月中病患若懷孕的話，必須將ribavirin對胎兒明顯的致畸胎危險告知病患。
+男性病患及其女性伴侶：服用Ribarin治療的男性病患必須特別小心避免其性伴侶懷孕。Ribavirin會累積在細胞內，且其從身體排出的速度十分緩慢。我們仍不知道ribavirin是否會存在於精子中而在卵受精時表現出致畸胎的效果。因此，在治療期間和其後的六個月之間，建議男性病患及其具懷孕能力的女性伴侶皆應採取有效的避孕措施。
+致癌性及致突變性：囓齒類動物試驗顯示，在具有較人類使用劑量為低的全身性暴露量（於大鼠為人類0.1倍，於小鼠為人類1倍）時，ribavirin並不具有致腫瘤性。另外，在使用異型接合子p53(+/-)小鼠模式26週的致癌性試驗中，結果顯示投與ribavirin最高耐受劑量（300 毫克/公斤）後，並沒有產生腫瘤（血中暴露量約為人類的2.5倍）。依據這些試驗數據並不認為ribavirin在人體具有致癌性。
+活體及體外的基因毒性試驗結果皆顯示，ribavirin具致突變性。
+溶血反應/貧血：在臨床試驗中，以Ribarin合併α-Interferon 治療的病人中發現達14%的病人血紅素濃度下降至10 g/dl以下。雖然ribavirin沒有直接的心血管作用，但與Ribarin膠囊相關的貧血可能會使得心臟功能惡化或加劇冠狀動脈疾病的症狀，甚至兩者皆發生。因此，Ribarin併用peginterferon alfa-2b或interferon alfa-2b注射液療法用在先前曾患有心血管疾病的病患身上時，需特別小心謹慎（請見「4 禁忌」節）。在開始治療之前需先評估心臟的狀況，治療期間需作好臨床上的監測；如果有惡化的情形發生，則應中止治療（請看「3.1 用法用量」節）。
+急性過敏反應：如果發生急性過敏反應（如：蕁麻疹、血管水腫、支氣管收縮和過敏反應），則應立即中斷Ribarin併用peginterferon alfa-2b或interferon alfa-2b注射液療法，並以適當的醫療方式取代。短期的紅腫發生時不必中止治療。
+肝功能：肝毒性，包括可致命者，在以interferon alfa-2b治療很少見。在治療過程中發生明顯肝功能不正常的任何病人都應該緊密地監控。如果病徵與症狀惡化，則應中止Ribarin併用peginterferon alfa-2b或interferon alfa-2b療法。嚴重的肝臟功能失調或代償不良性肝臟疾病是Ribarin併用peginterferon alfa-2b或interferon alfa-2b治療的禁忌症（請見「4 禁忌」節）。
+腎功能：所有開始Ribarin治療的病人，皆應進行腎臟功能評估（見「4 禁忌」及「3.1 用法用量」）。
+精神與中樞神經系統（CNS）：病患存有嚴重精神疾病或有病史者或藥物濫用者：
+若對存有嚴重精神疾病或有病史病患判定Ribarin膠囊合併peginterferon alfa-2b或interferon alfa-2b治療是必須的，儘在精神狀態已有確保的適當個體診斷及治療處理下才可開始。
+若觀察到嚴重的神經精神作用，特別是抑鬱，Ribarin膠囊合併peginterferon alfa-2b或interferon alfa-2b治療須予以停止。
+在部分接受Ribarin併用peginterferon alfa-2b或interferon alfa-2b治療的病人，曾觀察到嚴重的中樞神經系統反應，特別是沮喪、自殺念頭、自殺或企圖自殺。亦曾觀察到其他中樞神經作用，包括有時會直接朝向他人的侵略行為(homicidal ideation)、精神病包括幻覺、意識混亂或心智狀態改變。
+併有藥物濫用之C型肝炎病患接受Interferon治療可能會增加發生精神疾病與精神障礙症狀惡化的風險。若有病史、存有精神疾病或藥物濫用的病患判定必須接受interferon治療，為了能成功遵從interferon治療，需利用個體篩檢策略與頻繁的精神症狀監測，來充分處理精神症狀以及藥物使用。神經精神症狀以及藥物濫用的再次出現或發生時建議需早期介入。
+若病人產生精神及中樞神經系統問題，包括臨床上的憂鬱症時，由於可能產生嚴重的後果，必須由處方醫師於治療期及六個月追蹤期間密切監測。若此症狀出現，不預期作用的潛在嚴重性處方醫師必須牢記。若經確認精神疾病症狀持續或惡化，或有自殺念頭、或朝向他人之侵略行為(homicidal ideation)，建議停止Ribarin合併療法，且病患隨後適當的精神科介入。
+心血管：曾有充血性心衰竭、心肌梗塞病史、以及/或是曾經或正患有心律不整的病人，應予密切注意。這些曾經有心臟病病史患者，應在開始治療及治療期間與予進行心電圖檢查。發生心律不整（主要位於上心室）給予傳統療法即可得到治療反應，但亦可能需停止治療（亦參見「5.1 警語/注意事項」之「溶血反應/貧血」節）。
+HCV/HIV合併感染之病患：
+病患接受與ribavirin和interferon alfa-2b或peginterferon alfa-2b相關的NRTI治療，可能會增加粒腺體毒性、乳酸酸血症及肝代償不良的危險。也請參見抗病毒藥物的相關產品資訊。
+HCV/HIV合併感染伴隨肝硬化的病患接受HAART可能增加肝代償不良和死亡的危險。以單獨alfa interferons或合併使用ribavirin來增加治療在這組病患中可能會提高危險性。
+於CD4+ 細胞數小於200 cells/ul之HIV/HCV合併感染病患獲得有限的有效性和安全性數據(N=25)。因此治療低CD4數量的病患要謹慎。
+請參考與C型肝炎治療同時使用的抗反轉錄病毒藥品的各別產品資訊，以察覺和控制每個產品毒性及與Ribarin併用peginterferon alfa-2b發生重疊毒性的可能性。
+牙齒及牙周病：曾有病患報導接受ribavirin和interferon或peginterferon合併療法有牙齒及牙周病。此外，長期Ribarin及interferon alfa-2b或pegylated interferon alfa-2b合併治療下，口乾使得牙齒及口腔粘膜損傷。病患應每日兩次徹底刷牙並且定期牙齒檢查。另有部分病患可能經歷嘔吐，若有此反應，建議隨後徹底潤濕嘴巴。
+實驗室試驗：在開始治療之前，所有病人均應進行標準的血液學試驗與血液化學試驗（完整的血液細胞計數 [CBC] 與分別的血液細胞計數、血小板計數、電解質、血清肌酐酸、肝功能檢測、尿酸及甲狀腺功能檢查）。開始Ribarin併用peginterferon alfa或alfa-interferon治療前可接受的基礎值如下：
+。 血紅素 ≥12 g/dl（女性） ≥13 g/dl（男性）
+。 血小板 ≥100,000/mm3
+。 嗜中性白血球 ≥1,500/ mm3
+。 TSH濃度 必須介於正常範圍之間
+以上實驗室試驗須於治療期間的第二週、第四週及其後依臨床狀況予以適當的間隔定期進行評估。
+對於可能懷孕的婦女：在治療期間和其後的六個月，須每個月作例行的驗孕檢查。男性病患的女性伴侶在其治療期間和其後的六個月，亦須每個月作例行的驗孕檢查（見「6 特殊族群注意事項」節）。
+Ribarin引起的溶血反應會增加尿酸形成。因此，在開始治療前應小心監測病人可能引發痛風的潛在因素。
+ 5.3
+ 操作機械能力
+在以Ribarin併用peginterferon alfa-2b或interferon alfa-2b治療期間發生疲倦、嗜睡或困惑的病人應注意避免駕駛或操作機械。
+ 6 特殊族群注意事項 
+(依文獻記載)
+ 6.1
+ 懷孕
+在傳統大鼠和兔子胚胎毒性/基因突變性實驗的實驗結果顯示，在低於臨床使用的劑量之下，ribavirin即可表現出其胚胎毒性和/或致畸性。頭骨、顎骨、眼睛、頷骨、四肢、骨骼、胃腸道的發育變形都曾發生。隨著劑量提高，致畸胎的發生率和嚴重程度也會增加。胎兒存活率和子代數量都會下降。Ribavirin低到0.3毫克/公斤/天的劑量即可發生致死性的畸形現象。Ribavirin不影響生殖力，或出生前或出生後的生殖力表現。
+Ribarin膠囊不可用於懷孕婦女（請看「4 禁忌」 節），在女性病患應特別小心避免懷孕。直至治療之前所進行的懷孕檢測報告出來證實為陰性反應，才可開始Ribarin膠囊的治療。具有懷孕能力的婦女及其性伴侶在治療期間和其後的六個月必需採取有效的避孕措施；在這期間每個月需定期進行懷孕檢測（請見「5.1 警語/注意事項」節）。在治療期間和其後的六個月中病患若懷孕的話，必須將ribavirin對胎兒明顯的致畸胎危險告知病患。
+ 6.2
+ 哺乳
+Ribarin 併用peginterferon alfa-2b或interferon alfa-2b治療的任一成分是否會分泌在人乳中尚屬未知。由於哺育嬰兒可能產生潛在性的不良反應，在開始治療之前應停止哺乳。
+ 6.3
+ 有生育能力的女性與男性
+男性病患及其女性伴侶：服用Ribarin膠囊的男性病患必須特別小心避免其女性伴侶懷孕。ribavirin會累積在細胞內，且其從身體排出的速度十分緩慢。在動物實驗中，ribavirin在低於臨床使用的劑量下，即可造成精子的改變。目前我們仍不知道ribavirin是否會存在於精子中而在卵受精時表現出致畸胎的效果。因此，在服用Ribarin膠囊治療期間和其後的六個月之間，建議男性病患及其具懷孕能力的女性伴侶皆應採取有效的避孕措施。
+Ribarin僅建議用於在治療期間採取有效避孕措施的婦女。
+ 7 交互作用 
+（依文獻記載）
+在體外的人類及大鼠肝臟微粒體試驗結果顯示，ribavirin的代謝並非經由細胞色素P450酵素作用。Ribavirin並不會抑制細胞色素P450酵素。並沒有毒性試驗結果顯示ribavirin會誘導肝臟酵素，因此只有極小的可能會發生與細胞色素P450酵素相關的藥品交互作用。
+除peginterferon alfa-2b 或interferon alfa-2b注射劑與制酸劑外，並未進行Ribarin膠囊與其他藥品之交互作用的研究。
+Peginterferon alfa-2b 及interferon alfa-2b：在多劑量藥動學試驗結果顯示，Ribarin併用peginterferon alfa-2b或interferon alfa-2b注射液並無藥動學交互作用。
+制酸劑的效應：Ribavirin 600 mg與含有鎂、鋁以及simethicone的制酸劑同時投予會使ribavirin 的AUCtf減少14%。這項實驗中生體可用率的減少可能是由於ribavirin的運輸被延遲，或是pH值改變。這項藥品交互作用未被認為具有臨床上的相關性。
+核苷酸類似物：體外試驗結果顯示，ribavirin會抑制zidovudine和stavudine的磷酸化作用（phosphorylation），此項發現的臨床意義尚屬未知。然而，這項體外試驗的結果可能表示同時服用Ribarin膠囊和zidovudine或stavudine可能會增加HIV的血中病毒量。因此，當使用這兩種藥物中任一種治療的病人如同時服用Ribarin膠囊，應予密切監測其HIV的血中濃度。如果HIV RNA濃度增加，應重新評估Ribarin膠囊和反轉錄酶抑制劑的併用方式。
+單獨使用核苷酸類似物或與其他核苷酸併用，會造成乳酸酸血症。在藥理學上，體外試驗結果顯示，ribavirin會增加purine核苷酸的磷酸化代謝物。這個作用會增加purine核苷酸類似物（如：didanosine或abacavir）引發的乳酸酸血症的危險性。不建議合併給予ribavirin和didanosine。在特別的乳酸酸血症和胰臟炎的粒腺體毒性報告中，一些致死性已有報導(參見ribavirin產品說明)。
+同時感染人類免疫缺乏病毒（HIV）並服用鷄尾酒療法（HAART）的病人可能會增加乳酸酸血症的危險性。因此，同時給予病患服用Ribarin與HAART時應小心。
+由於具長的半衰期，藥物交互作用在停止Ribarin治療後的2個月內（ribavirin的五個半衰期）皆可能發生。
+並沒有證據顯示ribavirin會和非核苷酸類似物的反轉錄酶抑制劑，或蛋白酶抑制劑產生藥物交互作用。
+(關於peginterferon alfa-2b或interferon alfa-2b的藥物交互作用請參見其仿單內容)
+ 8 副作用/不良反應 
+(依文獻記載)
+ 8.1
+ 臨床重要副作用/不良反應
+Ribarin療法的安全性以四個針對未曾接受interferon治療的病人（interferon-naïve patient）所進行的臨床試驗所獲得的數據作為評估的基礎：二個臨床試驗的病人接受Ribarin併用α-Interferon注射液治療，二個臨床試驗的病人接受Ribarin併用peginterferon alfa-2b注射液治療。
+曾接受interferon治療後又復發的病人在接受interferon alfa-2b及ribavirin合併治療時或治療期間較短的病人，其安全性資料優於下列所述之情況。
+表三 說明interferon-naïve病人在一年期間接受治療的治療方式及病人數。在這些試驗中，不良反應的安全性資料是相似的。
+表四 是在每一治療組中最常見的不良反應。
+表三 給藥方式及在一年期間接受治療的病人數
+治療方式
+給與劑量
+一年期間接受治療的病人數
+Ribarin + 
+peginterferon alfa-2b
+Ribarin
+（＞10.6毫克/公斤/天）
++ peginterferon alfa-2b 
+（1.5 ug/公斤/週）
+188
+Ribarin + 
+interferon alfa-2b
+Ribarin
+（1000/1200毫克/天）
++ interferon alfa-2b
+（每週三次；每次3 MIU）
+505
+Ribarin + 
+peginterferon alfa-2b
+Ribarin每日口服800至1,400 mg (分兩次投與) 併用peginterferon alfa-2b每週一次皮下注射1.5 ug/kg或1 ug/kg
+2,035
+表四 臨床試驗中報告的不良反應（接受Ribarin併用peginterferon alfa-2b治療之病人發生率≥10%者）
+人體系統
+Ribarin併用Peginterferon alfa-2b 1.5 ug/kg治療*
+Interferon alfa-2b + Ribarin
+注射部位
+注射部位發炎
+注射部位反應
+20%
+54%
+17%
+36%
+全身性
+頭痛
+疲勞
+僵直
+發燒
+似感冒症狀
+虛弱
+體重減輕
+58%
+67%
+42%
+39%
+21%
+28%
+30%
+57%
+59%
+40%
+32%
+23%
+17%
+19%
+胃腸道系統
+噁心
+食慾缺乏
+下痢
+腹部疼痛
+嘔吐
+43%
+35%
+20%
+12%
+16%
+31%
+26%
+13%
+9%
+10%
+肌肉骨骼系統
+肌肉痛
+關節痛
+肌肉骨骼痛
+49%
+31%
+15%
+49%
+26%
+11%
+精神性系統
+沮喪
+易怒
+失眠
+焦慮
+注意力不集中
+情緒不穩定
+34%
+32%
+38%
+14%
+18%
+11%
+32%
+34%
+41%
+14%
+21%
+10%
+皮膚和四肢
+禿頭症
+搔癢症
+皮膚乾燥
+皮疹
+45%
+27%
+23%
+29%
+32%
+27%
+21%
+21%
+呼吸系統
+咽頭炎
+咳嗽
+呼吸困難
+10%
+15%
+26%
+7%
+11%
+22%
+其他
+暈眩
+病毒感染
+口亁
+17%
+10%
+10%
+16%
+5%
+8%
+* 從臨床試驗中被報告發生率最高的非整合性數據
+接受Ribarin + peginterferon alfa-2b建議劑量治療組中有5-10%的病人產生下列不良反應：排汗增加、胸痛、右上腹（RUQ）疼痛、感覺異常、甲狀腺功能低下、便祕、消化不良、心跳過速、煩躁、神經緊張、經血過多、月經失調、無痰咳嗽、鼻炎、味覺失調及視覺模糊。
+接受Ribarin + peginterferon alfa-2b建議劑量治療組中有2-5%的病人產生下列不良反應：注射部位疼痛、潮紅、低血壓、淚腺失調、紅斑、倦怠、高血壓、暈厥、意識混亂、知覺過敏、感覺遲鈍、張力過強（Hypertonia）、性慾降低、顫抖、眩暈、甲狀腺功能亢進、腸胃脹氣、牙齦出血、舌炎、糞便稀軟、口腔炎、潰瘍性口腔炎、聽覺損傷/喪失、耳鳴、心悸、口渴、血小板減少症、侵略行為、思睡、單純疱疹、黴菌感染、月經失調、攝護腺炎、中耳炎、支氣管炎、鼻塞、呼吸失調、流鼻涕、鼻竇炎、溼疹、頭髮組織不正常、光敏感反應、紅斑、紅色丘疹、偏頭痛、結膜炎及淋巴腺病變。
+30%接受Ribarin併用peginterferon alfa-2b治療的病人及37%接受Ribarin併用interferon alfa-2b治療的病人，血紅素濃度降低大於4 g/dl。接受Ribarin治療的病人中，無論是Ribarin併用peginterferon alfa-2b或併用interferon alfa-2b治療的病人，達14%的病人血紅素濃度降至低於10 g/dl。
+大部分病例的貧血、嗜中性白血球減少症與血小板減少症的症狀輕微（WHO等級1或2）。在以Ribarin併用peginterferon alfa-2b治療的病人中，曾有某些病例發生較嚴重的嗜中性白血球減少症（WHO等級3：186人中有39人 [21%]；WHO等級4：186人中有13人 [7%]）。
+有臨床試驗報告指出，以Ribarin併用peginterferon alfa-2b或interferon alfa-2b治療的病人中，約1.2%的病人在治療期間出現致命的精神性反應。這些反應包括自殺念頭、侵犯的行為，有時直接對著他人，以及企圖自殺。
+有報告指出，在Ribarin併用interferon alfa-2b的病人曾發生胰臟炎。
+與Ribarin併用alfa interferons包括Intron A和Peg-Intron治療產生有關的再生不能性貧血或單純紅血球貧血則非常罕見。曾有報告指出合併使用Ribarin與peginterferon alfa-2b產生多形紅斑、史帝文強生徵候群（Steven Johnson Syndrome）及毒性上皮壞死溶解。
+在臨床試驗中，接受Ribarin併用peginterferon alfa-2b或interferon alfa-2b治療的病人中，曾發生與溶血現象相關的尿酸及間歇性膽紅素升高，但在治療結束四週後檢驗值即回復基礎值（Baseline levels）。在尿酸升高的病人中，只有少數接受併用療法者發生臨床上的痛風現象，但他們皆無需調整劑量或中止試驗。
+HIV/HCV合併感染之病患
+Ribarin和Peginterferon alfa-2b併用治療與前四週絶對的CD4+ 細胞數減少有關，而與CD4+ 細胞比例降低無關。CD4+ 細胞數減少在劑量降低或中斷治療後是可回復的。Ribarin和Peginterferon alfa-2b的併用對於治療期間或後續追蹤控制HIV病毒血症無顯著的負面影響。於CD4+ 細胞數< 200/ul合併感染的病患獲得有限的安全性數據(N=25)。
+表五 Ribarin併用peginterferon alfa-2b對HIV/HCV合併感染病患安全性總結
+表五 HIV/HCV合併感染病患以Ribarin併用peginterferon alfa-2b治療之臨床試驗安全性概述
+試驗 1
+試驗 2
+peginterferon alfa-2b / Ribarin
+n=194
+interferon alfa-2b / Ribarin
+n=189
+peginterferon alfa-2b / Ribarin
+n=52
+interferon alfa-2b / Ribarin
+n=43
+治療中止
+所有原因
+76 (39%)
+73 (39%)
+21 (40%)
+27 (63%)
+任何副作用
+33 (17%)
+29 (15%)
+9 (17%)
+5 (12%)
+劑量調整
+任何副作用
+54 (28%)
+23 (12%)
+25 (48%)
+23 (53%)
+貧血
+19 (10%)
+8 (4%)
+4 (8%)
+7 (16%)
+嗜中性白血球減少症
+14 (7%)
+5 (3%)
+7 (13%)
+3 (7%)
+血小板減少症
+9 (5%)
+1 (<1%)
+2 (4%)
+2 (5%)
+對於HIV/HCV合併感染病患接受Ribarin併用peginterferon alfa-2b，在較大的試驗(試驗 1)中已有報導其他不希望的作用：嗜中性白血球減少症(26%)、脂肪代謝異常養成(13%)、CD4淋巴球減少(8%)、食慾降低(8%)、ᵞ-麩胺酸基轉移酶增加(9%)、背痛(5%)、鼻炎(5%)、血中澱粉酵素增加(6%)、血中乳酸增加(5%)、細胞性肝炎(6%)、異常感覺(5%)、脂肪酶增加(6%)。
+HIV/HCV合併感染病患實驗室數值
+儘管嗜中性白血球減少症、血小板減少症和貧血的血液毒性較常發生在HIV/HCV合併感染的病患，大多數可以藉由劑量調整和極少地需要比預測早的停止治療來控制。在此較大試驗(試驗 1)中，接受Ribarin併用peginterferon alfa-2b之病患觀測有4% (8/194)其絶對嗜中性白血球數減少低於500 cells/mm3，而4% (8/194)病患血小板數減少低於50,000/mm3。12% (23/194)以peginterferon alfa-2b併用ribavirin治療之病患有貧血(血紅素< 9.4 g/dl)的報告。
+請參考與C型肝炎治療同時使用的抗反轉錄病毒藥品的各別產品資訊，以察覺和控制每個產品毒性及以Ribarin併用peginterferon alfa-2b發生重疊毒性的可能性。
+ 9 過量 
+在Ribarin膠囊併用peginterferon alfa-2b或interferon alfa-2b治療療法的臨床試驗中，曾發生病人企圖自殺而使用過量的最大劑量為在一天內投予包含10克的Ribarin膠囊（50顆200毫克之膠囊）和三千九百萬單位的interferon alfa-2b注射液（每次三百萬國際單位皮下注射13次）。該病人在急診病房觀察兩天，在這期間並未發現因使用過量而引起的不良反應。
+ 10 藥理特性 
+(依文獻記載)
+ 10.1
+ 作用機轉
+Ribavirin為一合成的核苷酸類似物，在體外試驗中可表現出對抗某些RNA病毒與DNA病毒的活性。。試驗結果顯示，ribavirin單一療法經過六至十二個月的治療以及後續的六個月追蹤之後，對於排除血清肝炎病毒（HCV-RNA）或改善肝組織的形態並無作用。
+然而，在臨床試驗中，ribavirin合併使用peginterferon alfa-2b或interferon alfa-2b的反應效力較pegylated Interferon或interferon alfa-2b單獨使用來得大。Ribavirin併用peginterferon alfa-2b或interferon alfa-2b 對抗C型肝炎病毒的機轉目前尚不清楚。
+ 10.2
+ 藥效藥理特性
+目前尚無資訊。
+ 10.3
+ 臨床前安全性資料
+將幼鼠由出生後第七天給藥至第六十三天顯現出在總體生長有一少數劑量相關的減少，隨後出現如輕微體重下降、冠臀長度縮小和骨頭長度縮小。這些影響有可回復的證據，且在骨頭方面並無發現組織病理學的作用。沒有觀測到ribavirin與神經行為或生殖發展有關的影響。與成年動物的其他臨床前試驗相似，幼鼠在最大可忍受劑量達到的血漿濃度低於人類於治療劑量的血漿濃度，並且在小兒科的使用無建立安全性範疇。
+ 11 藥物動力學特性 
+目前尚無資訊。
+ 12 臨床試驗資料 
+(依文獻記載)
+病患初次以peginterferon alfa-2b併用Ribarin治療
+在一個包含3,070位初次接受治療之慢性C型肝炎基因型第一型之病患的大型隨機試驗中，比較兩組peginterferon alfa-2b/Ribarin併用治療48週之安全性及有效性[peginterferon alfa-2b每週一次皮下注射1.5 ug/kg及1 ug/kg併用ribavirin每日口服800至1,400 mg (兩次投與)和peginterferon alfa-2a每週一次皮下注射180 ug併用ribavirin每日口服1,000至1,200 mg (兩次投與)]。對治療有反應定義為持續治療後的24週偵測不到HCV-RNA(表六)。
+表六 治療結束之病毒反應、持續性病毒反應和復發率*
+治療組別
+病患 % (人數)
+peginterferon alfa-2b
+1.5 ug/kg / Ribarin
+peginterferon alfa-2b
+1 ug/kg / Ribarin
+peginterferon alfa-2a
+180 ug / ribavirin
+治療結束之反應
+53 (542/1,019)
+49 (500/1,016)
+64 (667/1,035)
+復發率
+24 (123/523)
+20 (95/475)
+32 (193/612)
+持續性病毒反應
+40 (406/1,019)
+38 (386/1,016)
+41 (423/1,035)
+* HCV-RNA PCR分析，定量之最低限值為27 IU/ml。
+所有三個治療組的持續病毒反應皆相似。在大多數有預後不良因子的病患中，相較於以peginterferon alfa-2b 1 ug/kg併用治療，peginterferon alfa (1.5 ug/kg) / Ribarin併用治療時有較高的持續病毒反應率。在肝硬化之病患、ALT數值正常之病患、基準線病毒載量> 60萬IU/ml之病患及年齡大於40歲之病患中，於peginterferon alfa-2b 1.5 ug/kg及Ribarin併用治療劑量下，有較低的持續病毒反應率。相較於非裔美國人，白種人有較高的持續病毒反應率。治療結束時偵測不到HCV-RNA之病患，其復發率為24%。在這個試驗中，缺少治療第12週之早期病毒反應(偵測不到HCV-RNA或比基準值減少≥ 2 log10)為終止治療的標準。在治療第12週偵測不到HCV-RNA之病患接受peginterferon alfa-2b (1.5 ug/kg) / Ribarin併用治療時，其持續病毒反應率為81% (328/407)。
+先前治療失敗(復發和無反應病患)以peginterferon alfa-2b併用Ribarin再治療
+在一個非比較性試驗，1336位先前以alfa interferon/ribavirin合併治療失敗之中度至重度纖維化病患，以peginterferon alfa-2b 1.5 ug/kg皮下注射，一星期一次，併用依據體重調整之ribavirin予以再治療。治療期間為48週後再追蹤6個月。對治療的反應定義在後續治療的24週偵測不到HCV-RNA (表七)。
+表七 先前治療失敗而再治療的反應率
+Peginterferon alfa-2b 1.5 ug/kg QW, Ribarin 800-1,400 mg QD
+99% Confidence Interval %
+總體反應1,2
+22.6% (302/1,336)
+19.7, 25.6
+基因型第一型
+15.5% (166/1,073)
+12.6, 18.3
+基因型第二型
+56.8% (25/44)
+37.6, 76.1
+基因型第三型
+58.0% (94/162)
+48.0, 68.0
+基因型第四型
+27.1% (13/48)
+10.6, 43.6
+1血清HCV-RNA值測量由一中心實驗室以PCR定量。
+2九位受試者為不明或其他基因型。
+大約有37%的受試者於治療的第十二週血漿中有探測不到的HCV-RNA值。在這個群組中，有57% (282/499)的持續性病毒反應率。反應的預估為纖維化比較和基因型。較低纖維化的病患或是基因型第二或第三型者，比較可能達到持續的反應。
+HCV/HIV合併感染之病患
+針對HIV及HCV合併感染之病患進行了二個臨床試驗。二個試驗的治療反應結果呈現在表八。試驗1 (RIBAVIC；P01017)為一隨機、多中心之研究，包含412位事先未治療過之慢性C型肝炎合併HIV感染的成年病患。病患隨機接受peginterferon alfa-2b (1.5 ug/kg/week)合併Ribarin (800 mg/day)或interferon alfa-2b (3 MIU TIW)合併Ribarin (800 mg/day)治療48週後繼續6個月追蹤。試驗2 (P02080)為一隨機、單一中心之研究，由95位事先未治療過之慢性C型肝炎合併HIV感染的成年病患參與。病患隨機接受peginterferon alfa-2b 100或150 ug/week (依體重而定)合併Ribarin 800-1200 mg/day (依體重而定)或interferon alfa-2b 3 MIU TIW合併Ribarin 800-1200 mg/day (依體重而定)。治療時間為48週後再追蹤6個月，但感染基因型第二型或三型且病毒負荷量小於80,000 IU/ml的病患除外，其治療期為24週後再追蹤6個月。
+表八 HIV/HCV合併感染病患依據不同基因型在Ribarin和peginterferon alfa-2b併用治療後之持續性病毒反應率
+試驗11
+試驗22
+peginterferon alfa-2b (1.5 ug/kg/week) + Ribarin (800 mg/day)
+Interferon alfa-2b (3 MIU TIW) + Ribarin (800 mg/day)
+p valuea
+peginterferon alfa-2b (100 or 150c ug/week) + Ribarin (800-1200 mg/day)d
+Interferon alfa-2b (3 MIU TIW) + Ribarin (800-1200 mg/day)d
+p valueb
+所有基因型
+27% (56/205)
+20% (41/205)
+0.047
+44% (23/52)
+21% (9/43)
+0.017
+基因型第一、四型
+17% (21/125)
+6% (8/129)
+0.006
+38% (12/32)
+7% (2/27)
+0.007
+基因型第二、三型
+44% (35/80)
+43% (33/76)
+0.88
+53% (10/19)
+47% (7/15)
+0.730
+MIU為百萬國際單位；TIW為一週三次
+a: p值根據Cochran-Mantel Haenzel Chi square test.
+b: p值根據chi-square test.
+c: 受試者< 75 kg接受peginterferon alfa-2b每週100 ug和受試者≥ 75 kg接受peginterferon alfa-2b每週150 ug。
+d: 病患< 60 kg則ribavirin劑量是800 mg，病患60-75 kg劑量為1000 mg，病患> 75 kg劑量為1200 mg。
+1 Carrato F, Bani-Sadir F, Pol S et al. JAMA 2004; 292(23): 2839-2848.
+2 Laguno M, Murillas J, Blanco J et al. AIDS 2004; 18(13): F27-F36.
+組織學反應
+在試驗1的412位病患中，取得210位(51%)之治療前後的肝切片檢查。接受Ribarin和peginterferon alfa-2b併用治療的受試者之Metavir score及Ishak grade二者都減少。此下降在有反應者間為有意義的(-0.3 for Metavir和-1.2 for Ishak)，而在非反應者間為穩定的(-0.1 for Metavir和-0.2 for Ishak)。在活動力方面，大約三分之一的持續性反應者顯示出改善，且沒有任何顯現出惡化。還有纖維化的小改變，顯示改善或惡化的比例近乎相等，而大多數是沒有變化的。感染基因型第三型的病患則有意義地改善皮脂腺病。
+長期有效性數據
+在二個大型試驗中，分別針對先前非pegylated interferon alfa-2b (併用或無併用ribavirin)治療後的1071位病患或pegylated interferon alfa-2b (併用或無併用ribavirin)治療後的567位病患，評估其持續病毒性反應的耐久性和評估連續病毒陰性反應對於臨床結果的影響。分別有462位及327位病患完成至少五年的長期追蹤，而492位中有12位持續反應者及366位中只有4位持續反應者在分別的試驗中復發。針對所有病患連續持續超過五年反應以Kaplan-Meier估計，以非pegylated interferon alfa-2b (併用或無併用ribavirin)治療之病患為97% (95%信賴區間：95-99%)，並且以pegylated interferon alfa-2b (併用或無併用ribavirin)治療之病患為99% (95%信賴區間：97-100%)。
+慢性C型肝炎以interferon alfa-2b (pegylated及非pegylated；併用或無併用Ribarin)治療後之SVR結果是病毒的長期清除，提供肝臟感染的解決和臨床治癒。然而這並不防止肝硬化(包括肝癌)的病患其他肝臟情況的發生。
+ 13 包裝及儲存 
+ 13.1
+ 包裝
+6~1000粒鋁箔盒裝和塑膠瓶裝。
+ 13.2
+ 效期
+請見藥品外包裝標示。
+ 13.3
+ 儲存條件
+請於25°C以下存放。
+ 13.4
+ 儲存注意事項
+請置於兒童無法取得之處。
+ ATC Code
+ 主次 
+ 代碼 
+ 英文名 
+ 主
+ J05AP01
+ ribavirin
+ ✖ 
+ 歷史仿單
+ 序號 
+ 結果 
+ 1
+ 010480270006___20130425.pdf 
+ 2
+ Ribarin 中文仿單-107-11-07.pdf 
+ ✖ 
+ 民眾用藥資訊
+ 項次 
+ 檔案名稱 
+ 上傳日期 
+ ✖ 
+ 紙本仿單樣式(自行上傳)
+ 項次 
+ 檔案名稱 
+ 上傳日期 
+ ✖ 
+ 外盒標籤清單
+ 項次 
+ 檔案名稱 
+ 上傳日期 
+ 1
+ Ribarin_外盒_2PX01D022(A03)-上傳版-104-11-30(廠商自行上傳).pdf
+ ✖ 
+ 詳細處方成分
+ 處方標示 
+ Each capsule contains:
+ 成分類別 
+ 成分代碼 
+ 成分名稱 
+ 含量描述 
+ 含量 
+ 單位 
+ 主成分
+ 0818000800
+ RIBAVIRIN
+ 200.000000
+ MG
+ ✖ 
+ 授權使用
+ ***衛署藥製字第048027號***
+ 被授權廠商 
+ 簽審文件編號 
+ 核准文號 
+ 授權起始日 
+ 授權終止日 
+ 查無資料
+ ✖ 
+ 訂閱 
+ 匯出PDF
+ 全部選擇 
+ 1 性狀 
+ 2 適應症 
+ 3 用法及用量 
+ 4 禁忌 
+ 5 警語及注意事項 
+ 6 特殊族群注意事項 
+ 7 交互作用 
+ 8 副作用/不良反應 
+ 9 過量 
+ 10 藥理特性 
+ 11 藥物動力學特性 
+ 12 臨床試驗資料 
+ 13 包裝及儲存 
+ 製造廠 
+ 藥商 
+ 驗證碼： 
+ 重新產生 
+ 播放驗證碼語音 
+ 送出 
+ ✖ 
+ ::: 
+ 本網站所刊出內容之著作權屬於衛生福利部食品藥物管理署所有，未經本署之同意或授權，任何人不得以任何形式重製、轉載、散佈、引用、變更、播送或出版該內容之全部或局部，亦不得為其他任何違反本署著作權之行為。
+ 服務專線：02-7737-2958 服務信箱：mcp@tradevan.com.tw 
+ 服務時間：週一～週五08:30~17:30 
+ Copyright &copy; 2019 衛生福利部食品藥物管理署 
+ Food and Drug Administration, Ministry of Health and Welfare. 
+ All rights reserved. 
+ 登入
+--> 
+ 登入
+ 帳號：
+ 密碼：
+ 驗證碼： 
+ 重新產生 
+ 播放驗證碼語音 
+ 登入 
+ 忘記密碼 
+ 會員註冊 
+ ✖
+ var loginPopupReturnFocus = null;
+ function form_login_bar_submit() { 
+ var msg = ""; 
+ if ($(".v_bar_username").val() == "") { 
+ $('#err_cardnumber').text("請輸入帳號").show(); 
+ $(".v_bar_username").focus(); 
+ return false; 
+ } else { 
+ $('#err_cardnumber').hide(); 
+ } 
+ if ($(".v_bar_password").val() == "") { 
+ $('#err_password').text("請輸入密碼").show(); 
+ $(".v_bar_password").focus(); 
+ return false; 
+ } else { 
+ $('#err_password').hide(); 
+ } 
+ if ($(".v_bar_checkcode").val() == "") { 
+ $('#err_cpt1').text("請輸入驗證碼").show(); 
+ $(".v_bar_checkcode").focus(); 
+ return false; 
+ } else { 
+ $('#err_cpt1').hide(); 
+ } 
+ if (msg != "") { 
+ message_show(msg); 
+ $('div[data_popup=popup-login]').hide(); 
+ return false; 
+ } 
+ else { 
+ document.getElementById('demo').submit(); 
+ } 
+ } 
+ function chgEye(arg) { 
+ if ($(arg).prev().attr("type") == "text") { 
+ $(arg).prev().attr("type", "password"); 
+ } else { 
+ $(arg).prev().attr("type", "text"); 
+ } 
+ } 
+ function setLoginFocus() {
+ var $popup = $('div[data_popup=popup-login]');
+ loginPopupReturnFocus = document.activeElement;
+ $popup.attr('aria-hidden', 'false').show();
+ window.setTimeout(function () {
+ $popup.find('.v_bar_username').focus();
+ }, 0);
+ }
+ $(document).on('click', '[data-popup_close="popup-login"]', function () {
+ $('div[data_popup=popup-login]').attr('aria-hidden', 'true');
+ if (loginPopupReturnFocus && typeof loginPopupReturnFocus.focus === 'function') {
+ loginPopupReturnFocus.focus();
+ }
+ });
+ $(document).on('keydown', '[data-popup_close="popup-login"][role="button"]', function (event) {
+ if (event.key === ' ') {
+ event.preventDefault();
+ $(this).trigger('click');
+ }
+ });
+ var btnVoiceClick = function () { 
+ const audio = document.getElementById("codeVoice"); 
+ audio.src = "/VerificationCodeSound?" + Math.random(); 
+ var playPromise = audio.play(); 
+ if (playPromise !== undefined) { 
+ playPromise.then(_ => { 
+ video.pause(); 
+ audio.play(); 
+ }).catch(error => { 
+ audio.play(); 
+ }); 
+ } 
+ }; 
+ var changeClick = function () { 
+ $('#code1').attr('src', '/VerificationCode' + '?' + Math.random()); 
+ }; 

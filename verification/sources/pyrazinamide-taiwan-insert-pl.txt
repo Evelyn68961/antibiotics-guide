@@ -1,0 +1,38 @@
+Source: TFDA 藥品仿單查詢平台, 衛署藥製字第038104號 (培力藥品工業), file PZA仿單-107-09-12.pdf uploaded 2018-09-12
+URL: https://mcp.fda.gov.tw/insert/pdfcasefile/i_8de661ba-bced-4948-baae-5b4c4be371c3
+Detail: https://mcp.fda.gov.tw/im_detail_pdf/%E8%A1%9B%E7%BD%B2%E8%97%A5%E8%A3%BD%E5%AD%97%E7%AC%AC038104%E8%99%9F
+
+培力 匹井梭安錠500毫克
+Pyrazinamide Tablets 500mg “P.L.”
+
+衛署藥製字第038104號
+
+【作         用】本 品 主 成 分 Pyrazinamide 對 人 型 結 核 菌 H37Rv最小發育阻止濃度(MIC)為200ug/ml，與其他的抗結核劑有協
+                           力 作 用 ， 經口投與在腸胃道吸收迅速，其代謝產物為pyrazic acid，通常2~5小時後達到最高血中濃度，若和
+                           其他抗結核劑併用，效果增加可提早改善症狀。
+【成         分】Each tablet contains：Pyrazinamide 500mg       
+【賦   形   劑】Lactose, Potato Starch, Pregelatinized Starch, Sodium Starch Glycolate, Magnesium Stearate, Povidone K-30
+【適   應   症】肺結核及其他之結核症。
+【用法用量】1日3~4錠，1~3回分次服用(增減)， 本藥需由醫師處方使用。
+
+ 【注意事項】
+     1.禁忌：有肝障害的患者。
+     2.慎重投與：
+        a.本人及雙親，兄弟有痛風發作的病歷，或者是尿酸值上昇的患者。
+        b.腎障害及疑似腎障害的患者。
+     3.副作用：
+        a.肝臟：有出現肝障害情況，若有肝機能異常時即予停藥。
+        b.關節：有出現尿酸值上昇及痛風發作(關節痛)的症狀。
+        c.血液：好酸球增多症的血液症狀。
+        d.過敏症：有發熱、發疹等過敏症狀出現時應予停藥。
+        e.腸胃：食慾不振、噁心、嘔吐等症狀。
+        f .其他：頭痛、筋肉痛、色素沈著等。
+        g.高齡者之投與：一般高齡者生理機能低下，患者之狀態須慎重觀察，小心投與。
+     4.相互作用：併用其他藥劑容易引起肝障害應予十分注意。
+
+【儲         存】25°C以下，於原包裝儲存。
+【包         裝】6~1000錠瓶裝。
+
+PZAD_01
+
+
